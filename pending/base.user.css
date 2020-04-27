@@ -1,0 +1,9 @@
+@media print {
+    h1, h2 {
+        page-break-before: always;
+    }
+
+    h1:first-of-type, h2:first-of-type {
+        page-break-before: avoid;
+    }
+}
