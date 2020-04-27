@@ -36,5 +36,5 @@ Temporary Items
 .idea
 
 # Builds
-site
-!site/_redirects
+/site
+!/site/_redirects
