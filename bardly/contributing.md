@@ -58,7 +58,9 @@ in order to create a fork of the repository, make your
 change, then submit a pull request of any changes you
 make.
 
-## Updating a Play
+## Updating a Version of a Play
+
+### Style Guide
 
 There are some guidelines when updating a play:
 
@@ -75,10 +77,18 @@ Line Formatting:
 Paragraph Formatting:
 
 1. All text within the same paragraph should have a
-   double-space at the end of every line. (`  `)
-2. Stage directions should always be in their own paragraph.
+   double-space at the end of every line-break which
+   should be represented in the final render. (`  `)
+2. Stage directions should always be in their own
+   paragraph.
 3. Character actions should be attached to either the
    preceding paragraph or begin the next paragraph.
+4. Max line-length should be *about* 60 characters.
+   - Overflow is acceptable in metered speech and headers.
+   - Prose should be broken into paragraph blocks.
+   - Stage directions should have a hard-wrap, but no
+     double-space. (This keeps the text readable when
+     un-rendered.)
 
 Additional Tokens:
 
@@ -90,3 +100,53 @@ Additional Tokens:
 
 For examples of these rules, see our
 [source documents](https://github.com/seandstewart/bardly/tree/master/bardly/plays).
+
+
+### Guide to Auditing
+
+For Bardly, an "audit" is a check for consistency and
+compliance to our [Style Guide](#style-guide). Below are
+the recommended steps for completing an audit for a given
+play.
+
+There are a few different versions of a single play which
+may be present in a given directory:
+
+- `unverified.md`
+- `uncut.md`
+- `12-player-alt.md`
+- `12-player.md`
+- `11-player.md`
+
+Here are the recommended steps to follow when auditing a
+play in the `/pending/` directory:
+
+1. If `unverified.md` is present in the directory, compare
+   it to `uncut.md`. If `unverified.md` appears to be more
+   compliant than `uncut.md`, delete the existing
+   `uncut.md` and replace it with `unverified.md`.
+2. Once you've determined the appropriate `uncut.md`
+   version, compare it to `11-player.md`. `11-player` is
+   the most accurate and compliant version of these plays,
+   so can be used as a good baseline.
+3. Finally, we're down to `12-player.md` and
+   `12-player-alt.md`. There should be no major
+   differences between these versions except for a few
+   extra gender swaps. Our goal is to reverse those gender
+   swaps back to their originals. Since you've already
+   validated `uncut.md`, you can use that version to check
+   on these. Select the one you think will be the least
+   amount of work, and make that the "official"
+   `12-player.md`. Then compare it to the `uncut.md`
+   you've just verified.
+4. Once all this is done, just add the full title to the
+   top of the plays (e.g., `# Hamlet - 11 Players`).
+
+## Adding a Genre to the Site
+
+A genre in `/pending/` may be added to the site once all
+plays within it have been [audited](#guide-to-auditing).
+Once that's done, the directory can be moved to
+`/bardly/plays/`. Doing so will officially "publish" this
+play on the site once your changes are merged in and a new
+build triggered.
