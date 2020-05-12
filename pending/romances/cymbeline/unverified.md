@@ -2,7 +2,7 @@
 
 ### SCENE I. Britain. The garden of Cymbeline's palace.
 
-_Enter two Gentlemen_
+*Enter two Gentlemen*
 
 **FIRST GENTLEMAN**  
 You do not meet a man but frowns: our bloods  
@@ -122,9 +122,9 @@ I do well believe you.
 We must forbear: here comes the gentleman,  
 The queen, and princess.
 
-_Exeunt_
+*Exeunt*
 
-_Enter the QUEEN, POSTHUMUS LEONATUS, and IMOGEN_
+*Enter the QUEEN, POSTHUMUS LEONATUS, and IMOGEN*
 
 **QUEEN**  
 No, be assured you shall not find me, daughter,  
@@ -148,7 +148,7 @@ I'll fetch a turn about the garden, pitying
 The pangs of barr'd affections, though the king  
 Hath charged you should not speak together.
 
-_Exit_
+*Exit*
 
 **IMOGEN**  
 O  
@@ -174,20 +174,20 @@ Known but by letter: thither write, my queen,
 And with mine eyes I'll drink the words you send,  
 Though ink be made of gall.
 
-_Re-enter QUEEN_
+*Re-enter QUEEN*
 
 **QUEEN**  
 Be brief, I pray you:  
 If the king come, I shall incur I know not  
 How much of his displeasure.
 
-_\[Aside]_  
+*\[Aside]*  
 Yet I'll move him  
 To walk this way: I never do him wrong,  
 But he does buy my injuries, to be friends;  
 Pays dear for my offences.
 
-_Exit_
+*Exit*
 
 **POSTHUMUS LEONATUS**  
 Should we be taking leave  
@@ -208,7 +208,7 @@ You gentle gods, give me but this I have,
 And sear up my embracements from a next  
 With bonds of death!
 
-_Putting on the ring_
+*Putting on the ring*
 
 Remain, remain thou here  
 While sense can keep it on. And, sweetest, fairest,  
@@ -218,13 +218,13 @@ I still win of you: for my sake wear this;
 It is a manacle of love; I'll place it  
 Upon this fairest prisoner.
 
-_Putting a bracelet upon her arm_
+*Putting a bracelet upon her arm*
 
 **IMOGEN**  
 O the gods!  
 When shall we see again?
 
-_Enter CYMBELINE and Lords_
+*Enter CYMBELINE and Lords*
 
 **POSTHUMUS LEONATUS**  
 Alack, the king!
@@ -239,7 +239,7 @@ Thou'rt poison to my blood.
 The gods protect you!  
 And bless the good remainders of the court! I am gone.
 
-_Exit_
+*Exit*
 
 **IMOGEN**  
 There cannot be a pinch in death  
@@ -298,7 +298,7 @@ Our neighbour shepherd's son!
 **CYMBELINE**  
 Thou foolish thing!
 
-_Re-enter QUEEN_
+*Re-enter QUEEN*
 
 They were again together: you have done  
 Not after our command. Away with her,  
@@ -315,12 +315,12 @@ Nay, let her languish
 A drop of blood a day; and, being aged,  
 Die of this folly!
 
-_Exeunt CYMBELINE and Lords_
+*Exeunt CYMBELINE and Lords*
 
 **QUEEN**  
 Fie! you must give way.
 
-_Enter PISANIO_
+*Enter PISANIO*
 
 Here is your servant. How now, sir! What news?
 
@@ -369,11 +369,11 @@ About some half-hour hence,
 I pray you, speak with me: you shall at least  
 Go see my lord aboard: for this time leave me.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE II. The same. A public place.
 
-_Enter CLOTEN and two Lords_
+*Enter CLOTEN and two Lords*
 
 **First Lord**  
 Sir, I would advise you to shift a shirt; the  
@@ -385,7 +385,7 @@ there's none abroad so wholesome as that you vent.
 If my shirt were bloody, then to shift it. Have I hurt him?
 
 **Second Lord**  
-_\[Aside]_  
+*\[Aside]*  
 No, 'faith; not so much as his patience.
 
 **First Lord**  
@@ -393,7 +393,7 @@ Hurt him! his body's a passable carcass, if he be
 not hurt: it is a thoroughfare for steel, if it be not hurt.
 
 **Second Lord**  
-_\[Aside]_  
+*\[Aside]*  
 His steel was in debt; it went o' the  
 backside the town.
 
@@ -401,7 +401,7 @@ backside the town.
 The villain would not stand me.
 
 **Second Lord**  
-_\[Aside]_  
+*\[Aside]*  
 No; but he fled forward still, toward your face.
 
 **First Lord**  
@@ -409,14 +409,14 @@ Stand you! You have land enough of your own: but
 he added to your having; gave you some ground.
 
 **Second Lord**  
-_\[Aside]_  
+*\[Aside]*  
 As many inches as you have oceans. Puppies!
 
 **CLOTEN**  
 I would they had not come between us.
 
 **Second Lord**  
-_\[Aside]_  
+*\[Aside]*  
 So would I, till you had measured how long  
 a fool you were upon the ground.
 
@@ -424,7 +424,7 @@ a fool you were upon the ground.
 And that she should love this fellow and refuse me!
 
 **Second Lord**  
-_\[Aside]_  
+*\[Aside]*  
 If it be a sin to make a true election, she  
 is damned.
 
@@ -434,7 +434,7 @@ go not together: she's a good sign, but I have seen
 small reflection of her wit.
 
 **Second Lord**  
-_\[Aside]_  
+*\[Aside]*  
 She shines not upon fools, lest the  
 reflection should hurt her.
 
@@ -443,7 +443,7 @@ Come, I'll to my chamber. Would there had been some
 hurt done!
 
 **Second Lord**  
-_\[Aside]_  
+*\[Aside]*  
 I wish not so; unless it had been the fall  
 of an ass, which is no great hurt.
 
@@ -459,11 +459,11 @@ Nay, come, let's go together.
 **Second Lord**  
 Well, my lord.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE III. A room in Cymbeline's palace.
 
-_Enter IMOGEN and PISANIO_
+*Enter IMOGEN and PISANIO*
 
 **IMOGEN**  
 I would thou grew'st unto the shores o' the haven,  
@@ -530,7 +530,7 @@ Betwixt two charming words, comes in my father
 And like the tyrannous breathing of the north  
 Shakes all our buds from growing.
 
-_Enter a Lady_
+*Enter a Lady*
 
 **Lady**  
 The queen, madam,  
@@ -543,11 +543,11 @@ I will attend the queen.
 **PISANIO**  
 Madam, I shall.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE IV. Rome. Philario's house.
 
-_Enter PHILARIO, IACHIMO, a Frenchman, a Dutchman, and a Spaniard_
+*Enter PHILARIO, IACHIMO, a Frenchman, a Dutchman, and a Spaniard*
 
 **IACHIMO**  
 Believe it, sir, I have seen him in Britain: he was  
@@ -589,7 +589,7 @@ Here comes the Briton: let him be so entertained
 amongst you as suits, with gentlemen of your  
 knowing, to a stranger of his quality.
 
-_Enter POSTHUMUS LEONATUS_
+*Enter POSTHUMUS LEONATUS*
 
 I beseech you all, be better known to this  
 gentleman; whom I commend to you as a noble friend  
@@ -813,7 +813,7 @@ wagers recorded.
 **POSTHUMUS LEONATUS**  
 Agreed.
 
-_Exeunt POSTHUMUS LEONATUS and IACHIMO_
+*Exeunt POSTHUMUS LEONATUS and IACHIMO*
 
 **Frenchman**  
 Will this hold, think you?
@@ -822,11 +822,11 @@ Will this hold, think you?
 Signior Iachimo will not from it.  
 Pray, let us follow 'em.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE V. Britain. A room in Cymbeline's palace.
 
-_Enter QUEEN, Ladies, and CORNELIUS_
+*Enter QUEEN, Ladies, and CORNELIUS*
 
 **QUEEN**  
 Whiles yet the dew's on ground, gather those flowers;  
@@ -838,14 +838,14 @@ I, madam.
 **QUEEN**  
 Dispatch.
 
-_Exeunt Ladies_
+*Exeunt Ladies*
 
 Now, master doctor, have you brought those drugs?
 
 **CORNELIUS**  
 Pleaseth your highness, ay: here they are, madam:
 
-_Presenting a small box_
+*Presenting a small box*
 
 But I beseech your grace, without offence,--  
 My conscience bids me ask--wherefore you have  
@@ -878,9 +878,9 @@ Both noisome and infectious.
 **QUEEN**  
 O, content thee.
 
-_Enter PISANIO_
+*Enter PISANIO*
 
-_\[Aside]_  
+*\[Aside]*  
 Here comes a flattering rascal; upon him  
 Will I first work: he's for his master,  
 An enemy to my son. How now, Pisanio!  
@@ -888,16 +888,16 @@ Doctor, your service for this time is ended;
 Take your own way.
 
 **CORNELIUS**  
-_\[Aside]_  
+*\[Aside]*  
 I do suspect you, madam;  
 But you shall do no harm.
 
 **QUEEN**  
-_\[To PISANIO]_  
+*\[To PISANIO]*  
 Hark thee, a word.
 
 **CORNELIUS**  
-_\[Aside]_
+*\[Aside]*
 I do not like her. She doth think she has  
 Strange lingering poisons: I do know her spirit,  
 And will not trust one of her malice with  
@@ -919,7 +919,7 @@ Until I send for thee.
 **CORNELIUS**  
 I humbly take my leave.
 
-_Exit_
+*Exit*
 
 **QUEEN**  
 Weeps she still, say'st thou? Dost thou think in time  
@@ -938,7 +938,7 @@ To be depender on a thing that leans,
 Who cannot be new built, nor has no friends,  
 So much as but to prop him?
 
-_The QUEEN drops the box: PISANIO takes it up_
+*The QUEEN drops the box: PISANIO takes it up*
 
 Thou takest up  
 Thou know'st not what; but take it for thy labour:  
@@ -957,7 +957,7 @@ That set thee on to this desert, am bound
 To load thy merit richly. Call my women:  
 Think on my words.
 
-_Exit PISANIO_
+*Exit PISANIO*
 
 A sly and constant knave,  
 Not to be shaked; the agent for his master  
@@ -968,25 +968,25 @@ Of liegers for her sweet, and which she after,
 Except she bend her humour, shall be assured  
 To taste of too.
 
-_Re-enter PISANIO and Ladies_
+*Re-enter PISANIO and Ladies*
 
 So, so: well done, well done:  
 The violets, cowslips, and the primroses,  
 Bear to my closet. Fare thee well, Pisanio;  
 Think on my words.
 
-_Exeunt QUEEN and Ladies_
+*Exeunt QUEEN and Ladies*
 
 **PISANIO**  
 And shall do:  
 But when to my good lord I prove untrue,  
 I'll choke myself: there's all I'll do for you.
 
-_Exit_
+*Exit*
 
 ### SCENE VI. The same. Another room in the palace.
 
-_Enter IMOGEN_
+*Enter IMOGEN*
 
 **IMOGEN**  
 A father cruel, and a step-dame false;  
@@ -999,7 +999,7 @@ Is the desire that's glorious: blest be those,
 How mean soe'er, that have their honest wills,  
 Which seasons comfort. Who may this be? Fie!
 
-_Enter PISANIO and IACHIMO_
+*Enter PISANIO and IACHIMO*
 
 **PISANIO**  
 Madam, a noble gentleman of Rome,  
@@ -1010,14 +1010,14 @@ Change you, madam?
 The worthy Leonatus is in safety  
 And greets your highness dearly.
 
-_Presents a letter_
+*Presents a letter*
 
 **IMOGEN**  
 Thanks, good sir:  
 You're kindly welcome.
 
 **IACHIMO**  
-_\[Aside]_
+*\[Aside]*
 All of her that is out of door most rich!  
 If she be furnish'd with a mind so rare,  
 She is alone the Arabian bird, and I  
@@ -1027,7 +1027,7 @@ Or, like the Parthian, I shall flying fight;
 Rather directly fly.
 
 **IMOGEN**  
-_\[Reads]_
+*\[Reads]*
 'He is one of the noblest note, to whose  
 kindnesses I am most infinitely tied. Reflect upon  
 him accordingly, as you value your trust--  
@@ -1078,7 +1078,7 @@ Thus raps you? Are you well?
 **IACHIMO**  
 Thanks, madam; well.
 
-_To PISANIO_
+*To PISANIO*
 
 Beseech you, sir, desire  
 My man's abode where I did leave him: he  
@@ -1088,7 +1088,7 @@ Is strange and peevish.
 I was going, sir,  
 To give him welcome.
 
-_Exit_
+*Exit*
 
 **IMOGEN**  
 Continues well my lord? His health, beseech you?
@@ -1352,13 +1352,13 @@ I will write.
 Send your trunk to me; it shall safe be kept,  
 And truly yielded you. You're very welcome.
 
-_Exeunt_
+*Exeunt*
 
 ## ACT II
 
 ### SCENE I. Britain. Before Cymbeline's palace.
 
-_Enter CLOTEN and two Lords_
+*Enter CLOTEN and two Lords*
 
 **CLOTEN**  
 Was there ever man had such luck! when I kissed the  
@@ -1372,7 +1372,7 @@ What got he by that? You have broke his pate with
 your bowl.
 
 **Second Lord**  
-_\[Aside]_
+*\[Aside]*
 If his wit had been like him that broke it,  
 it would have run all out.
 
@@ -1383,7 +1383,7 @@ any standers-by to curtail his oaths, ha?
 **Second Lord**  
 No my lord;
 
-_\[Aside]_
+*\[Aside]*
 nor crop the ears of them.
 
 **CLOTEN**  
@@ -1391,7 +1391,7 @@ Whoreson dog! I give him satisfaction?
 Would he had been one of my rank!
 
 **Second Lord**  
-_\[Aside]_
+*\[Aside]*
 To have smelt like a fool.
 
 **CLOTEN**  
@@ -1403,7 +1403,7 @@ fighting, and I must go up and down like a cock that
 nobody can match.
 
 **Second Lord**  
-_\[Aside]_
+*\[Aside]*
 You are cock and capon too; and you crow,  
 cock, with your comb on.
 
@@ -1431,7 +1431,7 @@ Did you hear of a stranger that's come to court to-night?
 A stranger, and I not know on't!
 
 **Second Lord**  
-_\[Aside]_
+*\[Aside]*
 He's a strange fellow himself, and knows it  
 not.
 
@@ -1457,7 +1457,7 @@ You cannot derogate, my lord.
 Not easily, I think.
 
 **Second Lord**  
-_\[Aside]_
+*\[Aside]*
 You are a fool granted; therefore your  
 issues, being foolish, do not derogate.
 
@@ -1468,7 +1468,7 @@ to-day at bowls I'll win to-night of him. Come, go.
 **Second Lord**  
 I'll attend your lordship.
 
-_Exeunt CLOTEN and First Lord_
+*Exeunt CLOTEN and First Lord*
 
 That such a crafty devil as is his mother  
 Should yield the world this ass! a woman that  
@@ -1485,13 +1485,13 @@ The walls of thy dear honour, keep unshaked
 That temple, thy fair mind, that thou mayst stand,  
 To enjoy thy banish'd lord and this great land!
 
-_Exit_
+*Exit*
 
 ### SCENE II. Imogen's bedchamber in Cymbeline's palace:
 
 a trunk in one corner of it.
 
-_IMOGEN in bed, reading; a Lady attending_
+*IMOGEN in bed, reading; a Lady attending*
 
 **IMOGEN**  
 Who's there? my woman Helen?
@@ -1512,13 +1512,13 @@ Take not away the taper, leave it burning;
 And if thou canst awake by four o' the clock,  
 I prithee, call me. Sleep hath seized me wholly
 
-_Exit Lady_
+*Exit Lady*
 
 To your protection I commend me, gods.  
 From fairies and the tempters of the night  
 Guard me, beseech ye.
 
-_Sleeps. IACHIMO comes from the trunk_
+*Sleeps. IACHIMO comes from the trunk*
 
 **IACHIMO**  
 The crickets sing, and man's o'er-labour'd sense  
@@ -1545,7 +1545,7 @@ O sleep, thou ape of death, lie dull upon her!
 And be her sense but as a monument,  
 Thus in a chapel lying! Come off, come off:
 
-_Taking off her bracelet_
+*Taking off her bracelet*
 
 As slippery as the Gordian knot was hard!  
 'Tis mine; and this will witness outwardly,  
@@ -1565,16 +1565,16 @@ Swift, swift, you dragons of the night, that dawning
 May bare the raven's eye! I lodge in fear;  
 Though this a heavenly angel, hell is here.
 
-_Clock strikes_
+*Clock strikes*
 
 One, two, three: time, time!
 
-_Goes into the trunk. The scene closes_
+*Goes into the trunk. The scene closes*
 
 **Scene III**  
 An ante-chamber adjoining Imogen's apartments.
 
-_Enter CLOTEN and Lords_
+*Enter CLOTEN and Lords*
 
 **First Lord**  
 Your lordship is the most patient man in loss, the  
@@ -1599,7 +1599,7 @@ Day, my lord.
 I would this music would come: I am advised to give  
 her music o' mornings; they say it will penetrate.
 
-_Enter Musicians_
+*Enter Musicians*
 
 Come on; tune: if you can penetrate her with your  
 fingering, so; we'll try with tongue too: if none  
@@ -1608,7 +1608,7 @@ First, a very excellent good-conceited thing;
 after, a wonderful sweet air, with admirable rich  
 words to it: and then let her consider.
 
-_SONG_
+*SONG*
 
 Hark, hark! the lark at heaven's gate sings,  
 And Phoebus 'gins arise,  
@@ -1627,7 +1627,7 @@ a vice in her ears, which horse-hairs and
 calves'-guts, nor the voice of unpaved eunuch to  
 boot, can never amend.
 
-_Exeunt Musicians_
+*Exeunt Musicians*
 
 **Second Lord**  
 Here comes the king.
@@ -1637,7 +1637,7 @@ I am glad I was up so late; for that's the reason I
 was up so early: he cannot choose but take this  
 service I have done fatherly.
 
-_Enter CYMBELINE and QUEEN_
+*Enter CYMBELINE and QUEEN*
 
 Good morrow to your majesty and to my gracious mother.
 
@@ -1669,7 +1669,7 @@ And therein you are senseless.
 **CLOTEN**  
 Senseless! not so.
 
-_Enter a Messenger_
+*Enter a Messenger*
 
 **Messenger**  
 So like you, sir, ambassadors from Rome;  
@@ -1686,13 +1686,13 @@ When you have given good morning to your mistress,
 Attend the queen and us; we shall have need  
 To employ you towards this Roman. Come, our queen.
 
-_Exeunt all but CLOTEN_
+*Exeunt all but CLOTEN*
 
 **CLOTEN**  
 If she be up, I'll speak with her; if not,  
 Let her lie still and dream.
 
-_Knocks_
+*Knocks*
 
 By your leave, ho!
 I Know her women are about her: what  
@@ -1706,11 +1706,11 @@ Can it not do and undo? I will make
 One of her women lawyer to me, for  
 I yet not understand the case myself.
 
-_Knocks_
+*Knocks*
 
 By your leave.
 
-_Enter a Lady_
+*Enter a Lady*
 
 **Lady**  
 Who's there that knocks?
@@ -1744,12 +1744,12 @@ Sell me your good report.
 How! my good name? or to report of you  
 What I shall think is good?--The princess!
 
-_Enter IMOGEN_
+*Enter IMOGEN*
 
 **CLOTEN**  
 Good morrow, fairest: sister, your sweet hand.
 
-_Exit Lady_
+*Exit Lady*
 
 **IMOGEN**  
 Good morrow, sir. You lay out too much pains  
@@ -1833,7 +1833,7 @@ That ever hath but clipp'd his body, is dearer
 In my respect than all the hairs above thee,  
 Were they all made such men. How now, Pisanio!
 
-_Enter PISANIO_
+*Enter PISANIO*
 
 **CLOTEN**  
 'His garment!' Now the devil--
@@ -1862,7 +1862,7 @@ That I kiss aught but he.
 **IMOGEN**  
 I hope so: go and search.
 
-_Exit PISANIO_
+*Exit PISANIO*
 
 **CLOTEN**  
 You have abused me:  
@@ -1881,19 +1881,19 @@ She's my good lady, and will conceive, I hope,
 But the worst of me. So, I leave you, sir,  
 To the worst of discontent.
 
-_Exit_
+*Exit*
 
 **CLOTEN**  
 I'll be revenged:
 'His meanest garment!' Well.
 
-_Exit_
+*Exit*
 
 CYMBELINE
 
 ### SCENE IV. Rome. Philario's house.
 
-_Enter POSTHUMUS and PHILARIO_
+*Enter POSTHUMUS and PHILARIO*
 
 **POSTHUMUS LEONATUS**  
 Fear it not, sir: I would I were so sure  
@@ -1934,7 +1934,7 @@ Now mingled with their courages, will make known
 To their approvers they are people such  
 That mend upon the world.
 
-_Enter IACHIMO_
+*Enter IACHIMO*
 
 **PHILARIO**  
 See! Iachimo!
@@ -2086,7 +2086,7 @@ The wager you have laid.
 **IACHIMO**  
 Then, if you can,
 
-_Showing the bracelet_
+*Showing the bracelet*
 
 Be pale: I beg but leave to air this jewel; see!  
 And now 'tis up again: it must be married  
@@ -2114,7 +2114,7 @@ She writes so to you, doth she?
 **POSTHUMUS LEONATUS**  
 O, no, no, no! 'tis true. Here, take this too;
 
-_Gives the ring_
+*Gives the ring*
 
 It is a basilisk unto mine eye,  
 Kills me to look on't. Let there be no honour  
@@ -2199,7 +2199,7 @@ O, that I had her here, to tear her limb-meal!
 I will go there and do't, i' the court, before  
 Her father. I'll do something--
 
-_Exit_
+*Exit*
 
 **PHILARIO**  
 Quite besides
@@ -2210,11 +2210,11 @@ He hath against himself.
 **IACHIMO**  
 With an my heart.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE V. Another room in Philario's house.
 
-_Enter POSTHUMUS LEONATUS_
+*Enter POSTHUMUS LEONATUS*
 
 **POSTHUMUS LEONATUS**  
 Is there no way for men to be but women  
@@ -2253,14 +2253,14 @@ Detest them, curse them: yet 'tis greater skill
 In a true hate, to pray they have their will:  
 The very devils cannot plague them better.
 
-_Exit_
+*Exit*
 
 ## ACT III
 
 ### SCENE I. Britain. A hall in Cymbeline's palace.
 
-_Enter in state, CYMBELINE, QUEEN, CLOTEN, and Lords at one door, and at
-another, CAIUS LUCIUS and Attendants_
+*Enter in state, CYMBELINE, QUEEN, CLOTEN, and Lords at one door, and at
+another, CAIUS LUCIUS and Attendants*
 
 **CYMBELINE**  
 Now say, what would Augustus Caesar with us?
@@ -2391,11 +2391,11 @@ So, sir.
 I know your master's pleasure and he mine:  
 All the remain is 'Welcome!'
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE II. Another room in the palace.
 
-_Enter PISANIO, with a letter_
+*Enter PISANIO, with a letter*
 
 **PISANIO**  
 How? of adultery? Wherefore write you not  
@@ -2416,7 +2416,7 @@ Let me be counted serviceable. How look I,
 That I should seem to lack humanity  
 so much as this fact comes to?
 
-_Reading_
+*Reading*
 
 'Do't: the letter
 that I have sent her, by her own command  
@@ -2426,7 +2426,7 @@ Art thou a feodary for this act, and look'st
 So virgin-like without? Lo, here she comes.  
 I am ignorant in what I am commanded.
 
-_Enter IMOGEN_
+*Enter IMOGEN*
 
 **IMOGEN**  
 How now, Pisanio!
@@ -2450,7 +2450,7 @@ And men in dangerous bonds pray not alike:
 Though forfeiters you cast in prison, yet  
 You clasp young Cupid's tables. Good news, gods!
 
-_Reads_
+*Reads*
 
 'Justice, and your father's wrath, should he take me  
 in his dominion, could not be so cruel to me, as  
@@ -2487,7 +2487,7 @@ How many score of miles may we well ride
 One score 'twixt sun and sun,  
 Madam, 's enough for you:
 
-_\[Aside]_
+*\[Aside]*
 and too much too.
 
 **IMOGEN**  
@@ -2511,11 +2511,11 @@ That I cannot look through. Away, I prithee;
 Do as I bid thee: there's no more to say,  
 Accessible is none but Milford way.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE III. Wales: a mountainous country with a cave.
 
-_Enter, from the cave, BELARIUS; GUIDERIUS, and ARVIRAGUS following_
+*Enter, from the cave, BELARIUS; GUIDERIUS, and ARVIRAGUS following*
 
 **BELARIUS**  
 A goodly day not to keep house, with such  
@@ -2619,7 +2619,7 @@ To him the other two shall minister;
 And we will fear no poison, which attends  
 In place of greater state. I'll meet you in the valleys.
 
-_Exeunt GUIDERIUS and ARVIRAGUS_
+*Exeunt GUIDERIUS and ARVIRAGUS*
 
 How hard it is to hide the sparks of nature!  
 These boys know little they are sons to the king;  
@@ -2653,11 +2653,11 @@ And every day do honour to her grave:
 Myself, Belarius, that am Morgan call'd,  
 They take for natural father. The game is up.
 
-_Exit_
+*Exit*
 
 ### SCENE IV. Country near Milford-Haven.
 
-_Enter PISANIO and IMOGEN_
+*Enter PISANIO and IMOGEN*
 
 **IMOGEN**  
 Thou told'st me, when we came from horse, the place  
@@ -2685,7 +2685,7 @@ And you shall find me, wretched man, a thing
 The most disdain'd of fortune.
 
 **IMOGEN**  
-_\[Reads]_
+*\[Reads]*
 'Thy mistress, Pisanio, hath played the  
 strumpet in my bed; the testimonies whereof lie  
 bleeding in me. I speak not out of weak surmises,  
@@ -2951,11 +2951,11 @@ Direct you to the best!
 **IMOGEN**  
 Amen: I thank thee.
 
-_Exeunt, severally_
+*Exeunt, severally*
 
 ### SCENE V. A room in Cymbeline's palace.
 
-_Enter CYMBELINE, QUEEN, CLOTEN, LUCIUS, Lords, and Attendants_
+*Enter CYMBELINE, QUEEN, CLOTEN, LUCIUS, Lords, and Attendants*
 
 **CYMBELINE**  
 Thus far; and so farewell.
@@ -3000,7 +3000,7 @@ Is yet to name the winner: fare you well.
 Leave not the worthy Lucius, good my lords,  
 Till he have cross'd the Severn. Happiness!
 
-_Exeunt LUCIUS and Lords_
+*Exeunt LUCIUS and Lords*
 
 **QUEEN**  
 He goes hence frowning: but it honours us  
@@ -3032,7 +3032,7 @@ A thing more made of malice than of duty:
 We have noted it. Call her before us; for  
 We have been too slight in sufferance.
 
-_Exit an Attendant_
+*Exit an Attendant*
 
 **QUEEN**  
 Royal sir,
@@ -3043,7 +3043,7 @@ Forbear sharp speeches to her: she's a lady
 So tender of rebukes that words are strokes  
 And strokes death to her.
 
-_Re-enter Attendant_
+*Re-enter Attendant*
 
 **CYMBELINE**  
 Where is she, sir? How  
@@ -3068,7 +3068,7 @@ Her doors lock'd?
 Not seen of late? Grant, heavens, that which I fear  
 Prove false!
 
-_Exit_
+*Exit*
 
 **QUEEN**  
 Son, I say, follow the king.
@@ -3080,7 +3080,7 @@ have not seen these two days.
 **QUEEN**  
 Go, look after.
 
-_Exit CLOTEN_
+*Exit CLOTEN*
 
 Pisanio, thou that stand'st so for Posthumus!  
 He hath a drug of mine; I pray his absence  
@@ -3093,7 +3093,7 @@ To death or to dishonour; and my end
 Can make good use of either: she being down,  
 I have the placing of the British crown.
 
-_Re-enter CLOTEN_
+*Re-enter CLOTEN*
 
 How now, my son!
 
@@ -3103,11 +3103,11 @@ Go in and cheer the king: he rages; none
 Dare come about him.
 
 **QUEEN**  
-_\[Aside]_  
+*\[Aside]*  
 All the better: may
 This night forestall him of the coming day!
 
-_Exit_
+*Exit*
 
 **CLOTEN**  
 I love and hate her: for she's fair and royal,  
@@ -3121,7 +3121,7 @@ That what's else rare is choked; and in that point
 I will conclude to hate her, nay, indeed,  
 To be revenged upon her. For when fools Shall--
 
-_Enter PISANIO_
+*Enter PISANIO*
 
 Who is here? What, are you packing, sirrah?  
 Come hither: ah, you precious pander! Villain,  
@@ -3164,14 +3164,14 @@ Then, sir,
 This paper is the history of my knowledge  
 Touching her flight.
 
-_Presenting a letter_
+*Presenting a letter*
 
 **CLOTEN**  
 Let's see't. I will pursue her  
 Even to Augustus' throne.
 
 **PISANIO**  
-_\[Aside]_  
+*\[Aside]*  
 Or this, or perish.
 She's far enough; and what he learns by this  
 May prove his travel, not her danger.
@@ -3180,7 +3180,7 @@ May prove his travel, not her danger.
 Hum!
 
 **PISANIO**  
-_\[Aside]_
+*\[Aside]*
 I'll write to my lord she's dead. O Imogen,  
 Safe mayst thou wander, safe return again!
 
@@ -3228,7 +3228,7 @@ hither: let it be thy lint service; go.
 **PISANIO**  
 I shall, my lord.
 
-_Exit_
+*Exit*
 
 **CLOTEN**  
 Meet thee at Milford-Haven!--I forgot to ask him one  
@@ -3249,7 +3249,7 @@ praised,--to the court I'll knock her back, foot
 her home again. She hath despised me rejoicingly,  
 and I'll be merry in my revenge.
 
-_Re-enter PISANIO, with the clothes_
+*Re-enter PISANIO, with the clothes*
 
 Be those the garments?
 
@@ -3270,7 +3270,7 @@ but duteous, and true preferment shall tender itself
 to thee. My revenge is now at Milford: would I had  
 wings to follow it! Come, and be true.
 
-_Exit_
+*Exit*
 
 **PISANIO**  
 Thou bid'st me to my loss: for true to thee  
@@ -3280,11 +3280,11 @@ And find not her whom thou pursuest. Flow, flow,
 You heavenly blessings, on her! This fool's speed  
 Be cross'd with slowness; labour be his meed!
 
-_Exit_
+*Exit*
 
 ### SCENE VI. Wales. Before the cave of Belarius.
 
-_Enter IMOGEN, in boy 's clothes_
+*Enter IMOGEN, in boy 's clothes*
 
 **IMOGEN**  
 I see a man's life is a tedious one:  
@@ -3316,9 +3316,9 @@ Best draw my sword: and if mine enemy
 But fear the sword like me, he'll scarcely look on't.  
 Such a foe, good heavens!
 
-_Exit, to the cave_
+*Exit, to the cave*
 
-_Enter BELARIUS, GUIDERIUS, and ARVIRAGUS_
+*Enter BELARIUS, GUIDERIUS, and ARVIRAGUS*
 
 **BELARIUS**  
 You, Polydote, have proved best woodman and  
@@ -3342,7 +3342,7 @@ There is cold meat i' the cave; we'll browse on that,
 Whilst what we have kill'd be cook'd.
 
 **BELARIUS**  
-_\[Looking into the cave]_  
+*\[Looking into the cave]*  
 Stay; come not in.
 But that it eats our victuals, I should think  
 Here were a fairy.
@@ -3355,7 +3355,7 @@ By Jupiter, an angel! or, if not,
 An earthly paragon! Behold divineness  
 No elder than a boy!
 
-_Re-enter IMOGEN_
+*Re-enter IMOGEN*
 
 **IMOGEN**  
 Good masters, harm me not:  
@@ -3420,7 +3420,7 @@ Be sprightly, for you fall 'mongst friends.
 'Mongst friends,  
 If brothers.
 
-_\[Aside]_
+*\[Aside]*
 Would it had been so, that they  
 Had been my father's sons! then had my prize  
 Been less, and so more equal ballasting  
@@ -3439,7 +3439,7 @@ What pain it cost, what danger. God's!
 **BELARIUS**  
 Hark, boys.
 
-_Whispering_
+*Whispering*
 
 **IMOGEN**  
 Great men,
@@ -3471,11 +3471,11 @@ Thanks, sir.
 **ARVIRAGUS**  
 I pray, draw near.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE VII. Rome. A public place.
 
-_Enter two Senators and Tribunes_
+*Enter two Senators and Tribunes*
 
 **First Senator**  
 This is the tenor of the emperor's writ:  
@@ -3508,13 +3508,13 @@ Of their dispatch.
 **First Tribune**  
 We will discharge our duty.
 
-_Exeunt_
+*Exeunt*
 
 ## ACT IV
 
 ### SCENE I. Wales: near the cave of Belarius.
 
-_Enter CLOTEN_
+*Enter CLOTEN*
 
 **CLOTEN**  
 I am near to the place where they should meet, if  
@@ -3544,19 +3544,19 @@ purpose! Fortune, put them into my hand! This is
 the very description of their meeting-place; and  
 the fellow dares not deceive me.
 
-_Exit_
+*Exit*
 
 ### SCENE II. Before the cave of Belarius.
 
-_Enter, from the cave, BELARIUS, GUIDERIUS, ARVIRAGUS, and IMOGEN_
+*Enter, from the cave, BELARIUS, GUIDERIUS, ARVIRAGUS, and IMOGEN*
 
 **BELARIUS**  
-_\[To IMOGEN]_
+*\[To IMOGEN]*
 You are not well: remain here in the cave;  
 We'll come to you after hunting.
 
 **ARVIRAGUS**  
-_\[To IMOGEN]_  
+*\[To IMOGEN]*  
 Brother, stay here
 Are we not brothers?
 
@@ -3597,7 +3597,7 @@ And a demand who is't shall die, I'd say
 'My father, not this youth.'
 
 **BELARIUS**  
-_\[Aside]_
+*\[Aside]*
 O noble strain!
 O worthiness of nature! breed of greatness!  
 Cowards father cowards and base things sire base:  
@@ -3616,7 +3616,7 @@ I wish ye sport.
 You health. So please you, sir.
 
 **IMOGEN**  
-_\[Aside]_
+*\[Aside]*
 These are kind creatures. Gods, what lies  
 I have heard!
 Our courtiers say all's savage but at court:  
@@ -3626,7 +3626,7 @@ Poor tributary rivers as sweet fish.
 I am sick still; heart-sick. Pisanio,  
 I'll now taste of thy drug.
 
-_Swallows some_
+*Swallows some*
 
 **GUIDERIUS**  
 I could not stir him:
@@ -3655,7 +3655,7 @@ I am bound to you.
 **BELARIUS**  
 And shalt be ever.
 
-_Exit IMOGEN, to the cave_
+*Exit IMOGEN, to the cave*
 
 This youth, how'er distress'd, appears he hath had  
 Good ancestors.
@@ -3691,7 +3691,7 @@ His perishing root with the increasing vine!
 It is great morning. Come, away!--  
 Who's there?
 
-_Enter CLOTEN_
+*Enter CLOTEN*
 
 **CLOTEN**  
 I cannot find those runagates; that villain  
@@ -3709,7 +3709,7 @@ He is but one: you and my brother search
 What companies are near: pray you, away;  
 Let me alone with him.
 
-_Exeunt BELARIUS and ARVIRAGUS_
+*Exeunt BELARIUS and ARVIRAGUS*
 
 **CLOTEN**  
 Soft! What are you
@@ -3789,9 +3789,9 @@ I'll follow those that even now fled hence,
 And on the gates of Lud's-town set your heads:  
 Yield, rustic mountaineer.
 
-_Exeunt, fighting_
+*Exeunt, fighting*
 
-_Re-enter BELARIUS and ARVIRAGUS_
+*Re-enter BELARIUS and ARVIRAGUS*
 
 **BELARIUS**  
 No companies abroad?
@@ -3817,7 +3817,7 @@ I mean, to man, he had not apprehension
 Of roaring terrors; for the effect of judgment  
 Is oft the cause of fear. But, see, thy brother.
 
-_Re-enter GUIDERIUS, with CLOTEN 'S head_
+*Re-enter GUIDERIUS, with CLOTEN 'S head*
 
 **GUIDERIUS**  
 This Cloten was a fool, an empty purse;  
@@ -3885,7 +3885,7 @@ Behind our rock; and let it to the sea,
 And tell the fishes he's the queen's son, Cloten:  
 That's all I reck.
 
-_Exit_
+*Exit*
 
 **BELARIUS**  
 I fear 'twill be revenged:
@@ -3914,7 +3914,7 @@ I'll weringly to him: to gain his colour
 I'ld let a parish of such Clotens' blood,  
 And praise myself for charity.
 
-_Exit_
+*Exit*
 
 **BELARIUS**  
 O thou goddess,
@@ -3933,7 +3933,7 @@ As if it had been sow'd. Yet still it's strange
 What Cloten's being here to us portends,  
 Or what his death will bring us.
 
-_Re-enter GUIDERIUS_
+*Re-enter GUIDERIUS*
 
 **GUIDERIUS**  
 Where's my brother?
@@ -3941,7 +3941,7 @@ I have sent Cloten's clotpoll down the stream,
 In embassy to his mother: his body's hostage  
 For his return.
 
-_Solemn music_
+*Solemn music*
 
 **BELARIUS**  
 My ingenious instrument!
@@ -3967,7 +3967,7 @@ Look, here he comes,
 And brings the dire occasion in his arms  
 Of what we blame him for.
 
-_Re-enter ARVIRAGUS, with IMOGEN, as dead, bearing her in his arms_
+*Re-enter ARVIRAGUS, with IMOGEN, as dead, bearing her in his arms*
 
 **ARVIRAGUS**  
 The bird is dead
@@ -4076,7 +4076,7 @@ When neither are alive.
 If you'll go fetch him,
 We'll say our song the whilst. Brother, begin.
 
-_Exit BELARIUS_
+*Exit BELARIUS*
 
 **GUIDERIUS**  
 Nay, Cadwal, we must lay his head to the east;  
@@ -4091,7 +4091,7 @@ Come on then, and remove him.
 **ARVIRAGUS**  
 So. Begin.
 
-_SONG_
+*SONG*
 
 **GUIDERIUS**  
 Fear no more the heat o' the sun,  
@@ -4141,7 +4141,7 @@ Nothing ill come near thee!
 Quiet consummation have;
 And renowned be thy grave!
 
-_Re-enter BELARIUS, with the body of CLOTEN_
+*Re-enter BELARIUS, with the body of CLOTEN*
 
 **GUIDERIUS**  
 We have done our obsequies: come, lay him down.
@@ -4156,10 +4156,10 @@ Come on, away: apart upon our knees.
 The ground that gave them first has them again:  
 Their pleasures here are past, so is their pain.
 
-_Exeunt BELARIUS, GUIDERIUS, and ARVIRAGUS_
+*Exeunt BELARIUS, GUIDERIUS, and ARVIRAGUS*
 
 **IMOGEN**  
-_\[Awaking]_
+*\[Awaking]*
 Yes, sir, to Milford-Haven; which is  
 the way?--
 I thank you.--By yond bush?--Pray, how far thither?  
@@ -4167,7 +4167,7 @@ I thank you.--By yond bush?--Pray, how far thither?
 I have gone all night. 'Faith, I'll lie down and sleep.  
 But, soft! no bedfellow!--O god s and goddesses!
 
-_Seeing the body of CLOTEN_
+*Seeing the body of CLOTEN*
 
 These flowers are like the pleasures of the world;  
 This bloody man, the care on't. I hope I dream;  
@@ -4208,9 +4208,9 @@ Give colour to my pale cheek with thy blood,
 That we the horrider may seem to those  
 Which chance to find us: O, my lord, my lord!
 
-_Falls on the body_
+*Falls on the body*
 
-_Enter LUCIUS, a Captain and other Officers, and a Soothsayer_
+*Enter LUCIUS, a Captain and other Officers, and a Soothsayer*
 
 **Captain**  
 To them the legions garrison'd in Gailia,  
@@ -4290,7 +4290,7 @@ Thy master in bleeding: say his name, good friend.
 **IMOGEN**  
 Richard du Champ.
 
-_\[Aside]_
+*\[Aside]*
 If I do lie and do
 No harm by it, though the gods hear, I hope  
 They'll pardon it.--Say you, sir?
@@ -4332,16 +4332,16 @@ By thee to us, and he shall be interr'd
 As soldiers can. Be cheerful; wipe thine eyes  
 Some falls are means the happier to arise.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE III. A room in Cymbeline's palace.
 
-_Enter CYMBELINE, Lords, PISANIO, and Attendants_
+*Enter CYMBELINE, Lords, PISANIO, and Attendants*
 
 **CYMBELINE**  
 Again; and bring me word how 'tis with her.
 
-_Exit an Attendant_
+*Exit an Attendant*
 
 A fever with the absence of her son,  
 A madness, of which her life's in danger. Heavens,  
@@ -4373,7 +4373,7 @@ And will, no doubt, be found.
 **CYMBELINE**  
 The time is troublesome.
 
-_To PISANIO_
+*To PISANIO*
 
 We'll slip you for a season; but our jealousy  
 Does yet depend.
@@ -4402,7 +4402,7 @@ And meet the time as it seeks us. We fear not
 What can from Italy annoy us; but  
 We grieve at chances here. Away!
 
-_Exeunt all but PISANIO_
+*Exeunt all but PISANIO*
 
 **PISANIO**  
 I heard no letter from my master since  
@@ -4417,11 +4417,11 @@ Even to the note o' the king, or I'll fall in them.
 All other doubts, by time let them be clear'd:  
 Fortune brings in some boats that are not steer'd.
 
-_Exit_
+*Exit*
 
 ### SCENE IV. Wales: before the cave of Belarius.
 
-_Enter BELARIUS, GUIDERIUS, and ARVIRAGUS._
+*Enter BELARIUS, GUIDERIUS, and ARVIRAGUS.*
 
 **GUIDERIUS**  
 The noise is round about us.
@@ -4512,18 +4512,18 @@ If in your country wars you chance to die,
 That is my bed too, lads, an there I'll lie:  
 Lead, lead.
 
-_\[Aside]_  
+*\[Aside]*  
 The time seems long; their blood  
 thinks scorn,
 Till it fly out and show them princes born.
 
-_Exeunt_
+*Exeunt*
 
 ## ACT V
 
 ### SCENE I. Britain. The Roman camp.
 
-_Enter POSTHUMUS, with a bloody handkerchief_
+*Enter POSTHUMUS, with a bloody handkerchief*
 
 **POSTHUMUS LEONATUS**  
 Yea, bloody cloth, I'll keep thee, for I wish'd  
@@ -4560,14 +4560,14 @@ Gods, put the strength o' the Leonati in me!
 To shame the guise o' the world, I will begin  
 The fashion, less without and more within.
 
-_Exit_
+*Exit*
 
 ### SCENE II. Field of battle between the British and Roman camps.
 
-_Enter, from one side, LUCIUS, IACHIMO, and the Roman Army: from the other
+*Enter, from one side, LUCIUS, IACHIMO, and the Roman Army: from the other
 side, the British Army; POSTHUMUS LEONATUS following, like a poor soldier.
 They march over and go out. Then enter again, in skirmish, IACHIMO and
-POSTHUMUS LEONATUS he vanquisheth and disarmeth IACHIMO, and then leaves him_
+POSTHUMUS LEONATUS he vanquisheth and disarmeth IACHIMO, and then leaves him*
 
 **IACHIMO**  
 The heaviness and guilt within my bosom  
@@ -4581,10 +4581,10 @@ If that thy gentry, Britain, go before
 This lout as he exceeds our lords, the odds  
 Is that we scarce are men and you are gods.
 
-_Exit_
+*Exit*
 
-_The battle continues; the Britons fly; CYMBELINE is taken: then enter, to
-his rescue, BELARIUS, GUIDERIUS, and ARVIRAGUS_
+*The battle continues; the Britons fly; CYMBELINE is taken: then enter, to
+his rescue, BELARIUS, GUIDERIUS, and ARVIRAGUS*
 
 **BELARIUS**  
 Stand, stand! We have the advantage of the ground;  
@@ -4594,8 +4594,8 @@ The villany of our fears.
 **GUIDERIUS** **ARVIRAGUS**  
 Stand, stand, and fight!
 
-_Re-enter POSTHUMUS LEONATUS, and seconds the Britons: they rescue
-CYMBELINE, and exeunt. Then re-enter LUCIUS, and IACHIMO, with IMOGEN_
+*Re-enter POSTHUMUS LEONATUS, and seconds the Britons: they rescue
+CYMBELINE, and exeunt. Then re-enter LUCIUS, and IACHIMO, with IMOGEN*
 
 **CAIUS LUCIUS**  
 Away, boy, from the troops, and save thyself;  
@@ -4609,11 +4609,11 @@ As war were hoodwink'd.
 It is a day turn'd strangely: or betimes  
 Let's reinforce, or fly.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE III. Another part of the field.
 
-_Enter POSTHUMUS LEONATUS and a British Lord_
+*Enter POSTHUMUS LEONATUS and a British Lord*
 
 **Lord**  
 Camest thou from where they made the stand?
@@ -4711,7 +4711,7 @@ Farewell; you're angry.
 **POSTHUMUS LEONATUS**  
 Still going?
 
-_Exit Lord_
+*Exit Lord*
 
 This is a lord! O noble misery,
 To be i' the field, and ask 'what news?' of me!  
@@ -4734,7 +4734,7 @@ On either side I come to spend my breath;
 Which neither here I'll keep nor bear again,  
 But end it by some means for Imogen.
 
-_Enter two British Captains and Soldiers_
+*Enter two British Captains and Soldiers*
 
 **First Captain**  
 Great Jupiter be praised! Lucius is taken.  
@@ -4760,13 +4760,13 @@ What crows have peck'd them here. He brags
 his service
 As if he were of note: bring him to the king.
 
-_Enter CYMBELINE, BELARIUS, GUIDERIUS, ARVIRAGUS, PISANIO, Soldiers,
+*Enter CYMBELINE, BELARIUS, GUIDERIUS, ARVIRAGUS, PISANIO, Soldiers,
 Attendants, and Roman Captives. The Captains present POSTHUMUS LEONATUS to
-CYMBELINE, who delivers him over to a Gaoler: then exeunt omnes_
+CYMBELINE, who delivers him over to a Gaoler: then exeunt omnes*
 
 ### SCENE IV. A British prison.
 
-_Enter POSTHUMUS LEONATUS and two Gaolers_
+*Enter POSTHUMUS LEONATUS and two Gaolers*
 
 **First Gaoler**  
 You shall not now be stol'n, you have locks upon you;  
@@ -4775,7 +4775,7 @@ So graze as you find pasture.
 **Second Gaoler**  
 Ay, or a stomach.
 
-_Exeunt Gaolers_
+*Exeunt Gaolers*
 
 **POSTHUMUS LEONATUS**  
 Most welcome, bondage! for thou art away,  
@@ -4806,14 +4806,14 @@ If you will take this audit, take this life,
 And cancel these cold bonds. O Imogen!  
 I'll speak to thee in silence.
 
-_Sleeps_
+*Sleeps*
 
-_Solemn music. Enter, as in an apparition, SICILIUS LEONATUS, father to
+*Solemn music. Enter, as in an apparition, SICILIUS LEONATUS, father to
 Posthumus Leonatus, an old man, attired like a warrior; leading in his hand an
 ancient matron, his wife, and mother to Posthumus Leonatus, with music before
 them: then, after other music, follow the two young Leonati, brothers to
 Posthumus Leonatus, with wounds as they died in the wars. They circle
-Posthumus Leonatus round, as he lies sleeping_
+Posthumus Leonatus round, as he lies sleeping*
 
 **Sicilius Leonatus**  
 No more, thou thunder-master, show  
@@ -4902,8 +4902,8 @@ Against thy deity.
 Help, Jupiter; or we appeal,
 And from thy justice fly.
 
-_Jupiter descends in thunder and lightning, sitting upon an eagle: he throws
-a thunderbolt. The Apparitions fall on their knees_
+*Jupiter descends in thunder and lightning, sitting upon an eagle: he throws
+a thunderbolt. The Apparitions fall on their knees*
 
 **Jupiter**  
 No more, you petty spirits of region low,  
@@ -4928,7 +4928,7 @@ and so, away: no further with your din
 Express impatience, lest you stir up mine.  
 Mount, eagle, to my palace crystalline.
 
-_Ascends_
+*Ascends*
 
 **Sicilius Leonatus**  
 He came in thunder; his celestial breath  
@@ -4946,10 +4946,10 @@ The marble pavement closes, he is enter'd
 His radiant root. Away! and, to be blest,  
 Let us with care perform his great behest.
 
-_The Apparitions vanish_
+*The Apparitions vanish*
 
 **Posthumus Leonatus**  
-_\[Waking]_
+*\[Waking]*
 Sleep, thou hast been a grandsire, and begot  
 A father to me; and thou hast created  
 A mother and two brothers: but, O scorn!  
@@ -4966,7 +4966,7 @@ Nobler than that it covers: let thy effects
 So follow, to be most unlike our courtiers,  
 As good as promise.
 
-_Reads_
+*Reads*
 
 'When as a lion's whelp shall, to himself unknown,  
 without seeking find, and be embraced by a piece of  
@@ -4982,7 +4982,7 @@ As sense cannot untie. Be what it is,
 The action of my life is like it, which  
 I'll keep, if but for sympathy.
 
-_Re-enter First Gaoler_
+*Re-enter First Gaoler*
 
 **First Gaoler**  
 Come, sir, are you ready for death?
@@ -5047,7 +5047,7 @@ What an infinite mock is this, that a man should
 have the best use of eyes to see the way of  
 blindness! I am sure hanging's the way of winking.
 
-_Enter a Messenger_
+*Enter a Messenger*
 
 **Messenger**  
 Knock off his manacles; bring your prisoner to the king.
@@ -5061,7 +5061,7 @@ I'll be hang'd then.
 **POSTHUMUS LEONATUS**  
 Thou shalt be then freer than a gaoler; no bolts for the dead.
 
-_Exeunt POSTHUMUS LEONATUS and Messenger_
+*Exeunt POSTHUMUS LEONATUS and Messenger*
 
 **First Gaoler**  
 Unless a man would marry a gallows and beget young  
@@ -5074,12 +5074,12 @@ mind good; O, there were desolation of gaolers and
 gallowses! I speak against my present profit, but  
 my wish hath a preferment in 't.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE V. Cymbeline's tent.
 
-_Enter CYMBELINE, BELARIUS, GUIDERIUS, ARVIRAGUS, PISANIO, Lords, Officers,
-and Attendants_
+*Enter CYMBELINE, BELARIUS, GUIDERIUS, ARVIRAGUS, PISANIO, Lords, Officers,
+and Attendants*
 
 **CYMBELINE**  
 Stand by my side, you whom the gods have made  
@@ -5107,7 +5107,7 @@ But no trace of him.
 To my grief, I am
 The heir of his reward;
 
-_\[To BELARIUS, GUIDERIUS, and ARVIRAGUS]_  
+*\[To BELARIUS, GUIDERIUS, and ARVIRAGUS]*  
 which I will add
 To you, the liver, heart and brain of Britain,  
 By whom I grant she lives. 'Tis now the time  
@@ -5125,7 +5125,7 @@ Arise my knights o' the battle: I create you
 Companions to our person and will fit you  
 With dignities becoming your estates.
 
-_Enter CORNELIUS and Ladies_
+*Enter CORNELIUS and Ladies*
 
 There's business in these faces. Why so sadly  
 Greet you our victory? you look like Romans,  
@@ -5206,8 +5206,8 @@ To have mistrusted her: yet, O my daughter!
 That it was folly in me, thou mayst say,  
 And prove it in thy feeling. Heaven mend all!
 
-_Enter LUCIUS, IACHIMO, the Soothsayer, and other Roman Prisoners, guarded;
-POSTHUMUS LEONATUS behind, and IMOGEN_
+*Enter LUCIUS, IACHIMO, the Soothsayer, and other Roman Prisoners, guarded;
+POSTHUMUS LEONATUS behind, and IMOGEN*
 
 Thou comest not, Caius, now for tribute that  
 The Britons have razed out, though with the loss  
@@ -5296,7 +5296,7 @@ Fidele, sir.
 Thou'rt my good youth, my page;
 I'll be thy master: walk with me; speak freely.
 
-_CYMBELINE and IMOGEN converse apart_
+*CYMBELINE and IMOGEN converse apart*
 
 **BELARIUS**  
 Is not this boy revived from death?
@@ -5321,18 +5321,18 @@ But we saw him dead.
 Be silent; let's see further.
 
 **PISANIO**  
-_\[Aside]_
+*\[Aside]*
 It is my mistress:
 Since she is living, let the time run on  
 To good or bad.
 
-_CYMBELINE and IMOGEN come forward_
+*CYMBELINE and IMOGEN come forward*
 
 **CYMBELINE**  
 Come, stand thou by our side;
 Make thy demand aloud.
 
-_\[To IACHIMO]_  
+*\[To IACHIMO]*  
 Sir, step you forth;
 Give answer to this boy, and do it freely;  
 Or, by our greatness and the grace of it,  
@@ -5344,7 +5344,7 @@ My boon is, that this gentleman may render
 Of whom he had this ring.
 
 **POSTHUMUS LEONATUS**  
-_\[Aside]_  
+*\[Aside]*  
 What's that to him?
 
 **CYMBELINE**  
@@ -5452,7 +5452,7 @@ I having ta'en the forfeit. Whereupon--
 Methinks, I see him now--
 
 **POSTHUMUS LEONATUS**  
-_\[Advancing]_
+*\[Advancing]*
 Ay, so thou dost,
 Italian fiend! Ay me, most credulous fool,  
 Egregious murderer, thief, any thing
@@ -5480,7 +5480,7 @@ Peace, my lord; hear, hear--
 Shall's have a play of this? Thou scornful page,  
 There lie thy part.
 
-_Striking her: she falls_
+*Striking her: she falls*
 
 **PISANIO**  
 O, gentlemen, help!
@@ -5562,7 +5562,7 @@ Why did you throw your wedded lady from you?
 Think that you are upon a rock; and now  
 Throw me again.
 
-_Embracing him_
+*Embracing him*
 
 **POSTHUMUS LEONATUS**  
 Hang there like a fruit, my soul,  
@@ -5574,11 +5574,11 @@ What, makest thou me a dullard in this act?
 Wilt thou not speak to me?
 
 **IMOGEN**  
-_\[Kneeling]_  
+*\[Kneeling]*  
 Your blessing, sir.
 
 **BELARIUS**  
-_\[To GUIDERIUS and ARVIRAGUS]_  
+*\[To GUIDERIUS and ARVIRAGUS]*  
 Though you did love  
 this youth, I blame ye not:  
 You had a motive for't.
@@ -5656,7 +5656,7 @@ As well descended as thyself; and hath
 More of thee merited than a band of Clotens  
 Had ever scar for.
 
-_\[To the Guard]_
+*\[To the Guard]*
 Let his arms alone;
 They were not born for bondage.
 
@@ -5825,7 +5825,7 @@ Each object with a joy: the counterchange
 Is severally in all. Let's quit this ground,  
 And smoke the temple with our sacrifices.
 
-_\[To BELARIUS]_
+*\[To BELARIUS]*
 Thou art my brother; so we'll hold thee ever.
 
 **IMOGEN**  
@@ -5858,7 +5858,7 @@ Speak, Iachimo: I had you down and might
 Have made you finish.
 
 **IACHIMO**  
-_\[Kneeling]_
+*\[Kneeling]*
 I am down again:  
 But now my heavy conscience sinks my knee,
 As then your force did. Take that life, beseech you,  
@@ -5903,7 +5903,7 @@ Here, my good lord.
 Read, and declare the meaning.
 
 **Soothsayer**  
-_\[Reads]_  
+*\[Reads]*  
 'When as a lion's whelp shall, to himself
 unknown, without seeking find, and be embraced by a  
 piece of tender air; and when from a stately cedar  
@@ -5916,7 +5916,7 @@ Thou, Leonatus, art the lion's whelp;
 The fit and apt construction of thy name,
 Being Leonatus, doth import so much.
 
-_\[To CYMBELINE]_  
+*\[To CYMBELINE]*  
 The piece of tender air, thy virtuous daughter,  
 Which we call 'mollis aer;' and 'mollis aer'  
 We term it 'mulier:' which 'mulier' I divine  
@@ -5971,4 +5971,4 @@ Our peace we'll ratify; seal it with feasts.
 Set on there! Never was a war did cease,
 Ere bloody hands were wash'd, with such a peace.
 
-_Exeunt_
+*Exeunt*

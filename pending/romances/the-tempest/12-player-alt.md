@@ -4,9 +4,9 @@
 
 ### SCENE I. On a ship at sea:
 
-_A tempestuous noise_ _of thunder and lightning heard._
+*A tempestuous noise* *of thunder and lightning heard.*
 
-_Enter ARIEL, disguised as a Boatswain_
+*Enter ARIEL, disguised as a Boatswain*
 
 **ARIEL**  
 Heigh, my hearts! cheerly, cheerly, my hearts!  
@@ -14,7 +14,7 @@ yare, yare! Take in the topsail. Tend to the
 master ‘s whistle. Blow, till thou burst thy wind,  
 if room enough!
 
-_Enter ALONSO, SEBASTIA, FERDINAND, ANTONIO, and GONZALO_
+*Enter ALONSO, SEBASTIA, FERDINAND, ANTONIO, and GONZALO*
 
 **ALONSO**  
 Good boatswain, have care. Where ‘s the master?  
@@ -50,7 +50,7 @@ yourself ready in your cabin for the mischance of
 the hour, if it so hap. Cheerly, good hearts! Out  
 of our way, I say.
 
-_Exit_
+*Exit*
 
 **GONZALO**  
 I have great comfort from this fellow: methinks he  
@@ -60,19 +60,19 @@ hanging: make the rope of his destiny our cable,
 for our own doth little advantage. If he be not  
 born to be hanged, our case is miserable.
 
-_Exeunt_
+*Exeunt*
 
-_Re-enter Boatswain_
+*Re-enter Boatswain*
 
 **ARIEL**  
 Down with the topmast! yare! lower, lower! Bring  
 her to try with main-course.
 
-_A cry within_  
+*A cry within*  
 A plague upon this howling! they are louder than  
 the weather or our office.
 
-_Re-enter SEBASTIA, ANTONIO, and GONZALO_  
+*Re-enter SEBASTIA, ANTONIO, and GONZALO*  
 Yet again! what do you here? Shall we give o ‘er  
 and drown? Have you a mind to sink?
 
@@ -96,7 +96,7 @@ unstanched wench.
 Lay her a-hold, a-hold! set her two courses off to  
 sea again; lay her off.
 
-_A cry from off-stage:_ _All lost! to prayers, to prayers! all lost!_
+*A cry from off-stage:* *All lost! to prayers, to prayers! all lost!*
 
 **ARIEL**  
 What, must our mouths be cold?
@@ -118,9 +118,9 @@ He ‘ll be hang’d yet,
 Though every drop of water swear against it  
 And gape at widest to glut him.
 
-_A confused noise within: ‘Mercy on us!’- ‘We split, we split!’-’Farewell, my
+*A confused noise within: ‘Mercy on us!’- ‘We split, we split!’-’Farewell, my
 
-wife and children!’- ‘Farewell, brother!’-’We split, we split, we split!’_
+wife and children!’- ‘Farewell, brother!’-’We split, we split, we split!’*
 
 **ANTONIO**  
 Let ‘s all sink with the king.
@@ -128,7 +128,7 @@ Let ‘s all sink with the king.
 **SEBASTIA**  
 Let ‘s take leave of him.
 
-_Exeunt ANTONIO and SEBASTIA_
+*Exeunt ANTONIO and SEBASTIA*
 
 **GONZALO**  
 Now would I give a thousand furlongs of sea for an  
@@ -136,11 +136,11 @@ acre of barren ground, long heath, brown furze, any
 thing. The wills above be done! but I would fain  
 die a dry death.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE II. The island. Before PROSPERA’S cell.
 
-_Enter PROSPERA and MIRANDA_
+*Enter PROSPERA and MIRANDA*
 
 **MIRANDA**  
 If by your art, my dearest mother, you have  
@@ -183,7 +183,7 @@ Did never meddle with my thoughts.
 I should inform thee farther. Lend thy hand,  
 And pluck my magic garment from me. So:
 
-_Lays down her mantle_  
+*Lays down her mantle*  
 Lie there, my art. Wipe thou thine eyes; have comfort.  
 The direful spectacle of the wreck, which touch ‘d  
 The very virtue of compassion in thee,  
@@ -410,7 +410,7 @@ But ever see that man!
 **PROSPERA**  
 Now I arise:
 
-_Resumes her mantle_  
+*Resumes her mantle*  
 Sit still, and hear the last of our sea-sorrow.  
 Here in this island we arrived; and here  
 Have I, thy schoolmistress, made thee more profit  
@@ -430,11 +430,11 @@ Brought to this shore. Here cease more questions:
 Thou art inclined to sleep; ’tis a good dulness,  
 And give it way: I know thou canst not choose.
 
-_MIRANDA sleeps_  
+*MIRANDA sleeps*  
 Come away, servant, come. I am ready now.  
 Approach, my Ariel, come.
 
-_Enter ARIEL_
+*Enter ARIEL*
 
 **ARIEL**  
 All hail, great mistress! grave queen, hail! I come  
@@ -649,7 +649,7 @@ To no sight but thine and mine, invisible
 To every eyeball else. Go take this shape  
 And hither come in ‘t: go, hence with diligence!
 
-_Exit ARIEL_  
+*Exit ARIEL*  
 Awake, dear heart, awake! thou hast slept well; Awake!
 
 **MIRANDA**  
@@ -679,20 +679,20 @@ Thou earth, thou! speak.
 Come forth, I say! there ‘s other business for thee:  
 Come, thou tortoise! when?
 
-_Re-enter ARIEL like a water-nymph_  
+*Re-enter ARIEL like a water-nymph*  
 Fine apparition! My quaint Ariel,  
 Hark in thine ear.
 
 **ARIEL**  
 My lord it shall be done.
 
-_Exit_
+*Exit*
 
 **PROSPERA**  
 Thou poisonous slave, got by the devil himself  
 Upon thy wicked dam, come forth!
 
-_Enter CALIBAN_
+*Enter CALIBAN*
 
 **CALIBAN**  
 As wicked dew as e ‘er my mother brush’d  
@@ -768,7 +768,7 @@ That beasts shall tremble at thy din.
 **CALIBAN**  
 No, pray thee.
 
-_Aside_  
+*Aside*  
 I must obey: her art is of such power,  
 It would control my dam ‘s god, Setebos,  
 and make a vassal of him.
@@ -776,9 +776,9 @@ and make a vassal of him.
 **PROSPERA**  
 So, slave; hence!
 
-_Exit CALIBAN_
+*Exit CALIBAN*
 
-_Re-enter ARIEL, invisible, playing and singing; FERDINAND following_
+*Re-enter ARIEL, invisible, playing and singing; FERDINAND following*
 
 **ARIEL ‘S** **SONG**  
 Come unto these yellow sands,  
@@ -789,10 +789,10 @@ Foot it featly here and there;
 And, sweet sprites, the burthen bear.  
 Hark, hark!
 
-_Burthen dispersedly, within_  
+*Burthen dispersedly, within*  
 The watch-dogs bark!
 
-_Burthen Bow-wow_  
+*Burthen Bow-wow*  
 Hark, hark! I hear  
 The strain of strutting chanticleer  
 Cry, Cock-a-diddle-dow.
@@ -817,7 +817,7 @@ But doth suffer a sea-change
 Into something rich and strange.  
 Sea-nymphs hourly ring his knell
 
-_Burthen Ding-dong_  
+*Burthen Ding-dong*  
 Hark! now I hear them, -Ding-dong, bell.
 
 **FERDINAND**  
@@ -895,7 +895,7 @@ If now ’twere fit to do’t. At the first sight
 They have changed eyes. Delicate Ariel,  
 I’ll set thee free for this.
 
-_To FERDINAND_  
+*To FERDINAND*  
 A word, good sir;  
 I fear you have done yourself some wrong: a word.
 
@@ -913,12 +913,12 @@ The queen of Naples.
 **PROSPERA**  
 Soft, sir! one word more.
 
-_Aside_  
+*Aside*  
 They are both in either ‘s powers; but this swift business  
 I must uneasy make, lest too light winning  
 Make the prize light.
 
-_To FERDINAND_  
+*To FERDINAND*  
 One word more; I charge thee  
 That thou attend me: thou dost here usurp  
 The name thou owest not; and hast put thyself  
@@ -946,7 +946,7 @@ No;
 I will resist such entertainment till  
 Mine enemy has more power.
 
-_Draws, and is charmed from moving_
+*Draws, and is charmed from moving*
 
 **MIRANDA**  
 O dear mother,  
@@ -1004,14 +1004,14 @@ Have I in such a prison.
 **PROSPERA**  
 \[Aside] It works.
 
-_To FERDINAND_  
+*To FERDINAND*  
 Come on.  
 Thou hast done well, fine Ariel!
 
-_To FERDINAND_  
+*To FERDINAND*  
 Follow me.
 
-_To ARIEL_  
+*To ARIEL*  
 Hark what thou else shalt do me.
 
 **MIRANDA**  
@@ -1031,11 +1031,11 @@ To the syllable.
 **PROSPERA**  
 Come, follow. Speak not for him.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE III. Another part of the island.
 
-_Enter ALONSO, SEBASTIA, ANTONIO, and GONZALO_
+*Enter ALONSO, SEBASTIA, ANTONIO, and GONZALO*
 
 **GONZALO**  
 Beseech you, sir, be merry; you have cause,  
@@ -1407,7 +1407,7 @@ You are gentlefolk of brave metal; you would lift
 the moon out of her sphere, if she would continue  
 in it five weeks without changing.
 
-_Enter ARIEL, invisible, playing solemn music_
+*Enter ARIEL, invisible, playing solemn music*
 
 **SEBASTIA**  
 We would so, and then go a bat-fowling.
@@ -1423,7 +1423,7 @@ me asleep, for I am very heavy?
 **ANTONIO**  
 Go sleep, and hear us.
 
-_GONZALO sleeps._
+*GONZALO sleeps.*
 
 **ALONSO**  
 What, he so soon asleep! I wish mine eyes  
@@ -1444,7 +1444,7 @@ And watch your safety.
 **ALONSO**  
 Thank you. Wondrous heavy.
 
-_ALONSO sleeps. Exit ARIEL_
+*ALONSO sleeps. Exit ARIEL*
 
 **SEBASTIA**  
 What a strange drowsiness possesses them!
@@ -1631,16 +1631,16 @@ To fall it on Gonzalo.
 **SEBASTIA**  
 O, but one word.
 
-_They talk apart_
+*They talk apart*
 
-_Re-enter ARIEL, invisible_
+*Re-enter ARIEL, invisible*
 
 **ARIEL**  
 My mistress through her art foresees the danger  
 That you, her friend, are in; and sends me forth -  
 For else her project dies-to keep them living.
 
-_Sings in GONZALO ‘s ear_  
+*Sings in GONZALO ‘s ear*  
 While you here do snoring lie,  
 Open-eyed conspiracy  
 His time doth take.  
@@ -1654,7 +1654,7 @@ Then let us both be sudden.
 **GONZALO**  
 Now, good angels! Preserve the king!
 
-_ALONSO wakes_
+*ALONSO wakes*
 
 **ALONSO**  
 Why, how now? ho, awake! Why are you drawn?  
@@ -1703,11 +1703,11 @@ Lead away.
 Prospera my queen shall know what I have done:  
 So, king, go safely on to seek thy son.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE IV. Another part of the island.
 
-_Enter CALIBAN with a burden of wood. A noise of thunder heard_
+*Enter CALIBAN with a burden of wood. A noise of thunder heard*
 
 **CALIBAN**  
 All the infections that the sun sucks up  
@@ -1725,7 +1725,7 @@ Their pricks at my footfall; sometime am I
 All wound with adders who with cloven tongues  
 Do hiss me into madness.
 
-_Enter TRINCULO_  
+*Enter TRINCULO*  
 Lo, now, lo!  
 Here comes a spirit of his, and to torment me  
 For bringing wood in slowly. I ‘ll fall flat;  
@@ -1756,14 +1756,14 @@ my opinion; hold it no longer: this is no fish,
 but an islander, that hath lately suffered by a  
 thunderbolt.
 
-_Thunder_  
+*Thunder*  
 Alas, the storm is come again! my best way is to  
 creep under his gaberdine; there is no other  
 shelter hereabouts: misery acquaints a man with  
 strange bed-fellows. I will here shroud till the  
 dregs of the storm be past.
 
-_Enter STEPHANIA, singing: a bottle in her hand_
+*Enter STEPHANIA, singing: a bottle in her hand*
 
 **STEPHANIA**  
 I shall no more to sea, to sea,  
@@ -1771,9 +1771,9 @@ Here shall I die ashore -
 This is a very scurvy tune to sing at a man ‘s  
 funeral: well, here’s my comfort.
 
-_Drinks_
+*Drinks*
 
-_Sings_  
+*Sings*  
 The master, the swabber, the boatswain and I,  
 The gunner and his mate  
 Loved Matt, Mike and Maurice and Maximus,  
@@ -1785,7 +1785,7 @@ Yet a tailor might scratch him where ‘er he did itch:
 Then to sea, boys, and let him go hang!  
 This is a scurvy tune too: but here’s my comfort.
 
-_Drinks_
+*Drinks*
 
 **CALIBAN**  
 Do not torment me: Oh!
@@ -2004,13 +2004,13 @@ hey-day, freedom!
 **STEPHANIA**  
 O brave monster! Lead the way.
 
-_Exeunt_
+*Exeunt*
 
 ## ACT II
 
 ### SCENE I. Before PROSPERA’S Cell.
 
-_Enter FERDINAND, bearing a log_
+*Enter FERDINAND, bearing a log*
 
 **FERDINAND**  
 There be some sports are painful, and their labour  
@@ -2029,7 +2029,7 @@ Had never like executor. I forget:
 But these sweet thoughts do even refresh my labours,  
 Most busy lest, when I do it.
 
-_Enter MIRANDA; and PROSPERA at a distance, unseen_
+*Enter MIRANDA; and PROSPERA at a distance, unseen*
 
 **MIRANDA**  
 Alas, now, pray you,  
@@ -2164,7 +2164,7 @@ Till half an hour hence.
 **FERDINAND**  
 A thousand thousand!
 
-_Exeunt FERDINAND and MIRANDA severally_
+*Exeunt FERDINAND and MIRANDA severally*
 
 **PROSPERA**  
 So glad of this as they I cannot be,  
@@ -2173,11 +2173,11 @@ At nothing can be more. I ‘ll to my book,
 For yet ere supper-time must I perform  
 Much business appertaining.
 
-_Exit_
+*Exit*
 
 ### SCENE II. Another part of the island.
 
-_Enter CALIBAN, STEPHANIA, and TRINCULO_
+*Enter CALIBAN, STEPHANIA, and TRINCULO*
 
 **STEPHANIA**  
 Tell not me; when the butt is out, we will drink  
@@ -2252,7 +2252,7 @@ hearken once again to the suit I made to thee?
 Marry, will I kneel and repeat it; I will stand,  
 and so shall Trinculo.
 
-_Enter ARIEL, invisible_
+*Enter ARIEL, invisible*
 
 **CALIBAN**  
 As I told thee before, I am subject to a tyrant, a  
@@ -2324,7 +2324,7 @@ Thou liest.
 **STEPHANIA**  
 Do I so? take thou that.
 
-_Beats TRINCULO_  
+*Beats TRINCULO*  
 As you like this, give me the lie another time.
 
 **TRINCULO**  
@@ -2395,7 +2395,7 @@ You taught me but while-ere?
 At thy request, monster, I will do reason, any  
 reason. Come on, Trinculo, let us sing.
 
-_Sings_  
+*Sings*  
 Flout ‘em and scout ‘em  
 And scout ‘em and flout ‘em  
 Thought is free.
@@ -2403,7 +2403,7 @@ Thought is free.
 **CALIBAN**  
 That ‘s not the tune.
 
-_Ariel plays the tune on a tabour and pipe_
+*Ariel plays the tune on a tabour and pipe*
 
 **STEPHANIA**  
 What is this same?
@@ -2460,11 +2460,11 @@ this tabourer; he lays it on.
 **TRINCULO**  
 Wilt come? I ‘ll follow, Stephania.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE III. Another part of the island.
 
-_Enter ALONSO, SEBASTIA, ANTONIO, and GONZALO_
+*Enter ALONSO, SEBASTIA, ANTONIO, and GONZALO*
 
 **GONZALO**  
 By ‘r lakin, I can go no further, sir;  
@@ -2482,28 +2482,28 @@ Whom thus we stray to find, and the sea mocks
 Our frustrate search on land. Well, let him go.
 
 **ANTONIO**  
-_Aside to SEBASTIA_  
+*Aside to SEBASTIA*  
 I am right glad that he ‘s so out of hope.  
 Do not, for one repulse, forego the purpose  
 That you resolved to effect.
 
 **SEBASTIA**  
-_Aside to ANTONIO_  
+*Aside to ANTONIO*  
 The next advantage  
 Will we take throughly.
 
 **ANTONIO**  
-_Aside to SEBASTIA_  
+*Aside to SEBASTIA*  
 Let it be to-night;  
 For, now they are oppress ‘d with travel, they  
 Will not, nor cannot, use such vigilance  
 As when they are fresh.
 
 **SEBASTIA**  
-_Aside to ANTONIO_  
+*Aside to ANTONIO*  
 I say, to-night: no more.
 
-_Solemn and strange music_
+*Solemn and strange music*
 
 **ALONSO**  
 What harmony is this? My good friends, hark!
@@ -2511,15 +2511,15 @@ What harmony is this? My good friends, hark!
 **GONZALO**  
 Marvellous sweet music!
 
-_Enter PROSPERA above, invisible._
+*Enter PROSPERA above, invisible.*
 
-_Enter two strange Shapes, bringing in a banquet;_
+*Enter two strange Shapes, bringing in a banquet;*
 
-_they dance about it with gentle actions of salutation; and, inviting the
+*they dance about it with gentle actions of salutation; and, inviting the
 
-King, & c. to eat,_
+King, & c. to eat,*
 
-_they depart._
+*they depart.*
 
 **ALONSO**  
 Give us kind keepers, heavens! What were these?
@@ -2548,7 +2548,7 @@ Our human generation you shall find
 Many, nay, almost any.
 
 **PROSPERA**  
-_Aside_  
+*Aside*  
 Honest lord,  
 Thou hast said well; for some of you there present  
 Are worse than devils.
@@ -2560,7 +2560,7 @@ Although they want the use of tongue, a kind
 Of excellent dumb discourse.
 
 **PROSPERA**  
-_Aside_  
+*Aside*  
 Praise in departing.
 
 **ANTONIO**  
@@ -2589,13 +2589,13 @@ Although my last: no matter, since I feel
 The best is past. Sister, my lady true,  
 Stand to and do as we.
 
-__
+**
 
-_Thunder and lightning._
+*Thunder and lightning.*
 
-_Enter ARIEL, like a harpy; claps her wings upon the able; and, with a quaint
+*Enter ARIEL, like a harpy; claps her wings upon the able; and, with a quaint
 
-device, the banquet vanishes_
+device, the banquet vanishes*
 
 **ARIEL**  
 You are three fiends of sin, whom Destiny,  
@@ -2607,7 +2607,7 @@ Being most unfit to live. I have made you mad;
 And even with such-like valour men hang and drown  
 Their proper selves.
 
-_ALONSO, SEBASTIA & c. draw their swords_  
+*ALONSO, SEBASTIA & c. draw their swords*  
 You fools! I and my fellows  
 Are ministers of Fate: the elements,  
 Of whom your swords are temper’d, may as well  
@@ -2632,9 +2632,9 @@ Which here, in this most desolate isle, else falls
 Upon your heads-is nothing but heart-sorrow  
 And a clear life ensuing.
 
-_She vanishes in thunder; then, to soft music enter the Shapes again, and
+*She vanishes in thunder; then, to soft music enter the Shapes again, and
 
-dance, with mocks and mows, and carrying out the table_
+dance, with mocks and mows, and carrying out the table*
 
 **PROSPERA**  
 Bravely the figure of this harpy hast thou  
@@ -2649,7 +2649,7 @@ And in these fits I leave them, while I visit
 Young Ferdinand, whom they suppose is drown’d,  
 And his and mine loved darling.
 
-_Exit above_
+*Exit above*
 
 **GONZALO**  
 I ' the name of something holy, sir, why stand you  
@@ -2665,7 +2665,7 @@ Therefore my son i ' the ooze is bedded, and
 I ‘ll seek him deeper than e’er plummet sounded  
 And with him there lie mudded.
 
-_Exit_
+*Exit*
 
 **SEBASTIA**  
 But one fiend at a time,  
@@ -2674,17 +2674,17 @@ I ‘ll fight their legions o’er.
 **ANTONIO**  
 I ‘ll be thy second.
 
-_Exeunt SEBASTIA and ANTONIO_
+*Exeunt SEBASTIA and ANTONIO*
 
 **GONZALO**  
 All three of them are desperate: their great guilt,  
 Like poison given to work a great time after!
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE IV. Before PROSPERA’S cell.
 
-_Enter PROSPERA, FERDINAND, and MIRANDA_
+*Enter PROSPERA, FERDINAND, and MIRANDA*
 
 **PROSPERA**  
 If I have too austerely punish ‘d you,  
@@ -2732,7 +2732,7 @@ Fairly spoke.
 Sit then and talk with her; she is thine own.  
 What, Ariel! my industrious servant, Ariel!
 
-_Enter ARIEL_
+*Enter ARIEL*
 
 **ARIEL**  
 What would my potent mistress? here I am.
@@ -2767,7 +2767,7 @@ Till thou dost hear me call.
 **ARIEL**  
 Well, I conceive.
 
-_Exit_
+*Exit*
 
 **PROSPERA**  
 Look thou be true; do not give dalliance  
@@ -2786,9 +2786,9 @@ Now come, my Ariel! bring a corollary,
 Rather than want a spirit: appear and pertly!  
 No tongue! all eyes! be silent.
 
-_Soft music_
+*Soft music*
 
-_Enter IRIS_
+*Enter IRIS*
 
 **IRIS**  
 Ceres, most bounteous lady, thy rich leas  
@@ -2808,7 +2808,7 @@ Here on this grass-plot, in this very place,
 To come and sport: her peacocks fly amain:  
 Approach, rich Ceres, her to entertain.
 
-_Enter CERES_
+*Enter CERES*
 
 **CERES**  
 Hail, many-colour ‘d messenger, that ne’er  
@@ -2850,14 +2850,14 @@ And be a boy right out.
 High ‘st queen of state,  
 Great Juno, comes; I know her by her gait.
 
-_Enter JUNO_
+*Enter JUNO*
 
 **JUNO**  
 How does my bounteous sister? Go with me  
 To bless this twain, that they may prosperous be  
 And honour ‘d in their issue.
 
-_They sing:_
+*They sing:*
 
 **JUNO**  
 Honour, riches, marriage-blessing,  
@@ -2896,7 +2896,7 @@ Of the beast Caliban and her confederates
 Against my life: the minute of their plot  
 Is almost come.
 
-_To the Spirits_  
+*To the Spirits*  
 Well done! avoid; no more!
 
 **FERDINAND**  
@@ -2930,12 +2930,12 @@ To still my beating mind.
 **FERDINAND** **MIRANDA**  
 We wish your peace.
 
-_Exeunt_
+*Exeunt*
 
 **PROSPERA**  
 Come with a thought I thank thee, Ariel: come.
 
-_Enter ARIEL_
+*Enter ARIEL*
 
 **ARIEL**  
 Thy thoughts I cleave to. What ‘s thy pleasure?
@@ -2978,7 +2978,7 @@ For stale to catch these thieves.
 **ARIEL**  
 I go, I go.
 
-_Exit_
+*Exit*
 
 **PROSPERA**  
 A devil, a born devil, on whose nature  
@@ -2988,12 +2988,12 @@ And as with age her body uglier grows,
 So her mind cankers. I will plague them all,  
 Even to roaring.
 
-_Re-enter ARIEL, loaden with glistering apparel, & c_  
+*Re-enter ARIEL, loaden with glistering apparel, & c*  
 Come, hang them on this line.
 
-_PROSPERA and ARIEL remain invisible. Enter CALIBAN, STEPHANIA, and TRINCULO,
+*PROSPERA and ARIEL remain invisible. Enter CALIBAN, STEPHANIA, and TRINCULO,
 
-all wet_
+all wet*
 
 **CALIBAN**  
 Pray you, tread softly, that the blind mole may not  
@@ -3106,11 +3106,11 @@ And this.
 **STEPHANIA**  
 Ay, and this.
 
-_A noise of hunters heard._
+*A noise of hunters heard.*
 
-_Enter divers Spirits, in shape of dogs and hounds, and hunt them about,
+*Enter divers Spirits, in shape of dogs and hounds, and hunt them about,
 
-PROSPERA and ARIEL setting them on._
+PROSPERA and ARIEL setting them on.*
 
 **PROSPERA**  
 Hey, Mountain, hey!
@@ -3121,7 +3121,7 @@ Silver I there it goes, Silver!
 **PROSPERA**  
 Fury, Fury! there, Tyrant, there! hark! hark!
 
-_CALIBAN, STEPHANIA, and TRINCULO, are driven out_  
+*CALIBAN, STEPHANIA, and TRINCULO, are driven out*  
 Go charge my goblins that they grind their joints  
 With dry convulsions, shorten up their sinews  
 With aged cramps, and more pinch-spotted make them  
@@ -3137,11 +3137,11 @@ Shortly shall all my labours end, and thou
 Shalt have the air at freedom: for a little  
 Follow, and do me service.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE V. Before PROSPERA’S cell.
 
-_Enter PROSPERA in her magic robes, and ARIEL_
+*Enter PROSPERA in her magic robes, and ARIEL*
 
 **PROSPERA**  
 Now does my project gather to a head:  
@@ -3194,7 +3194,7 @@ And they shall be themselves.
 **ARIEL**  
 I ‘ll fetch them, then.
 
-_Exit_
+*Exit*
 
 **PROSPERA**  
 This rough magic  
@@ -3206,14 +3206,14 @@ Bury it certain fathoms in the earth,
 And deeper than did ever plummet sound  
 I’ll drown my book.
 
-_Solemn music_
+*Solemn music*
 
-_Re-enter ARIEL before:  
+*Re-enter ARIEL before:  
 then ALONSO, with a frantic gesture, attended by GONZALO;  
 SEBASTIA and ANTONIO in like manner, they all enter the circle which PROSPERA  
 had made, and there stand charmed;
 
-which PROSPERA observing, speaks:_  
+which PROSPERA observing, speaks:*  
 A solemn air and the best comforter  
 To an unsettled fancy cure thy brains,  
 Now useless, boil ‘d within thy skull! There stand,  
@@ -3239,7 +3239,7 @@ I will discase me, and myself present
 As I was sometime Milan: quickly, spirit;  
 Thou shalt ere long be free.
 
-**ARIEL:** _sings and helps to attire her_  
+**ARIEL:** *sings and helps to attire her*  
 Where the bee sucks. there suck I:  
 In a cowslip ‘s bell I lie;  
 There I couch when owls do cry.  
@@ -3261,7 +3261,7 @@ And presently, I prithee.
 I drink the air before me, and return  
 Or ere your pulse twice beat.
 
-_Exit_
+*Exit*
 
 **GONZALO**  
 All torment, trouble, wonder and amazement  
@@ -3302,7 +3302,7 @@ You do yet taste
 Some subtilties o ' the isle, that will not let you  
 Believe things certain. Welcome, my friends all!
 
-_Aside to SEBASTIA and ANTONIO_  
+*Aside to SEBASTIA and ANTONIO*  
 But you, my brace of lords, were I so minded,  
 I here could pluck his highness ' frown upon you  
 And justify you traitors: at this time  
@@ -3374,7 +3374,7 @@ I will requite you with as good a thing;
 At least bring forth a wonder, to content ye  
 As much as me my dukedom.
 
-_Here PROSPERA discovers FERDINAND and MIRANDA playing at chess_
+*Here PROSPERA discovers FERDINAND and MIRANDA playing at chess*
 
 **MIRANDA**  
 Sweet lord, you play me false.
@@ -3399,7 +3399,7 @@ A most high miracle!
 Though the seas threaten, they are merciful;  
 I have cursed them without cause.
 
-_Kneels_
+*Kneels*
 
 **ALONSO**  
 Now all the blessings  
@@ -3464,7 +3464,7 @@ In a poor isle and all of us ourselves
 When no man was his own.
 
 **ALONSO**  
-_To FERDINAND and MIRANDA_  
+*To FERDINAND and MIRANDA*  
 Give me your hands:  
 Let grief and sorrow still embrace his heart  
 That doth not wish you joy!
@@ -3472,7 +3472,7 @@ That doth not wish you joy!
 **GONZALO**  
 Be it so! Amen!
 
-_Re-enter ARIEL, attired as the Boatswain_  
+*Re-enter ARIEL, attired as the Boatswain*  
 O, look, sir, look, sir! here is more of us:  
 I prophesied, if a gallows were on land,  
 This fellow could not drown. Now, blasphemy,  
@@ -3486,12 +3486,12 @@ Which, but three glasses since, we gave out split-
 Is tight and yare and bravely rigg ‘d as when  
 We first put out to sea.
 
-_Aside to PROSPERA_  
+*Aside to PROSPERA*  
 Sir, all this service  
 Have I done since I went.
 
 **PROSPERA**  
-_Aside to ARIEL_  
+*Aside to ARIEL*  
 My tricksy spirit!
 
 **ALONSO**  
@@ -3512,11 +3512,11 @@ Capering to eye her: on a trice, so please you,
 Even in a dream, were we divided from them  
 And were brought moping hither.
 
-_Aside to PROSPERA_  
+*Aside to PROSPERA*  
 Was ‘t well done?
 
 **PROSPERA**  
-_Aside to ARIEL_  
+*Aside to ARIEL*  
 Bravely, my diligence. Thou shalt be free.
 
 **ALONSO**  
@@ -3534,19 +3534,19 @@ Which to you shall seem probable, of every
 These happen’d accidents; till when, be cheerful  
 And think of each thing well.
 
-_Aside to ARIEL_  
+*Aside to ARIEL*  
 Come hither, spirit:  
 Set Caliban and his companions free;  
 Untie the spell.
 
-_Exit ARIEL_  
+*Exit ARIEL*  
 How fares my gracious sir?  
 There are yet missing of your company  
 Some few odd lads that you remember not.
 
-_Re-enter ARIEL, driving in CALIBAN, STEPHANIA and TRINCULO, in their stolen
+*Re-enter ARIEL, driving in CALIBAN, STEPHANIA and TRINCULO, in their stolen
 
-apparel_
+apparel*
 
 **STEPHANIA**  
 Every man shift for all the rest, and  
@@ -3617,7 +3617,7 @@ I should have been a sore one then.
 **ALONSO**  
 This is a strange thing as e ‘er I look’d on.
 
-_Pointing to Caliban_
+*Pointing to Caliban*
 
 **PROSPERA**  
 She is as disproportion ‘d in her manners  
@@ -3640,7 +3640,7 @@ Hence, and bestow your luggage where you found it.
 **SEBASTIA**  
 Or stole it, rather.
 
-_Exeunt CALIBAN, STEPHANIA, and TRINCULO_
+*Exeunt CALIBAN, STEPHANIA, and TRINCULO*
 
 **PROSPERA**  
 Sir, I invite your highness and your train  
@@ -3665,12 +3665,12 @@ And promise you calm seas, auspicious gales
 And sail so expeditious that shall catch  
 Your royal fleet far off.
 
-_Aside to ARIEL_  
+*Aside to ARIEL*  
 My Ariel, chick,  
 That is thy charge: then to the elements  
 Be free, and fare thou well! Please you, draw near.
 
-_Exeunt_
+*Exeunt*
 
 **EPILOGUE** **SPOKEN BY PROSPERA**  
 Now my charms are all o ‘erthrown,  

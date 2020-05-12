@@ -2,7 +2,7 @@
 
 ### SCENE I. King Lear's palace.
 
-_Enter KENT, GLOUCESTER, and EDMUND_
+*Enter KENT, GLOUCESTER, and EDMUND*
 
 **KENT**  
 I thought the king had more affected the Duke of  
@@ -47,12 +47,12 @@ Sir, I shall study deserving.
 He hath been out nine years, and away he shall  
 again. The king is coming.
 
-_Sennet. Enter KING LEAR, CORNWALL, ALBANY, GONERIL, REGAN, and CORDELIA_
+*Sennet. Enter KING LEAR, CORNWALL, ALBANY, GONERIL, REGAN, and CORDELIA*
 
 **KING LEAR**  
 Attend the lords of France and Burgundy, Gloucester.
 
-_Exeunt GLOUCESTER and EDMUND_
+*Exeunt GLOUCESTER and EDMUND*
 
 Give me the map there. Know that we have divided  
 In three our kingdom: and 'tis our fast intent  
@@ -78,7 +78,7 @@ A love that makes breath poor, and speech unable;
 Beyond all manner of so much I love you.
 
 **CORDELIA**  
-_\[Aside]_  What shall Cordelia do? Love, and be silent.
+*\[Aside]*  What shall Cordelia do? Love, and be silent.
 
 **KING LEAR**  
 What says our second daughter,  
@@ -96,7 +96,7 @@ And find I am alone felicitate
 In your dear highness' love.
 
 **CORDELIA**  
-_\[Aside]_  
+*\[Aside]*  
 Then poor Cordelia!  
 And yet not so; since, I am sure, my love's  
 More richer than my tongue.
@@ -181,7 +181,7 @@ The sway, revenue, execution of the rest,
 Beloved sons, be yours: which to confirm,  
 This coronet part betwixt you.
 
-_Giving the crown_
+*Giving the crown*
 
 **KENT**  
 Royal Lear,  
@@ -204,7 +204,7 @@ Thy youngest daughter does not love thee least.
 **KING LEAR**  
 Out of my sight!
 
-_Laying his hand on his sword_
+*Laying his hand on his sword*
 
 **ALBANY & CORNWALL**  
 Dear sir, forbear.
@@ -235,9 +235,9 @@ This shall not be revoked.
 Fare thee well, king: sith thus thou wilt appear,  
 Freedom lives hence, and banishment is here.
 
-_Exit_
+*Exit*
 
-_Flourish. Re-enter GLOUCESTER, with KING OF FRANCE, BURGUNDY, and Attendants_
+*Flourish. Re-enter GLOUCESTER, with KING OF FRANCE, BURGUNDY, and Attendants*
 
 **KING LEAR**  
 My lord of Burgundy.  
@@ -263,7 +263,7 @@ I know no answer.
 Then leave her, sir; for, by the power that made me,  
 I tell you all her wealth.
 
-_\[To KING OF FRANCE]_  
+*\[To KING OF FRANCE]*  
 For you, great king,  
 I would not from your love make such a stray,  
 To match you where I hate; therefore beseech you  
@@ -328,7 +328,7 @@ Thou hast her, France: let her be thine; for we
 Have no such daughter, nor shall ever see  
 That face of hers again.
 
-_Flourish. Exeunt all but KING OF FRANCE, GONERIL, REGAN, and CORDELIA_
+*Flourish. Exeunt all but KING OF FRANCE, GONERIL, REGAN, and CORDELIA*
 
 **CORDELIA**  
 The jewels of our father, with wash'd eyes  
@@ -353,7 +353,7 @@ And well are worth the want that you have wanted.
 Time shall unfold what plaited cunning hides:  
 Who cover faults, at last shame them derides.
 
-_Exeunt KING OF FRANCE and CORDELIA_
+*Exeunt KING OF FRANCE and CORDELIA*
 
 **GONERIL**  
 Sister, it is not a little I have to say of what  
@@ -398,11 +398,11 @@ We shall further think on't.
 **GONERIL**  
 We must do something, and i' the heat.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE II. The Earl of Gloucester's castle.
 
-_Enter EDMUND, with a letter_
+*Enter EDMUND, with a letter*
 
 **EDMUND**  
 Thou, nature, art my goddess; to thy law  
@@ -428,7 +428,7 @@ And my invention thrive, Edmund the base
 Shall top the legitimate. I grow; I prosper:  
 Now, gods, stand up for bastards!
 
-_Enter GLOUCESTER_
+*Enter GLOUCESTER*
 
 **GLOUCESTER**  
 Edmund, how now! what news?
@@ -436,7 +436,7 @@ Edmund, how now! what news?
 **EDMUND**  
 So please your lordship, none.
 
-_Putting up the letter_
+*Putting up the letter*
 
 **GLOUCESTER**  
 What paper were you reading?
@@ -467,7 +467,7 @@ I hope, for my brother's justification, he wrote
 this but as an essay or taste of my virtue.
 
 **GLOUCESTER**  
-_\[Reads]_  
+*\[Reads]*  
 'This policy and reverence of age makes  
 the world bitter to the best of our times; keeps  
 our fortunes from us till our oldness cannot relish  
@@ -541,7 +541,7 @@ myself, to be in a due resolution.
 I will seek him, sir, presently: convey the  
 business as I shall find means and acquaint you withal.
 
-_Exit GLOUCESTER_
+*Exit GLOUCESTER*
 
 This is the excellent foppery of the world, that,  
 when we are sick in fortune we make guilty of our  
@@ -554,7 +554,7 @@ by a divine thrusting on: an admirable evasion
 of whoremaster man, to lay his goatish  
 disposition to the charge of a star! Edgar--
 
-_Enter EDGAR_
+*Enter EDGAR*
 
 **EDGAR**  
 How now, brother Edmund! what serious  
@@ -617,7 +617,7 @@ Shall I hear from you anon?
 **EDMUND**  
 I do serve you in this business.
 
-_Exit EDGAR_
+*Exit EDGAR*
 
 A credulous father! and a brother noble,  
 Whose nature is so far from doing harms,  
@@ -626,11 +626,11 @@ My practises ride easy! I see the business.
 Let me, if not by birth, have lands by wit:  
 All with me's meet that I can fashion fit.
 
-_Exit_
+*Exit*
 
 ### SCENE III. The Duke of Albany's palace.
 
-_Enter GONERIL, and OSWALD, her steward_
+*Enter GONERIL, and OSWALD, her steward*
 
 **GONERIL**  
 Did my father strike my gentleman for chiding of his fool?
@@ -649,7 +649,7 @@ I will not speak with him; say I am sick.
 **OSWALD**  
 He's coming, madam; I hear him.
 
-_Horns within_
+*Horns within*
 
 **GONERIL**  
 Put on what weary negligence you please,  
@@ -670,11 +670,11 @@ Well, madam.
 And let his knights have colder looks among you;  
 What grows of it, no matter; advise your fellows so.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE IV. A hall in the same.
 
-_Enter KENT, disguised_
+*Enter KENT, disguised*
 
 **KENT**  
 If but as well I other accents borrow,  
@@ -685,7 +685,7 @@ If thou canst serve where thou dost stand condemn'd,
 So may it come, thy master, whom thou lovest,  
 Shall find thee full of labors.
 
-_Enter KING LEAR and his Knight_
+*Enter KING LEAR and his Knight*
 
 **KING LEAR**  
 How now! what art thou?
@@ -738,23 +738,23 @@ Follow me; thou shalt serve me: if I like thee no
 worse after dinner, I will not part from thee yet.  
 Dinner, ho, dinner! Where's my knave? my fool?
 
-_Enter OSWALD_
+*Enter OSWALD*
 
 You, you, sirrah, where's my daughter?
 
 **OSWALD**  
 So please you,--
 
-_Exit_
+*Exit*
 
 **KING LEAR**  
 What says the fellow there? Call the clotpoll back.
 
-_Exit a Knight_
+*Exit a Knight*
 
 Where's my fool, ho? I think the world's asleep.
 
-_Re-enter Knight_
+*Re-enter Knight*
 
 **Knight**  
 He says, my lord, your daughter is not well.
@@ -790,14 +790,14 @@ fool hath much pined away.
 No more of that; I have noted it well. Go you, and  
 tell my daughter I would speak with her.
 
-_Exit Knight_
+*Exit Knight*
 
-_Re-enter OSWALD_
+*Re-enter OSWALD*
 
 **KING LEAR**  
 Do you bandy looks with me, you rascal?
 
-_Striking him_
+*Striking him*
 
 **OSWALD**  
 I'll not be struck, my lord.
@@ -805,26 +805,26 @@ I'll not be struck, my lord.
 **KENT**  
 Nor tripped neither, you base football player.
 
-_\[Tripping up his heels]_  
+*\[Tripping up his heels]*  
 Come, sir, arise, away! I'll teach you differences:  
 away, away! if you will measure your lubber's  
 length again, tarry: but away! go to; have you  
 wisdom? so.
 
-_\[Pushes OSWALD out]_
+*\[Pushes OSWALD out]*
 
 **KING LEAR**  
 Now, my friendly knave, I thank thee: there's  
 earnest of thy service.
 
-_\[Giving KENT money]_
+*\[Giving KENT money]*
 
-_Enter Fool_
+*Enter Fool*
 
 **Fool**  
 Let me hire him too: here's my coxcomb.
 
-_\[Offering KENT his cap]_
+*\[Offering KENT his cap]*
 
 **KING LEAR**  
 How now, my pretty knave! how dost thou?
@@ -933,7 +933,7 @@ thee, nuncle; thou hast pared thy wit o' both sides,
 and left nothing i' the middle: here comes one o'  
 the parings.
 
-_Enter GONERIL_
+*Enter GONERIL*
 
 **KING LEAR**  
 How now, daughter! what makes that frontlet on?  
@@ -945,7 +945,7 @@ care for her frowning; now thou art an O without a
 figure: I am better than thou art now; I am a fool,  
 thou art nothing.
 
-_\[To GONERIL]_  
+*\[To GONERIL]*  
 Yes, forsooth, I will hold my tongue; so your face  
 bids me, though you say nothing. Mum, mum,  
 He that keeps nor crust nor crum,  
@@ -1026,7 +1026,7 @@ Yet have I left a daughter.
 You strike my people; and your disorder'd rabble  
 Make servants of their betters.
 
-_Enter ALBANY_
+*Enter ALBANY*
 
 **KING LEAR**  
 Thou liest!  
@@ -1056,7 +1056,7 @@ To laughter and contempt; that she may feel
 How sharper than a serpent's tooth it is  
 To have a thankless child! Away, away!
 
-_Exit_
+*Exit*
 
 **ALBANY**  
 Now, gods that we adore, whereof comes this?
@@ -1066,7 +1066,7 @@ Never afflict yourself to know the cause;
 But let his disposition have that scope  
 That dotage gives it.
 
-_Re-enter KING LEAR_
+*Re-enter KING LEAR*
 
 **ALBANY**  
 What's the matter, sir?
@@ -1074,7 +1074,7 @@ What's the matter, sir?
 **KING LEAR**  
 I’ll tell thee.
 
-_\[To GONERIL]_  
+*\[To GONERIL]*  
 Life and death! I am ashamed  
 That thou hast power to shake my manhood thus;  
 That these hot tears, which break from me perforce,  
@@ -1089,7 +1089,7 @@ Who, I am sure, is kind and comfortable:
 When she shall hear this of thee, with her nails  
 She'll flay thy wolvish visage.
 
-_Exeunt KING LEAR, KENT, the Fool, and the Knight_
+*Exeunt KING LEAR, KENT, the Fool, and the Knight*
 
 **GONERIL**  
 Do you mark that, my lord?
@@ -1101,7 +1101,7 @@ To the great love I bear you,--
 **GONERIL**  
 Pray you, content. What, Oswald, ho!
 
-_Re-enter OSWALD_
+*Re-enter OSWALD*
 
 What, have you writ that letter to my sister?
 
@@ -1115,7 +1115,7 @@ And thereto add such reasons of your own
 As may compact it more. Get you gone;  
 And hasten your return.
 
-_Exit OSWALD_
+*Exit OSWALD*
 
 No, no, my lord,  
 This milky gentleness and course of yours  
@@ -1127,11 +1127,11 @@ Than praised for harmful mildness.
 How far your eyes may pierce I can not tell:  
 Striving to better, oft we mar what's well.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE V. Court before the same.
 
-_Enter KING LEAR, KENT, and Fool_
+*Enter KING LEAR, KENT, and Fool*
 
 **KING LEAR**  
 Go you before to Gloucester with these letters.  
@@ -1143,7 +1143,7 @@ If your diligence be not speedy, I shall be there afore you.
 I will not sleep, my lord, till I have delivered  
 your letter.
 
-_Exit_
+*Exit*
 
 **Fool**  
 If a man's brains were in's heels, were't not in  
@@ -1226,7 +1226,7 @@ been wise.
 O, let me not be mad, not mad, sweet heaven  
 Keep me in temper: I would not be mad!
 
-_Enter Gentleman_
+*Enter Gentleman*
 
 How now! are the horses ready?
 
@@ -1240,13 +1240,13 @@ Come, boy.
 She that's a maid now, and laughs at my departure,  
 Shall not be a maid long, unless things be cut shorter.
 
-_Exeunt_
+*Exeunt*
 
 ## ACT II
 
 ### SCENE I. GLOUCESTER's castle.
 
-_Enter EDMUND reading_
+*Enter EDMUND reading*
 
 **EDMUND**  
 The duke be here tonight? The better! best!  
@@ -1256,7 +1256,7 @@ And I have one thing, of a queasy question,
 Which I must act: briefness and fortune, work!  
 Brother, a word; descend: brother, I say!
 
-_Enter EDGAR_
+*Enter EDGAR*
 
 My father watches: O sir, fly this place;  
 Intelligence is given where you are hid;  
@@ -1275,13 +1275,13 @@ In cunning I must draw my sword upon you
 Draw; seem to defend yourself; now quit you well.  
 Fly, brother. Torches, torches! So, farewell.
 
-_Exit EDGAR_
+*Exit EDGAR*
 
 Some blood drawn on me would beget opinion.
 
-_\[Wounds his arm]_
+*\[Wounds his arm]*
 
-_Enter GLOUCESTER_
+*Enter GLOUCESTER*
 
 **GLOUCESTER**  
 Now, Edmund, where's the villain?
@@ -1324,7 +1324,7 @@ Make thy words faith'd? No: I'd turn it all
 To thy suggestion, plot, and damned practise.
 
 **GLOUCESTER**  
-_Tucket within_
+*Tucket within*
 
 Hark, the duke's trumpets! I know not why he comes.  
 All ports I'll bar; the villain shall not 'scape;  
@@ -1332,7 +1332,7 @@ The duke must grant me that: and of my land,
 Loyal and natural boy, I'll work the means  
 To make thee capable.
 
-_Enter CORNWALL and REGAN_
+*Enter CORNWALL and REGAN*
 
 **CORNWALL**  
 How now, my noble friend! since I came hither,  
@@ -1400,11 +1400,11 @@ Which craves the instant use.
 I serve you, madam:  
 Your graces are right welcome.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE II. Before Gloucester's castle.
 
-_Enter KENT and OSWALD, severally_
+*Enter KENT and OSWALD, severally*
 
 **OSWALD**  
 Good dawning to thee, friend: art of this house?
@@ -1431,15 +1431,15 @@ knowest me! Draw, you rogue: for, though
 it be night, yet the moon shines;  
 I'll make a sop o' the moonshine of you.
 
-_\[Drawing his sword]_  
+*\[Drawing his sword]*  
 Draw, you rascal: you come with letters against the king!
 
-_\[Beating him]_
+*\[Beating him]*
 
 **OSWALD**  
 Help, ho! murder! murder!
 
-_Enter EDMUND, with his rapier drawn, CORNWALL, REGAN, and GLOUCESTER_
+*Enter EDMUND, with his rapier drawn, CORNWALL, REGAN, and GLOUCESTER*
 
 **EDMUND**  
 How now! What's the matter?
@@ -1537,7 +1537,7 @@ Sir, being his knave, I will.
 This is a fellow of the self-same color  
 Our sister speaks of. Come, bring away the stocks!
 
-_Stocks brought out_
+*Stocks brought out*
 
 **GLOUCESTER**  
 Let me beseech your grace not to do so:  
@@ -1557,11 +1557,11 @@ My sister may receive it much more worse,
 To have her gentleman abused, assaulted,  
 For following her affairs. Put in his legs.
 
-_KENT is put in the stocks_
+*KENT is put in the stocks*
 
 Come, my good lord, away.
 
-_Exit all but KENT_
+*Exit all but KENT*
 
 **KENT**  
 Good king, that must approve the common saw,  
@@ -1579,11 +1579,11 @@ Take vantage, heavy eyes, not to behold
 This shameful lodging.  
 Fortune, good night: smile once more: turn thy wheel!
 
-_\[Sleeps]_
+*\[Sleeps]*
 
 ### SCENE III. A wood.
 
-_Enter EDGAR_
+*Enter EDGAR*
 
 **EDGAR**  
 I heard myself proclaim'd;  
@@ -1604,11 +1604,11 @@ Sometime with lunatic bans, sometime with prayers,
 Enforce their charity. Poor Turlygod! poor Tom!  
 That's something yet: Edgar I nothing am.
 
-_Exit_
+*Exit*
 
 ### SCENE IV. Before GLOUCESTER's castle. KENT in the stocks.
 
-_Enter KING LEAR, the Gentleman, and Fool, seeing KENT_
+*Enter KING LEAR, the Gentleman, and Fool, seeing KENT*
 
 **KING LEAR**  
 Makest thou this shame thy pastime?
@@ -1674,7 +1674,7 @@ Where is this daughter?
 **KENT**  
 With the earl, sir, here within.
 
-_Exit LEAR inside_
+*Exit LEAR inside*
 
 **Gentleman**  
 Made you no more offence but what you speak of?
@@ -1716,7 +1716,7 @@ Where learned you this, fool?
 **Fool**  
 Not i' the stocks, fool.
 
-_Re-enter KING LEAR with GLOUCESTER_
+*Re-enter KING LEAR with GLOUCESTER*
 
 **KING LEAR**  
 Deny to speak with me? They are sick? they are weary?  
@@ -1745,7 +1745,7 @@ Whereto our health is bound; we are not ourselves
 When nature, being oppress'd, commands the mind  
 To suffer with the body: I'll forbear;
 
-_Looking on KENT_
+*Looking on KENT*
 
 Should he sit here? This act persuades me  
 That this remotion of the duke and her  
@@ -1756,7 +1756,7 @@ Now, presently.
 **GLOUCESTER**  
 I would have all well betwixt you.
 
-_Exit_
+*Exit*
 
 **KING LEAR**  
 O me, my heart, my rising heart! but, down!
@@ -1765,9 +1765,9 @@ O me, my heart, my rising heart! but, down!
 Cry to it, nuncle, as the cockney did to the eels  
 when she put 'em i' the paste alive!
 
-_Enter CORNWALL, REGAN, and GLOUCESTER_
+*Enter CORNWALL, REGAN, and GLOUCESTER*
 
-_KENT is set at liberty_
+*KENT is set at liberty*
 
 **CORNWALL**  
 Hail to your grace!
@@ -1815,7 +1815,7 @@ Ask her forgiveness?
 Do you but mark how this becomes the house:  
 'Dear daughter, I confess that I am old;
 
-_\[Kneeling]_  
+*\[Kneeling]*  
 Age is unnecessary: on my knees I beg  
 That you'll vouchsafe me raiment, bed, and food.'
 
@@ -1824,7 +1824,7 @@ Good sir, no more; these are unsightly tricks:
 Return you to my sister.
 
 **KING LEAR**  
-_\[Rising]_  
+*\[Rising]*  
 Never, Regan:  
 She hath abated me of half my train;  
 Look'd black upon me; struck me with her tongue.  
@@ -1848,7 +1848,7 @@ Effects of courtesy, dues of gratitude
 Thy half o' the kingdom hast thou not forgot,  
 Wherein I thee endow'd.
 
-_Tucket within_
+*Tucket within*
 
 **CORNWALL**  
 What trumpet's that?
@@ -1857,7 +1857,7 @@ What trumpet's that?
 I know't, my sister's: this approves her letter,  
 That she would soon be here.
 
-_Enter OSWALD_
+*Enter OSWALD*
 
 Is your lady come?
 
@@ -1873,13 +1873,13 @@ What means your grace?
 Who stock'd my servant? Regan, I have good hope  
 Thou didst not know on't. Who comes here? O heavens,
 
-_Enter GONERIL_
+*Enter GONERIL*
 
 If you do love old men, if your sweet sway  
 Allow obedience, if yourselves are old,  
 Make it your cause; send down, and take my part!
 
-_\[To GONERIL]_  
+*\[To GONERIL]*  
 Art not ashamed to look upon this beard?  
 O Regan, wilt thou take her by the hand?  
 Will you yet hold? How came my man i' the stocks?
@@ -1907,7 +1907,7 @@ To keep base life afoot. Return with her?
 Persuade me rather to be slave and sumpter  
 To this detested groom.
 
-_\[Pointing at OSWALD]_
+*\[Pointing at OSWALD]*
 
 **GONERIL**  
 At your choice, sir.
@@ -1973,7 +1973,7 @@ Those wicked creatures yet do look well-favor'd,
 When others are more wicked: not being the worst  
 Stands in some rank of praise.
 
-_\[To GONERIL]_  
+*\[To GONERIL]*  
 I'll go with thee:  
 Thy fifty yet doth double five and twenty,  
 And thou art twice her love.
@@ -2012,9 +2012,9 @@ I have full cause of weeping; but this heart
 Shall break into a hundred thousand flaws,  
 Or ere I'll weep. O fool, I shall go mad!
 
-_Exeunt KING LEAR, GLOUCESTER, KENT, Gentleman, and Fool_
+*Exeunt KING LEAR, GLOUCESTER, KENT, Gentleman, and Fool*
 
-_Storm and tempest_
+*Storm and tempest*
 
 **CORNWALL**  
 Let us withdraw; 'twill be a storm.
@@ -2032,7 +2032,7 @@ Where is my lord of Gloucester?
 **CORNWALL**  
 Follow'd the old man forth: he is return'd.
 
-_Re-enter GLOUCESTER_
+*Re-enter GLOUCESTER*
 
 Whither is he going?
 
@@ -2062,13 +2062,13 @@ To have his ear abused, wisdom bids fear.
 Shut up your doors, my lord; 'tis a wild night:  
 My Regan counsels well; come out o' the storm.
 
-_Exeunt_
+*Exeunt*
 
 ## ACT III
 
 ### SCENE I. A heath.
 
-_Storm still. Enter KENT and a Gentleman, meeting_
+*Storm still. Enter KENT and a Gentleman, meeting*
 
 **KENT**  
 Who's there, besides foul weather?
@@ -2128,11 +2128,11 @@ And she will tell you who your fellow is
 That yet you do not know. Fie on this storm!  
 I will go seek the king.
 
-_Exeunt severally_
+*Exeunt severally*
 
 ### SCENE II. Another part of the heath. Storm still.
 
-_Enter KING LEAR and Fool_
+*Enter KING LEAR and Fool*
 
 **KING LEAR**  
 Blow, winds, and crack your cheeks! rage! blow!  
@@ -2150,7 +2150,7 @@ That have with two pernicious daughters join'd
 Your high engender'd battles 'gainst a head  
 So old and white as this. O! O! 'tis foul!
 
-_Enter KENT_
+*Enter KENT*
 
 **KENT**  
 Who's there?
@@ -2175,7 +2175,7 @@ The art of our necessities is strange,
 That can make vile things precious. Come,  
 your hovel.
 
-_Exeunt KING LEAR and KENT_
+*Exeunt KING LEAR and KENT*
 
 **Fool**  
 This is a brave night to cool a courtezan.  
@@ -2196,13 +2196,13 @@ Then comes the time, who lives to see't,
 That going shall be used with feet.  
 This prophecy Merlin shall make; for I live before his time.
 
-_Exit_
+*Exit*
 
 ## INTERMISSION
 
 ### SCENE III. Gloucester's castle.
 
-_Enter GLOUCESTER and EDMUND_
+*Enter GLOUCESTER and EDMUND*
 
 **GLOUCESTER**  
 Alack, alack, Edmund, I like not this unnatural  
@@ -2225,7 +2225,7 @@ must incline to the king. I will seek him, and
 privily relieve him: go you and maintain talk with  
 the duke, that my charity be not of him perceived.
 
-_Exit_
+*Exit*
 
 **EDMUND**  
 This courtesy, forbid thee, shall the duke  
@@ -2234,11 +2234,11 @@ This seems a fair deserving, and must draw me
 That which my father loses; no less than all:  
 The younger rises when the old doth fall.
 
-_Exit_
+*Exit*
 
 ### SCENE IV. The heath. Before a hovel.
 
-_Enter KING LEAR, KENT, and Fool_
+*Enter KING LEAR, KENT, and Fool*
 
 **KING LEAR**  
 Thou think'st 'tis much that this contentious storm  
@@ -2263,7 +2263,7 @@ No more of that.
 Good my lord, enter here.
 
 **EDGAR**  
-_\[Within]_  
+*\[Within]*  
 Fathom and half, fathom and half! Poor Tom!
 
 **Fool**  
@@ -2279,7 +2279,7 @@ A spirit, a spirit: he says his name's poor Tom.
 What art thou that dost grumble there i' the straw?  
 Come forth.
 
-_Enter EDGAR disguised as a mad man_
+*Enter EDGAR disguised as a mad man*
 
 **EDGAR**  
 Away! the foul fiend follows me!  
@@ -2301,7 +2301,7 @@ de, do de, do de. Do poor Tom some
 charity, whom the foul fiend vexes: there could I  
 have him now,--and there,--and there again, and there.
 
-_Storm still_
+*Storm still*
 
 **KING LEAR**  
 What, have his daughters brought him to this pass?  
@@ -2329,7 +2329,7 @@ silks betray thy poor heart to woman: keep thy foot
 out of brothels, thy hand out of plackets, thy pen  
 from lenders' books, and defy the foul fiend.
 
-_Storm still_
+*Storm still*
 
 **KING LEAR**  
 Why, thou wert better in thy grave than to answer  
@@ -2345,7 +2345,7 @@ to swim in. Now a little fire in a wild field were
 like an old lecher's heart; a small spark, all the  
 rest on's body cold. Look, here comes a walking fire.
 
-_Enter GLOUCESTER, with a torch_
+*Enter GLOUCESTER, with a torch*
 
 **EDGAR**  
 This is the foul fiend Flibbertigibbet: he begins  
@@ -2399,7 +2399,7 @@ His wits begin to unsettle.
 **GLOUCESTER**  
 Canst thou blame him?
 
-_Storm still_
+*Storm still*
 
 His daughters seek his death: ah, that good Kent!  
 He said it would be thus, poor banish'd man!  
@@ -2423,11 +2423,11 @@ I will keep still with my philosopher.
 **KENT**  
 Sirrah, come on; go along with us.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE V. Gloucester's castle.
 
-_Enter CORNWALL and EDMUND_
+*Enter CORNWALL and EDMUND*
 
 **CORNWALL**  
 I will have my revenge ere I depart his house.  
@@ -2447,7 +2447,7 @@ Gloucester. Seek out where thy father is, that he
 may be ready for our apprehension.
 
 **EDMUND**  
-_\[Aside]_  
+*\[Aside]*  
 If I find him comforting the king, it will  
 stuff his suspicion more fully.--I will persevere in  
 my course of loyalty, though the conflict be sore  
@@ -2457,11 +2457,11 @@ between that and my blood.
 I will lay trust upon thee; and thou shalt find a  
 dearer father in my love.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE VI. A chamber in a farmhouse adjoining the castle.
 
-_Enter GLOUCESTER, KING LEAR, KENT, Fool, and EDGAR_
+*Enter GLOUCESTER, KING LEAR, KENT, Fool, and EDGAR*
 
 **GLOUCESTER**  
 Here is better than the open air; take it  
@@ -2472,7 +2472,7 @@ addition I can: I will not be long from you.
 All the power of his wits have given way to his  
 impatience: the gods reward your kindness!
 
-_Exit GLOUCESTER_
+*Exit GLOUCESTER*
 
 **Fool**  
 Prithee, nuncle, tell me whether a madman be a  
@@ -2496,10 +2496,10 @@ horse's health, a boy's love, or a whore's oath.
 **KING LEAR**  
 It shall be done; I will arraign them straight.
 
-_\[To EDGAR]_  
+*\[To EDGAR]*  
 Come, sit thou here, most learned justicer;
 
-_\[To the Fool]_  
+*\[To the Fool]*  
 Thou, sapient sir, sit here. Now, you she foxes!
 
 **EDGAR**  
@@ -2524,14 +2524,14 @@ Will you lie down and rest upon the cushions?
 **KING LEAR**  
 I'll see their trial first. Bring in the evidence.
 
-_\[To EDGAR]_  
+*\[To EDGAR]*  
 Thou robed man of justice, take thy place;
 
-_\[To the Fool]_  
+*\[To the Fool]*  
 And thou, his yoke-fellow of equity,  
 Bench by his side:
 
-_\[To KENT]_  
+*\[To KENT]*  
 you are o' the commission,  
 Sit you too.
 
@@ -2566,7 +2566,7 @@ O pity! Sir, where is the patience now,
 That thou so oft have boasted to retain?
 
 **EDGAR**  
-_\[Aside]_  
+*\[Aside]*  
 My tears begin to take his part so much,  
 They'll mar my counterfeiting.
 
@@ -2585,7 +2585,7 @@ so, so, so. We'll go to supper i' he morning. So, so, so.
 **Fool**  
 And I'll go to bed at noon.
 
-_Re-enter GLOUCESTER_
+*Re-enter GLOUCESTER*
 
 **GLOUCESTER**  
 Come hither, friend: where is the king my master?
@@ -2604,14 +2604,14 @@ With thine, and all that offer to defend him,
 Stand in assured loss. Take up! Take up!
 
 **KENT**  
-_\[To the Fool]_  
+*\[To the Fool]*  
 Bear thy master; thou must not stay behind.
 
-_Exeunt all, bearing LEAR to the litter._
+*Exeunt all, bearing LEAR to the litter.*
 
 ### SCENE VII. Gloucester's castle.
 
-_Enter CORNWALL, REGAN, GONERIL, EDMUND, and a Servant_
+*Enter CORNWALL, REGAN, GONERIL, EDMUND, and a Servant*
 
 **REGAN**  
 Hang him instantly.
@@ -2626,7 +2626,7 @@ upon your traitorous father are not fit for your
 beholding. Farewell, dear sister: farewell, my  
 lord of Gloucester.
 
-_Enter OSWALD_
+*Enter OSWALD*
 
 How now! where's the king?
 
@@ -2639,19 +2639,19 @@ To have well-armed friends.
 **CORNWALL**  
 Edmund, farewell.
 
-_Exeunt GONERIL, and EDMUND_
+*Exeunt GONERIL, and EDMUND*
 
 Go seek the traitor Gloucester,  
 Pinion him like a thief, bring him before us.
 
-_Exit OSWALD and Servant_
+*Exit OSWALD and Servant*
 
 Though well we may not pass upon his life  
 Without the form of justice, yet our power  
 Shall do a courtesy to our wrath, which men  
 May blame, but not control. Who's there? the traitor?
 
-_Enter GLOUCESTER, brought in by OSWALD and Servant_
+*Enter GLOUCESTER, brought in by OSWALD and Servant*
 
 **REGAN**  
 Ingrateful fox! 'tis he.
@@ -2666,9 +2666,9 @@ You are my guests: do me no foul play, friends.
 **CORNWALL**  
 Bind him, I say.
 
-_Servant binds him_
+*Servant binds him*
 
-_REGAN plucks his beard_
+*REGAN plucks his beard*
 
 **GLOUCESTER**  
 'Tis most ignobly done  
@@ -2750,7 +2750,7 @@ How now, you dog!
 **CORNWALL**  
 My villain!
 
-_They draw and fight_
+*They draw and fight*
 
 **Servant**  
 Nay, then, come on, and take the chance of anger.
@@ -2758,13 +2758,13 @@ Nay, then, come on, and take the chance of anger.
 **REGAN**  
 Give me thy sword. A peasant stand up thus!
 
-_\[Takes a sword, and runs at him behind]_
+*\[Takes a sword, and runs at him behind]*
 
 **Servant**  
 O, I am slain! My lord, you have one eye left  
 To see some mischief on him. O!
 
-_\[Dies]_
+*\[Dies]*
 
 **CORNWALL**  
 Lest it see more, prevent it! Out, vile jelly!  
@@ -2786,7 +2786,7 @@ Kind gods, forgive me that, and prosper him!
 Go thrust him out at gates, and let him smell  
 His way to Dover.
 
-_Exit OSWALD with GLOUCESTER_
+*Exit OSWALD with GLOUCESTER*
 
 How is't, my lord? how look you?
 
@@ -2796,13 +2796,13 @@ Turn out that eyeless villain; throw this slave
 Upon the dunghill. Regan, I bleed apace:  
 Untimely comes this hurt: give me your arm.
 
-_Exeunt severally_
+*Exeunt severally*
 
 ## ACT IV
 
 ### SCENE I. The heath.
 
-_Enter EDGAR_
+*Enter EDGAR*
 
 **EDGAR**  
 Yet better thus, and known to be contemn'd,  
@@ -2815,7 +2815,7 @@ Thou unsubstantial air that I embrace!
 The wretch that thou hast blown unto the worst  
 Owes nothing to thy blasts. But who comes here?
 
-_Enter GLOUCESTER, led by an Old Man_
+*Enter GLOUCESTER, led by an Old Man*
 
 My father, poorly led? World, world, O world!  
 But that thy strange mutations make us hate thee,  
@@ -2844,7 +2844,7 @@ I am worse than e’re I was!
 'Tis poor mad Tom.
 
 **EDGAR**  
-_\[Aside]_  
+*\[Aside]*  
 And worse I may be yet: the worst is not  
 So long as we can say 'This is the worst.'
 
@@ -2871,7 +2871,7 @@ Alack, sir, he is mad!
 I'll bring him the best 'parel that I have,  
 Come on't what will.
 
-_Exit_
+*Exit*
 
 **GLOUCESTER**  
 Sirrah, naked fellow,--
@@ -2879,7 +2879,7 @@ Sirrah, naked fellow,--
 **EDGAR**  
 Poor Tom's a-cold.
 
-_\[Aside]_  
+*\[Aside]*  
 I cannot daub it further.
 
 And yet I must.--Bless thy sweet eyes, they bleed.
@@ -2902,17 +2902,17 @@ I shall no leading need.
 Give me thy arm:  
 Poor Tom shall lead thee.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE II. Before ALBANY's palace.
 
-_Enter GONERIL and EDMUND_
+*Enter GONERIL and EDMUND*
 
 **GONERIL**  
 Welcome, my lord: I marvel our mild husband  
 Not met us on the way.
 
-_Enter OSWALD_
+*Enter OSWALD*
 
 Now, where's your master'?
 
@@ -2928,7 +2928,7 @@ What most he should dislike seems pleasant to him;
 What like, offensive.
 
 **GONERIL**  
-_\[To EDMUND]_  
+*\[To EDMUND]*  
 Then shall you go no further.  
 It is the cowish terror of his spirit,  
 That dares not undertake: he'll not feel wrongs  
@@ -2941,7 +2941,7 @@ Shall pass between us: ere long you are like to hear,
 If you dare venture in your own behalf,  
 A mistress's command. Wear this; spare speech;
 
-_\[Giving a favor]_  
+*\[Giving a favor]*  
 Decline your head: this kiss, if it durst speak,  
 Would stretch thy spirits up into the air:  
 Conceive, and fare thee well.
@@ -2952,13 +2952,13 @@ Yours in the ranks of death.
 **GONERIL**  
 My most dear Gloucester!
 
-_Exit EDMUND and OSWALD_
+*Exit EDMUND and OSWALD*
 
 O, the difference of man and man!  
 To thee a woman's services are due:  
 My fool usurps my body.
 
-_Enter ALBANY_
+*Enter ALBANY*
 
 **ALBANY**  
 Goneril!  
@@ -2991,7 +2991,7 @@ They are apt enough to dislocate and tear
 Thy flesh and bones: howe'er thou art a fiend,  
 A woman's shape doth shield thee.
 
-_Enter a Messenger_
+*Enter a Messenger*
 
 **Messenger**  
 O, my good lord, the Duke of Cornwall's dead:  
@@ -3019,14 +3019,14 @@ This letter, madam, craves a speedy answer;
 'Tis from your sister.
 
 **GONERIL**  
-_\[Aside]_  
+*\[Aside]*  
 One way I like this well;  
 But being widow, and my Gloucester with her,  
 May all the building in my fancy pluck  
 Upon my hateful life: another way,  
 The news is not so tart.--I'll read, and answer.
 
-_Exit_
+*Exit*
 
 **ALBANY**  
 Where was his son when they did take his eyes?
@@ -3054,11 +3054,11 @@ To thank thee for the love thou show'dst the king,
 And to revenge thine eyes. Come hither, friend:  
 Tell me what more thou know'st.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE III. The French camp near Dover.
 
-_Enter KENT and a Gentleman_
+*Enter KENT and a Gentleman*
 
 **KENT**  
 Did your letters pierce the queen to any  
@@ -3127,11 +3127,11 @@ I'll bring you to our master Lear,
 And leave you to attend him: I pray you,  
 Go along with me.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE IV. The same. A tent.
 
-_Enter, with drum and colors, CORDELIA and a Doctor_
+*Enter, with drum and colors, CORDELIA and a Doctor*
 
 **CORDELIA**  
 Alack, 'tis he: why, he was met even now  
@@ -3158,7 +3158,7 @@ In the good man's distress! Seek, seek for him;
 Lest his ungovern'd rage dissolve the life  
 That wants the means to lead it.
 
-_Enter a Messenger_
+*Enter a Messenger*
 
 **Messenger**  
 News, madam;  
@@ -3174,11 +3174,11 @@ No blown ambition doth our arms incite,
 But love, dear love, and our aged father's right:  
 Soon may I hear and see him!
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE V. Gloucester's castle.
 
-_Enter REGAN and OSWALD_
+*Enter REGAN and OSWALD*
 
 **REGAN**  
 But are my brother's powers set forth?
@@ -3247,11 +3247,11 @@ And when your mistress hears thus much from you,
 I pray, desire her call her wisdom to her.  
 So, fare you well.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE VI. Fields near Dover.
 
-_Enter GLOUCESTER, and EDGAR dressed like a peasant_
+*Enter GLOUCESTER, and EDGAR dressed like a peasant*
 
 **EDGAR**  
 Hark, do you hear the sea?
@@ -3310,7 +3310,7 @@ Why I do trifle thus with his despair
 Is done to cure it.
 
 **GLOUCESTER**  
-_\[Kneeling]_  
+*\[Kneeling]*  
 O you mighty gods!  
 This world I do renounce, and, in your sights,  
 Shake patiently my great affliction off:  
@@ -3319,7 +3319,7 @@ To quarrel with your great opposeless wills,
 My snuff and loathed part of nature should  
 Burn itself out. If Edgar live, O, bless him!
 
-_He falls forward_
+*He falls forward*
 
 **EDGAR**  
 Ho, you sir! friend! Hear you, sir! speak!  
@@ -3365,7 +3365,7 @@ Think that the clearest gods, who make them honors
 Of men's impossibilities, have preserved thee.  
 Bear free and patient thoughts. But who comes here?
 
-_Enter KING LEAR, fantastically dressed with wild flowers_
+*Enter KING LEAR, fantastically dressed with wild flowers*
 
 **KING LEAR**  
 No, they cannot touch me for coining; I am the  
@@ -3448,7 +3448,7 @@ A troop of horse with felt: I'll put 't in proof;
 And when I have stol'n upon these sons-in-law,  
 Then, kill, kill, kill, kill, kill, kill!
 
-_Enter a Gentleman_
+*Enter a Gentleman*
 
 **Gentleman**  
 O, here he is: Sir, your most dear daughter--
@@ -3494,7 +3494,7 @@ Her army is moved on.
 **EDGAR**  
 I thank you, sir.
 
-_Exit Gentleman_
+*Exit Gentleman*
 
 **GLOUCESTER**  
 You ever-gentle gods, take my breath from me:  
@@ -3518,7 +3518,7 @@ Hearty thanks:
 The bounty and the benison of heaven  
 To boot, and boot!
 
-_Enter OSWALD_
+*Enter OSWALD*
 
 **OSWALD**  
 A proclaim'd prize! Most happy!  
@@ -3531,7 +3531,7 @@ That must destroy thee.
 Now let thy friendly hand  
 Put strength enough to't.
 
-_EDGAR interposes_
+*EDGAR interposes*
 
 **OSWALD**  
 Wherefore, bold peasant,  
@@ -3550,7 +3550,7 @@ the harder: ch'ill be plain with you.
 **OSWALD**  
 Out, dunghill!
 
-_They fight, and EDGAR knocks him down_
+*They fight, and EDGAR knocks him down*
 
 **OSWALD**  
 Slave, thou hast slain me: villain, take my purse:  
@@ -3559,7 +3559,7 @@ And give the letters which thou find'st about me
 To Edmund earl of Gloucester; seek him out  
 Upon the British party: O, untimely death!
 
-_\[Dies]_
+*\[Dies]*
 
 **EDGAR**  
 I know thee well: a serviceable villain;  
@@ -3576,7 +3576,7 @@ May be my friends. He's dead. Let us see:
 To know our enemies' minds, we'ld rip their hearts;  
 Their papers, is more lawful.
 
-_\[Reads]_  
+*\[Reads]*  
 'Let our reciprocal vows be remembered. You have  
 many opportunities to cut him off: if your will  
 want not, time and place will be fruitfully offered.  
@@ -3597,16 +3597,16 @@ With this ungracious paper strike the sight
 Of the death practised duke: for him 'tis well  
 That of thy death and business I can tell.
 
-_Drum afar off_
+*Drum afar off*
 
 Far off, methinks, I hear the beaten drum:  
 Come, father, I'll bestow you with a friend.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE VII. A tent in the French camp. LEAR on a bed asleep, soft music playing; Gentleman, and others attending.
 
-_Enter CORDELIA, KENT, and Doctor_
+*Enter CORDELIA, KENT, and Doctor*
 
 **CORDELIA**  
 O thou good Kent, how shall I live and work,  
@@ -3632,7 +3632,7 @@ Till time and I think meet.
 **CORDELIA**  
 Then be't so, my good lord.
 
-_\[To the Doctor]_  
+*\[To the Doctor]*  
 How does the king?
 
 **Doctor**  
@@ -3738,13 +3738,13 @@ Will't please your highness walk?
 You must bear with me:  
 Pray you now, forget and forgive: I am old and foolish.
 
-_Exeunt all_
+*Exeunt all*
 
 ## ACT V
 
 ### SCENE I. The British camp, near Dover.
 
-_Enter, with drum and colors, EDMUND and REGAN_
+*Enter, with drum and colors, EDMUND and REGAN*
 
 **REGAN**  
 Our sister's man is certainly miscarried.
@@ -3782,10 +3782,10 @@ Be not familiar with her.
 **EDMUND**  
 Fear me not.
 
-_Enter, with drum and colors, ALBANY and GONERIL_
+*Enter, with drum and colors, ALBANY and GONERIL*
 
 **GONERIL**  
-_\[Aside]_  
+*\[Aside]*  
 I had rather lose the battle than that sister  
 Should loosen him and me.
 
@@ -3821,14 +3821,14 @@ No.
 'Tis most convenient; pray you, go with us.
 
 **GONERIL**  
-_\[Aside]_  
+*\[Aside]*  
 O, ho, I know the riddle.--
 
 I will go.
 
-_Enter EDGAR, disguised, as they are going out_
+*Enter EDGAR, disguised, as they are going out*
 
-_Exeunt all but ALBANY and EDGAR_
+*Exeunt all but ALBANY and EDGAR*
 
 **EDGAR**  
 Before you fight the battle, ope this letter.  
@@ -3842,9 +3842,9 @@ And machination ceases. Fortune love you.
 **ALBANY**  
 Why, fare thee well: I will o'erlook thy paper.
 
-_Exit EDGAR_
+*Exit EDGAR*
 
-_Re-enter EDMUND_
+*Re-enter EDMUND*
 
 **EDMUND**  
 The enemy's in view; draw up your powers.  
@@ -3855,7 +3855,7 @@ Is now urged on you.
 **ALBANY**  
 We will greet the time.
 
-_Exit_
+*Exit*
 
 **EDMUND**  
 To both these sisters have I sworn my love;  
@@ -3874,11 +3874,11 @@ The battle done, and they within our power,
 Shall never see his pardon; for my state  
 Stands on me to defend, not to debate.
 
-_Exit_
+*Exit*
 
 ### SCENE III. The British camp near Dover.
 
-_Enter, in conquest, with drum and colors, EDMUND and his Captain, KING LEAR and CORDELIA, prisoners._
+*Enter, in conquest, with drum and colors, EDMUND and his Captain, KING LEAR and CORDELIA, prisoners.*
 
 **EDMUND**  
 Some officers take them away: good guard,  
@@ -3907,9 +3907,9 @@ That ebb and flow by the moon.
 **EDMUND**  
 Take them away.
 
-_Exeunt KING LEAR and CORDELIA, guarded_
+*Exeunt KING LEAR and CORDELIA, guarded*
 
-_EDMUND gives Captain a paper_
+*EDMUND gives Captain a paper*
 
 Take thou this note; go follow them to prison:  
 One step I have advanced thee; if thou dost  
@@ -3919,9 +3919,9 @@ To noble fortunes.
 **Captain**  
 I'll do it, my lord
 
-_Exit_
+*Exit*
 
-_Flourish. Enter ALBANY, GONERIL, and REGAN_
+*Flourish. Enter ALBANY, GONERIL, and REGAN*
 
 **ALBANY**  
 Sir, you have shown today your valiant strain,  
@@ -3981,7 +3981,7 @@ Stay yet; hear reason. Edmund, I arrest thee
 On capital treason; and, in thine attaint,  
 This gilded serpent
 
-_\[Pointing to Goneril]_  
+*\[Pointing to Goneril]*  
 For your claim, fair sister,  
 I bar it in the interest of my wife:  
 'Tis she is sub-contracted to this lord,  
@@ -3998,7 +3998,7 @@ If none appear to prove upon thy head
 Thy heinous, manifest, and many treasons,  
 There is my pledge;
 
-_\[Throwing down a glove]_  
+*\[Throwing down a glove]*  
 I'll prove it on thy heart,  
 Ere I taste bread, thou art in nothing less  
 Than I have here proclaim'd thee.
@@ -4007,11 +4007,11 @@ Than I have here proclaim'd thee.
 Sick, O, sick!
 
 **GONERIL**  
-_\[Aside]_  
+*\[Aside]*  
 If not, I'll ne'er trust medicine.
 
 **EDMUND**  
-_\[Throwing down a glove]_  
+*\[Throwing down a glove]*  
 There's my exchange: what in the world he is  
 That names me traitor, villain-like he lies:  
 Call by thy trumpet: he that dares approach,  
@@ -4026,9 +4026,9 @@ Took their discharge.
 **REGAN**  
 My sickness grows upon me.
 
-_Exit Regan_
+*Exit Regan*
 
-_Enter a Herald_
+*Enter a Herald*
 
 **ALBANY**  
 Come hither, herald,--Let the trumpet sound,  
@@ -4037,9 +4037,9 @@ And read out this.
 **Herald**  
 Sound trumpet!
 
-_A trumpet sounds_
+*A trumpet sounds*
 
-_Herald Reads_
+*Herald Reads*
 
 'If any man of quality or degree within  
 the lists of the army will maintain upon Edmund,  
@@ -4050,21 +4050,21 @@ trumpet: he is bold in his defence.'
 **EDMUND**  
 Sound!
 
-_First trumpet_
+*First trumpet*
 
 **Herald**  
 Again!
 
-_Second trumpet_
+*Second trumpet*
 
 **Herald**  
 Again!
 
-_Third trumpet_
+*Third trumpet*
 
-_Trumpet answers within_
+*Trumpet answers within*
 
-_Enter EDGAR, at the third sound, armed, with a trumpet before him_
+*Enter EDGAR, at the third sound, armed, with a trumpet before him*
 
 Your name, your quality? and why you answer  
 This present summons?
@@ -4107,7 +4107,7 @@ With the hell-hated lie o'erwhelm thy heart;
 This sword of mine shall give them instant way,  
 Where they shall rest for ever. Trumpets, speak!
 
-_Alarums. They fight. EDMUND falls_
+*Alarums. They fight. EDMUND falls*
 
 **ALBANY**  
 Save him! Save him!
@@ -4123,7 +4123,7 @@ Shut your mouth, dame.
 Thou worse than any name, read thine own evil:  
 No tearing, lady: I perceive you know it.
 
-_\[Gives the letter to EDMUND]_
+*\[Gives the letter to EDMUND]*
 
 **GONERIL**  
 Say, if I do, the laws are mine, not thine:  
@@ -4136,7 +4136,7 @@ Know'st thou this paper?
 **GONERIL**  
 Ask me not what I know.
 
-_Exit_
+*Exit*
 
 **EDMUND**  
 What you have charged me with, that have I done;  
@@ -4195,7 +4195,7 @@ Kent, sir, the banish'd Kent; who in disguise
 Follow'd his enemy king, and did him service  
 Improper for a slave.
 
-_Enter a Gentleman, with a bloody knife_
+*Enter a Gentleman, with a bloody knife*
 
 **Gentleman**  
 Help, help, O, help!
@@ -4215,7 +4215,7 @@ Produce their bodies, be they alive or dead:
 This judgment of the heavens, that makes us tremble,  
 Touches us not with pity.
 
-_Enter KENT_
+*Enter KENT*
 
 **KENT**  
 I am come  
@@ -4226,7 +4226,7 @@ Is he not here?
 Great thing of us forget!  
 Speak, Edmund, where's the king? and where's Cordelia?
 
-_The bodies of GONERIL and REGAN are brought in_
+*The bodies of GONERIL and REGAN are brought in*
 
 **KENT**  
 Alack, why thus?
@@ -4249,7 +4249,7 @@ Nay, send in time.
 **ALBANY**  
 Run! Haste thee, for thy life.
 
-_Exit EDGAR_
+*Exit EDGAR*
 
 **EDMUND**  
 He hath commission from thy wife and me  
@@ -4260,9 +4260,9 @@ That she fordid herself.
 **ALBANY**  
 The gods defend her! Bear him hence awhile.
 
-_EDMUND is borne off by Gentleman_
+*EDMUND is borne off by Gentleman*
 
-_Re-enter KING LEAR, with CORDELIA dead in his arms; EDGAR following_
+*Re-enter KING LEAR, with CORDELIA dead in his arms; EDGAR following*
 
 **KING LEAR**  
 Howl, howl, howl, howl! O, you are men of stones:  
@@ -4288,7 +4288,7 @@ It is a chance which does redeem all sorrows
 That ever I have felt.
 
 **KENT**  
-_\[Kneeling]_  
+*\[Kneeling]*  
 O my good master!
 
 **KING LEAR**  
@@ -4317,7 +4317,7 @@ That we present us to him.
 **EDGAR**  
 Very bootless.
 
-_Enter Gentleman_
+*Enter Gentleman*
 
 **Gentleman**  
 Edmund is dead, my lord.
@@ -4330,7 +4330,7 @@ Shall be applied: for us we will resign,
 During the life of this old majesty,  
 To him our absolute power:
 
-_\[To EDGAR and KENT]_  
+*\[To EDGAR and KENT]*  
 you, to your rights:  
 With boot, and such addition as your honors  
 Have more than merited. All friends shall taste  
@@ -4346,7 +4346,7 @@ Pray you, undo this button: thank you, sir.
 Do you see this? Look on her, look, her lips,  
 Look there, look there!
 
-_Dies_
+*Dies*
 
 **EDGAR**  
 He faints! My lord, my lord!
@@ -4373,7 +4373,7 @@ He but usurp'd his life.
 Bear them from hence. Our present business  
 Is general woe.
 
-_\[To KENT and EDGAR]_  
+*\[To KENT and EDGAR]*  
 Friends of my soul, you twain  
 Rule in this realm, and the gored state sustain.  
 The weight of this sad time we must obey;  
@@ -4381,4 +4381,4 @@ Speak what we feel, not what we ought to say.
 The oldest hath borne most: we that are young  
 Shall never see so much, nor live so long.
 
-_Exeunt, with a dead march_
+*Exeunt, with a dead march*

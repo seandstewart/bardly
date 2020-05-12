@@ -2,7 +2,7 @@
 
 ### SCENE I. Elsinore. A platform before the castle.
 
-_FRANCISCO at his post. Enter to him BERNARDO_
+*FRANCISCO at his post. Enter to him BERNARDO*
 
 **BERNARDO**  
 Who's there?
@@ -43,7 +43,7 @@ The rivals of my watch, bid them make haste.
 **FRANCISCO**  
 I think I hear them. Stand, ho! Who's there?
 
-_Enter HORATIO and MARCELLUS_
+*Enter HORATIO and MARCELLUS*
 
 **HORATIO**  
 Friends to this ground.
@@ -62,7 +62,7 @@ Who hath relieved you?
 Bernardo has my place.  
 Give you good night.
 
-_Exit_
+*Exit*
 
 **MARCELLUS**  
 Holla! Bernardo!
@@ -112,7 +112,7 @@ Had made his course to illume that part of heaven
 Where now it burns, Marcellus and myself,  
 The bell then beating one,--
 
-_Enter Ghost_
+*Enter Ghost*
 
 **MARCELLUS**  
 Peace, break thee off; look, where it comes again!
@@ -150,7 +150,7 @@ See, it stalks away!
 **HORATIO**  
 Stay! speak, speak! I charge thee, speak!
 
-_Exit Ghost_
+*Exit Ghost*
 
 **MARCELLUS**  
 'Tis gone, and will not answer.
@@ -251,7 +251,7 @@ Have heaven and earth together demonstrated
 Unto our climatures and countrymen.--  
 But soft, behold! lo, where it comes again!
 
-_Re-enter Ghost_
+*Re-enter Ghost*
 
 I'll cross it, though it blast me. Stay, illusion!  
 If thou hast any sound, or use of voice,  
@@ -260,7 +260,7 @@ If there be any good thing to be done,
 That may to thee do ease and grace to me,  
 Speak to me:
 
-_Cock crows_
+*Cock crows*
 
 If thou art privy to thy country's fate,  
 Which, happily, foreknowing may avoid, O, speak!  
@@ -284,7 +284,7 @@ Do, if it will not stand.
 **MARCELLUS**  
 'Tis gone!
 
-_Exit Ghost_
+*Exit Ghost*
 
 We do it wrong, being so majestical,  
 To offer it the show of violence;  
@@ -330,12 +330,12 @@ As needful in our loves, fitting our duty?
 Let's do't, I pray; and I this morning know  
 Where we shall find him most conveniently.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE II. A room of state in the castle.
 
-_Enter KING CLAUDIUS, QUEEN GERTRUDE, HAMLET, POLONIUS, LAERTES, VOLTIMAND,
-CORNELIUS, Lords, and Attendants_
+*Enter KING CLAUDIUS, QUEEN GERTRUDE, HAMLET, POLONIUS, LAERTES, VOLTIMAND,
+CORNELIUS, Lords, and Attendants*
 
 **KING CLAUDIUS**  
 Though yet of Hamlet our dear brother's death  
@@ -384,7 +384,7 @@ In that and all things will we show our duty.
 **KING CLAUDIUS**  
 We doubt it nothing: heartily farewell.
 
-_Exeunt VOLTIMAND and CORNELIUS_
+*Exeunt VOLTIMAND and CORNELIUS*
 
 And now, Laertes, what's the news with you?  
 You told us of some suit; what is't, Laertes?  
@@ -420,7 +420,7 @@ And thy best graces spend it at thy will!
 But now, my cousin Hamlet, and my son,--
 
 **HAMLET**  
-_\[Aside]_  
+*\[Aside]*  
 A little more than kin, and less than kind.
 
 **KING CLAUDIUS**  
@@ -507,7 +507,7 @@ But the great cannon to the clouds shall tell,
 And the king's rouse the heavens all bruit again,  
 Re-speaking earthly thunder. Come away.
 
-_Exeunt all but HAMLET_
+*Exeunt all but HAMLET*
 
 **HAMLET**  
 O, that this too too solid flesh would melt  
@@ -542,7 +542,7 @@ With such dexterity to incestuous sheets!
 It is not nor it cannot come to good:  
 But break, my heart; for I must hold my tongue.
 
-_Enter HORATIO, MARCELLUS, and BERNARDO_
+*Enter HORATIO, MARCELLUS, and BERNARDO*
 
 **HORATIO**  
 Hail to your lordship!
@@ -765,18 +765,18 @@ Our duty to your honour.
 **HAMLET**  
 Your loves, as mine to you: farewell.
 
-_Exeunt all but HAMLET_
+*Exeunt all but HAMLET*
 
 My father's spirit in arms! all is not well;  
 I doubt some foul play: would the night were come!  
 Till then sit still, my soul: foul deeds will rise,  
 Though all the earth o'erwhelm them, to men's eyes.
 
-_Exit_
+*Exit*
 
 ### SCENE III. A room in Polonius' house.
 
-_Enter LAERTES and OPHELIA_
+*Enter LAERTES and OPHELIA*
 
 **LAERTES**  
 My necessaries are embark'd: farewell:  
@@ -847,7 +847,7 @@ And recks not his own rede.
 O, fear me not.  
 I stay too long: but here my father comes.
 
-_Enter POLONIUS_
+*Enter POLONIUS*
 
 A double blessing is a double grace,  
 Occasion smiles upon a second leave.
@@ -898,7 +898,7 @@ And you yourself shall keep the key of it.
 **LAERTES**  
 Farewell.
 
-_Exit_
+*Exit*
 
 **LORD POLONIUS**  
 What is't, Ophelia, be hath said to you?
@@ -973,11 +973,11 @@ Look to't, I charge you: come your ways.
 **OPHELIA**  
 I shall obey, my lord.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE IV. The platform.
 
-_Enter HAMLET, HORATIO, and MARCELLUS_
+*Enter HAMLET, HORATIO, and MARCELLUS*
 
 **HAMLET**  
 The air bites shrewdly; it is very cold.
@@ -998,7 +998,7 @@ No, it is struck.
 Indeed? I heard it not: then it draws near the season  
 Wherein the spirit held his wont to walk.
 
-_A flourish of trumpets, and ordnance shot off, within_
+*A flourish of trumpets, and ordnance shot off, within*
 
 What does this mean, my lord?
 
@@ -1043,7 +1043,7 @@ To his own scandal.
 **HORATIO**  
 Look, my lord, it comes!
 
-_Enter Ghost_
+*Enter Ghost*
 
 **HAMLET**  
 Angels and ministers of grace defend us!  
@@ -1066,7 +1066,7 @@ So horridly to shake our disposition
 With thoughts beyond the reaches of our souls?  
 Say, why is this? wherefore? what should we do?
 
-_Ghost beckons HAMLET_
+*Ghost beckons HAMLET*
 
 **HORATIO**  
 It beckons you to go away with it,  
@@ -1127,7 +1127,7 @@ Still am I call'd. Unhand me, gentlemen.
 By heaven, I'll make a ghost of him that lets me!  
 I say, away! Go on; I'll follow thee.
 
-_Exeunt Ghost and HAMLET_
+*Exeunt Ghost and HAMLET*
 
 **HORATIO**  
 He waxes desperate with imagination.
@@ -1147,11 +1147,11 @@ Heaven will direct it.
 **MARCELLUS**  
 Nay, let's follow him.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE V. Another part of the platform.
 
-_Enter GHOST and HAMLET_
+*Enter GHOST and HAMLET*
 
 **HAMLET**  
 Where wilt thou lead me? speak; I'll go no further.
@@ -1285,7 +1285,7 @@ The glow-worm shows the matin to be near,
 And 'gins to pale his uneffectual fire:  
 Adieu, adieu! Hamlet, remember me.
 
-_Exit_
+*Exit*
 
 **HAMLET**  
 O all you host of heaven! O earth! what else?  
@@ -1307,34 +1307,34 @@ My tables,--meet it is I set it down,
 That one may smile, and smile, and be a villain;  
 At least I'm sure it may be so in Denmark:
 
-_\[Writing]_  
+*\[Writing]*  
 So, uncle, there you are. Now to my word;  
 It is 'Adieu, adieu! remember me.'  
 I have sworn 't.
 
 **MARCELLUS and HORATIO**  
-_\[Within]_  
+*\[Within]*  
 My lord, my lord,--
 
 **MARCELLUS**  
-_\[Within]_  
+*\[Within]*  
 Lord Hamlet,--
 
 **HORATIO**  
-_\[Within]_  
+*\[Within]*  
 Heaven secure him!
 
 **HAMLET**  
 So be it!
 
 **HORATIO**  
-_\[Within]_  
+*\[Within]*  
 Hillo, ho, ho, my lord!
 
 **HAMLET**  
 Hillo, ho, ho, boy! come, bird, come.
 
-_Enter HORATIO and MARCELLUS_
+*Enter HORATIO and MARCELLUS*
 
 **MARCELLUS**  
 How is't, my noble lord?
@@ -1429,7 +1429,7 @@ We have sworn, my lord, already.
 Indeed, upon my sword, indeed.
 
 **Ghost**  
-_\[Beneath]_  
+*\[Beneath]*  
 Swear.
 
 **HAMLET**  
@@ -1446,7 +1446,7 @@ Never to speak of this that you have seen,
 Swear by my sword.
 
 **Ghost**  
-_\[Beneath]_  
+*\[Beneath]*  
 Swear.
 
 **HAMLET**  
@@ -1457,7 +1457,7 @@ Never to speak of this that you have heard,
 Swear by my sword.
 
 **Ghost**  
-_\[Beneath]_  
+*\[Beneath]*  
 Swear.
 
 **HAMLET**  
@@ -1485,13 +1485,13 @@ That you know aught of me: this not to do,
 So grace and mercy at your most need help you, Swear.
 
 **Ghost**  
-_\[Beneath]_  
+*\[Beneath]*  
 Swear.
 
 **HAMLET**  
 Rest, rest, perturbed spirit!
 
-_They swear_
+*They swear*
 
 So, gentlemen,  
 With all my love I do commend me to you:  
@@ -1503,13 +1503,13 @@ The time is out of joint: O cursed spite,
 That ever I was born to set it right!  
 Nay, come, let's go together.
 
-_Exeunt_
+*Exeunt*
 
 ## ACT II
 
 ### SCENE I. A room in POLONIUS' house.
 
-_Enter POLONIUS and REYNALDO_
+*Enter POLONIUS and REYNALDO*
 
 **LORD POLONIUS**  
 Give him this money and these notes, Reynaldo.
@@ -1646,9 +1646,9 @@ Well, my lord.
 **LORD POLONIUS**  
 Farewell!
 
-_Exit REYNALDO_
+*Exit REYNALDO*
 
-_Enter OPHELIA_
+*Enter OPHELIA*
 
 How now, Ophelia! what's the matter?
 
@@ -1720,12 +1720,12 @@ To lack discretion. Come, go we to the king:
 This must be known; which, being kept close, might move  
 More grief to hide than hate to utter love.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE II. A room in the castle.
 
-_Enter KING CLAUDIUS, QUEEN GERTRUDE, ROSENCRANTZ, GUILDENSTERN, and
-Attendants_
+*Enter KING CLAUDIUS, QUEEN GERTRUDE, ROSENCRANTZ, GUILDENSTERN, and
+Attendants*
 
 **KING CLAUDIUS**  
 Welcome, dear Rosencrantz and Guildenstern!  
@@ -1785,9 +1785,9 @@ Pleasant and helpful to him!
 **QUEEN GERTRUDE**  
 Ay, amen!
 
-_Exeunt ROSENCRANTZ, GUILDENSTERN, and some Attendants_
+*Exeunt ROSENCRANTZ, GUILDENSTERN, and some Attendants*
 
-_Enter POLONIUS_
+*Enter POLONIUS*
 
 **LORD POLONIUS**  
 The ambassadors from Norway, my good lord,  
@@ -1815,7 +1815,7 @@ My news shall be the fruit to that great feast.
 **KING CLAUDIUS**  
 Thyself do grace to them, and bring them in.
 
-_Exit POLONIUS_
+*Exit POLONIUS*
 
 He tells me, my dear Gertrude, he hath found  
 The head and source of all your son's distemper.
@@ -1827,7 +1827,7 @@ His father's death, and our o'erhasty marriage.
 **KING CLAUDIUS**  
 Well, we shall sift him.
 
-_Re-enter POLONIUS, with VOLTIMAND and CORNELIUS_
+*Re-enter POLONIUS, with VOLTIMAND and CORNELIUS*
 
 Welcome, my good friends!  
 Say, Voltimand, what from our brother Norway?
@@ -1851,7 +1851,7 @@ And his commission to employ those soldiers,
 So levied as before, against the Polack:  
 With an entreaty, herein further shown,
 
-_Giving a paper_
+*Giving a paper*
 
 That it might please you to give quiet pass  
 Through your dominions for this enterprise,  
@@ -1866,7 +1866,7 @@ Meantime we thank you for your well-took labour:
 Go to your rest; at night we'll feast together:  
 Most welcome home!
 
-_Exeunt VOLTIMAND and CORNELIUS_
+*Exeunt VOLTIMAND and CORNELIUS*
 
 **LORD POLONIUS**  
 This business is well ended.  
@@ -1898,13 +1898,13 @@ I have a daughter--have while she is mine--
 Who, in her duty and obedience, mark,  
 Hath given me this: now gather, and surmise.
 
-_\[Reads]_  
+*\[Reads]*  
 'To the celestial and my soul's idol, the most  
 beautified Ophelia,'\--  
 That's an ill phrase, a vile phrase; 'beautified' is  
 a vile phrase: but you shall hear. Thus:
 
-_\[Reads]_  
+*\[Reads]*  
 'In her excellent white bosom, these, & c.'
 
 **QUEEN GERTRUDE**  
@@ -1913,7 +1913,7 @@ Came this from Hamlet to her?
 **LORD POLONIUS**  
 Good madam, stay awhile; I will be faithful.
 
-_\[Reads]_  
+*\[Reads]*  
 'Doubt thou the stars are fire;  
 Doubt that the sun doth move;  
 Doubt truth to be a liar;  
@@ -1976,7 +1976,7 @@ When it proved otherwise?
 Not that I know.
 
 **LORD POLONIUS**  
-_\[Pointing to his head and shoulder]_  
+*\[Pointing to his head and shoulder]*  
 Take this from this, if this be otherwise:  
 If circumstances lead me, I will find  
 Where truth is hid, though it were hid indeed  
@@ -2010,9 +2010,9 @@ But, look, where sadly the poor wretch comes reading.
 Away, I do beseech you, both away:  
 I'll board him presently.
 
-_Exeunt KING CLAUDIUS, QUEEN GERTRUDE, and Attendants_
+*Exeunt KING CLAUDIUS, QUEEN GERTRUDE, and Attendants*
 
-_Enter HAMLET, reading_
+*Enter HAMLET, reading*
 
 O, give me leave:  
 How does my good Lord Hamlet?
@@ -2055,7 +2055,7 @@ blessing: but not as your daughter may conceive.
 Friend, look to 't.
 
 **LORD POLONIUS**  
-_\[Aside]_  
+*\[Aside]*  
 How say you by that? Still harping on my  
 daughter: yet he knew me not at first; he said I  
 was a fishmonger: he is far gone, far gone: and  
@@ -2087,7 +2087,7 @@ yourself, sir, should be old as I am, if like a crab
 you could go backward.
 
 **LORD POLONIUS**  
-_\[Aside]_  
+*\[Aside]*  
 Though this be madness, yet there is method  
 in't. Will you walk out of the air, my lord?
 
@@ -2097,7 +2097,7 @@ Into my grave.
 **LORD POLONIUS**  
 Indeed, that is out o' the air.
 
-_Aside_
+*Aside*
 
 How pregnant sometimes his replies are! a happiness  
 that often madness hits on, which reason and sanity  
@@ -2117,16 +2117,16 @@ Fare you well, my lord.
 **HAMLET**  
 These tedious old fools!
 
-_Enter ROSENCRANTZ and GUILDENSTERN_
+*Enter ROSENCRANTZ and GUILDENSTERN*
 
 **LORD POLONIUS**  
 You go to seek the Lord Hamlet; there he is.
 
 **ROSENCRANTZ**  
-_\[To POLONIUS]_  
+*\[To POLONIUS]*  
 God save you, sir!
 
-_Exit POLONIUS_
+*Exit POLONIUS*
 
 **GUILDENSTERN**  
 My honoured lord!
@@ -2257,11 +2257,11 @@ charge you withal, be even and direct with me,
 whether you were sent for, or no?
 
 **ROSENCRANTZ**  
-_\[Aside to GUILDENSTERN]_  
+*\[Aside to GUILDENSTERN]*  
 What say you?
 
 **HAMLET**  
-_\[Aside]_  
+*\[Aside]*  
 Nay, then, I have an eye of you.--If you  
 love me, hold not off.
 
@@ -2378,7 +2378,7 @@ hundred ducats a-piece for his picture in little.
 'Sblood, there is something in this more than  
 natural, if philosophy could find it out.
 
-_Flourish of trumpets within_
+*Flourish of trumpets within*
 
 **GUILDENSTERN**  
 There are the players.
@@ -2399,7 +2399,7 @@ In what, my dear lord?
 I am but mad north-north-west: when the wind is  
 southerly I know a hawk from a handsaw.
 
-_Enter POLONIUS_
+*Enter POLONIUS*
 
 **LORD POLONIUS**  
 Well be with you, gentlemen!
@@ -2458,7 +2458,7 @@ Why,
 The which he loved passing well.'
 
 **LORD POLONIUS**  
-_\[Aside]_  
+*\[Aside]*  
 Still on my daughter.
 
 **HAMLET**  
@@ -2482,7 +2482,7 @@ and then, you know,
 the first row of the pious chanson will show you  
 more; for look, where my abridgement comes.
 
-_Enter four or five Players_
+*Enter four or five Players*
 
 You are welcome, masters; welcome, all. I am glad  
 to see thee well. Welcome, good friends. O, my old  
@@ -2632,7 +2632,7 @@ Come, sirs.
 **HAMLET**  
 Follow him, friends: we'll hear a play tomorrow.
 
-_Exit POLONIUS with all the Players but the First_
+*Exit POLONIUS with all the Players but the First*
 
 Dost thou hear me, old friend; can you play the  
 Murder of Gonzago?
@@ -2652,7 +2652,7 @@ Ay, my lord.
 Very well. Follow that lord; and look you mock him  
 not.
 
-_Exit First Player_
+*Exit First Player*
 
 My good friends, I'll leave you till night: you are  
 welcome to Elsinore.
@@ -2663,7 +2663,7 @@ Good my lord!
 **HAMLET**  
 Ay, so, God be wi' ye;
 
-_Exeunt ROSENCRANTZ and GUILDENSTERN_
+*Exeunt ROSENCRANTZ and GUILDENSTERN*
 
 Now I am alone.  
 O, what a rogue and peasant slave am I!  
@@ -2725,14 +2725,14 @@ Abuses me to damn me: I'll have grounds
 More relative than this: the play 's the thing  
 Wherein I'll catch the conscience of the king.
 
-_Exit_
+*Exit*
 
 ## ACT III
 
 ### SCENE I. A room in the castle.
 
-_Enter KING CLAUDIUS, QUEEN GERTRUDE, POLONIUS, OPHELIA, ROSENCRANTZ,
-and GUILDENSTERN_
+*Enter KING CLAUDIUS, QUEEN GERTRUDE, POLONIUS, OPHELIA, ROSENCRANTZ,
+and GUILDENSTERN*
 
 **KING CLAUDIUS**  
 And can you, by no drift of circumstance,  
@@ -2789,7 +2789,7 @@ And drive his purpose on to these delights.
 **ROSENCRANTZ**  
 We shall, my lord.
 
-_Exeunt ROSENCRANTZ and GUILDENSTERN_
+*Exeunt ROSENCRANTZ and GUILDENSTERN*
 
 **KING CLAUDIUS**  
 Sweet Gertrude, leave us too;  
@@ -2814,13 +2814,13 @@ To both your honours.
 **OPHELIA**  
 Madam, I wish it may.
 
-_Exit QUEEN GERTRUDE_
+*Exit QUEEN GERTRUDE*
 
 **LORD POLONIUS**  
 Ophelia, walk you here. Gracious, so please you,  
 We will bestow ourselves.
 
-_To OPHELIA_
+*To OPHELIA*
 
 Read on this book;  
 That show of such an exercise may colour  
@@ -2830,7 +2830,7 @@ And pious action we do sugar o'er
 The devil himself.
 
 **KING CLAUDIUS**  
-_\[Aside]_  
+*\[Aside]*  
 O, 'tis too true!  
 How smart a lash that speech doth give my conscience!  
 The harlot's cheek, beautied with plastering art,  
@@ -2841,9 +2841,9 @@ O heavy burthen!
 **LORD POLONIUS**  
 I hear him coming: let's withdraw, my lord.
 
-_Exeunt KING CLAUDIUS and POLONIUS_
+*Exeunt KING CLAUDIUS and POLONIUS*
 
-_Enter HAMLET_
+*Enter HAMLET*
 
 **HAMLET**  
 To be, or not to be: that is the question:  
@@ -2990,7 +2990,7 @@ those that are married already, all but one, shall
 live; the rest shall keep as they are. To a  
 nunnery, go.
 
-_Exit_
+*Exit*
 
 **OPHELIA**  
 O, what a noble mind is here o'erthrown!  
@@ -3006,7 +3006,7 @@ That unmatch'd form and feature of blown youth
 Blasted with ecstasy: O, woe is me,  
 To have seen what I have seen, see what I see!
 
-_Re-enter KING CLAUDIUS and POLONIUS_
+*Re-enter KING CLAUDIUS and POLONIUS*
 
 **KING CLAUDIUS**  
 Love! his affections do not that way tend;  
@@ -3042,11 +3042,11 @@ Your wisdom best shall think.
 It shall be so:  
 Madness in great ones must not unwatch'd go.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE II. A hall in the castle.
 
-_Enter HAMLET and Players_
+*Enter HAMLET and Players*
 
 **HAMLET**  
 Speak the speech, I pray you, as I pronounced it to  
@@ -3104,9 +3104,9 @@ question of the play be then to be considered:
 that's villanous, and shows a most pitiful ambition  
 in the fool that uses it. Go, make you ready.
 
-_Exeunt Players_
+*Exeunt Players*
 
-_Enter POLONIUS, ROSENCRANTZ, and GUILDENSTERN_
+*Enter POLONIUS, ROSENCRANTZ, and GUILDENSTERN*
 
 How now, my lord! I will the king hear this piece of work?
 
@@ -3116,19 +3116,19 @@ And the queen too, and that presently.
 **HAMLET**  
 Bid the players make haste.
 
-_Exit POLONIUS_
+*Exit POLONIUS*
 
 Will you two help to hasten them?
 
 **ROSENCRANTZ and GUILDENSTERN**  
 We will, my lord.
 
-_Exeunt ROSENCRANTZ and GUILDENSTERN_
+*Exeunt ROSENCRANTZ and GUILDENSTERN*
 
 **HAMLET**  
 What ho! Horatio!
 
-_Enter HORATIO_
+*Enter HORATIO*
 
 **HORATIO**  
 Here, sweet lord, at your service.
@@ -3183,8 +3183,8 @@ And 'scape detecting, I will pay the theft.
 They are coming to the play; I must be idle:  
 Get you a place.
 
-_Danish march. A flourish. Enter KING CLAUDIUS, QUEEN GERTRUDE,
-POLONIUS, OPHELIA, ROSENCRANTZ, GUILDENSTERN, and others_
+*Danish march. A flourish. Enter KING CLAUDIUS, QUEEN GERTRUDE,
+POLONIUS, OPHELIA, ROSENCRANTZ, GUILDENSTERN, and others*
 
 **KING CLAUDIUS**  
 How fares our cousin Hamlet?
@@ -3200,7 +3200,7 @@ are not mine.
 **HAMLET**  
 No, nor mine now.
 
-_\[To POLONIUS]_  
+*\[To POLONIUS]*  
 My lord, you played once i' the university, you say?
 
 **LORD POLONIUS**  
@@ -3227,13 +3227,13 @@ Come hither, my dear Hamlet, sit by me.
 No, good mother, here's metal more attractive.
 
 **LORD POLONIUS**  
-_\[To KING CLAUDIUS]_  
+*\[To KING CLAUDIUS]*  
 O, ho! do you mark that?
 
 **HAMLET**  
 Lady, shall I lie in your lap?
 
-_Lying down at OPHELIA 's feet_
+*Lying down at OPHELIA 's feet*
 
 **OPHELIA**  
 No, my lord.
@@ -3286,9 +3286,9 @@ then; or else shall he suffer not thinking on, with
 the hobby-horse, whose epitaph is 'For, O, for, O,  
 the hobby-horse is forgot.'
 
-_Hautboys play. The dumb-show enters_
+*Hautboys play. The dumb-show enters*
 
-_Enter a King and a Queen very lovingly; the Queen embracing him, and he
+*Enter a King and a Queen very lovingly; the Queen embracing him, and he
 her. She kneels, and makes show of protestation unto him. He takes her
 up, and declines his head upon her neck: lays him down upon a bank of
 flowers: she, seeing him asleep, leaves him. Anon comes in a fellow,
@@ -3297,9 +3297,9 @@ and exit. The Queen returns; finds the King dead, and makes passionate
 action. The Poisoner, with some two or three Mutes, comes in again,
 seeming to lament with her. The dead body is carried away. The Poisoner
 wooes the Queen with gifts: she seems loath and unwilling awhile, but in
-the end accepts his love_
+the end accepts his love*
 
-_Exeunt_
+*Exeunt*
 
 **OPHELIA**  
 What means this, my lord?
@@ -3310,7 +3310,7 @@ Marry, this is miching mallecho; it means mischief.
 **OPHELIA**  
 Belike this show imports the argument of the play.
 
-_Enter Prologue_
+*Enter Prologue*
 
 **HAMLET**  
 We shall know by this fellow: the players cannot  
@@ -3331,7 +3331,7 @@ For us, and for our tragedy,
 Here stooping to your clemency,  
 We beg your hearing patiently.
 
-_Exit_
+*Exit*
 
 **HAMLET**  
 Is this a prologue, or the posy of a ring?
@@ -3342,7 +3342,7 @@ Is this a prologue, or the posy of a ring?
 **HAMLET**  
 As woman's love.
 
-_Enter two Players, King and Queen_
+*Enter two Players, King and Queen*
 
 **Player King**  
 Full thirty times hath Phoebus' cart gone round  
@@ -3380,7 +3380,7 @@ In second husband let me be accurst!
 None wed the second but who kill'd the first.
 
 **HAMLET**  
-_\[Aside]_  
+*\[Aside]*  
 Wormwood, wormwood.
 
 **Player Queen**  
@@ -3439,13 +3439,13 @@ If she should break it now!
 My spirits grow dull, and fain I would beguile  
 The tedious day with sleep.
 
-_Sleeps_
+*Sleeps*
 
 **Player Queen**  
 Sleep rock thy brain,  
 And never come mischance between us twain!
 
-_Exit_
+*Exit*
 
 **HAMLET**  
 Madam, how like you this play?
@@ -3475,7 +3475,7 @@ that? your majesty and we that have free souls, it
 touches us not: let the galled jade wince, our  
 withers are unwrung.
 
-_Enter LUCIANUS_
+*Enter LUCIANUS*
 
 This is one Lucianus, nephew to the king.
 
@@ -3508,7 +3508,7 @@ With Hecate's ban thrice blasted, thrice infected,
 Thy natural magic and dire property,  
 On wholesome life usurp immediately.
 
-_Pours the poison into the sleeper 's ears_
+*Pours the poison into the sleeper 's ears*
 
 **HAMLET**  
 He poisons him i' the garden for's estate. His  
@@ -3534,7 +3534,7 @@ Give me some light: away!
 **All**  
 Lights, lights, lights!
 
-_Exeunt all but HAMLET and HORATIO_
+*Exeunt all but HAMLET and HORATIO*
 
 **HAMLET**  
 Why, let the stricken deer go weep,  
@@ -3578,7 +3578,7 @@ For if the king like not the comedy,
 Why then, belike, he likes it not, perdy.  
 Come, some music!
 
-_Re-enter ROSENCRANTZ and GUILDENSTERN_
+*Re-enter ROSENCRANTZ and GUILDENSTERN*
 
 **GUILDENSTERN**  
 Good my lord, vouchsafe me a word with you.
@@ -3679,7 +3679,7 @@ himself for your succession in Denmark?
 Ay, but sir, 'While the grass grows,'\--the proverb  
 is something musty.
 
-_Re-enter Players with recorders_
+*Re-enter Players with recorders*
 
 O, the recorders! let me see one. To withdraw with  
 you:--why do you go about to recover the wind of me,  
@@ -3730,7 +3730,7 @@ easier to be played on than a pipe? Call me what
 instrument you will, though you can fret me, yet you  
 cannot play upon me.
 
-_Enter POLONIUS_
+*Enter POLONIUS*
 
 God bless you, sir!
 
@@ -3765,11 +3765,11 @@ I will say so.
 **HAMLET**  
 By and by is easily said.
 
-_Exit POLONIUS_
+*Exit POLONIUS*
 
 Leave me, friends.
 
-_Exeunt all but HAMLET_
+*Exeunt all but HAMLET*
 
 Tis now the very witching time of night,  
 When churchyards yawn and hell itself breathes out  
@@ -3784,11 +3784,11 @@ My tongue and soul in this be hypocrites;
 How in my words soever she be shent,  
 To give them seals never, my soul, consent!
 
-_Exit_
+*Exit*
 
 ### SCENE III. A room in the castle.
 
-_Enter KING CLAUDIUS, ROSENCRANTZ, and GUILDENSTERN_
+*Enter KING CLAUDIUS, ROSENCRANTZ, and GUILDENSTERN*
 
 **KING CLAUDIUS**  
 I like him not, nor stands it safe with us  
@@ -3828,9 +3828,9 @@ Which now goes too free-footed.
 **ROSENCRANTZ and GUILDENSTERN**  
 We will haste us.
 
-_Exeunt ROSENCRANTZ and GUILDENSTERN_
+*Exeunt ROSENCRANTZ and GUILDENSTERN*
 
-_Enter POLONIUS_
+*Enter POLONIUS*
 
 **LORD POLONIUS**  
 My lord, he's going to his mother's closet:  
@@ -3846,7 +3846,7 @@ And tell you what I know.
 **KING CLAUDIUS**  
 Thanks, dear my lord.
 
-_Exit POLONIUS_
+*Exit POLONIUS*
 
 O, my offence is rank it smells to heaven;  
 It hath the primal eldest curse upon't,  
@@ -3886,9 +3886,9 @@ Bow, stubborn knees; and, heart with strings of steel,
 Be soft as sinews of the newborn babe!  
 All may be well.
 
-_Retires and kneels_
+*Retires and kneels*
 
-_Enter HAMLET_
+*Enter HAMLET*
 
 **HAMLET**  
 Now might I do it pat, now he is praying;  
@@ -3916,18 +3916,18 @@ And that his soul may be as damn'd and black
 As hell, whereto it goes. My mother stays:  
 This physic but prolongs thy sickly days.
 
-_Exit_
+*Exit*
 
 **KING CLAUDIUS**  
-_\[Rising]_  
+*\[Rising]*  
 My words fly up, my thoughts remain below:  
 Words without thoughts never to heaven go.
 
-_Exit_
+*Exit*
 
 ### SCENE IV. The Queen's closet.
 
-_Enter QUEEN GERTRUDE and POLONIUS_
+*Enter QUEEN GERTRUDE and POLONIUS*
 
 **LORD POLONIUS**  
 He will come straight. Look you lay home to him:  
@@ -3937,16 +3937,16 @@ Much heat and him. I'll sconce me even here.
 Pray you, be round with him.
 
 **HAMLET**  
-_\[Within]_  
+*\[Within]*  
 Mother, mother, mother!
 
 **QUEEN GERTRUDE**  
 I'll warrant you,  
 Fear me not: withdraw, I hear him coming.
 
-_POLONIUS hides behind the arras_
+*POLONIUS hides behind the arras*
 
-_Enter HAMLET_
+*Enter HAMLET*
 
 **HAMLET**  
 Now, mother, what's the matter?
@@ -3990,20 +3990,20 @@ What wilt thou do? thou wilt not murder me?
 Help, help, ho!
 
 **LORD POLONIUS**  
-_\[Behind]_  
+*\[Behind]*  
 What, ho! help, help, help!
 
 **HAMLET**  
-_\[Drawing]_  
+*\[Drawing]*  
 How now! a rat? Dead, for a ducat, dead!
 
-_Makes a pass through the arras_
+*Makes a pass through the arras*
 
 **LORD POLONIUS**  
-_\[Behind]_  
+*\[Behind]*  
 O, I am slain!
 
-_Falls and dies_
+*Falls and dies*
 
 **QUEEN GERTRUDE**  
 O me, what hast thou done?
@@ -4025,7 +4025,7 @@ As kill a king!
 **HAMLET**  
 Ay, lady, 'twas my word.
 
-_Lifts up the arras and discovers POLONIUS_
+*Lifts up the arras and discovers POLONIUS*
 
 Thou wretched, rash, intruding fool, farewell!  
 I took thee for thy better: take thy fortune;  
@@ -4127,7 +4127,7 @@ No more!
 **HAMLET**  
 A king of shreds and patches,--
 
-_Enter Ghost_
+*Enter Ghost*
 
 Save me, and hover o'er me with your wings,  
 You heavenly guards! What would your gracious figure?
@@ -4190,7 +4190,7 @@ Why, look you there! look, how it steals away!
 My father, in his habit as he lived!  
 Look, where he goes, even now, out at the portal!
 
-_Exit Ghost_
+*Exit Ghost*
 
 **QUEEN GERTRUDE**  
 This the very coinage of your brain:  
@@ -4232,13 +4232,13 @@ That aptly is put on. Refrain to-night,
 And that shall lend a kind of easiness  
 To the next abstinence: the next more easy;  
 For use almost can change the stamp of nature,  
-And either _\[ ]_  
+And either *\[ ]*  
 the devil, or throw him out  
 With wondrous potency. Once more, good night:  
 And when you are desirous to be bless'd,  
 I'll blessing beg of you. For this same lord,
 
-_Pointing to POLONIUS_
+*Pointing to POLONIUS*
 
 I do repent: but heaven hath pleased it so,  
 To punish me with this and this with me,  
@@ -4300,13 +4300,13 @@ Who was in life a foolish prating knave.
 Come, sir, to draw toward an end with you.  
 Good night, mother.
 
-_Exeunt severally; HAMLET dragging in POLONIUS_
+*Exeunt severally; HAMLET dragging in POLONIUS*
 
 ## ACT IV
 
 ### SCENE I. A room in the castle.
 
-_Enter KING CLAUDIUS, QUEEN GERTRUDE, ROSENCRANTZ, and GUILDENSTERN_
+*Enter KING CLAUDIUS, QUEEN GERTRUDE, ROSENCRANTZ, and GUILDENSTERN*
 
 **KING CLAUDIUS**  
 There's matter in these sighs, these profound heaves:  
@@ -4316,7 +4316,7 @@ Where is your son?
 **QUEEN GERTRUDE**  
 Bestow this place on us a little while.
 
-_Exeunt ROSENCRANTZ and GUILDENSTERN_
+*Exeunt ROSENCRANTZ and GUILDENSTERN*
 
 Ah, my good lord, what have I seen to-night!
 
@@ -4358,7 +4358,7 @@ But we will ship him hence: and this vile deed
 We must, with all our majesty and skill,  
 Both countenance and excuse. Ho, Guildenstern!
 
-_Re-enter ROSENCRANTZ and GUILDENSTERN_
+*Re-enter ROSENCRANTZ and GUILDENSTERN*
 
 Friends both, go join you with some further aid:  
 Hamlet in madness hath Polonius slain,  
@@ -4366,31 +4366,31 @@ And from his mother's closet hath he dragg'd him:
 Go seek him out; speak fair, and bring the body  
 Into the chapel. I pray you, haste in this.
 
-_Exeunt ROSENCRANTZ and GUILDENSTERN_
+*Exeunt ROSENCRANTZ and GUILDENSTERN*
 
 Come, Gertrude, we'll call up our wisest friends;  
 And let them know, both what we mean to do,  
 And what's untimely done. O, come away!  
 My soul is full of discord and dismay.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE II. Another room in the castle.
 
-_Enter HAMLET_
+*Enter HAMLET*
 
 **HAMLET**  
 Safely stowed.
 
 **ROSENCRANTZ: and GUILDENSTERN:**  
-_\[Within]_  
+*\[Within]*  
 Hamlet! Lord Hamlet!
 
 **HAMLET**  
 What noise? who calls on Hamlet?  
 O, here they come.
 
-_Enter ROSENCRANTZ and GUILDENSTERN_
+*Enter ROSENCRANTZ and GUILDENSTERN*
 
 **ROSENCRANTZ**  
 What have you done, my lord, with the dead body?
@@ -4446,11 +4446,11 @@ A thing, my lord!
 **HAMLET**  
 Of nothing: bring me to him. Hide fox, and all after.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE III. Another room in the castle.
 
-_Enter KING CLAUDIUS, attended_
+*Enter KING CLAUDIUS, attended*
 
 **KING CLAUDIUS**  
 I have sent to seek him, and to find the body.  
@@ -4465,7 +4465,7 @@ Deliberate pause: diseases desperate grown
 By desperate appliance are relieved,  
 Or not at all.
 
-_Enter ROSENCRANTZ_
+*Enter ROSENCRANTZ*
 
 How now! what hath befall'n?
 
@@ -4485,7 +4485,7 @@ Bring him before us.
 **ROSENCRANTZ**  
 Ho, Guildenstern! bring in my lord.
 
-_Enter HAMLET and GUILDENSTERN_
+*Enter HAMLET and GUILDENSTERN*
 
 **KING CLAUDIUS**  
 Now, Hamlet, where's Polonius?
@@ -4532,12 +4532,12 @@ stairs into the lobby.
 **KING CLAUDIUS**  
 Go seek him there.
 
-_To some Attendants_
+*To some Attendants*
 
 **HAMLET**  
 He will stay till ye come.
 
-_Exeunt Attendants_
+*Exeunt Attendants*
 
 **KING CLAUDIUS**  
 Hamlet, this deed, for thine especial safety,--  
@@ -4571,7 +4571,7 @@ Thy loving father, Hamlet.
 My mother: father and mother is man and wife; man  
 and wife is one flesh; and so, my mother. Come, for England!
 
-_Exit_
+*Exit*
 
 **KING CLAUDIUS**  
 Follow him at foot; tempt him with speed aboard;  
@@ -4579,7 +4579,7 @@ Delay it not; I'll have him hence to-night:
 Away! for everything is seal'd and done  
 That else leans on the affair: pray you, make haste.
 
-_Exeunt ROSENCRANTZ and GUILDENSTERN_
+*Exeunt ROSENCRANTZ and GUILDENSTERN*
 
 And, England, if my love thou hold'st at aught--  
 As my great power thereof may give thee sense,  
@@ -4593,11 +4593,11 @@ For like the hectic in my blood he rages,
 And thou must cure me: till I know 'tis done,  
 Howe'er my haps, my joys were ne'er begun.
 
-_Exit_
+*Exit*
 
 ### SCENE IV. A plain in Denmark.
 
-_Enter FORTINBRAS, a Captain, and Soldiers, marching_
+*Enter FORTINBRAS, a Captain, and Soldiers, marching*
 
 **PRINCE FORTINBRAS**  
 Go, captain, from me greet the Danish king;  
@@ -4614,9 +4614,9 @@ I will do't, my lord.
 **PRINCE FORTINBRAS**  
 Go softly on.
 
-_Exeunt FORTINBRAS and Soldiers_
+*Exeunt FORTINBRAS and Soldiers*
 
-_Enter HAMLET, ROSENCRANTZ, GUILDENSTERN, and others_
+*Enter HAMLET, ROSENCRANTZ, GUILDENSTERN, and others*
 
 **HAMLET**  
 Good sir, whose powers are these?
@@ -4664,7 +4664,7 @@ Why the man dies. I humbly thank you, sir.
 **Captain**  
 God be wi' you, sir.
 
-_Exit_
+*Exit*
 
 **ROSENCRANTZ**  
 Wilt please you go, my lord?
@@ -4672,7 +4672,7 @@ Wilt please you go, my lord?
 **HAMLET**  
 I'll be with you straight go a little before.
 
-_Exeunt all except HAMLET_
+*Exeunt all except HAMLET*
 
 How all occasions do inform against me,  
 And spur my dull revenge! What is a man,  
@@ -4710,11 +4710,11 @@ Which is not tomb enough and continent
 To hide the slain? O, from this time forth,  
 My thoughts be bloody, or be nothing worth!
 
-_Exit_
+*Exit*
 
 ### SCENE V. Elsinore. A room in the castle.
 
-_Enter QUEEN GERTRUDE, HORATIO, and a Gentleman_
+*Enter QUEEN GERTRUDE, HORATIO, and a Gentleman*
 
 **QUEEN GERTRUDE**  
 I will not speak with her.
@@ -4746,14 +4746,14 @@ Dangerous conjectures in ill-breeding minds.
 **QUEEN GERTRUDE**  
 Let her come in.
 
-_Exit HORATIO_
+*Exit HORATIO*
 
 To my sick soul, as sin's true nature is,  
 Each toy seems prologue to some great amiss:  
 So full of artless jealousy is guilt,  
 It spills itself in fearing to be spilt.
 
-_Re-enter HORATIO, with OPHELIA_
+*Re-enter HORATIO, with OPHELIA*
 
 **OPHELIA**  
 Where is the beauteous majesty of Denmark?
@@ -4762,7 +4762,7 @@ Where is the beauteous majesty of Denmark?
 How now, Ophelia!
 
 **OPHELIA**  
-_\[Sings]_  
+*\[Sings]*  
 How should I your true love know  
 From another one?  
 By his cockle hat and staff,  
@@ -4774,7 +4774,7 @@ Alas, sweet lady, what imports this song?
 **OPHELIA**  
 Say you? nay, pray you, mark.
 
-_Sings_
+*Sings*
 
 He is dead and gone, lady,  
 He is dead and gone;  
@@ -4787,17 +4787,17 @@ Nay, but, Ophelia,--
 **OPHELIA**  
 Pray you, mark.
 
-_Sings_
+*Sings*
 
 White his shroud as the mountain snow,--
 
-_Enter KING CLAUDIUS_
+*Enter KING CLAUDIUS*
 
 **QUEEN GERTRUDE**  
 Alas, look here, my lord.
 
 **OPHELIA**  
-_\[Sings]_  
+*\[Sings]*  
 Larded with sweet flowers  
 Which bewept to the grave did go  
 With true-love showers.
@@ -4817,7 +4817,7 @@ Conceit upon her father.
 Pray you, let's have no words of this; but when they  
 ask you what it means, say you this:
 
-_\[Sings]_  
+*\[Sings]*  
 Tomorrow is Saint Valentine's day,  
 All in the morning betime,  
 And I a maid at your window,  
@@ -4833,7 +4833,7 @@ Pretty Ophelia!
 **OPHELIA**  
 Indeed, la, without an oath, I'll make an end on't:
 
-_Sings_
+*Sings*
 
 By Gis and by Saint Charity,  
 Alack, and fie for shame!  
@@ -4855,13 +4855,13 @@ and so I thank you for your good counsel. Come, my
 coach! Good night, ladies; good night, sweet ladies;  
 good night, good night.
 
-_Exit_
+*Exit*
 
 **KING CLAUDIUS**  
 Follow her close; give her good watch,  
 I pray you.
 
-_Exit HORATIO_
+*Exit HORATIO*
 
 O, this is the poison of deep grief; it springs  
 All from her father's death. O Gertrude, Gertrude,  
@@ -4885,7 +4885,7 @@ In ear and ear. O my dear Gertrude, this,
 Like to a murdering-piece, in many places  
 Gives me superfluous death.
 
-_A noise within_
+*A noise within*
 
 **QUEEN GERTRUDE**  
 Alack, what noise is this?
@@ -4893,7 +4893,7 @@ Alack, what noise is this?
 **KING CLAUDIUS**  
 Where are my Switzers? Let them guard the door.
 
-_Enter another Gentleman_
+*Enter another Gentleman*
 
 What is the matter?
 
@@ -4917,9 +4917,9 @@ O, this is counter, you false Danish dogs!
 **KING CLAUDIUS**  
 The doors are broke.
 
-_Noise within_
+*Noise within*
 
-_Enter LAERTES, armed; Danes following_
+*Enter LAERTES, armed; Danes following*
 
 **LAERTES**  
 Where is this king? Sirs, stand you all without.
@@ -4933,7 +4933,7 @@ I pray you, give me leave.
 **Danes**  
 We will, we will.
 
-_They retire without the door_
+*They retire without the door*
 
 **LAERTES**  
 I thank you: keep the door. O thou vile king,  
@@ -5014,13 +5014,13 @@ It shall as level to your judgment pierce
 As day does to your eye.
 
 **Danes**  
-_\[Within]_  
+*\[Within]*  
 Let her come in.
 
 **LAERTES**  
 How now! what noise is that?
 
-_Re-enter OPHELIA_
+*Re-enter OPHELIA*
 
 O heat, dry up my brains! tears seven times salt,  
 Burn out the sense and virtue of mine eye!  
@@ -5034,7 +5034,7 @@ It sends some precious instance of itself
 After the thing it loves.
 
 **OPHELIA**  
-_\[Sings]_  
+*\[Sings]*  
 They bore him barefaced on the bier;  
 Hey non nonny, nonny, hey nonny;  
 And in his grave rain'd many a tear:--  
@@ -5045,7 +5045,7 @@ Hadst thou thy wits, and didst persuade revenge,
 It could not move thus.
 
 **OPHELIA**  
-_\[Sings]_  
+*\[Sings]*  
 You must sing a-down a-down,  
 An you call him a-down-a.  
 O, how the wheel becomes it! It is the false  
@@ -5069,7 +5069,7 @@ a difference. There's a daisy: I would give you
 some violets, but they withered all when my father  
 died: they say he made a good end,--
 
-_\[Sings]_  
+*\[Sings]*  
 For bonny sweet Robin is all my joy.
 
 **LAERTES**  
@@ -5077,7 +5077,7 @@ Thought and affliction, passion, hell itself,
 She turns to favour and to prettiness.
 
 **OPHELIA**  
-_\[Sings]_  
+*\[Sings]*  
 And will he not come again?  
 And will he not come again?  
 No, no, he is dead:  
@@ -5091,7 +5091,7 @@ God ha' mercy on his soul!
 
 And of all Christian souls, I pray God. God be wi' ye.
 
-_Exit_
+*Exit*
 
 **LAERTES**  
 Do you see this, O God?
@@ -5122,11 +5122,11 @@ So you shall;
 And where the offence is let the great axe fall.  
 I pray you, go with me.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE VI. Another room in the castle.
 
-_Enter HORATIO and a Servant_
+*Enter HORATIO and a Servant*
 
 **HORATIO**  
 What are they that would speak with me?
@@ -5137,12 +5137,12 @@ Sailors, sir: they say they have letters for you.
 **HORATIO**  
 Let them come in.
 
-_Exit Servant_
+*Exit Servant*
 
 I do not know from what part of the world  
 I should be greeted, if not from Lord Hamlet.
 
-_Enter Sailors_
+*Enter Sailors*
 
 **First Sailor**  
 God bless you, sir.
@@ -5157,7 +5157,7 @@ bound for England; if your name be Horatio, as I am
 let to know it is.
 
 **HORATIO**  
-_\[Reads]_  
+*\[Reads]*  
 'Horatio, when thou shalt have overlooked  
 this, give these fellows some means to the king:  
 they have letters for him. Ere we were two days old  
@@ -5181,11 +5181,11 @@ Come, I will make you way for these your letters;
 And do't the speedier, that you may direct me  
 To him from whom you brought them.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE VII. Another room in the castle.
 
-_Enter KING CLAUDIUS and LAERTES_
+*Enter KING CLAUDIUS and LAERTES*
 
 **KING CLAUDIUS**  
 Now must your conscience my acquaintance seal,  
@@ -5234,7 +5234,7 @@ And think it pastime. You shortly shall hear more:
 I loved your father, and we love ourself;  
 And that, I hope, will teach you to imagine--
 
-_Enter a Messenger_
+*Enter a Messenger*
 
 How now! what news?
 
@@ -5253,9 +5253,9 @@ Of him that brought them.
 **KING CLAUDIUS**  
 Laertes, you shall hear them. Leave us.
 
-_Exit Messenger_
+*Exit Messenger*
 
-_\[Reads]_  
+*\[Reads]*  
 'High and mighty, You shall know I am set naked on  
 your kingdom. Tomorrow shall I beg leave to see  
 your kingly eyes: when I shall, first asking your  
@@ -5436,7 +5436,7 @@ A chalice for the nonce, whereon but sipping,
 If he by chance escape your venom'd stuck,  
 Our purpose may hold there.
 
-_Enter QUEEN GERTRUDE_
+*Enter QUEEN GERTRUDE*
 
 How now, sweet queen!
 
@@ -5482,7 +5482,7 @@ The woman will be out. Adieu, my lord:
 I have a speech of fire, that fain would blaze,  
 But that this folly douts it.
 
-_Exit_
+*Exit*
 
 **KING CLAUDIUS**  
 Let's follow, Gertrude:  
@@ -5490,13 +5490,13 @@ How much I had to do to calm his rage!
 Now fear I this will give it start again;  
 Therefore let's follow.
 
-_Exeunt_
+*Exeunt*
 
 ## ACT V
 
 ### SCENE I. A churchyard.
 
-_Enter two Clowns, with spades, & c_
+*Enter two Clowns, with spades, & c*
 
 **First Clown**  
 Is she to be buried in Christian burial that  
@@ -5601,7 +5601,7 @@ To't.
 **Second Clown**  
 Mass, I cannot tell.
 
-_Enter HAMLET and HORATIO, at a distance_
+*Enter HAMLET and HORATIO, at a distance*
 
 **First Clown**  
 Cudgel thy brains no more about it, for your dull  
@@ -5611,9 +5611,9 @@ grave-maker: 'the houses that he makes last till
 doomsday. Go, get thee to Yaughan: fetch me a  
 stoup of liquor.
 
-_Exit Second Clown_
+*Exit Second Clown*
 
-_He digs and sings_
+*He digs and sings*
 
 In youth, when I did love, did love,  
 Methought it was very sweet,  
@@ -5632,13 +5632,13 @@ Custom hath made it in him a property of easiness.
 the daintier sense.
 
 **First Clown**  
-_\[Sings]_  
+*\[Sings]*  
 But age, with his stealing steps,  
 Hath claw'd me in his clutch,  
 And hath shipped me intil the land,  
 As if I had never been such.
 
-_Throws up a skull_
+*Throws up a skull*
 
 **HAMLET**  
 That skull had a tongue in it, and could sing once:  
@@ -5668,13 +5668,13 @@ see't. Did these bones cost no more the breeding,
 but to play at loggats with 'em? mine ache to think on't.
 
 **First Clown**  
-_\[Sings]_  
+*\[Sings]*  
 A pick-axe, and a spade, a spade,  
 For and a shrouding sheet:  
 O, a pit of clay for to be made  
 For such a guest is meet.
 
-_Throws up another skull_
+*Throws up another skull*
 
 **HAMLET**  
 There's another: why may not that be the skull of a  
@@ -5710,7 +5710,7 @@ grave's this, sirrah?
 **First Clown**  
 Mine, sir.
 
-_\[Sings]_  
+*\[Sings]*  
 O, a pit of clay for to be made  
 For such a guest is meet.
 
@@ -5843,7 +5843,7 @@ E'en that.
 **HAMLET**  
 Let me see.
 
-_Takes the skull_
+*Takes the skull*
 
 Alas, poor Yorick! I knew him, Horatio: a fellow  
 of infinite jest, of most excellent fancy: he hath  
@@ -5872,7 +5872,7 @@ E'en so.
 **HAMLET**  
 And smelt so? pah!
 
-_Puts down the skull_
+*Puts down the skull*
 
 **HORATIO**  
 E'en so, my lord.
@@ -5898,8 +5898,8 @@ O, that that earth, which kept the world in awe,
 Should patch a wall to expel the winter flaw!  
 But soft! but soft! aside: here comes the king.
 
-_Enter Priest, & c. in procession; the Corpse of OPHELIA, LAERTES and
-Mourners following; KING CLAUDIUS, QUEEN GERTRUDE, their trains, & c_
+*Enter Priest, & c. in procession; the Corpse of OPHELIA, LAERTES and
+Mourners following; KING CLAUDIUS, QUEEN GERTRUDE, their trains, & c*
 
 The queen, the courtiers: who is this they follow?  
 And with such maimed rites? This doth betoken  
@@ -5907,7 +5907,7 @@ The corse they follow did with desperate hand
 Fordo its own life: 'twas of some estate.  
 Couch we awhile, and mark.
 
-_Retiring with HORATIO_
+*Retiring with HORATIO*
 
 **LAERTES**  
 What ceremony else?
@@ -5952,7 +5952,7 @@ What, the fair Ophelia!
 **QUEEN GERTRUDE**  
 Sweets to the sweet: farewell!
 
-_\[Scattering flowers]_  
+*\[Scattering flowers]*  
 I hoped thou shouldst have been my Hamlet's wife;  
 I thought thy bride-bed to have deck'd, sweet maid,  
 And not have strew'd thy grave.
@@ -5964,7 +5964,7 @@ Whose wicked deed thy most ingenious sense
 Deprived thee of! Hold off the earth awhile,  
 Till I have caught her once more in mine arms:
 
-_Leaps into the grave_
+*Leaps into the grave*
 
 Now pile your dust upon the quick and dead,  
 Till of this flat a mountain you have made,  
@@ -5972,19 +5972,19 @@ To o'ertop old Pelion, or the skyish head
 Of blue Olympus.
 
 **HAMLET**  
-_\[Advancing]_  
+*\[Advancing]*  
 What is he whose grief  
 Bears such an emphasis? whose phrase of sorrow  
 Conjures the wandering stars, and makes them stand  
 Like wonder-wounded hearers? This is I,  
 Hamlet the Dane.
 
-_\[Leaps into the grave]_
+*\[Leaps into the grave]*
 
 **LAERTES**  
 The devil take thy soul!
 
-_Grappling with him_
+*Grappling with him*
 
 **HAMLET**  
 Thou pray'st not well.  
@@ -6005,7 +6005,7 @@ Gentlemen,--
 **HORATIO**  
 Good my lord, be quiet.
 
-_The Attendants part them, and they come out of the grave_
+*The Attendants part them, and they come out of the grave*
 
 **HAMLET**  
 Why I will fight with him upon this theme  
@@ -6052,14 +6052,14 @@ I loved you ever: but it is no matter;
 Let Hercules himself do what he may,  
 The cat will mew and dog will have his day.
 
-_Exit_
+*Exit*
 
 **KING CLAUDIUS**  
 I pray you, good Horatio, wait upon him.
 
-_Exit HORATIO_
+*Exit HORATIO*
 
-_\[To LAERTES]_  
+*\[To LAERTES]*  
 Strengthen your patience in our last night's speech;  
 We'll put the matter to the present push.  
 Good Gertrude, set some watch over your son.  
@@ -6067,11 +6067,11 @@ This grave shall have a living monument:
 An hour of quiet shortly shall we see;  
 Till then, in patience our proceeding be.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE II. A hall in the castle.
 
-_Enter HAMLET and HORATIO_
+*Enter HAMLET and HORATIO*
 
 **HAMLET**  
 So much for this, sir: now shall you see the other;  
@@ -6199,7 +6199,7 @@ Into a towering passion.
 **HORATIO**  
 Peace! who comes here?
 
-_Enter OSRIC_
+*Enter OSRIC*
 
 **OSRIC**  
 Your lordship is right welcome back to Denmark.
@@ -6248,7 +6248,7 @@ great wager on your head: sir, this is the matter,--
 **HAMLET**  
 I beseech you, remember--
 
-_HAMLET moves him to put on his hat_
+*HAMLET moves him to put on his hat*
 
 **OSRIC**  
 Nay, good my lord; for mine ease, in good faith.  
@@ -6382,7 +6382,7 @@ I commend my duty to your lordship.
 **HAMLET**  
 Yours, yours.
 
-_Exit OSRIC_
+*Exit OSRIC*
 
 He does well to commend it himself; there are no  
 tongues else for's turn.
@@ -6399,7 +6399,7 @@ yesty collection, which carries them through and
 through the most fond and winnowed opinions; and do  
 but blow them to their trial, the bubbles are out.
 
-_Enter a Lord_
+*Enter a Lord*
 
 **Lord**  
 My lord, his majesty commended him to you by young  
@@ -6425,7 +6425,7 @@ entertainment to Laertes before you fall to play.
 **HAMLET**  
 She well instructs me.
 
-_Exit Lord_
+*Exit Lord*
 
 **HORATIO**  
 You will lose this wager, my lord.
@@ -6456,13 +6456,13 @@ now; if it be not now, yet it will come: the
 readiness is all: since no man has aught of what he  
 leaves, what is't to leave betimes?
 
-_Enter KING CLAUDIUS, QUEEN GERTRUDE, LAERTES, Lords, OSRIC, and Attendants
-with foils, & c_
+*Enter KING CLAUDIUS, QUEEN GERTRUDE, LAERTES, Lords, OSRIC, and Attendants
+with foils, & c*
 
 **KING CLAUDIUS**  
 Come, Hamlet, come, and take this hand from me.
 
-_KING CLAUDIUS puts LAERTES' hand into HAMLET's_
+*KING CLAUDIUS puts LAERTES' hand into HAMLET's*
 
 **HAMLET**  
 Give me your pardon, sir: I've done you wrong;  
@@ -6533,7 +6533,7 @@ This is too heavy, let me see another.
 **HAMLET**  
 This likes me well. These foils have all a length?
 
-_They prepare to play_
+*They prepare to play*
 
 **OSRIC**  
 Ay, my good lord.
@@ -6559,7 +6559,7 @@ Come on, sir.
 **LAERTES**  
 Come, my lord.
 
-_They play_
+*They play*
 
 **HAMLET**  
 One.
@@ -6580,14 +6580,14 @@ Well; again.
 Stay; give me drink. Hamlet, this pearl is thine;  
 Here's to thy health.
 
-_Trumpets sound, and cannon shot off within_
+*Trumpets sound, and cannon shot off within*
 
 Give him the cup.
 
 **HAMLET**  
 I'll play this bout first; set it by awhile. Come.
 
-_They play_
+*They play*
 
 Another hit; what say you?
 
@@ -6612,7 +6612,7 @@ Gertrude, do not drink.
 I will, my lord; I pray you, pardon me.
 
 **KING CLAUDIUS**  
-_\[Aside]_  
+*\[Aside]*  
 It is the poison'd cup: it is too late.
 
 **HAMLET**  
@@ -6628,7 +6628,7 @@ My lord, I'll hit him now.
 I do not think't.
 
 **LAERTES**  
-_\[Aside]_  
+*\[Aside]*  
 And yet 'tis almost 'gainst my conscience.
 
 **HAMLET**  
@@ -6639,7 +6639,7 @@ I am afeard you make a wanton of me.
 **LAERTES**  
 Say you so? come on.
 
-_They play_
+*They play*
 
 **OSRIC**  
 Nothing, neither way.
@@ -6647,8 +6647,8 @@ Nothing, neither way.
 **LAERTES**  
 Have at you now!
 
-_LAERTES wounds HAMLET; then in scuffling, they change rapiers, and
-HAMLET wounds LAERTES_
+*LAERTES wounds HAMLET; then in scuffling, they change rapiers, and
+HAMLET wounds LAERTES*
 
 **KING CLAUDIUS**  
 Part them; they are incensed.
@@ -6656,7 +6656,7 @@ Part them; they are incensed.
 **HAMLET**  
 Nay, come, again.
 
-_QUEEN GERTRUDE falls_
+*QUEEN GERTRUDE falls*
 
 **OSRIC**  
 Look to the queen there, ho!
@@ -6681,7 +6681,7 @@ She swounds to see them bleed.
 No, no, the drink, the drink,--O my dear Hamlet,--  
 The drink, the drink! I am poison'd.
 
-_Dies_
+*Dies*
 
 **HAMLET**  
 O villany! Ho! let the door be lock'd:  
@@ -6700,7 +6700,7 @@ I can no more: the king, the king's to blame.
 **HAMLET**  
 The point!--envenom'd too!  
 Then, venom, to thy work.  
-_\[Stabs KING CLAUDIUS]_
+*\[Stabs KING CLAUDIUS]*
 
 **All**  
 Treason! treason!
@@ -6713,7 +6713,7 @@ Here, thou incestuous, murderous, damned Dane,
 Drink off this potion. Is thy union here?  
 Follow my mother.
 
-_KING CLAUDIUS dies_
+*KING CLAUDIUS dies*
 
 **LAERTES**  
 He is justly served;  
@@ -6721,7 +6721,7 @@ It is a poison temper'd by himself.
 Exchange forgiveness with me, noble Hamlet:  
 Mine and my father's death come not upon thee,  
 Nor thine on me.  
-_\[Dies]_
+*\[Dies]*
 
 **HAMLET**  
 Heaven make thee free of it! I follow thee.  
@@ -6749,7 +6749,7 @@ Absent thee from felicity awhile,
 And in this harsh world draw thy breath in pain,  
 To tell my story.
 
-_March afar off, and shot within_
+*March afar off, and shot within*
 
 What warlike noise is this?
 
@@ -6766,16 +6766,16 @@ But I do prophesy the election lights
 On Fortinbras: he has my dying voice;  
 So tell him, with the occurrents, more and less,  
 Which have solicited. The rest is silence.  
-_\[Dies]_
+*\[Dies]*
 
 **HORATIO**  
 Now cracks a noble heart. Good night sweet prince:  
 And flights of angels sing thee to thy rest!  
 Why does the drum come hither?
 
-_March within_
+*March within*
 
-_Enter FORTINBRAS, the English Ambassadors, and others_
+*Enter FORTINBRAS, the English Ambassadors, and others*
 
 **PRINCE FORTINBRAS**  
 Where is this sight?
@@ -6840,5 +6840,5 @@ Take up the bodies: such a sight as this
 Becomes the field, but here shows much amiss.  
 Go, bid the soldiers shoot.
 
-_A dead march. Exeunt, bearing off the dead bodies; after which a peal of
-ordnance is shot off_
+*A dead march. Exeunt, bearing off the dead bodies; after which a peal of
+ordnance is shot off*

@@ -2,7 +2,7 @@
 
 ### SCENE I. Antechamber in LEONTES' palace.
 
-_Enter CAMILLO and ARCHIDAMUS_
+*Enter CAMILLO and ARCHIDAMUS*
 
 **ARCHIDAMUS**  
 If you shall chance, Camillo, to visit Bohemia, on  
@@ -75,11 +75,11 @@ desire to live.
 If the king had no son, they would desire to live  
 on crutches till he had one.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE II. A room of state in the same.
 
-_Enter LEONTES, HERMIONE, MAMILLIUS, POLIXENES, CAMILLO, and Attendants_
+*Enter LEONTES, HERMIONE, MAMILLIUS, POLIXENES, CAMILLO, and Attendants*
 
 **POLIXENES**  
 Nine changes of the watery star hath been  
@@ -273,7 +273,7 @@ The one for ever earn'd a royal husband;
 The other for some while a friend. ...
 
 **LEONTES**  
-_\[Aside]_  
+*\[Aside]*  
 ... Too hot, too hot!  
 To mingle friendship far is mingling bloods.  
 I have tremor cordis on me: my heart dances;  
@@ -387,7 +387,7 @@ We are yours i' the garden: shall's attend you there?
 To your own bents dispose you: you'll be found,  
 Be you beneath the sky. ...
 
-_\[Aside]_  
+*\[Aside]*  
 ... I am angling now,  
 Though you perceive me not how I give line.
 
@@ -396,7 +396,7 @@ How she holds up the neb, the bill to him!
 And arms her with the boldness of a wife  
 To her allowing husband! ...
 
-_Exeunt POLIXENES, HERMIONE, and Attendants_
+*Exeunt POLIXENES, HERMIONE, and Attendants*
 
 ... Gone already!  
 Inch-thick, knee-deep, o'er head and ears a fork'd one!  
@@ -435,7 +435,7 @@ Ay, my good lord.
 **LEONTES**  
 Go play, Mamillius; thou'rt an honest man.
 
-_Exit MAMILLIUS_
+*Exit MAMILLIUS*
 
 Camillo, this great sir will yet stay longer.
 
@@ -453,7 +453,7 @@ His business more material. ...
 **LEONTES**  
 ... Didst perceive it?
 
-_\[Aside]_  
+*\[Aside]*  
 They're here with me already, whispering, rounding  
 'Sicilia is a so-forth:' 'tis far gone,  
 When I shall gust it last.' ...
@@ -665,7 +665,7 @@ Do't not, thou split'st thine own. ...
 **LEONTES**  
 I will seem friendly, as thou hast advised me.
 
-_Exit_
+*Exit*
 
 **CAMILLO**  
 O miserable lady! But, for me,  
@@ -683,7 +683,7 @@ Forsake the court: to do't, or no, is certain
 To me a break-neck. Happy star, reign now!  
 Here comes Bohemia. ...
 
-_Re-enter POLIXENES_
+*Re-enter POLIXENES*
 
 **POLIXENES**  
 ... This is strange: methinks  
@@ -848,13 +848,13 @@ It is in mine authority to command
 The keys of all the posterns: please your highness  
 To take the urgent hour. Come, sir, away.
 
-_Exeunt_
+*Exeunt*
 
 ## ACT II
 
 ### SCENE I. A room in LEONTES' palace.
 
-_Enter HERMIONE, MAMILLIUS, and Ladies_
+*Enter HERMIONE, MAMILLIUS, and Ladies*
 
 **HERMIONE**  
 Take the boy to you: he so troubles me,  
@@ -943,7 +943,7 @@ Yond crickets shall not hear it. ...
 ... Come on, then,  
 And give't me in mine ear.
 
-_Enter LEONTES, with ANTIGONUS, Lords and others_
+*Enter LEONTES, with ANTIGONUS, Lords and others*
 
 **LEONTES**  
 Was he met there? his train? Camillo with him?
@@ -1084,7 +1084,7 @@ I trust I shall. My women, come; you have leave.
 **LEONTES**  
 Go, do our bidding; hence!
 
-_Exit HERMIONE, guarded; with Ladies_
+*Exit HERMIONE, guarded; with Ladies*
 
 **First Lord**  
 Beseech your highness, call the queen again.
@@ -1201,27 +1201,27 @@ We are to speak in public; for this business
 Will raise us all. ...
 
 **ANTIGONUS**  
-_\[Aside]_  
+*\[Aside]*  
 ... To laughter, as I take it,  
 If the good truth were known.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE II. A prison.
 
-_Enter PAULINA, a Gentleman, and Attendants_
+*Enter PAULINA, a Gentleman, and Attendants*
 
 **PAULINA**  
 The keeper of the prison, call to him;  
 let him have knowledge who I am. ...
 
-_Exit Gentleman_
+*Exit Gentleman*
 
 ... Good lady,  
 No court in Europe is too good for thee;  
 What dost thou then in prison? ...
 
-_Re-enter Gentleman, with the Jailor_
+*Re-enter Gentleman, with the Jailor*
 
 ... Now, good sir,  
 You know me, do you not? ...
@@ -1254,7 +1254,7 @@ Shall bring Emilia forth. ...
 ... I pray now, call her.  
 Withdraw yourselves. ...
 
-_Exeunt Gentleman and Attendants_
+*Exeunt Gentleman and Attendants*
 
 **Jailor**  
 ... And, madam,  
@@ -1263,12 +1263,12 @@ I must be present at your conference.
 **PAULINA**  
 Well, be't so, prithee.
 
-_Exit Jailor_
+*Exit Jailor*
 
 Here's such ado to make no stain a stain  
 As passes colouring. ...
 
-_Re-enter Jailor, with EMILIA_
+*Re-enter Jailor, with EMILIA*
 
 ... Dear gentlewoman,  
 How fares our gracious lady?
@@ -1346,11 +1346,11 @@ I do believe it.
 Do not you fear: upon mine honor,  
 I will stand betwixt you and danger.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE III. A room in LEONTES' palace.
 
-_Enter LEONTES, ANTIGONUS, Lords, and Servants_
+*Enter LEONTES, ANTIGONUS, Lords, and Servants*
 
 **LEONTES**  
 Nor night nor day no rest: it is but weakness  
@@ -1382,7 +1382,7 @@ Threw off his spirit, his appetite, his sleep,
 And downright languish'd. Leave me solely: go,  
 See how he fares. ...
 
-_Exit Servant_
+*Exit Servant*
 
 ... Fie, fie! no thought of him:  
 The thought of my revenges that way  
@@ -1394,7 +1394,7 @@ Laugh at me, make their pastime at my sorrow:
 They should not laugh if I could reach them, nor  
 Shall she within my power. ...
 
-_Enter PAULINA, with a child_
+*Enter PAULINA, with a child*
 
 **First Lord**  
 ... You must not enter.
@@ -1481,7 +1481,7 @@ First hand me: on mine own accord I'll off;
 But first I'll do my errand. The good queen,  
 For she is good, hath brought you forth a daughter;  
 Here 'tis; commends it to your blessing. ...  
-_\[Laying down the child]_
+*\[Laying down the child]*
 
 **LEONTES**  
 ... Out!  
@@ -1601,7 +1601,7 @@ You, that are thus so tender o'er his follies,
 Will never do him good, not one of you.  
 So, so: farewell; we are gone.
 
-_Exit_
+*Exit*
 
 **LEONTES**  
 Thou, traitor, hast set on thy wife to this.  
@@ -1691,13 +1691,13 @@ In more than this deed does require! And blessing
 Against this cruelty fight on thy side,  
 Poor thing, condemn'd to loss! ...
 
-_Exit with the child_
+*Exit with the child*
 
 **LEONTES**  
 ... No, I'll not rear  
 Another's issue. ...
 
-_Enter a Servant_
+*Enter a Servant*
 
 **Servant**  
 ... Please your highness, posts  
@@ -1722,13 +1722,13 @@ A just and open trial. While she lives
 My heart will be a burthen to me. Leave me,  
 And think upon my bidding.
 
-_Exeunt_
+*Exeunt*
 
 ## ACT III
 
 ### SCENE I. A sea-port in Sicilia.
 
-_Enter CLEOMENES and DION_
+*Enter CLEOMENES and DION*
 
 **CLEOMENES**  
 The climate's delicate, the air most sweet,  
@@ -1769,11 +1769,11 @@ Shall the contents discover, something rare
 Even then will rush to knowledge. Go: fresh horses!  
 And gracious be the issue!
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE II. A court of Justice.
 
-_Enter LEONTES, Lords, and Officers_
+*Enter LEONTES, Lords, and Officers*
 
 **LEONTES**  
 This sessions, to our great grief we pronounce,  
@@ -1789,13 +1789,13 @@ Produce the prisoner.
 It is his highness' pleasure that the queen  
 Appear in person here in court. Silence!
 
-_Enter HERMIONE guarded; PAULINA and Ladies attending_
+*Enter HERMIONE guarded; PAULINA and Ladies attending*
 
 **LEONTES**  
 Read the indictment. ...
 
 **Officer**  
-_\[Reads]_  
+*\[Reads]*  
 ... Hermione, queen to the worthy  
 Leontes, king of Sicilia, thou art here accused and  
 arraigned of high treason, in committing adultery  
@@ -1930,7 +1930,7 @@ Apollo be my judge! ...
 Is altogether just: therefore bring forth,  
 And in Apollos name, his oracle.
 
-_Exeunt certain Officers_
+*Exeunt certain Officers*
 
 **HERMIONE**  
 The Emperor of Russia was my father:  
@@ -1939,7 +1939,7 @@ His daughter's trial! that he did but see
 The flatness of my misery, yet with eyes  
 Of pity, not revenge!
 
-_Re-enter Officers, with CLEOMENES and DION_
+*Re-enter Officers, with CLEOMENES and DION*
 
 **Officer**  
 You here shall swear upon this sword of justice,  
@@ -1957,7 +1957,7 @@ Nor read the secrets in't. ...
 Break up the seals and read. ...
 
 **Officer**  
-_\[Reads]_  
+*\[Reads]*  
 ... Hermione is chaste;  
 Polixenes blameless; Camillo a true subject; Leontes  
 a jealous tyrant; his innocent babe truly begotten;  
@@ -1981,7 +1981,7 @@ As it is here set down.
 There is no truth at all i' the oracle:  
 The sessions shall proceed: this is mere falsehood.
 
-_Enter Servant_
+*Enter Servant*
 
 **Servant**  
 My lord the king, the king! ...
@@ -2004,7 +2004,7 @@ Of the queen's speed, is gone. ...
 Apollo's angry; and the heavens themselves  
 Do strike at my injustice. ...
 
-_HERMIONE swoons_
+*HERMIONE swoons*
 
 ... How now there!
 
@@ -2019,7 +2019,7 @@ I have too much believed mine own suspicion:
 Beseech you, tenderly apply to her  
 Some remedies for life. ...
 
-_Exeunt PAULINA and Ladies, with HERMIONE_
+*Exeunt PAULINA and Ladies, with HERMIONE*
 
 ... Apollo, pardon  
 My great profaneness 'gainst thine oracle!  
@@ -2042,7 +2042,7 @@ No richer than his honor: how he glisters
 Thorough my rust! and how his pity  
 Does my deeds make the blacker! ...
 
-_Re-enter PAULINA_
+*Re-enter PAULINA*
 
 **PAULINA**  
 ... Woe the while!  
@@ -2140,11 +2140,11 @@ Will bear up with this exercise, so long
 I daily vow to use it. Come and lead me  
 Unto these sorrows.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE III. Bohemia. A desert country near the sea.
 
-_Enter ANTIGONUS with a Child, and a Mariner_
+*Enter ANTIGONUS with a Child, and a Mariner*
 
 **ANTIGONUS**  
 Thou art perfect then, our ship hath touch'd upon  
@@ -2176,7 +2176,7 @@ I'll follow instantly. ...
 ... I am glad at heart  
 To be so rid o' the business. ...
 
-_Exit_
+*Exit*
 
 **ANTIGONUS**  
 ... Come, poor babe:  
@@ -2224,9 +2224,9 @@ The heavens so dim by day. A savage clamor!
 Well may I get aboard! This is the chase:  
 I am gone forever.
 
-_Exit, pursued by a bear_
+*Exit, pursued by a bear*
 
-_Enter a Shepherd_
+*Enter a Shepherd*
 
 **Shepherd**  
 I would there were no age between sixteen and  
@@ -2250,7 +2250,7 @@ than the poor thing is here. I'll take it up for
 pity: yet I'll tarry till my son come; he hallooed  
 but even now. Whoa, ho, hoa!
 
-_Enter Clown_
+*Enter Clown*
 
 **Clown**  
 Hilloa, loa!
@@ -2341,7 +2341,7 @@ Marry, will I; and you shall help to put him i' the ground.
 **Shepherd**  
 'Tis a lucky day, boy, and we'll do good deeds on't.
 
-_Exeunt_
+*Exeunt*
 
 ## INTERMISSION
 
@@ -2349,7 +2349,7 @@ _Exeunt_
 
 ### SCENE I
 
-_Enter Time, the Chorus_
+*Enter Time, the Chorus*
 
 **Time**  
 I, that please some, try all, both joy and terror  
@@ -2386,11 +2386,11 @@ If ever you have spent time worse ere now;
 If never, yet that Time himself doth say  
 He wishes earnestly you never may.
 
-_Exit_
+*Exit*
 
 ### SCENE II. Bohemia. The palace of POLIXENES.
 
-_Enter POLIXENES and CAMILLO_
+*Enter POLIXENES and CAMILLO*
 
 **POLIXENES**  
 I pray thee, good Camillo, be no more importunate:  
@@ -2464,14 +2464,14 @@ I willingly obey your command.
 **POLIXENES**  
 My best Camillo! We must disguise ourselves.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE III. A road near the Shepherd's cottage.
 
-_Enter AUTOLYCUS_
+*Enter AUTOLYCUS*
 
 **AUTOLYCUS**  
-_\[Singing]_  
+*\[Singing]*  
 When daffodils begin to peer,  
 With heigh! the doxy over the dale,  
 Why, then comes in the sweet o' the year;  
@@ -2505,7 +2505,7 @@ on the highway: beating and hanging are terrors to
 me: for the life to come, I sleep out the thought  
 of it. A prize! a prize!
 
-_Enter Clown_
+*Enter Clown*
 
 **Clown**  
 Let me see: every 'leven wether tods; every tod  
@@ -2513,7 +2513,7 @@ yields pound and odd shilling; fifteen hundred
 shorn. what comes the wool to?
 
 **AUTOLYCUS**  
-_\[Aside]_  
+*\[Aside]*  
 If the springe hold, the cock's mine.
 
 **Clown**  
@@ -2534,7 +2534,7 @@ raisins o' the sun.
 
 **AUTOLYCUS**  
 O that ever I was born!  
-_\[Grovelling on the ground]_
+*\[Grovelling on the ground]*
 
 **Clown**  
 I' the name of me--
@@ -2587,7 +2587,7 @@ shoulder-blade is out.
 How now! canst stand?
 
 **AUTOLYCUS**  
-_\[Picking his pocket]_  
+*\[Picking his pocket]*  
 Softly, dear sir; good sir, softly. You ha' done me  
 a charitable office.
 
@@ -2662,7 +2662,7 @@ sheep-shearing.
 **AUTOLYCUS**  
 Prosper you, sweet sir!
 
-_Exit Clown_
+*Exit Clown*
 
 Your purse is not hot enough to purchase your spice.  
 I'll be with you at your sheep-shearing too: if I  
@@ -2670,17 +2670,17 @@ make not this cheat bring out another and the
 shearers prove sheep, let me be unrolled and my name  
 put in the book of virtue!
 
-_\[Sings]_  
+*\[Sings]*  
 Jog on, jog on, the foot-path way,  
 And merrily hent the stile-a:  
 A merry heart goes all the day,  
 Your sad tires in a mile-a.
 
-_Exit_
+*Exit*
 
 ### SCENE IV. The Shepherd's cottage.
 
-_Enter FLORIZEL and PERDITA_
+*Enter FLORIZEL and PERDITA*
 
 **FLORIZEL**  
 These your unusual weeds to each part of you  
@@ -2762,8 +2762,8 @@ Stand you auspicious! ...
 Address yourself to entertain them sprightly,  
 And let's be red with mirth.
 
-_Enter Shepherd, Clown, MOPSA, DORCAS, and others, with POLIXENES and
-CAMILLO disguised_
+*Enter Shepherd, Clown, MOPSA, DORCAS, and others, with POLIXENES and
+CAMILLO disguised*
 
 **Shepherd**  
 Fie, daughter! when my old wife lived, upon  
@@ -2784,12 +2784,12 @@ And bid us welcome to your sheep-shearing,
 As your good flock shall prosper. ...
 
 **PERDITA**  
-_\[To POLIXENES]_  
+*\[To POLIXENES]*  
 ... Sir, welcome:  
 It is my father's will I should take on me  
 The hostess-ship o' the day. ...
 
-_\[To CAMILLO]_  
+*\[To CAMILLO]*  
 ... You're welcome, sir.  
 Give me those flowers there, Dorcas. Reverend sirs,  
 For you there's rosemary and rue; these keep  
@@ -2946,7 +2946,7 @@ To mend her kissing with! ...
 Not a word, a word; we stand upon our manners.  
 Come, strike up!
 
-_Music. Here a dance of Shepherds and Shepherdesses_
+*Music. Here a dance of Shepherds and Shepherdesses*
 
 **POLIXENES**  
 Pray, good shepherd, what fair swain is this  
@@ -2972,7 +2972,7 @@ That should be silent: if young Doricles
 Do light upon her, she shall bring him that  
 Which he not dreams of.
 
-_Enter Servant_
+*Enter Servant*
 
 **Servant**  
 O master, if you did but hear the pedlar at the  
@@ -3022,7 +3022,7 @@ Prithee bring him in; and let him approach singing.
 **PERDITA**  
 Forewarn him that he use no scurrilous words in 's tunes.
 
-_Exit Servant_
+*Exit Servant*
 
 **Clown**  
 You have of these pedlars, that have more in them  
@@ -3031,7 +3031,7 @@ than you'd think, sister.
 **PERDITA**  
 Ay, good brother, or go about to think.
 
-_Enter AUTOLYCUS, singing_
+*Enter AUTOLYCUS, singing*
 
 **AUTOLYCUS**  
 Lawn as white as driven snow;  
@@ -3166,7 +3166,7 @@ We had the tune on't a month ago.
 I can bear my part; you must know 'tis my  
 occupation; have at it with you.
 
-_SONG_
+*SONG*
 
 **AUTOLYCUS**  
 Get you hence, for I must go  
@@ -3217,12 +3217,12 @@ not trouble them. Come, bring away thy pack after
 me. Wenches, I'll buy for you both. Pedlar, let's  
 have the first choice. Follow me, girls.
 
-_Exit with DORCAS and MOPSA_
+*Exit with DORCAS and MOPSA*
 
 **AUTOLYCUS**  
 And you shall pay well for 'em.
 
-_\[Follows singing]_  
+*\[Follows singing]*  
 Will you buy any tape,  
 Or lace for your cape,  
 My dainty duck, my dear-a?  
@@ -3233,9 +3233,9 @@ Come to the pedlar;
 Money's a medler.  
 That doth utter all men's ware-a.
 
-_Exit_
+*Exit*
 
-_Re-enter Servant_
+*Re-enter Servant*
 
 **Servant**  
 Master, there is three carters, three shepherds,  
@@ -3267,18 +3267,18 @@ pleased, let them come in; but quickly now.
 **Servant**  
 Why, they stay at door, sir.
 
-_Exit_
+*Exit*
 
-_Here a dance of twelve Satyrs_
+*Here a dance of twelve Satyrs*
 
 **POLIXENES**  
 O, father, you'll know more of that hereafter.
 
-_\[To CAMILLO]_  
+*\[To CAMILLO]*  
 Is it not too far gone? 'Tis time to part them.  
 He's simple and tells much. ...
 
-_\[To FLORIZEL]_  
+*\[To FLORIZEL]*  
 ... How now, fair shepherd!  
 Your heart is full of something that does take  
 Your mind from feasting. Sooth, when I was young  
@@ -3428,7 +3428,7 @@ Mark our contract. ...
 **POLIXENES**  
 ... Mark your divorce, young sir,
 
-_\[Discovering himself]_  
+*\[Discovering himself]*  
 Whom son I dare not call; thou art too base  
 To be acknowledged: thou a sceptre's heir,  
 That thus affect'st a sheep-hook! Thou old traitor,  
@@ -3459,7 +3459,7 @@ Or hoop his body more with thy embraces,
 I will devise a death as cruel for thee  
 As thou art tender to't. ...
 
-_Exit_
+*Exit*
 
 **PERDITA**  
 ... Even here undone!  
@@ -3491,7 +3491,7 @@ To mingle faith with him! Undone! undone!
 If I might die within this hour, I have lived  
 To die when I desire. ...
 
-_Exit_
+*Exit*
 
 **FLORIZEL**  
 ... Why look you so upon me?  
@@ -3568,7 +3568,7 @@ I would your spirit were easier for advice,
 Or stronger for your need. ...
 
 **FLORIZEL**  
-_\[Drawing her aside]_  
+*\[Drawing her aside]*  
 ... Hark, Perdita  
 I'll hear you by and by. ...
 
@@ -3719,9 +3719,9 @@ To have you royally appointed as if
 The scene you play were mine. For instance, sir,  
 That you may know you shall not want, one word.
 
-_They talk aside_
+*They talk aside*
 
-_Re-enter AUTOLYCUS_
+*Re-enter AUTOLYCUS*
 
 **AUTOLYCUS**  
 Ha, ha! What a fool Honesty is! And Trust, his  
@@ -3750,7 +3750,7 @@ with a whoo-bub against his daughter and the king's
 son and scared my choughs from the chaff, I had not  
 left a purse alive in the whole army.
 
-_CAMILLO, FLORIZEL, and PERDITA come forward_
+*CAMILLO, FLORIZEL, and PERDITA come forward*
 
 **CAMILLO**  
 Nay, but my letters, by this means being there  
@@ -3769,7 +3769,7 @@ All that you speak shows fair. ...
 **CAMILLO**  
 ... Who have we here?
 
-_\[Seeing AUTOLYCUS]_  
+*\[Seeing AUTOLYCUS]*  
 We'll make an instrument of this, omit  
 Nothing may give us aid.
 
@@ -3795,7 +3795,7 @@ there's some boot.
 **AUTOLYCUS**  
 I am a poor fellow, sir.
 
-_\[Aside]_
+*\[Aside]*
 I know ye well enough.
 
 **CAMILLO**  
@@ -3805,7 +3805,7 @@ flayed already.
 **AUTOLYCUS**  
 Are you in earnest, sir?
 
-_\[Aside]_
+*\[Aside]*
 I smell the trick on't.
 
 **FLORIZEL**  
@@ -3818,7 +3818,7 @@ conscience take it.
 **CAMILLO**  
 Unbuckle, unbuckle.
 
-_FLORIZEL and AUTOLYCUS exchange garments_
+*FLORIZEL and AUTOLYCUS exchange garments*
 
 Fortunate mistress,--let my prophecy  
 Come home to ye!--you must retire yourself  
@@ -3842,7 +3842,7 @@ Have you done there? ...
 He would not call me son. ...
 
 **CAMILLO**  
-_\[Giving it to PERDITA]_  
+*\[Giving it to PERDITA]*  
 ... Nay, you shall have no hat.
 Come, lady, come. Farewell, my friend. ...
 
@@ -3854,7 +3854,7 @@ O Perdita, what have we twain forgot!
 Pray you, a word.
 
 **CAMILLO**  
-_\[Aside]_
+*\[Aside]*
 What I do next, shall be to tell the king  
 Of this escape and whither they are bound;  
 Wherein my hope is I shall so prevail  
@@ -3869,7 +3869,7 @@ Thus we set on, Camillo, to the sea-side.
 **CAMILLO**  
 The swifter speed the better.
 
-_Exeunt FLORIZEL, PERDITA, and CAMILLO_
+*Exeunt FLORIZEL, PERDITA, and CAMILLO*
 
 **AUTOLYCUS**  
 I understand the business, I hear it: to have an  
@@ -3887,7 +3887,7 @@ honesty to acquaint the king withal, I would not
 do't: I hold it the more knavery to conceal it;  
 and therein am I constant to my profession.
 
-_Re-enter Clown and Shepherd_
+*Re-enter Clown and Shepherd*
 
 Aside, aside; here is more matter for a hot brain:  
 every lane's end, every shop, church, session,  
@@ -3927,7 +3927,7 @@ could have been to him and then your blood had been
 the dearer by I know how much an ounce.
 
 **AUTOLYCUS**  
-_\[Aside]_
+*\[Aside]*
 Very wisely, puppies!
 
 **Shepherd**  
@@ -3935,7 +3935,7 @@ Well, let us to the king: there is that in this
 fardel will make him scratch his beard.
 
 **AUTOLYCUS**  
-_\[Aside]_
+*\[Aside]*
 I know not what impediment this complaint  
 may be to the flight of my master.
 
@@ -3943,11 +3943,11 @@ may be to the flight of my master.
 Pray heartily he be at palace.
 
 **AUTOLYCUS**  
-_\[Aside]_
+*\[Aside]*
 Though I am not naturally honest, I am so  
 sometimes by chance: let me pocket up my pedlar's excrement.
 
-_\[Takes off his false beard]_  
+*\[Takes off his false beard]*  
 How now, rustics! whither are you bound?
 
 **Shepherd**  
@@ -4138,7 +4138,7 @@ We are blest in this man, as I may say, even blest.
 **Shepherd**  
 Let's before as he bids us: he was provided to do us good.
 
-_Exeunt Shepherd and Clown_
+*Exeunt Shepherd and Clown*
 
 **AUTOLYCUS**  
 If I had a mind to be honest, I see Fortune would  
@@ -4154,13 +4154,13 @@ officious; for I am proof against that title and
 what shame else belongs to't. To him will I present  
 them: there may be matter in it.
 
-_Exit_
+*Exit*
 
 ## ACT V
 
 ### SCENE I. A room in LEONTES' palace.
 
-_Enter LEONTES, CLEOMENES, DION, PAULINA, and Servants_
+*Enter LEONTES, CLEOMENES, DION, PAULINA, and Servants*
 
 **CLEOMENES**  
 Sir, you have done enough, and have perform'd  
@@ -4231,7 +4231,7 @@ Did perish with the infant. 'Tis your counsel
 My lord should to the heavens be contrary,  
 Oppose against their wills. ...
 
-_\[To LEONTES]_  
+*\[To LEONTES]*  
 ... Care not for issue;
 The crown will find an heir: great Alexander  
 Left his to the worthiest; so his successor  
@@ -4317,7 +4317,7 @@ We shall not marry till thou bid'st us. ...
 Shall be when your first queen's again in breath;  
 Never till then.
 
-_Enter a Gentleman_
+*Enter a Gentleman*
 
 **Gentleman**  
 One that gives out himself Prince Florizel,  
@@ -4376,7 +4376,7 @@ The rarest of all women. ...
 Yourself, assisted with your honor'd friends,  
 Bring them to our embracement. Still, 'tis strange
 
-_Exeunt CLEOMENES and others_
+*Exeunt CLEOMENES and others*
 
 He thus should steal upon us. ...
 
@@ -4393,7 +4393,7 @@ When I shall see this gentleman, thy speeches
 Will bring me to consider that which may  
 Unfurnish me of reason. They are come.
 
-_Re-enter CLEOMENES and others, with FLORIZEL and PERDITA_
+*Re-enter CLEOMENES and others, with FLORIZEL and PERDITA*
 
 Your mother was most true to wedlock, prince;  
 For she did print your royal father off,  
@@ -4468,7 +4468,7 @@ Worthy his goodness. What might I have been,
 Might I a son and daughter now have look'd on,  
 Such goodly things as you! ...
 
-_Enter a Lord_
+*Enter a Lord*
 
 **Lord**  
 ... Most noble sir,
@@ -4566,7 +4566,7 @@ Than what you look on now. ...
 ... I thought of her,
 Even in these looks I made. ...
 
-_\[To FLORIZEL]_  
+*\[To FLORIZEL]*  
 ... But your petition
 Is yet unanswer'd. I will to your father:  
 Your honor not o'erthrown by your desires,  
@@ -4574,11 +4574,11 @@ I am friend to them and you: upon which errand
 I now go toward him; therefore follow me  
 And mark what way I make: come, good my lord.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE II. Before LEONTES' palace.
 
-_Enter AUTOLYCUS and a Gentleman_
+*Enter AUTOLYCUS and a Gentleman*
 
 **AUTOLYCUS**  
 Beseech you, sir, were you present at this relation?
@@ -4606,7 +4606,7 @@ beholder, that knew no more but seeing, could not
 say if the importance were joy or sorrow; but in the  
 extremity of the one, it must needs be.
 
-_Enter another Gentleman_
+*Enter another Gentleman*
 
 Here comes a gentleman that haply knows more.  
 The news, Rogero?
@@ -4617,7 +4617,7 @@ king's daughter is found: such a deal of wonder is
 broken out within this hour that ballad-makers  
 cannot be able to express it.
 
-_Enter a third Gentleman_
+*Enter a third Gentleman*
 
 Here comes the Lady Paulina's steward: he can  
 deliver you more. How goes it now, sir? this news  
@@ -4733,7 +4733,7 @@ every wink of an eye some new grace will be born:
 our absence makes us unthrifty to our knowledge.  
 Let's along.
 
-_Exeunt Gentlemen_
+*Exeunt Gentlemen*
 
 **AUTOLYCUS**  
 Now, had I not the dash of my former life in me,  
@@ -4748,7 +4748,7 @@ undiscovered. But 'tis all one to me; for had I
 been the finder out of this secret, it would not  
 have relished among my other discredits.
 
-_Enter Shepherd and Clown_
+*Enter Shepherd and Clown*
 
 Here come those I have done good to against my will,  
 and already appearing in the blossoms of their fortune.
@@ -4839,12 +4839,12 @@ and the princes, our kindred, are going to see the
 queen's picture. Come, follow us: we'll be thy  
 good masters.
 
-_Exeunt_
+*Exeunt*
 
 ### SCENE III. A chapel in PAULINA'S house.
 
-_Enter LEONTES, POLIXENES, FLORIZEL, PERDITA, CAMILLO, PAULINA, Lords,
-and Attendants_
+*Enter LEONTES, POLIXENES, FLORIZEL, PERDITA, CAMILLO, PAULINA, Lords,
+and Attendants*
 
 **LEONTES**  
 O grave and good Paulina, the great comfort  
@@ -4877,7 +4877,7 @@ Lonely, apart. But here it is: prepare
 To see the life as lively mock'd as ever  
 Still sleep mock'd death: behold, and say 'tis well.
 
-_PAULINA draws a curtain, and discovers HERMIONE standing like a statue_
+*PAULINA draws a curtain, and discovers HERMIONE standing like a statue*
 
 I like your silence, it the more shows off  
 Your wonder: but yet speak; first, you, my liege,  
@@ -5030,7 +5030,7 @@ No foot shall stir. ...
 **PAULINA**  
 ... Music, awake her; strike!
 
-_Music_
+*Music*
 
 'Tis time; descend; be stone no more; approach;  
 Strike all that look upon with marvel. Come,  
@@ -5038,7 +5038,7 @@ I'll fill your grave up: stir, nay, come away,
 Bequeath to death your numbness, for from him  
 Dear life redeems you. You perceive she stirs:
 
-_HERMIONE comes down_
+*HERMIONE comes down*
 
 Start not; her actions shall be holy as  
 You hear my spell is lawful: do not shun her  
@@ -5115,4 +5115,4 @@ Each one demand an answer to his part
 Perform'd in this wide gap of time since first  
 We were dissever'd: hastily lead away.
 
-_Exeunt_
+*Exeunt*
