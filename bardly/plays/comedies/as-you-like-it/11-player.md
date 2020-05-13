@@ -2622,7 +2622,7 @@ And why, I pray you? Who might be your mother,
 That you insult, exult, and all at once,  
 Over the wretched? What though you have no beauty,—  
 As, by my faith, I see no more in you  
-Than without candle may go dark to bed---  
+Than without candle may go dark to bed--  
 Must you be therefore proud and pitiless?  
 Why, what means this? Why do you look on me?  
 I see no more in you than in the ordinary  
@@ -3146,7 +3146,7 @@ That a maiden's heart hath burn'd?
 Can a woman rail thus? ...
 
 **SILVIUS**  
-… Call you this railing?
+... Call you this railing?
 
 **ROSALIND**  
 *\[Reads]*  
@@ -3297,7 +3297,7 @@ So sweetly tastes, being the thing I am.
 But, for the bloody napkin? ...
 
 **OLIVER**  
-… By and by.  
+... By and by.  
 When from the first to last betwixt us two  
 Tears our recountments had most kindly bathed,  
 As how I came into that desert place:—  

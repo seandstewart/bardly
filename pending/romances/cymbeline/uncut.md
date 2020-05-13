@@ -1,6 +1,6 @@
 ## ACT I
 
-### SCENE I. Britain. The garden of Cymbeline’s palace.
+### SCENE I. Britain. The garden of Cymbeline's palace.
 
 *Enter two Gentlemen*
 
@@ -10,16 +10,16 @@ No more obey the heavens than our courtiers
 Still seem as does the king.
 
 **SECOND GENTLEMAN**  
-But what’s the matter?
+But what's the matter?
 
 **FIRST GENTLEMAN**  
-His daughter, and the heir of’s kingdom, whom  
-He purposed to his wife’s sole son–a widow  
-That late he married–hath referr’d herself  
-Unto a poor but worthy gentleman: she’s wedded;  
-Her husband banish’d; she imprison’d: all  
+His daughter, and the heir of's kingdom, whom  
+He purposed to his wife's sole son--a widow  
+That late he married--hath referr'd herself  
+Unto a poor but worthy gentleman: she's wedded;  
+Her husband banish'd; she imprison'd: all  
 Is outward sorrow; though I think the king  
-Be touch’d at very heart.
+Be touch'd at very heart.
 
 **SECOND GENTLEMAN**  
 None but the king?
@@ -28,17 +28,17 @@ None but the king?
 He that hath lost her too; so is the queen,  
 That most desired the match; but not a courtier,  
 Although they wear their faces to the bent  
-Of the king’s look’s, hath a heart that is not  
+Of the king's look's, hath a heart that is not  
 Glad at the thing they scowl at.
 
 **SECOND GENTLEMAN**  
 And why so?
 
 **FIRST GENTLEMAN**  
-He that hath miss’d the princess is a thing  
-Too bad for bad report: and he that hath her–  
+He that hath miss'd the princess is a thing  
+Too bad for bad report: and he that hath her--  
 I mean, that married her, alack, good man!  
-And therefore banish’d–is a creature such  
+And therefore banish'd--is a creature such  
 As, to seek through the regions of the earth  
 For one his like, there would be something failing  
 In him that should compare. I do not think  
@@ -54,17 +54,17 @@ Crush him together rather than unfold
 His measure duly.
 
 **SECOND GENTLEMAN**  
-What’s his name and birth?
+What's his name and birth?
 
 **FIRST GENTLEMAN**  
 I cannot delve him to the root: his father  
-Was call’d Sicilius, who did join his honour  
+Was call'd Sicilius, who did join his honour  
 Against the Romans with Cassibelan,  
 But had his titles by Tenantius whom  
 He served with glory and admired success,  
-So gain’d the sur-addition Leonatus;  
+So gain'd the sur-addition Leonatus;  
 And had, besides this gentleman in question,  
-Two other sons, who in the wars o’ the time  
+Two other sons, who in the wars o' the time  
 Died with their swords in hand; for which  
 their father,  
 Then old and fond of issue, took such sorrow  
@@ -75,14 +75,14 @@ To his protection, calls him Posthumus Leonatus,
 Breeds him and makes him of his bed-chamber,  
 Puts to him all the learnings that his time  
 Could make him the receiver of; which he took,  
-As we do air, fast as ’twas minister’d,  
-And in’s spring became a harvest, lived in court–  
-Which rare it is to do–most praised, most loved,  
+As we do air, fast as 'twas minister'd,  
+And in's spring became a harvest, lived in court--  
+Which rare it is to do--most praised, most loved,  
 A sample to the youngest, to the more mature  
 A glass that feated them, and to the graver  
 A child that guided dotards; to his mistress,  
-For whom he now is banish’d, her own price  
-Proclaims how she esteem’d him and his virtue;  
+For whom he now is banish'd, her own price  
+Proclaims how she esteem'd him and his virtue;  
 By her election may be truly read  
 What kind of man he is.
 
@@ -95,8 +95,8 @@ Is she sole child to the king?
 His only child.  
 He had two sons: if this be worth your hearing,  
 Mark it: the eldest of them at three years old,  
-I’ the swathing-clothes the other, from their nursery  
-Were stol’n, and to this hour no guess in knowledge  
+I' the swathing-clothes the other, from their nursery  
+Were stol'n, and to this hour no guess in knowledge  
 Which way they went.
 
 **SECOND GENTLEMAN**  
@@ -106,13 +106,13 @@ How long is this ago?
 Some twenty years.
 
 **SECOND GENTLEMAN**  
-That a king’s children should be so convey’d,  
+That a king's children should be so convey'd,  
 So slackly guarded, and the search so slow,  
 That could not trace them!
 
 **FIRST GENTLEMAN**  
-Howsoe’er ’tis strange,  
-Or that the negligence may well be laugh’d at,  
+Howsoe'er 'tis strange,  
+Or that the negligence may well be laugh'd at,  
 Yet is it true, sir.
 
 **SECOND GENTLEMAN**  
@@ -129,13 +129,13 @@ The queen, and princess.
 **QUEEN**  
 No, be assured you shall not find me, daughter,  
 After the slander of most stepmothers,  
-Evil-eyed unto you: you’re my prisoner, but  
+Evil-eyed unto you: you're my prisoner, but  
 Your gaoler shall deliver you the keys  
 That lock up your restraint. For you, Posthumus,  
 So soon as I can win the offended king,  
 I will be known your advocate: marry, yet  
-The fire of rage is in him, and ’twere good  
-You lean’d unto his sentence with what patience  
+The fire of rage is in him, and 'twere good  
+You lean'd unto his sentence with what patience  
 Your wisdom may inform you.
 
 **POSTHUMUS LEONATUS**  
@@ -144,8 +144,8 @@ I will from hence to-day.
 
 **QUEEN**  
 You know the peril.  
-I’ll fetch a turn about the garden, pitying  
-The pangs of barr’d affections, though the king  
+I'll fetch a turn about the garden, pitying  
+The pangs of barr'd affections, though the king  
 Hath charged you should not speak together.
 
 *Exit*
@@ -154,8 +154,8 @@ Hath charged you should not speak together.
 O  
 Dissembling courtesy! How fine this tyrant  
 Can tickle where she wounds! My dearest husband,  
-I something fear my father’s wrath; but nothing–  
-Always reserved my holy duty–what  
+I something fear my father's wrath; but nothing--  
+Always reserved my holy duty--what  
 His rage can do on me: you must be gone;  
 And I shall here abide the hourly shot  
 Of angry eyes, not comforted to live,  
@@ -167,11 +167,11 @@ My queen! my mistress!
 O lady, weep no more, lest I give cause  
 To be suspected of more tenderness  
 Than doth become a man. I will remain  
-The loyal’st husband that did e’er plight troth:  
-My residence in Rome at one Philario’s,  
+The loyal'st husband that did e'er plight troth:  
+My residence in Rome at one Philario's,  
 Who to my father was a friend, to me  
 Known but by letter: thither write, my queen,  
-And with mine eyes I’ll drink the words you send,  
+And with mine eyes I'll drink the words you send,  
 Though ink be made of gall.
 
 *Re-enter QUEEN*
@@ -182,7 +182,7 @@ If the king come, I shall incur I know not
 How much of his displeasure.
 
 *\[Aside]*  
-Yet I’ll move him  
+Yet I'll move him  
 To walk this way: I never do him wrong,  
 But he does buy my injuries, to be friends;  
 Pays dear for my offences.
@@ -198,7 +198,7 @@ The loathness to depart would grow. Adieu!
 Nay, stay a little:  
 Were you but riding forth to air yourself,  
 Such parting were too petty. Look here, love;  
-This diamond was my mother’s: take it, heart;  
+This diamond was my mother's: take it, heart;  
 But keep it till you woo another wife,  
 When Imogen is dead.
 
@@ -215,7 +215,7 @@ While sense can keep it on. And, sweetest, fairest,
 As I my poor self did exchange for you,  
 To your so infinite loss, so in our trifles  
 I still win of you: for my sake wear this;  
-It is a manacle of love; I’ll place it  
+It is a manacle of love; I'll place it  
 Upon this fairest prisoner.
 
 *Putting a bracelet upon her arm*
@@ -233,7 +233,7 @@ Alack, the king!
 Thou basest thing, avoid! hence, from my sight!  
 If after this command thou fraught the court  
 With thy unworthiness, thou diest: away!  
-Thou’rt poison to my blood.
+Thou'rt poison to my blood.
 
 **POSTHUMUS LEONATUS**  
 The gods protect you!  
@@ -247,8 +247,8 @@ More sharp than this is.
 
 **CYMBELINE**  
 O disloyal thing,  
-That shouldst repair my youth, thou heap’st  
-A year’s age on me.
+That shouldst repair my youth, thou heap'st  
+A year's age on me.
 
 **IMOGEN**  
 I beseech you, sir,  
@@ -270,7 +270,7 @@ O blest, that I might not! I chose an eagle,
 And did avoid a puttock.
 
 **CYMBELINE**  
-Thou took’st a beggar; wouldst have made my throne  
+Thou took'st a beggar; wouldst have made my throne  
 A seat for baseness.
 
 **IMOGEN**  
@@ -292,8 +292,8 @@ What, art thou mad?
 
 **IMOGEN**  
 Almost, sir: heaven restore me! Would I were  
-A neat-herd’s daughter, and my Leonatus  
-Our neighbour shepherd’s son!
+A neat-herd's daughter, and my Leonatus  
+Our neighbour shepherd's son!
 
 **CYMBELINE**  
 Thou foolish thing!
@@ -333,15 +333,15 @@ No harm, I trust, is done?
 
 **PISANIO**  
 There might have been,  
-But that my master rather play’d than fought  
+But that my master rather play'd than fought  
 And had no help of anger: they were parted  
 By gentlemen at hand.
 
 **QUEEN**  
-I am very glad on’t.
+I am very glad on't.
 
 **IMOGEN**  
-Your son’s my father’s friend; he takes his part.  
+Your son's my father's friend; he takes his part.  
 To draw upon an exile! O brave sir!  
 I would they were in Afric both together;  
 Myself by with a needle, that I might prick  
@@ -351,7 +351,7 @@ The goer-back. Why came you from your master?
 On his command: he would not suffer me  
 To bring him to the haven; left these notes  
 Of what commands I should be subject to,  
-When ’t pleased you to employ me.
+When 't pleased you to employ me.
 
 **QUEEN**  
 This hath been  
@@ -379,22 +379,22 @@ Go see my lord aboard: for this time leave me.
 Sir, I would advise you to shift a shirt; the  
 violence of action hath made you reek as a  
 sacrifice: where air comes out, air comes in:  
-there’s none abroad so wholesome as that you vent.
+there's none abroad so wholesome as that you vent.
 
 **CLOTEN**  
 If my shirt were bloody, then to shift it. Have I hurt him?
 
 **Second Lord**  
 *\[Aside]*  
-No, ’faith; not so much as his patience.
+No, 'faith; not so much as his patience.
 
 **First Lord**  
-Hurt him! his body’s a passable carcass, if he be  
+Hurt him! his body's a passable carcass, if he be  
 not hurt: it is a thoroughfare for steel, if it be not hurt.
 
 **Second Lord**  
 *\[Aside]*  
-His steel was in debt; it went o’ the  
+His steel was in debt; it went o' the  
 backside the town.
 
 **CLOTEN**  
@@ -430,7 +430,7 @@ is damned.
 
 **First Lord**  
 Sir, as I told you always, her beauty and her brain  
-go not together: she’s a good sign, but I have seen  
+go not together: she's a good sign, but I have seen  
 small reflection of her wit.
 
 **Second Lord**  
@@ -439,7 +439,7 @@ She shines not upon fools, lest the
 reflection should hurt her.
 
 **CLOTEN**  
-Come, I’ll to my chamber. Would there had been some  
+Come, I'll to my chamber. Would there had been some  
 hurt done!
 
 **Second Lord**  
@@ -448,28 +448,28 @@ I wish not so; unless it had been the fall
 of an ass, which is no great hurt.
 
 **CLOTEN**  
-You’ll go with us?
+You'll go with us?
 
 **First Lord**  
-I’ll attend your lordship.
+I'll attend your lordship.
 
 **CLOTEN**  
-Nay, come, let’s go together.
+Nay, come, let's go together.
 
 **Second Lord**  
 Well, my lord.
 
 *Exeunt*
 
-### SCENE III. A room in Cymbeline’s palace.
+### SCENE III. A room in Cymbeline's palace.
 
 *Enter IMOGEN and PISANIO*
 
 **IMOGEN**  
-I would thou grew’st unto the shores o’ the haven,  
-And question’dst every sail: if he should write  
-And not have it, ’twere a paper lost,  
-As offer’d mercy is. What was the last  
+I would thou grew'st unto the shores o' the haven,  
+And question'dst every sail: if he should write  
+And not have it, 'twere a paper lost,  
+As offer'd mercy is. What was the last  
 That he spake to thee?
 
 **PISANIO**  
@@ -479,7 +479,7 @@ It was his queen, his queen!
 Then waved his handkerchief?
 
 **PISANIO**  
-And kiss’d it, madam.
+And kiss'd it, madam.
 
 **IMOGEN**  
 Senseless Linen! happier therein than I!  
@@ -490,8 +490,8 @@ No, madam; for so long
 As he could make me with this eye or ear  
 Distinguish him from others, he did keep  
 The deck, with glove, or hat, or handkerchief,  
-Still waving, as the fits and stirs of ’s mind  
-Could best express how slow his soul sail’d on,  
+Still waving, as the fits and stirs of 's mind  
+Could best express how slow his soul sail'd on,  
 How swift his ship.
 
 **IMOGEN**  
@@ -503,12 +503,12 @@ To after-eye him.
 Madam, so I did.
 
 **IMOGEN**  
-I would have broke mine eye-strings; crack’d them, but  
+I would have broke mine eye-strings; crack'd them, but  
 To look upon him, till the diminution  
 Of space had pointed him sharp as my needle,  
-Nay, follow’d him, till he had melted from  
+Nay, follow'd him, till he had melted from  
 The smallness of a gnat to air, and then  
-Have turn’d mine eye and wept. But, good Pisanio,  
+Have turn'd mine eye and wept. But, good Pisanio,  
 When shall we hear from him?
 
 **PISANIO**  
@@ -534,10 +534,10 @@ Shakes all our buds from growing.
 
 **Lady**  
 The queen, madam,  
-Desires your highness’ company.
+Desires your highness' company.
 
 **IMOGEN**  
-Those things I bid you do, get them dispatch’d.  
+Those things I bid you do, get them dispatch'd.  
 I will attend the queen.
 
 **PISANIO**  
@@ -545,7 +545,7 @@ Madam, I shall.
 
 *Exeunt*
 
-### SCENE IV. Rome. Philario’s house.
+### SCENE IV. Rome. Philario's house.
 
 *Enter PHILARIO, IACHIMO, a Frenchman, a Dutchman, and a Spaniard*
 
@@ -566,7 +566,7 @@ I have seen him in France: we had very many there
 could behold the sun with as firm eyes as he.
 
 **IACHIMO**  
-This matter of marrying his king’s daughter, wherein  
+This matter of marrying his king's daughter, wherein  
 he must be weighed rather by her value than his own,  
 words him, I doubt not, a great deal from the matter.
 
@@ -604,7 +604,7 @@ Since when I have been debtor to you for courtesies,
 which I will be ever to pay and yet pay still.
 
 **Frenchman**  
-Sir, you o’er-rate my poor kindness: I was glad I  
+Sir, you o'er-rate my poor kindness: I was glad I  
 did atone my countryman and you; it had been pity  
 you should have been put together with so mortal a  
 purpose as then each bore, upon importance of so  
@@ -613,12 +613,12 @@ slight and trivial a nature.
 **POSTHUMUS LEONATUS**  
 By your pardon, sir, I was then a young traveller;  
 rather shunned to go even with what I heard than in  
-my every action to be guided by others’ experiences:  
-but upon my mended judgment–if I offend not to say  
-it is mended–my quarrel was not altogether slight.
+my every action to be guided by others' experiences:  
+but upon my mended judgment--if I offend not to say  
+it is mended--my quarrel was not altogether slight.
 
 **Frenchman**  
-’Faith, yes, to be put to the arbitrement of swords,  
+'Faith, yes, to be put to the arbitrement of swords,  
 and by such two that would by all likelihood have  
 confounded one the other, or have fallen both.
 
@@ -626,25 +626,25 @@ confounded one the other, or have fallen both.
 Can we, with manners, ask what was the difference?
 
 **Frenchman**  
-Safely, I think: ’twas a contention in public,  
+Safely, I think: 'twas a contention in public,  
 which may, without contradiction, suffer the report.  
 It was much like an argument that fell out last  
 night, where each of us fell in praise of our  
 country mistresses; this gentleman at that time  
-vouching–and upon warrant of bloody  
-affirmation–his to be more fair, virtuous, wise,  
+vouching--and upon warrant of bloody  
+affirmation--his to be more fair, virtuous, wise,  
 chaste, constant-qualified and less attemptable  
 than any the rarest of our ladies in France.
 
 **IACHIMO**  
-That lady is not now living, or this gentleman’s  
+That lady is not now living, or this gentleman's  
 opinion by this worn out.
 
 **POSTHUMUS LEONATUS**  
 She holds her virtue still and I my mind.
 
 **IACHIMO**  
-You must not so far prefer her ’fore ours of Italy.
+You must not so far prefer her 'fore ours of Italy.
 
 **POSTHUMUS LEONATUS**  
 Being so far provoked as I was in France, I would  
@@ -652,8 +652,8 @@ abate her nothing, though I profess myself her
 adorer, not her friend.
 
 **IACHIMO**  
-As fair and as good–a kind of hand-in-hand  
-comparison–had been something too fair and too good  
+As fair and as good--a kind of hand-in-hand  
+comparison--had been something too fair and too good  
 for any lady in Britain. If she went before others  
 I have seen, as that diamond of yours outlustres  
 many I have beheld. I could not but believe she  
@@ -670,7 +670,7 @@ What do you esteem it at?
 More than the world enjoys.
 
 **IACHIMO**  
-Either your unparagoned mistress is dead, or she’s  
+Either your unparagoned mistress is dead, or she's  
 outprized by a trifle.
 
 **POSTHUMUS LEONATUS**  
@@ -717,7 +717,7 @@ No, no.
 
 **IACHIMO**  
 I dare thereupon pawn the moiety of my estate to  
-your ring; which, in my opinion, o’ervalues it  
+your ring; which, in my opinion, o'ervalues it  
 something: but I make my wager rather against your  
 confidence than her reputation: and, to bar your  
 offence herein too, I durst attempt it against any  
@@ -725,11 +725,11 @@ lady in the world.
 
 **POSTHUMUS LEONATUS**  
 You are a great deal abused in too bold a  
-persuasion; and I doubt not you sustain what you’re  
+persuasion; and I doubt not you sustain what you're  
 worthy of by your attempt.
 
 **IACHIMO**  
-What’s that?
+What's that?
 
 **POSTHUMUS LEONATUS**  
 A repulse: though your attempt, as you call it,  
@@ -741,7 +741,7 @@ let it die as it was born, and, I pray you, be
 better acquainted.
 
 **IACHIMO**  
-Would I had put my estate and my neighbour’s on the  
+Would I had put my estate and my neighbour's on the  
 approbation of what I have spoke!
 
 **POSTHUMUS LEONATUS**  
@@ -757,11 +757,11 @@ that honour of hers which you imagine so reserved.
 
 **POSTHUMUS LEONATUS**  
 I will wage against your gold, gold to it: my ring  
-I hold dear as my finger; ’tis part of it.
+I hold dear as my finger; 'tis part of it.
 
 **IACHIMO**  
 You are afraid, and therein the wiser. If you buy  
-ladies’ flesh at a million a dram, you cannot  
+ladies' flesh at a million a dram, you cannot  
 preserve it from tainting: but I see you have some  
 religion in you, that you fear.
 
@@ -771,13 +771,13 @@ graver purpose, I hope.
 
 **IACHIMO**  
 I am the master of my speeches, and would undergo  
-what’s spoken, I swear.
+what's spoken, I swear.
 
 **POSTHUMUS LEONATUS**  
 Will you? I shall but lend my diamond till your  
-return: let there be covenants drawn between’s: my  
+return: let there be covenants drawn between's: my  
 mistress exceeds in goodness the hugeness of your  
-unworthy thinking: I dare you to this match: here’s my ring.
+unworthy thinking: I dare you to this match: here's my ring.
 
 **PHILARIO**  
 I will have it no lay.
@@ -820,16 +820,16 @@ Will this hold, think you?
 
 **PHILARIO**  
 Signior Iachimo will not from it.  
-Pray, let us follow ’em.
+Pray, let us follow 'em.
 
 *Exeunt*
 
-### SCENE V. Britain. A room in Cymbeline’s palace.
+### SCENE V. Britain. A room in Cymbeline's palace.
 
 *Enter QUEEN, Ladies, and CORNELIUS*
 
 **QUEEN**  
-Whiles yet the dew’s on ground, gather those flowers;  
+Whiles yet the dew's on ground, gather those flowers;  
 Make haste: who has the note of them?
 
 **First Lady**  
@@ -847,20 +847,20 @@ Pleaseth your highness, ay: here they are, madam:
 
 *Presenting a small box*
 
-But I beseech your grace, without offence,–  
-My conscience bids me ask–wherefore you have  
+But I beseech your grace, without offence,--  
+My conscience bids me ask--wherefore you have  
 Commanded of me those most poisonous compounds,  
 Which are the movers of a languishing death;  
 But though slow, deadly?
 
 **QUEEN**  
 I wonder, doctor,  
-Thou ask’st me such a question. Have I not been  
-Thy pupil long? Hast thou not learn’d me how  
+Thou ask'st me such a question. Have I not been  
+Thy pupil long? Hast thou not learn'd me how  
 To make perfumes? distil? preserve? yea, so  
 That our great king himself doth woo me oft  
-For my confections? Having thus far proceeded,–  
-Unless thou think’st me devilish–is’t not meet  
+For my confections? Having thus far proceeded,--  
+Unless thou think'st me devilish--is't not meet  
 That I did amplify my judgment in  
 Other conclusions? I will try the forces  
 Of these thy compounds on such creatures as  
@@ -882,7 +882,7 @@ O, content thee.
 
 *\[Aside]*  
 Here comes a flattering rascal; upon him  
-Will I first work: he’s for his master,  
+Will I first work: he's for his master,  
 An enemy to my son. How now, Pisanio!  
 Doctor, your service for this time is ended;  
 Take your own way.
@@ -901,14 +901,14 @@ Hark thee, a word.
 I do not like her. She doth think she has  
 Strange lingering poisons: I do know her spirit,  
 And will not trust one of her malice with  
-A drug of such damn’d nature. Those she has  
+A drug of such damn'd nature. Those she has  
 Will stupefy and dull the sense awhile;  
-Which first, perchance, she’ll prove on  
+Which first, perchance, she'll prove on  
 cats and dogs,  
 Then afterward up higher: but there is  
 No danger in what show of death it makes,  
 More than the locking-up the spirits a time,  
-To be more fresh, reviving. She is fool’d  
+To be more fresh, reviving. She is fool'd  
 With a most false effect; and I the truer,  
 So to be false with her.
 
@@ -922,18 +922,18 @@ I humbly take my leave.
 *Exit*
 
 **QUEEN**  
-Weeps she still, say’st thou? Dost thou think in time  
+Weeps she still, say'st thou? Dost thou think in time  
 She will not quench and let instructions enter  
 Where folly now possesses? Do thou work:  
 When thou shalt bring me word she loves my son,  
-I’ll tell thee on the instant thou art then  
+I'll tell thee on the instant thou art then  
 As great as is thy master, greater, for  
 His fortunes all lie speechless and his name  
 Is at last gasp: return he cannot, nor  
 Continue where he is: to shift his being  
 Is to exchange one misery with another,  
 And every day that comes comes to decay  
-A day’s work in him. What shalt thou expect,  
+A day's work in him. What shalt thou expect,  
 To be depender on a thing that leans,  
 Who cannot be new built, nor has no friends,  
 So much as but to prop him?
@@ -941,18 +941,18 @@ So much as but to prop him?
 *The QUEEN drops the box: PISANIO takes it up*
 
 Thou takest up  
-Thou know’st not what; but take it for thy labour:  
+Thou know'st not what; but take it for thy labour:  
 It is a thing I made, which hath the king  
-Five times redeem’d from death: I do not know  
+Five times redeem'd from death: I do not know  
 What is more cordial. Nay, I prethee, take it;  
 It is an earnest of a further good  
 That I mean to thee. Tell thy mistress how  
-The case stands with her; do’t as from thyself.  
+The case stands with her; do't as from thyself.  
 Think what a chance thou changest on, but think  
 Thou hast thy mistress still, to boot, my son,  
-Who shall take notice of thee: I’ll move the king  
+Who shall take notice of thee: I'll move the king  
 To any shape of thy preferment such  
-As thou’lt desire; and then myself, I chiefly,  
+As thou'lt desire; and then myself, I chiefly,  
 That set thee on to this desert, am bound  
 To load thy merit richly. Call my women:  
 Think on my words.
@@ -980,7 +980,7 @@ Think on my words.
 **PISANIO**  
 And shall do:  
 But when to my good lord I prove untrue,  
-I’ll choke myself: there’s all I’ll do for you.
+I'll choke myself: there's all I'll do for you.
 
 *Exit*
 
@@ -991,12 +991,12 @@ I’ll choke myself: there’s all I’ll do for you.
 **IMOGEN**  
 A father cruel, and a step-dame false;  
 A foolish suitor to a wedded lady,  
-That hath her husband banish’d;–O, that husband!  
+That hath her husband banish'd;--O, that husband!  
 My supreme crown of grief! and those repeated  
-Vexations of it! Had I been thief-stol’n,  
+Vexations of it! Had I been thief-stol'n,  
 As my two brothers, happy! but most miserable  
-Is the desire that’s glorious: blest be those,  
-How mean soe’er, that have their honest wills,  
+Is the desire that's glorious: blest be those,  
+How mean soe'er, that have their honest wills,  
 Which seasons comfort. Who may this be? Fie!
 
 *Enter PISANIO and IACHIMO*
@@ -1014,12 +1014,12 @@ And greets your highness dearly.
 
 **IMOGEN**  
 Thanks, good sir:  
-You’re kindly welcome.
+You're kindly welcome.
 
 **IACHIMO**  
 *\[Aside]*
 All of her that is out of door most rich!  
-If she be furnish’d with a mind so rare,  
+If she be furnish'd with a mind so rare,  
 She is alone the Arabian bird, and I  
 Have lost the wager. Boldness be my friend!  
 Arm me, audacity, from head to foot!  
@@ -1028,13 +1028,13 @@ Rather directly fly.
 
 **IMOGEN**  
 *\[Reads]*
-‘He is one of the noblest note, to whose  
+'He is one of the noblest note, to whose  
 kindnesses I am most infinitely tied. Reflect upon  
-him accordingly, as you value your trust–  
-LEONATUS.’
+him accordingly, as you value your trust--  
+LEONATUS.'
 So far I read aloud:  
 But even the very middle of my heart  
-Is warm’d by the rest, and takes it thankfully.  
+Is warm'd by the rest, and takes it thankfully.  
 You are as welcome, worthy sir, as I  
 Have words to bid you, and shall find it so  
 In all that I can do.
@@ -1043,21 +1043,21 @@ In all that I can do.
 Thanks, fairest lady.  
 What, are men mad? Hath nature given them eyes  
 To see this vaulted arch, and the rich crop  
-Of sea and land, which can distinguish ’twixt  
-The fiery orbs above and the twinn’d stones  
-Upon the number’d beach? and can we not  
+Of sea and land, which can distinguish 'twixt  
+The fiery orbs above and the twinn'd stones  
+Upon the number'd beach? and can we not  
 Partition make with spectacles so precious  
-’Twixt fair and foul?
+'Twixt fair and foul?
 
 **IMOGEN**  
 What makes your admiration?
 
 **IACHIMO**  
-It cannot be i’ the eye, for apes and monkeys  
-‘Twixt two such shes would chatter this way and  
-Contemn with mows the other; nor i’ the judgment,  
+It cannot be i' the eye, for apes and monkeys  
+'Twixt two such shes would chatter this way and  
+Contemn with mows the other; nor i' the judgment,  
 For idiots in this case of favour would  
-Be wisely definite; nor i’ the appetite;  
+Be wisely definite; nor i' the appetite;  
 Sluttery to such neat excellence opposed  
 Should make desire vomit emptiness,  
 Not so allured to feed.
@@ -1068,7 +1068,7 @@ What is the matter, trow?
 **IACHIMO**  
 The cloyed will,  
 That satiate yet unsatisfied desire, that tub  
-Both fill’d and running, ravening first the lamb  
+Both fill'd and running, ravening first the lamb  
 Longs after for the garbage.
 
 **IMOGEN**  
@@ -1081,7 +1081,7 @@ Thanks, madam; well.
 *To PISANIO*
 
 Beseech you, sir, desire  
-My man’s abode where I did leave him: he  
+My man's abode where I did leave him: he  
 Is strange and peevish.
 
 **PISANIO**  
@@ -1101,7 +1101,7 @@ Is he disposed to mirth? I hope he is.
 
 **IACHIMO**  
 Exceeding pleasant; none a stranger there  
-So merry and so gamesome: he is call’d  
+So merry and so gamesome: he is call'd  
 The Briton reveller.
 
 **IMOGEN**  
@@ -1114,13 +1114,13 @@ I never saw him sad.
 There is a Frenchman his companion, one  
 An eminent monsieur, that, it seems, much loves  
 A Gallian girl at home; he furnaces  
-The thick sighs from him, whiles the jolly Briton–  
-Your lord, I mean–laughs from’s free lungs, cries ‘O,  
+The thick sighs from him, whiles the jolly Briton--  
+Your lord, I mean--laughs from's free lungs, cries 'O,  
 Can my sides hold, to think that man, who knows  
 By history, report, or his own proof,  
 What woman is, yea, what she cannot choose  
 But must be, will his free hours languish for  
-Assured bondage?’
+Assured bondage?'
 
 **IMOGEN**  
 Will my lord say so?
@@ -1135,8 +1135,8 @@ Some men are much to blame.
 Not he, I hope.
 
 **IACHIMO**  
-Not he: but yet heaven’s bounty towards him might  
-Be used more thankfully. In himself, ’tis much;  
+Not he: but yet heaven's bounty towards him might  
+Be used more thankfully. In himself, 'tis much;  
 In you, which I account his beyond all talents,  
 Whilst I am bound to wonder, I am bound  
 To pity too.
@@ -1155,7 +1155,7 @@ Deserves your pity?
 **IACHIMO**  
 Lamentable! What,  
 To hide me from the radiant sun and solace  
-I’ the dungeon by a snuff?
+I' the dungeon by a snuff?
 
 **IMOGEN**  
 I pray you, sir,  
@@ -1163,33 +1163,33 @@ Deliver with more openness your answers
 To my demands. Why do you pity me?
 
 **IACHIMO**  
-That others do–  
-I was about to say–enjoy your–But  
+That others do--  
+I was about to say--enjoy your--But  
 It is an office of the gods to venge it,  
-Not mine to speak on ’t.
+Not mine to speak on 't.
 
 **IMOGEN**  
 You do seem to know  
-Something of me, or what concerns me: pray you,–  
+Something of me, or what concerns me: pray you,--  
 Since doubling things go ill often hurts more  
 Than to be sure they do; for certainties  
 Either are past remedies, or, timely knowing,  
-The remedy then born–discover to me  
+The remedy then born--discover to me  
 What both you spur and stop.
 
 **IACHIMO**  
 Had I this cheek  
 To bathe my lips upon; this hand, whose touch,  
-Whose every touch, would force the feeler’s soul  
+Whose every touch, would force the feeler's soul  
 To the oath of loyalty; this object, which  
 Takes prisoner the wild motion of mine eye,  
-Fixing it only here; should I, damn’d then,  
+Fixing it only here; should I, damn'd then,  
 Slaver with lips as common as the stairs  
 That mount the Capitol; join gripes with hands  
-Made hard with hourly falsehood–falsehood, as  
+Made hard with hourly falsehood--falsehood, as  
 With labour; then by-peeping in an eye  
 Base and unlustrous as the smoky light  
-That’s fed with stinking tallow; it were fit  
+That's fed with stinking tallow; it were fit  
 That all the plagues of hell should at one time  
 Encounter such revolt.
 
@@ -1200,7 +1200,7 @@ Has forgot Britain.
 **IACHIMO**  
 And himself. Not I,  
 Inclined to this intelligence, pronounce  
-The beggary of his change; but ’tis your graces  
+The beggary of his change; but 'tis your graces  
 That from pay mutest conscience to my tongue  
 Charms this report out.
 
@@ -1210,26 +1210,26 @@ Let me hear no more.
 **IACHIMO**  
 O dearest soul! your cause doth strike my heart  
 With pity, that doth make me sick. A lady  
-So fair, and fasten’d to an empery,  
-Would make the great’st king double,–to be partner’d  
+So fair, and fasten'd to an empery,  
+Would make the great'st king double,--to be partner'd  
 With tomboys hired with that self-exhibition  
 Which your own coffers yield! with diseased ventures  
 That play with all infirmities for gold  
-Which rottenness can lend nature! such boil’d stuff  
+Which rottenness can lend nature! such boil'd stuff  
 As well might poison poison! Be revenged;  
 Or she that bore you was no queen, and you  
 Recoil from your great stock.
 
 **IMOGEN**  
 Revenged!
-How should I be revenged? If this be true,–  
+How should I be revenged? If this be true,--  
 As I have such a heart that both mine ears  
-Must not in haste abuse–if it be true,  
+Must not in haste abuse--if it be true,  
 How should I be revenged?
 
 **IACHIMO**  
 Should he make me  
-Live, like Diana’s priest, betwixt cold sheets,  
+Live, like Diana's priest, betwixt cold sheets,  
 Whiles he is vaulting variable ramps,  
 In your despite, upon your purse? Revenge it.  
 I dedicate myself to your sweet pleasure,  
@@ -1247,10 +1247,10 @@ Let me my service tender on your lips.
 Away! I do condemn mine ears that have  
 So long attended thee. If thou wert honourable,  
 Thou wouldst have told this tale for virtue, not  
-For such an end thou seek’st,–as base as strange.  
-Thou wrong’st a gentleman, who is as far  
+For such an end thou seek'st,--as base as strange.  
+Thou wrong'st a gentleman, who is as far  
 From thy report as thou from honour, and  
-Solicit’st here a lady that disdains  
+Solicit'st here a lady that disdains  
 Thee and the devil alike. What ho, Pisanio!  
 The king my father shall be made acquainted  
 Of thy assault: if he shall think it fit,  
@@ -1266,32 +1266,32 @@ The credit that thy lady hath of thee
 Deserves thy trust, and thy most perfect goodness  
 Her assured credit. Blessed live you long!  
 A lady to the worthiest sir that ever  
-Country call’d his! and you his mistress, only  
+Country call'd his! and you his mistress, only  
 For the most worthiest fit! Give me your pardon.  
 I have spoke this, to know if your affiance  
 Were deeply rooted; and shall make your lord,  
-That which he is, new o’er: and he is one  
-The truest manner’d; such a holy witch  
+That which he is, new o'er: and he is one  
+The truest manner'd; such a holy witch  
 That he enchants societies into him;  
-Half all men’s hearts are his.
+Half all men's hearts are his.
 
 **IMOGEN**  
 You make amends.
 
 **IACHIMO**  
-He sits ’mongst men like a descended god:  
+He sits 'mongst men like a descended god:  
 He hath a kind of honour sets him off,  
 More than a mortal seeming. Be not angry,  
 Most mighty princess, that I have adventured  
 To try your taking a false report; which hath  
-Honour’d with confirmation your great judgment  
+Honour'd with confirmation your great judgment  
 In the election of a sir so rare,  
 Which you know cannot err: the love I bear him  
 Made me to fan you thus, but the gods made you,  
 Unlike all others, chaffless. Pray, your pardon.
 
 **IMOGEN**  
-All’s well, sir: take my power i’ the court  
+All's well, sir: take my power i' the court  
 for yours.
 
 **IACHIMO**  
@@ -1302,14 +1302,14 @@ Your lord; myself and other noble friends,
 Are partners in the business.
 
 **IMOGEN**  
-Pray, what is’t?
+Pray, what is't?
 
 **IACHIMO**  
-Some dozen Romans of us and your lord–  
-The best feather of our wing–have mingled sums  
+Some dozen Romans of us and your lord--  
+The best feather of our wing--have mingled sums  
 To buy a present for the emperor  
 Which I, the factor for the rest, have done  
-In France: ’tis plate of rare device, and jewels  
+In France: 'tis plate of rare device, and jewels  
 Of rich and exquisite form; their values great;  
 And I am something curious, being strange,  
 To have them in safe stowage: may it please you  
@@ -1333,7 +1333,7 @@ O, no, no.
 **IACHIMO**  
 Yes, I beseech; or I shall short my word  
 By lengthening my return. From Gallia  
-I cross’d the seas on purpose and on promise  
+I cross'd the seas on purpose and on promise  
 To see your grace.
 
 **IMOGEN**  
@@ -1343,27 +1343,27 @@ But not away to-morrow!
 **IACHIMO**  
 O, I must, madam:  
 Therefore I shall beseech you, if you please  
-To greet your lord with writing, do’t to-night:  
+To greet your lord with writing, do't to-night:  
 I have outstood my time; which is material  
 To the tender of our present.
 
 **IMOGEN**  
 I will write.  
 Send your trunk to me; it shall safe be kept,  
-And truly yielded you. You’re very welcome.
+And truly yielded you. You're very welcome.
 
 *Exeunt*
 
 ## ACT II
 
-### SCENE I. Britain. Before Cymbeline’s palace.
+### SCENE I. Britain. Before Cymbeline's palace.
 
 *Enter CLOTEN and two Lords*
 
 **CLOTEN**  
 Was there ever man had such luck! when I kissed the  
 jack, upon an up-cast to be hit away! I had a  
-hundred pound on’t: and then a whoreson jackanapes  
+hundred pound on't: and then a whoreson jackanapes  
 must take me up for swearing; as if I borrowed mine  
 oaths of him and might not spend them at my pleasure.
 
@@ -1396,7 +1396,7 @@ To have smelt like a fool.
 
 **CLOTEN**  
 I am not vexed more at any thing in the earth: a  
-pox on’t! I had rather not be so noble as I am;  
+pox on't! I had rather not be so noble as I am;  
 they dare not fight with me, because of the queen my  
 mother: every Jack-slave hath his bellyful of  
 fighting, and I must go up and down like a cock that  
@@ -1425,30 +1425,30 @@ Ay, it is fit for your lordship only.
 Why, so I say.
 
 **First Lord**  
-Did you hear of a stranger that’s come to court to-night?
+Did you hear of a stranger that's come to court to-night?
 
 **CLOTEN**  
-A stranger, and I not know on’t!
+A stranger, and I not know on't!
 
 **Second Lord**  
 *\[Aside]*
-He’s a strange fellow himself, and knows it  
+He's a strange fellow himself, and knows it  
 not.
 
 **First Lord**  
-There’s an Italian come; and, ‘tis thought, one of  
-Leonatus’ friends.
+There's an Italian come; and, 'tis thought, one of  
+Leonatus' friends.
 
 **CLOTEN**  
-Leonatus! a banished rascal; and he’s another,  
+Leonatus! a banished rascal; and he's another,  
 whatsoever he be. Who told you of this stranger?
 
 **First Lord**  
-One of your lordship’s pages.
+One of your lordship's pages.
 
 **CLOTEN**  
 Is it fit I went to look upon him? is there no  
-derogation in’t?
+derogation in't?
 
 **Second Lord**  
 You cannot derogate, my lord.
@@ -1462,11 +1462,11 @@ You are a fool granted; therefore your
 issues, being foolish, do not derogate.
 
 **CLOTEN**  
-Come, I’ll go see this Italian: what I have lost  
-to-day at bowls I’ll win to-night of him. Come, go.
+Come, I'll go see this Italian: what I have lost  
+to-day at bowls I'll win to-night of him. Come, go.
 
 **Second Lord**  
-I’ll attend your lordship.
+I'll attend your lordship.
 
 *Exeunt CLOTEN and First Lord*
 
@@ -1476,25 +1476,25 @@ Bears all down with her brain; and this her son
 Cannot take two from twenty, for his heart,  
 And leave eighteen. Alas, poor princess,  
 Thou divine Imogen, what thou endurest,  
-Betwixt a father by thy step-dame govern’d,  
+Betwixt a father by thy step-dame govern'd,  
 A mother hourly coining plots, a wooer  
 More hateful than the foul expulsion is  
 Of thy dear husband, than that horrid act  
-Of the divorce he’ld make! The heavens hold firm  
+Of the divorce he'ld make! The heavens hold firm  
 The walls of thy dear honour, keep unshaked  
 That temple, thy fair mind, that thou mayst stand,  
-To enjoy thy banish’d lord and this great land!
+To enjoy thy banish'd lord and this great land!
 
 *Exit*
 
-### SCENE II. Imogen’s bedchamber in Cymbeline’s palace:
+### SCENE II. Imogen's bedchamber in Cymbeline's palace:
 
 a trunk in one corner of it.
 
 *IMOGEN in bed, reading; a Lady attending*
 
 **IMOGEN**  
-Who’s there? my woman Helen?
+Who's there? my woman Helen?
 
 **Lady**  
 Please you, madam
@@ -1509,7 +1509,7 @@ Almost midnight, madam.
 I have read three hours then: mine eyes are weak:  
 Fold down the leaf where I have left: to bed:  
 Take not away the taper, leave it burning;  
-And if thou canst awake by four o’ the clock,  
+And if thou canst awake by four o' the clock,  
 I prithee, call me. Sleep hath seized me wholly
 
 *Exit Lady*
@@ -1521,23 +1521,23 @@ Guard me, beseech ye.
 *Sleeps. IACHIMO comes from the trunk*
 
 **IACHIMO**  
-The crickets sing, and man’s o’er-labour’d sense  
+The crickets sing, and man's o'er-labour'd sense  
 Repairs itself by rest. Our Tarquin thus  
-Did softly press the rushes, ere he waken’d  
+Did softly press the rushes, ere he waken'd  
 The chastity he wounded. Cytherea,  
 How bravely thou becomest thy bed, fresh lily,  
 And whiter than the sheets! That I might touch!  
-But kiss; one kiss! Rubies unparagon’d,  
-How dearly they do’t! ‘Tis her breathing that  
-Perfumes the chamber thus: the flame o’ the taper  
+But kiss; one kiss! Rubies unparagon'd,  
+How dearly they do't! 'Tis her breathing that  
+Perfumes the chamber thus: the flame o' the taper  
 Bows toward her, and would under-peep her lids,  
 To see the enclosed lights, now canopied  
 Under these windows, white and azure laced  
-With blue of heaven’s own tinct. But my design,  
+With blue of heaven's own tinct. But my design,  
 To note the chamber: I will write all down:  
 Such and such pictures; there the window; such  
 The adornment of her bed; the arras; figures,  
-Why, such and such; and the contents o’ the story.  
+Why, such and such; and the contents o' the story.  
 Ah, but some natural notes about her body,  
 Above ten thousand meaner moveables  
 Would testify, to enrich mine inventory.  
@@ -1548,21 +1548,21 @@ Thus in a chapel lying! Come off, come off:
 *Taking off her bracelet*
 
 As slippery as the Gordian knot was hard!  
-‘Tis mine; and this will witness outwardly,  
+'Tis mine; and this will witness outwardly,  
 As strongly as the conscience does within,  
 To the madding of her lord. On her left breast  
 A mole cinque-spotted, like the crimson drops  
-I’ the bottom of a cowslip: here’s a voucher,  
+I' the bottom of a cowslip: here's a voucher,  
 Stronger than ever law could make: this secret  
-Will force him think I have pick’d the lock and ta’en  
+Will force him think I have pick'd the lock and ta'en  
 The treasure of her honour. No more. To what end?  
-Why should I write this down, that’s riveted,  
-Screw’d to my memory? She hath been reading late  
-The tale of Tereus; here the leaf’s turn’d down  
+Why should I write this down, that's riveted,  
+Screw'd to my memory? She hath been reading late  
+The tale of Tereus; here the leaf's turn'd down  
 Where Philomel gave up. I have enough:  
 To the trunk again, and shut the spring of it.  
 Swift, swift, you dragons of the night, that dawning  
-May bare the raven’s eye! I lodge in fear;  
+May bare the raven's eye! I lodge in fear;  
 Though this a heavenly angel, hell is here.
 
 *Clock strikes*
@@ -1572,7 +1572,7 @@ One, two, three: time, time!
 *Goes into the trunk. The scene closes*
 
 **Scene III**  
-An ante-chamber adjoining Imogen’s apartments.
+An ante-chamber adjoining Imogen's apartments.
 
 *Enter CLOTEN and Lords*
 
@@ -1590,28 +1590,28 @@ your lordship. You are most hot and furious when you win.
 **CLOTEN**  
 Winning will put any man into courage. If I could  
 get this foolish Imogen, I should have gold enough.  
-It’s almost morning, is’t not?
+It's almost morning, is't not?
 
 **First Lord**  
 Day, my lord.
 
 **CLOTEN**  
 I would this music would come: I am advised to give  
-her music o’ mornings; they say it will penetrate.
+her music o' mornings; they say it will penetrate.
 
 *Enter Musicians*
 
 Come on; tune: if you can penetrate her with your  
-fingering, so; we’ll try with tongue too: if none  
-will do, let her remain; but I’ll never give o’er.  
+fingering, so; we'll try with tongue too: if none  
+will do, let her remain; but I'll never give o'er.  
 First, a very excellent good-conceited thing;  
 after, a wonderful sweet air, with admirable rich  
 words to it: and then let her consider.
 
 *SONG*
 
-Hark, hark! the lark at heaven’s gate sings,  
-And Phoebus ’gins arise,  
+Hark, hark! the lark at heaven's gate sings,  
+And Phoebus 'gins arise,  
 His steeds to water at those springs  
 On chaliced flowers that lies;  
 And winking Mary-buds begin  
@@ -1624,7 +1624,7 @@ Arise, arise.
 So, get you gone. If this penetrate, I will  
 consider your music the better: if it do not, it is  
 a vice in her ears, which horse-hairs and  
-calves’-guts, nor the voice of unpaved eunuch to  
+calves'-guts, nor the voice of unpaved eunuch to  
 boot, can never amend.
 
 *Exeunt Musicians*
@@ -1633,7 +1633,7 @@ boot, can never amend.
 Here comes the king.
 
 **CLOTEN**  
-I am glad I was up so late; for that’s the reason I  
+I am glad I was up so late; for that's the reason I  
 was up so early: he cannot choose but take this  
 service I have done fatherly.
 
@@ -1652,7 +1652,7 @@ I have assailed her with music, but she vouchsafes no notice.
 The exile of her minion is too new;  
 She hath not yet forgot him: some more time  
 Must wear the print of his remembrance out,  
-And then she’s yours.
+And then she's yours.
 
 **QUEEN**  
 You are most bound to the king,  
@@ -1678,7 +1678,7 @@ The one is Caius Lucius.
 **CYMBELINE**  
 A worthy fellow,
 Albeit he comes on angry purpose now;  
-But that’s no fault of his: we must receive him  
+But that's no fault of his: we must receive him  
 According to the honour of his sender;  
 And towards himself, his goodness forespent on us,  
 We must extend our notice. Our dear son,  
@@ -1689,18 +1689,18 @@ To employ you towards this Roman. Come, our queen.
 *Exeunt all but CLOTEN*
 
 **CLOTEN**  
-If she be up, I’ll speak with her; if not,  
+If she be up, I'll speak with her; if not,  
 Let her lie still and dream.
 
 *Knocks*
 
 By your leave, ho!
 I Know her women are about her: what  
-If I do line one of their hands? ‘Tis gold  
+If I do line one of their hands? 'Tis gold  
 Which buys admittance; oft it doth; yea, and makes  
-Diana’s rangers false themselves, yield up  
-Their deer to the stand o’ the stealer; and ’tis gold  
-Which makes the true man kill’d and saves the thief;  
+Diana's rangers false themselves, yield up  
+Their deer to the stand o' the stealer; and 'tis gold  
+Which makes the true man kill'd and saves the thief;  
 Nay, sometime hangs both thief and true man: what  
 Can it not do and undo? I will make  
 One of her women lawyer to me, for  
@@ -1713,7 +1713,7 @@ By your leave.
 *Enter a Lady*
 
 **Lady**  
-Who’s there that knocks?
+Who's there that knocks?
 
 **CLOTEN**  
 A gentleman.
@@ -1722,15 +1722,15 @@ A gentleman.
 No more?
 
 **CLOTEN**  
-Yes, and a gentlewoman’s son.
+Yes, and a gentlewoman's son.
 
 **Lady**  
-That’s more
+That's more
 Than some, whose tailors are as dear as yours,  
-Can justly boast of. What’s your lordship’s pleasure?
+Can justly boast of. What's your lordship's pleasure?
 
 **CLOTEN**  
-Your lady’s person: is she ready?
+Your lady's person: is she ready?
 
 **Lady**  
 Ay,
@@ -1742,7 +1742,7 @@ Sell me your good report.
 
 **Lady**  
 How! my good name? or to report of you  
-What I shall think is good?–The princess!
+What I shall think is good?--The princess!
 
 *Enter IMOGEN*
 
@@ -1761,7 +1761,7 @@ And scarce can spare them.
 Still, I swear I love you.
 
 **IMOGEN**  
-If you but said so, ’twere as deep with me:  
+If you but said so, 'twere as deep with me:  
 If you swear still, your recompense is still  
 That I regard it not.
 
@@ -1770,13 +1770,13 @@ This is no answer.
 
 **IMOGEN**  
 But that you shall not say I yield being silent,  
-I would not speak. I pray you, spare me: ’faith,  
+I would not speak. I pray you, spare me: 'faith,  
 I shall unfold equal discourtesy  
 To your best kindness: one of your great knowing  
 Should learn, being taught, forbearance.
 
 **CLOTEN**  
-To leave you in your madness, ’twere my sin:  
+To leave you in your madness, 'twere my sin:  
 I will not.
 
 **IMOGEN**  
@@ -1787,30 +1787,30 @@ Do you call me fool?
 
 **IMOGEN**  
 As I am mad, I do:
-If you’ll be patient, I’ll no more be mad;  
+If you'll be patient, I'll no more be mad;  
 That cures us both. I am much sorry, sir,  
-You put me to forget a lady’s manners,  
+You put me to forget a lady's manners,  
 By being so verbal: and learn now, for all,  
 That I, which know my heart, do here pronounce,  
 By the very truth of it, I care not for you,  
-And am so near the lack of charity–  
-To accuse myself–I hate you; which I had rather  
-You felt than make’t my boast.
+And am so near the lack of charity--  
+To accuse myself--I hate you; which I had rather  
+You felt than make't my boast.
 
 **CLOTEN**  
 You sin against
 Obedience, which you owe your father. For  
 The contract you pretend with that base wretch,  
-One bred of alms and foster’d with cold dishes,  
-With scraps o’ the court, it is no contract, none:  
-And though it be allow’d in meaner parties–  
-Yet who than he more mean?–to knit their souls,  
+One bred of alms and foster'd with cold dishes,  
+With scraps o' the court, it is no contract, none:  
+And though it be allow'd in meaner parties--  
+Yet who than he more mean?--to knit their souls,  
 On whom there is no more dependency  
 But brats and beggary, in self-figured knot;  
-Yet you are curb’d from that enlargement by  
-The consequence o’ the crown, and must not soil  
+Yet you are curb'd from that enlargement by  
+The consequence o' the crown, and must not soil  
 The precious note of it with a base slave.  
-A hilding for a livery, a squire’s cloth,  
+A hilding for a livery, a squire's cloth,  
 A pantler, not so eminent.
 
 **IMOGEN**  
@@ -1818,7 +1818,7 @@ Profane fellow
 Wert thou the son of Jupiter and no more  
 But what thou art besides, thou wert too base  
 To be his groom: thou wert dignified enough,  
-Even to the point of envy, if ’twere made  
+Even to the point of envy, if 'twere made  
 Comparative for your virtues, to be styled  
 The under-hangman of his kingdom, and hated  
 For being preferred so well.
@@ -1829,35 +1829,35 @@ The south-fog rot him!
 **IMOGEN**  
 He never can meet more mischance than come  
 To be but named of thee. His meanest garment,  
-That ever hath but clipp’d his body, is dearer  
+That ever hath but clipp'd his body, is dearer  
 In my respect than all the hairs above thee,  
 Were they all made such men. How now, Pisanio!
 
 *Enter PISANIO*
 
 **CLOTEN**  
-‘His garment!’ Now the devil–
+'His garment!' Now the devil--
 
 **IMOGEN**  
-To Dorothy my woman hie thee presently–
+To Dorothy my woman hie thee presently--
 
 **CLOTEN**  
-‘His garment!’
+'His garment!'
 
 **IMOGEN**  
 I am sprited with a fool.  
-Frighted, and anger’d worse: go bid my woman  
+Frighted, and anger'd worse: go bid my woman  
 Search for a jewel that too casually  
-Hath left mine arm: it was thy master’s: ’shrew me,  
+Hath left mine arm: it was thy master's: 'shrew me,  
 If I would lose it for a revenue  
-Of any king’s in Europe. I do think  
-I saw’t this morning: confident I am  
-Last night ’twas on mine arm; I kiss’d it:  
+Of any king's in Europe. I do think  
+I saw't this morning: confident I am  
+Last night 'twas on mine arm; I kiss'd it:  
 I hope it be not gone to tell my lord  
 That I kiss aught but he.
 
 **PISANIO**  
-’Twill not be lost.
+'Twill not be lost.
 
 **IMOGEN**  
 I hope so: go and search.
@@ -1866,32 +1866,32 @@ I hope so: go and search.
 
 **CLOTEN**  
 You have abused me:  
-‘His meanest garment!’
+'His meanest garment!'
 
 **IMOGEN**  
 Ay, I said so, sir:  
-If you will make’t an action, call witness to’t.
+If you will make't an action, call witness to't.
 
 **CLOTEN**  
 I will inform your father.
 
 **IMOGEN**  
 Your mother too:
-She’s my good lady, and will conceive, I hope,  
+She's my good lady, and will conceive, I hope,  
 But the worst of me. So, I leave you, sir,  
 To the worst of discontent.
 
 *Exit*
 
 **CLOTEN**  
-I’ll be revenged:
-‘His meanest garment!’ Well.
+I'll be revenged:
+'His meanest garment!' Well.
 
 *Exit*
 
 CYMBELINE
 
-### SCENE IV. Rome. Philario’s house.
+### SCENE IV. Rome. Philario's house.
 
 *Enter POSTHUMUS and PHILARIO*
 
@@ -1905,17 +1905,17 @@ What means do you make to him?
 
 **POSTHUMUS LEONATUS**  
 Not any, but abide the change of time,  
-Quake in the present winter’s state and wish  
-That warmer days would come: in these sear’d hopes,  
+Quake in the present winter's state and wish  
+That warmer days would come: in these sear'd hopes,  
 I barely gratify your love; they failing,  
 I must die much your debtor.
 
 **PHILARIO**  
 Your very goodness and your company  
-O’erpays all I can do. By this, your king  
+O'erpays all I can do. By this, your king  
 Hath heard of great Augustus: Caius Lucius  
-Will do’s commission throughly: and I think  
-He’ll grant the tribute, send the arrearages,  
+Will do's commission throughly: and I think  
+He'll grant the tribute, send the arrearages,  
 Or look upon our Romans, whose remembrance  
 Is yet fresh in their grief.
 
@@ -1926,7 +1926,7 @@ That this will prove a war; and you shall hear
 The legions now in Gallia sooner landed  
 In our not-fearing Britain than have tidings  
 Of any penny tribute paid. Our countrymen  
-Are men more order’d than when Julius Caesar  
+Are men more order'd than when Julius Caesar  
 Smiled at their lack of skill, but found  
 their courage
 Worthy his frowning at: their discipline,  
@@ -1941,7 +1941,7 @@ See! Iachimo!
 
 **POSTHUMUS LEONATUS**  
 The swiftest harts have posted you by land;  
-And winds of all the comers kiss’d your sails,  
+And winds of all the comers kiss'd your sails,  
 To make your vessel nimble.
 
 **PHILARIO**  
@@ -1953,7 +1953,7 @@ The speediness of your return.
 
 **IACHIMO**  
 Your lady
-Is one of the fairest that I have look’d upon.
+Is one of the fairest that I have look'd upon.
 
 **POSTHUMUS LEONATUS**  
 And therewithal the best; or let her beauty  
@@ -1967,7 +1967,7 @@ Here are letters for you.
 Their tenor good, I trust.
 
 **IACHIMO**  
-’Tis very like.
+'Tis very like.
 
 **PHILARIO**  
 Was Caius Lucius in the Britain court  
@@ -1975,22 +1975,22 @@ When you were there?
 
 **IACHIMO**  
 He was expected then,  
-But not approach’d.
+But not approach'd.
 
 **POSTHUMUS LEONATUS**  
 All is well yet.
-Sparkles this stone as it was wont? or is’t not  
+Sparkles this stone as it was wont? or is't not  
 Too dull for your good wearing?
 
 **IACHIMO**  
 If I had lost it,
 I should have lost the worth of it in gold.  
-I’ll make a journey twice as far, to enjoy  
+I'll make a journey twice as far, to enjoy  
 A second night of such sweet shortness which  
 Was mine in Britain, for the ring is won.
 
 **POSTHUMUS LEONATUS**  
-The stone’s too hard to come by.
+The stone's too hard to come by.
 
 **IACHIMO**  
 Not a whit,
@@ -2012,7 +2012,7 @@ Of her or you, having proceeded but
 By both your wills.
 
 **POSTHUMUS LEONATUS**  
-If you can make’t apparent  
+If you can make't apparent  
 That you have tasted her in bed, my hand  
 And ring is yours; if not, the foul opinion  
 You had of her pure honour gains or loses  
@@ -2024,24 +2024,24 @@ Sir, my circumstances,
 Being so near the truth as I will make them,  
 Must first induce you to believe: whose strength  
 I will confirm with oath; which, I doubt not,  
-You’ll give me leave to spare, when you shall find  
+You'll give me leave to spare, when you shall find  
 You need it not.
 
 **POSTHUMUS LEONATUS**  
 Proceed.
 
 **IACHIMO**  
-First, her bedchamber,–  
+First, her bedchamber,--  
 Where, I confess, I slept not, but profess  
-Had that was well worth watching–it was hang’d  
+Had that was well worth watching--it was hang'd  
 With tapesty of silk and silver; the story  
 Proud Cleopatra, when she met her Roman,  
-And Cydnus swell’d above the banks, or for  
+And Cydnus swell'd above the banks, or for  
 The press of boats or pride: a piece of work  
 So bravely done, so rich, that it did strive  
-In workmanship and value; which I wonder’d  
+In workmanship and value; which I wonder'd  
 Could be so rarely and exactly wrought,  
-Since the true life on’t was–
+Since the true life on't was--
 
 **POSTHUMUS LEONATUS**  
 This is true;
@@ -2070,16 +2070,16 @@ Which you might from relation likewise reap,
 Being, as it is, much spoke of.
 
 **IACHIMO**  
-The roof o’ the chamber  
-With golden cherubins is fretted: her andirons–  
-I had forgot them–were two winking Cupids  
+The roof o' the chamber  
+With golden cherubins is fretted: her andirons--  
+I had forgot them--were two winking Cupids  
 Of silver, each on one foot standing, nicely  
 Depending on their brands.
 
 **POSTHUMUS LEONATUS**  
 This is her honour!  
-Let it be granted you have seen all this–and praise  
-Be given to your remembrance–the description  
+Let it be granted you have seen all this--and praise  
+Be given to your remembrance--the description  
 Of what is in her chamber nothing saves  
 The wager you have laid.
 
@@ -2089,8 +2089,8 @@ Then, if you can,
 *Showing the bracelet*
 
 Be pale: I beg but leave to air this jewel; see!  
-And now ’tis up again: it must be married  
-To that your diamond; I’ll keep them.
+And now 'tis up again: it must be married  
+To that your diamond; I'll keep them.
 
 **POSTHUMUS LEONATUS**  
 Jove!
@@ -2098,42 +2098,42 @@ Once more let me behold it: is it that
 Which I left with her?
 
 **IACHIMO**  
-Sir–I thank her–that:  
-She stripp’d it from her arm; I see her yet;  
+Sir--I thank her--that:  
+She stripp'd it from her arm; I see her yet;  
 Her pretty action did outsell her gift,  
-And yet enrich’d it too: she gave it me, and said  
+And yet enrich'd it too: she gave it me, and said  
 She prized it once.
 
 **POSTHUMUS LEONATUS**  
-May be she pluck’d it off  
+May be she pluck'd it off  
 To send it me.
 
 **IACHIMO**  
 She writes so to you, doth she?
 
 **POSTHUMUS LEONATUS**  
-O, no, no, no! ’tis true. Here, take this too;
+O, no, no, no! 'tis true. Here, take this too;
 
 *Gives the ring*
 
 It is a basilisk unto mine eye,  
-Kills me to look on’t. Let there be no honour  
+Kills me to look on't. Let there be no honour  
 Where there is beauty; truth, where semblance; love,  
-Where there’s another man: the vows of women  
+Where there's another man: the vows of women  
 Of no more bondage be, to where they are made,  
 Than they are to their virtues; which is nothing.  
 O, above measure false!
 
 **PHILARIO**  
 Have patience, sir,  
-And take your ring again; ’tis not yet won:  
+And take your ring again; 'tis not yet won:  
 It may be probable she lost it; or  
 Who knows if one of her women, being corrupted,  
-Hath stol’n it from her?
+Hath stol'n it from her?
 
 **POSTHUMUS LEONATUS**  
 Very true;
-And so, I hope, he came by’t. Back my ring:  
+And so, I hope, he came by't. Back my ring:  
 Render to me some corporal sign about her,  
 More evident than this; for this was stolen.
 
@@ -2142,10 +2142,10 @@ By Jupiter, I had it from her arm.
 
 **POSTHUMUS LEONATUS**  
 Hark you, he swears; by Jupiter he swears.  
-’Tis true:–nay, keep the ring–’tis true: I am sure  
+'Tis true:--nay, keep the ring--'tis true: I am sure  
 She would not lose it: her attendants are  
-All sworn and honourable:–they induced to steal it!  
-And by a stranger!–No, he hath enjoyed her:  
+All sworn and honourable:--they induced to steal it!  
+And by a stranger!--No, he hath enjoyed her:  
 The cognizance of her incontinency  
 Is this: she hath bought the name of whore  
 thus dearly.
@@ -2155,18 +2155,18 @@ Divide themselves between you!
 **PHILARIO**  
 Sir, be patient:
 This is not strong enough to be believed  
-Of one persuaded well of–
+Of one persuaded well of--
 
 **POSTHUMUS LEONATUS**  
-Never talk on’t;
+Never talk on't;
 She hath been colted by him.
 
 **IACHIMO**  
 If you seek
-For further satisfying, under her breast–  
-Worthy the pressing–lies a mole, right proud  
+For further satisfying, under her breast--  
+Worthy the pressing--lies a mole, right proud  
 Of that most delicate lodging: by my life,  
-I kiss’d it; and it gave me present hunger  
+I kiss'd it; and it gave me present hunger  
 To feed again, though full. You do remember  
 This stain upon her?
 
@@ -2183,28 +2183,28 @@ Spare your arithmetic: never count the turns;
 Once, and a million!
 
 **IACHIMO**  
-I’ll be sworn–
+I'll be sworn--
 
 **POSTHUMUS LEONATUS**  
 No swearing.
-If you will swear you have not done’t, you lie;  
+If you will swear you have not done't, you lie;  
 And I will kill thee, if thou dost deny  
-Thou’st made me cuckold.
+Thou'st made me cuckold.
 
 **IACHIMO**  
-I’ll deny nothing.
+I'll deny nothing.
 
 **POSTHUMUS LEONATUS**  
 O, that I had her here, to tear her limb-meal!  
-I will go there and do’t, i’ the court, before  
-Her father. I’ll do something–
+I will go there and do't, i' the court, before  
+Her father. I'll do something--
 
 *Exit*
 
 **PHILARIO**  
 Quite besides
 The government of patience! You have won:  
-Let’s follow him, and pervert the present wrath  
+Let's follow him, and pervert the present wrath  
 He hath against himself.
 
 **IACHIMO**  
@@ -2212,7 +2212,7 @@ With an my heart.
 
 *Exeunt*
 
-### SCENE V. Another room in Philario’s house.
+### SCENE V. Another room in Philario's house.
 
 *Enter POSTHUMUS LEONATUS*
 
@@ -2221,25 +2221,25 @@ Is there no way for men to be but women
 Must be half-workers? We are all bastards;  
 And that most venerable man which I  
 Did call my father, was I know not where  
-When I was stamp’d; some coiner with his tools  
-Made me a counterfeit: yet my mother seem’d  
+When I was stamp'd; some coiner with his tools  
+Made me a counterfeit: yet my mother seem'd  
 The Dian of that time so doth my wife  
 The nonpareil of this. O, vengeance, vengeance!  
-Me of my lawful pleasure she restrain’d  
-And pray’d me oft forbearance; did it with  
-A pudency so rosy the sweet view on’t  
-Might well have warm’d old Saturn; that I thought her  
-As chaste as unsunn’d snow. O, all the devils!  
-This yellow Iachimo, in an hour,–wast not?–  
-Or less,–at first?–perchance he spoke not, but,  
-Like a full-acorn’d boar, a German one,  
-Cried ‘O!’ and mounted; found no opposition  
-But what he look’d for should oppose and she  
+Me of my lawful pleasure she restrain'd  
+And pray'd me oft forbearance; did it with  
+A pudency so rosy the sweet view on't  
+Might well have warm'd old Saturn; that I thought her  
+As chaste as unsunn'd snow. O, all the devils!  
+This yellow Iachimo, in an hour,--wast not?--  
+Or less,--at first?--perchance he spoke not, but,  
+Like a full-acorn'd boar, a German one,  
+Cried 'O!' and mounted; found no opposition  
+But what he look'd for should oppose and she  
 Should from encounter guard. Could I find out  
-The woman’s part in me! For there’s no motion  
+The woman's part in me! For there's no motion  
 That tends to vice in man, but I affirm  
-It is the woman’s part: be it lying, note it,  
-The woman’s; flattering, hers; deceiving, hers;  
+It is the woman's part: be it lying, note it,  
+The woman's; flattering, hers; deceiving, hers;  
 Lust and rank thoughts, hers, hers; revenges, hers;  
 Ambitions, covetings, change of prides, disdain,  
 Nice longing, slanders, mutability,  
@@ -2248,8 +2248,8 @@ Why, hers, in part or all; but rather, all;
 For even to vice
 They are not constant but are changing still  
 One vice, but of a minute old, for one  
-Not half so old as that. I’ll write against them,  
-Detest them, curse them: yet ’tis greater skill  
+Not half so old as that. I'll write against them,  
+Detest them, curse them: yet 'tis greater skill  
 In a true hate, to pray they have their will:  
 The very devils cannot plague them better.
 
@@ -2257,7 +2257,7 @@ The very devils cannot plague them better.
 
 ## ACT III
 
-### SCENE I. Britain. A hall in Cymbeline’s palace.
+### SCENE I. Britain. A hall in Cymbeline's palace.
 
 *Enter in state, CYMBELINE, QUEEN, CLOTEN, and Lords at one door, and at another, CAIUS LUCIUS and Attendants*
 
@@ -2266,14 +2266,14 @@ Now say, what would Augustus Caesar with us?
 
 **CAIUS LUCIUS**  
 When Julius Caesar, whose remembrance yet  
-Lives in men’s eyes and will to ears and tongues  
+Lives in men's eyes and will to ears and tongues  
 Be theme and hearing ever, was in this Britain  
-And conquer’d it, Cassibelan, thine uncle,–  
-Famous in Caesar’s praises, no whit less  
-Than in his feats deserving it–for him  
+And conquer'd it, Cassibelan, thine uncle,--  
+Famous in Caesar's praises, no whit less  
+Than in his feats deserving it--for him  
 And his succession granted Rome a tribute,  
 Yearly three thousand pounds, which by thee lately  
-Is left untender’d.
+Is left untender'd.
 
 **QUEEN**  
 And, to kill the marvel,  
@@ -2287,31 +2287,31 @@ For wearing our own noses.
 
 **QUEEN**  
 That opportunity
-Which then they had to take from ‘s, to resume  
+Which then they had to take from 's, to resume  
 We have again. Remember, sir, my liege,  
 The kings your ancestors, together with  
 The natural bravery of your isle, which stands  
-As Neptune’s park, ribbed and paled in  
+As Neptune's park, ribbed and paled in  
 With rocks unscalable and roaring waters,  
-With sands that will not bear your enemies’ boats,  
+With sands that will not bear your enemies' boats,  
 But suck them up to the topmast. A kind of conquest  
 Caesar made here; but made not here his brag  
-Of ‘Came’ and ‘saw’ and ‘overcame:’ with shame–  
-That first that ever touch’d him–he was carried  
-From off our coast, twice beaten; and his shipping–  
-Poor ignorant baubles!– upon our terrible seas,  
-Like egg-shells moved upon their surges, crack’d  
-As easily ’gainst our rocks: for joy whereof  
-The famed Cassibelan, who was once at point–  
-O giglot fortune!–to master Caesar’s sword,  
-Made Lud’s town with rejoicing fires bright  
+Of 'Came' and 'saw' and 'overcame:' with shame--  
+That first that ever touch'd him--he was carried  
+From off our coast, twice beaten; and his shipping--  
+Poor ignorant baubles!-- upon our terrible seas,  
+Like egg-shells moved upon their surges, crack'd  
+As easily 'gainst our rocks: for joy whereof  
+The famed Cassibelan, who was once at point--  
+O giglot fortune!--to master Caesar's sword,  
+Made Lud's town with rejoicing fires bright  
 And Britons strut with courage.
 
 **CLOTEN**  
-Come, there’s no more tribute to be paid: our  
+Come, there's no more tribute to be paid: our  
 kingdom is stronger than it was at that time; and,  
 as I said, there is no moe such Caesars: other of  
-them may have crook’d noses, but to owe such  
+them may have crook'd noses, but to owe such  
 straight arms, none.
 
 **CYMBELINE**  
@@ -2329,10 +2329,10 @@ for light; else, sir, no more tribute, pray you now.
 You must know,
 Till the injurious Romans did extort  
 This tribute from us, we were free:  
-Caesar’s ambition,
-Which swell’d so much that it did almost stretch  
-The sides o’ the world, against all colour here  
-Did put the yoke upon ’s; which to shake off  
+Caesar's ambition,
+Which swell'd so much that it did almost stretch  
+The sides o' the world, against all colour here  
+Did put the yoke upon 's; which to shake off  
 Becomes a warlike people, whom we reckon  
 Ourselves to be.
 
@@ -2342,28 +2342,28 @@ We do.
 **CYMBELINE**  
 Say, then, to Caesar,  
 Our ancestor was that Mulmutius which  
-Ordain’d our laws, whose use the sword of Caesar  
+Ordain'd our laws, whose use the sword of Caesar  
 Hath too much mangled; whose repair and franchise  
 Shall, by the power we hold, be our good deed,  
 Though Rome be therefore angry: Mulmutius made our laws,  
 Who was the first of Britain which did put  
-His brows within a golden crown and call’d  
+His brows within a golden crown and call'd  
 Himself a king.
 
 **CAIUS LUCIUS**  
 I am sorry, Cymbeline,  
-That I am to pronounce Augustus Caesar–  
+That I am to pronounce Augustus Caesar--  
 Caesar, that hath more kings his servants than  
-Thyself domestic officers–thine enemy:  
+Thyself domestic officers--thine enemy:  
 Receive it from me, then: war and confusion  
-In Caesar’s name pronounce I ’gainst thee: look  
+In Caesar's name pronounce I 'gainst thee: look  
 For fury not to be resisted. Thus defied,  
 I thank thee for myself.
 
 **CYMBELINE**  
 Thou art welcome, Caius.  
 Thy Caesar knighted me; my youth I spent  
-Much under him; of him I gather’d honour;  
+Much under him; of him I gather'd honour;  
 Which he to seek of me again, perforce,  
 Behoves me keep at utterance. I am perfect  
 That the Pannonians and Dalmatians for  
@@ -2381,14 +2381,14 @@ you seek us afterwards in other terms, you
 shall find us in our salt-water girdle: if you  
 beat us out of it, it is yours; if you fall in  
 the adventure, our crows shall fare the better  
-for you; and there’s an end.
+for you; and there's an end.
 
 **CAIUS LUCIUS**  
 So, sir.
 
 **CYMBELINE**  
-I know your master’s pleasure and he mine:  
-All the remain is ‘Welcome!’
+I know your master's pleasure and he mine:  
+All the remain is 'Welcome!'
 
 *Exeunt*
 
@@ -2398,12 +2398,12 @@ All the remain is ‘Welcome!’
 
 **PISANIO**  
 How? of adultery? Wherefore write you not  
-What monster’s her accuser? Leonatus,  
+What monster's her accuser? Leonatus,  
 O master! what a strange infection  
-Is fall’n into thy ear! What false Italian,  
-As poisonous-tongued as handed, hath prevail’d  
+Is fall'n into thy ear! What false Italian,  
+As poisonous-tongued as handed, hath prevail'd  
 On thy too ready hearing? Disloyal! No:  
-She’s punish’d for her truth, and undergoes,  
+She's punish'd for her truth, and undergoes,  
 More goddess-like than wife-like, such assaults  
 As would take in some virtue. O my master!  
 Thy mind to her is now as low as were  
@@ -2417,11 +2417,11 @@ so much as this fact comes to?
 
 *Reading*
 
-‘Do’t: the letter
+'Do't: the letter
 that I have sent her, by her own command  
-Shall give thee opportunity.’ O damn’d paper!  
-Black as the ink that’s on thee! Senseless bauble,  
-Art thou a feodary for this act, and look’st  
+Shall give thee opportunity.' O damn'd paper!  
+Black as the ink that's on thee! Senseless bauble,  
+Art thou a feodary for this act, and look'st  
 So virgin-like without? Lo, here she comes.  
 I am ignorant in what I am commanded.
 
@@ -2435,23 +2435,23 @@ Madam, here is a letter from my lord.
 
 **IMOGEN**  
 Who? thy lord? that is my lord, Leonatus!  
-O, learn’d indeed were that astronomer  
+O, learn'd indeed were that astronomer  
 That knew the stars as I his characters;  
-He’ld lay the future open. You good gods,  
-Let what is here contain’d relish of love,  
-Of my lord’s health, of his content, yet not  
+He'ld lay the future open. You good gods,  
+Let what is here contain'd relish of love,  
+Of my lord's health, of his content, yet not  
 That we two are asunder; let that grieve him:  
-Some griefs are med’cinable; that is one of them,  
+Some griefs are med'cinable; that is one of them,  
 For it doth physic love: of his content,  
 All but in that! Good wax, thy leave. Blest be  
 You bees that make these locks of counsel! Lovers  
 And men in dangerous bonds pray not alike:  
 Though forfeiters you cast in prison, yet  
-You clasp young Cupid’s tables. Good news, gods!
+You clasp young Cupid's tables. Good news, gods!
 
 *Reads*
 
-‘Justice, and your father’s wrath, should he take me  
+'Justice, and your father's wrath, should he take me  
 in his dominion, could not be so cruel to me, as  
 you, O the dearest of creatures, would even renew me  
 with your eyes. Take notice that I am in Cambria,  
@@ -2459,55 +2459,55 @@ at Milford-Haven: what your own love will out of
 this advise you, follow. So he wishes you all  
 happiness, that remains loyal to his vow, and your,  
 increasing in love,  
-LEONATUS POSTHUMUS.’  
-O, for a horse with wings! Hear’st thou, Pisanio?  
+LEONATUS POSTHUMUS.'  
+O, for a horse with wings! Hear'st thou, Pisanio?  
 He is at Milford-Haven: read, and tell me  
-How far ’tis thither. If one of mean affairs  
+How far 'tis thither. If one of mean affairs  
 May plod it in a week, why may not I  
-Glide thither in a day? Then, true Pisanio,–  
-Who long’st, like me, to see thy lord; who long’st,–  
-let me bate,-but not like me–yet long’st,  
-But in a fainter kind:–O, not like me;  
-For mine’s beyond beyond–say, and speak thick;  
-Love’s counsellor should fill the bores of hearing,  
-To the smothering of the sense–how far it is  
+Glide thither in a day? Then, true Pisanio,--  
+Who long'st, like me, to see thy lord; who long'st,--  
+let me bate,-but not like me--yet long'st,  
+But in a fainter kind:--O, not like me;  
+For mine's beyond beyond--say, and speak thick;  
+Love's counsellor should fill the bores of hearing,  
+To the smothering of the sense--how far it is  
 To this same blessed Milford: and by the way  
 Tell me how Wales was made so happy as  
 To inherit such a haven: but first of all,  
 How we may steal from hence, and for the gap  
 That we shall make in time, from our hence-going  
 And our return, to excuse: but first, how get hence:  
-Why should excuse be born or e’er begot?  
-We’ll talk of that hereafter. Prithee, speak,  
+Why should excuse be born or e'er begot?  
+We'll talk of that hereafter. Prithee, speak,  
 How many score of miles may we well ride  
-’Twixt hour and hour?
+'Twixt hour and hour?
 
 **PISANIO**  
-One score ’twixt sun and sun,  
-Madam, ’s enough for you:
+One score 'twixt sun and sun,  
+Madam, 's enough for you:
 
 *\[Aside]*
 and too much too.
 
 **IMOGEN**  
-Why, one that rode to’s execution, man,  
+Why, one that rode to's execution, man,  
 Could never go so slow: I have heard of  
 riding wagers,
 Where horses have been nimbler than the sands  
-That run i’ the clock’s behalf. But this is foolery:  
+That run i' the clock's behalf. But this is foolery:  
 Go bid my woman feign a sickness; say  
-She’ll home to her father: and provide me presently  
+She'll home to her father: and provide me presently  
 A riding-suit, no costlier than would fit  
-A franklin’s housewife.
+A franklin's housewife.
 
 **PISANIO**  
-Madam, you’re best consider.
+Madam, you're best consider.
 
 **IMOGEN**  
 I see before me, man: nor here, nor here,  
 Nor what ensues, but have a fog in them,  
 That I cannot look through. Away, I prithee;  
-Do as I bid thee: there’s no more to say,  
+Do as I bid thee: there's no more to say,  
 Accessible is none but Milford way.
 
 *Exeunt*
@@ -2518,13 +2518,13 @@ Accessible is none but Milford way.
 
 **BELARIUS**  
 A goodly day not to keep house, with such  
-Whose roof’s as low as ours! Stoop, boys; this gate  
+Whose roof's as low as ours! Stoop, boys; this gate  
 Instructs you how to adore the heavens and bows you  
-To a morning’s holy office: the gates of monarchs  
-Are arch’d so high that giants may jet through  
+To a morning's holy office: the gates of monarchs  
+Are arch'd so high that giants may jet through  
 And keep their impious turbans on, without  
 Good morrow to the sun. Hail, thou fair heaven!  
-We house i’ the rock, yet use thee not so hardly  
+We house i' the rock, yet use thee not so hardly  
 As prouder livers do.
 
 **GUIDERIUS**  
@@ -2535,27 +2535,27 @@ Hail, heaven!
 
 **BELARIUS**  
 Now for our mountain sport: up to yond hill;  
-Your legs are young; I’ll tread these flats. Consider,  
+Your legs are young; I'll tread these flats. Consider,  
 When you above perceive me like a crow,  
 That it is place which lessens and sets off;  
 And you may then revolve what tales I have told you  
 Of courts, of princes, of the tricks in war:  
 This service is not service, so being done,  
-But being so allow’d: to apprehend thus,  
+But being so allow'd: to apprehend thus,  
 Draws us a profit from all things we see;  
 And often, to our comfort, shall we find  
 The sharded beetle in a safer hold  
-Than is the full-wing’d eagle. O, this life  
+Than is the full-wing'd eagle. O, this life  
 Is nobler than attending for a cheque,  
 Richer than doing nothing for a bauble,  
 Prouder than rustling in unpaid-for silk:  
-Such gain the cap of him that makes ’em fine,  
-Yet keeps his book uncross’d: no life to ours.
+Such gain the cap of him that makes 'em fine,  
+Yet keeps his book uncross'd: no life to ours.
 
 **GUIDERIUS**  
 Out of your proof you speak: we, poor unfledged,  
-Have never wing’d from view o’ the nest, nor know not  
-What air’s from home. Haply this life is best,  
+Have never wing'd from view o' the nest, nor know not  
+What air's from home. Haply this life is best,  
 If quiet life be best; sweeter to you  
 That have a sharper known; well corresponding  
 With your stiff age: but unto us it is  
@@ -2572,24 +2572,24 @@ The freezing hours away? We have seen nothing;
 We are beastly, subtle as the fox for prey,  
 Like warlike as the wolf for what we eat;  
 Our valour is to chase what flies; our cage  
-We make a quire, as doth the prison’d bird,  
+We make a quire, as doth the prison'd bird,  
 And sing our bondage freely.
 
 **BELARIUS**  
 How you speak!
-Did you but know the city’s usuries  
-And felt them knowingly; the art o’ the court  
+Did you but know the city's usuries  
+And felt them knowingly; the art o' the court  
 As hard to leave as keep; whose top to climb  
 Is certain falling, or so slippery that  
-The fear’s as bad as falling; the toil o’ the war,  
+The fear's as bad as falling; the toil o' the war,  
 A pain that only seems to seek out danger  
-I’ the name of fame and honour; which dies i’  
+I' the name of fame and honour; which dies i'  
 the search,
 And hath as oft a slanderous epitaph  
 As record of fair act; nay, many times,  
-Doth ill deserve by doing well; what’s worse,  
-Must court’sy at the censure:–O boys, this story  
-The world may read in me: my body’s mark’d  
+Doth ill deserve by doing well; what's worse,  
+Must court'sy at the censure:--O boys, this story  
+The world may read in me: my body's mark'd  
 With Roman swords, and my report was once  
 First with the best of note: Cymbeline loved me,  
 And when a soldier was the theme, my name  
@@ -2603,53 +2603,53 @@ And left me bare to weather.
 Uncertain favour!
 
 **BELARIUS**  
-My fault being nothing–as I have told you oft–  
-But that two villains, whose false oaths prevail’d  
+My fault being nothing--as I have told you oft--  
+But that two villains, whose false oaths prevail'd  
 Before my perfect honour, swore to Cymbeline  
 I was confederate with the Romans: so  
-Follow’d my banishment, and this twenty years  
+Follow'd my banishment, and this twenty years  
 This rock and these demesnes have been my world;  
 Where I have lived at honest freedom, paid  
 More pious debts to heaven than in all  
 The fore-end of my time. But up to the mountains!  
-This is not hunters’ language: he that strikes  
-The venison first shall be the lord o’ the feast;  
+This is not hunters' language: he that strikes  
+The venison first shall be the lord o' the feast;  
 To him the other two shall minister;  
 And we will fear no poison, which attends  
-In place of greater state. I’ll meet you in the valleys.
+In place of greater state. I'll meet you in the valleys.
 
 *Exeunt GUIDERIUS and ARVIRAGUS*
 
 How hard it is to hide the sparks of nature!  
 These boys know little they are sons to the king;  
 Nor Cymbeline dreams that they are alive.  
-They think they are mine; and though train’d  
+They think they are mine; and though train'd  
 up thus meanly
-I’ the cave wherein they bow, their thoughts do hit  
+I' the cave wherein they bow, their thoughts do hit  
 The roofs of palaces, and nature prompts them  
 In simple and low things to prince it much  
 Beyond the trick of others. This Polydore,  
 The heir of Cymbeline and Britain, who  
-The king his father call’d Guiderius,–Jove!  
+The king his father call'd Guiderius,--Jove!  
 When on my three-foot stool I sit and tell  
 The warlike feats I have done, his spirits fly out  
-Into my story: say ‘Thus, mine enemy fell,  
-And thus I set my foot on ’s neck;’ even then  
+Into my story: say 'Thus, mine enemy fell,  
+And thus I set my foot on 's neck;' even then  
 The princely blood flows in his cheek, he sweats,  
 Strains his young nerves and puts himself in posture  
 That acts my words. The younger brother, Cadwal,  
 Once Arviragus, in as like a figure,  
 Strikes life into my speech and shows much more  
-His own conceiving.–Hark, the game is roused!  
+His own conceiving.--Hark, the game is roused!  
 O Cymbeline! heaven and my conscience knows  
 Thou didst unjustly banish me: whereon,  
 At three and two years old, I stole these babes;  
 Thinking to bar thee of succession, as  
-Thou reft’st me of my lands. Euriphile,  
+Thou reft'st me of my lands. Euriphile,  
 Thou wast their nurse; they took thee for  
 their mother,
 And every day do honour to her grave:  
-Myself, Belarius, that am Morgan call’d,  
+Myself, Belarius, that am Morgan call'd,  
 They take for natural father. The game is up.
 
 *Exit*
@@ -2659,33 +2659,33 @@ They take for natural father. The game is up.
 *Enter PISANIO and IMOGEN*
 
 **IMOGEN**  
-Thou told’st me, when we came from horse, the place  
-Was near at hand: ne’er long’d my mother so  
+Thou told'st me, when we came from horse, the place  
+Was near at hand: ne'er long'd my mother so  
 To see me first, as I have now. Pisanio! man!  
 Where is Posthumus? What is in thy mind,  
 That makes thee stare thus? Wherefore breaks that sigh  
 From the inward of thee? One, but painted thus,  
-Would be interpreted a thing perplex’d  
+Would be interpreted a thing perplex'd  
 Beyond self-explication: put thyself  
 Into a havior of less fear, ere wildness  
-Vanquish my staider senses. What’s the matter?  
-Why tender’st thou that paper to me, with  
-A look untender? If’t be summer news,  
-Smile to’t before; if winterly, thou need’st  
-But keep that countenance still. My husband’s hand!  
-That drug-damn’d Italy hath out-craftied him,  
-And he’s at some hard point. Speak, man: thy tongue  
+Vanquish my staider senses. What's the matter?  
+Why tender'st thou that paper to me, with  
+A look untender? If't be summer news,  
+Smile to't before; if winterly, thou need'st  
+But keep that countenance still. My husband's hand!  
+That drug-damn'd Italy hath out-craftied him,  
+And he's at some hard point. Speak, man: thy tongue  
 May take off some extremity, which to read  
 Would be even mortal to me.
 
 **PISANIO**  
 Please you, read;
 And you shall find me, wretched man, a thing  
-The most disdain’d of fortune.
+The most disdain'd of fortune.
 
 **IMOGEN**  
 *\[Reads]*
-‘Thy mistress, Pisanio, hath played the  
+'Thy mistress, Pisanio, hath played the  
 strumpet in my bed; the testimonies whereof lie  
 bleeding in me. I speak not out of weak surmises,  
 but from proof as strong as my grief and as certain  
@@ -2696,11 +2696,11 @@ her life: I shall give thee opportunity at
 Milford-Haven. She hath my letter for the purpose  
 where, if thou fear to strike and to make me certain  
 it is done, thou art the pandar to her dishonour and  
-equally to me disloyal.’
+equally to me disloyal.'
 
 **PISANIO**  
 What shall I need to draw my sword? the paper  
-Hath cut her throat already. No, ’tis slander,  
+Hath cut her throat already. No, 'tis slander,  
 Whose edge is sharper than the sword, whose tongue  
 Outvenoms all the worms of Nile, whose breath  
 Rides on the posting winds and doth belie  
@@ -2711,10 +2711,10 @@ This viperous slander enters. What cheer, madam?
 **IMOGEN**  
 False to his bed! What is it to be false?  
 To lie in watch there and to think on him?  
-To weep ’twixt clock and clock? if sleep  
+To weep 'twixt clock and clock? if sleep  
 charge nature,
 To break it with a fearful dream of him  
-And cry myself awake? that’s false to’s bed, is it?
+And cry myself awake? that's false to's bed, is it?
 
 **PISANIO**  
 Alas, good lady!
@@ -2722,15 +2722,15 @@ Alas, good lady!
 **IMOGEN**  
 I false! Thy conscience witness: Iachimo,  
 Thou didst accuse him of incontinency;  
-Thou then look’dst like a villain; now methinks  
-Thy favour’s good enough. Some jay of Italy  
-Whose mother was her painting, hath betray’d him:  
+Thou then look'dst like a villain; now methinks  
+Thy favour's good enough. Some jay of Italy  
+Whose mother was her painting, hath betray'd him:  
 Poor I am stale, a garment out of fashion;  
 And, for I am richer than to hang by the walls,  
-I must be ripp’d:–to pieces with me!–O,  
-Men’s vows are women’s traitors! All good seeming,  
+I must be ripp'd:--to pieces with me!--O,  
+Men's vows are women's traitors! All good seeming,  
 By thy revolt, O husband, shall be thought  
-Put on for villany; not born where’t grows,  
+Put on for villany; not born where't grows,  
 But worn a bait for ladies.
 
 **PISANIO**  
@@ -2738,21 +2738,21 @@ Good madam, hear me.
 
 **IMOGEN**  
 True honest men being heard, like false Aeneas,  
-Were in his time thought false, and Sinon’s weeping  
+Were in his time thought false, and Sinon's weeping  
 Did scandal many a holy tear, took pity  
 From most true wretchedness: so thou, Posthumus,  
 Wilt lay the leaven on all proper men;  
 Goodly and gallant shall be false and perjured  
 From thy great fall. Come, fellow, be thou honest:  
-Do thou thy master’s bidding: when thou see’st him,  
+Do thou thy master's bidding: when thou see'st him,  
 A little witness my obedience: look!  
 I draw the sword myself: take it, and hit  
 The innocent mansion of my love, my heart;  
-Fear not; ’tis empty of all things but grief;  
+Fear not; 'tis empty of all things but grief;  
 Thy master is not there, who was indeed  
 The riches of it: do his bidding; strike  
 Thou mayst be valiant in a better cause;  
-But now thou seem’st a coward.
+But now thou seem'st a coward.
 
 **PISANIO**  
 Hence, vile instrument!  
@@ -2761,30 +2761,30 @@ Thou shalt not damn my hand.
 **IMOGEN**  
 Why, I must die;
 And if I do not by thy hand, thou art  
-No servant of thy master’s. Against self-slaughter  
+No servant of thy master's. Against self-slaughter  
 There is a prohibition so divine  
-That cravens my weak hand. Come, here’s my heart.  
-Something’s afore’t. Soft, soft! we’ll no defence;  
+That cravens my weak hand. Come, here's my heart.  
+Something's afore't. Soft, soft! we'll no defence;  
 Obedient as the scabbard. What is here?  
 The scriptures of the loyal Leonatus,  
-All turn’d to heresy? Away, away,  
+All turn'd to heresy? Away, away,  
 Corrupters of my faith! you shall no more  
 Be stomachers to my heart. Thus may poor fools  
 Believe false teachers: though those that  
-are betray’d
+are betray'd
 Do feel the treason sharply, yet the traitor  
 Stands in worse case of woe.  
 And thou, Posthumus, thou that didst set up  
-My disobedience ’gainst the king my father  
+My disobedience 'gainst the king my father  
 And make me put into contempt the suits  
 Of princely fellows, shalt hereafter find  
 It is no act of common passage, but  
 A strain of rareness: and I grieve myself  
 To think, when thou shalt be disedged by her  
 That now thou tirest on, how thy memory  
-Will then be pang’d by me. Prithee, dispatch:  
-The lamb entreats the butcher: where’s thy knife?  
-Thou art too slow to do thy master’s bidding,  
+Will then be pang'd by me. Prithee, dispatch:  
+The lamb entreats the butcher: where's thy knife?  
+Thou art too slow to do thy master's bidding,  
 When I desire it too.
 
 **PISANIO**  
@@ -2793,26 +2793,26 @@ Since I received command to do this business
 I have not slept one wink.
 
 **IMOGEN**  
-Do’t, and to bed then.
+Do't, and to bed then.
 
 **PISANIO**  
-I’ll wake mine eye-balls blind first.
+I'll wake mine eye-balls blind first.
 
 **IMOGEN**  
 Wherefore then
 Didst undertake it? Why hast thou abused  
 So many miles with a pretence? this place?  
-Mine action and thine own? our horses’ labour?  
-The time inviting thee? the perturb’d court,  
+Mine action and thine own? our horses' labour?  
+The time inviting thee? the perturb'd court,  
 For my being absent? whereunto I never  
 Purpose return. Why hast thou gone so far,  
-To be unbent when thou hast ta’en thy stand,  
+To be unbent when thou hast ta'en thy stand,  
 The elected deer before thee?
 
 **PISANIO**  
 But to win time
 To lose so bad employment; in the which  
-I have consider’d of a course. Good lady,  
+I have consider'd of a course. Good lady,  
 Hear me with patience.
 
 **IMOGEN**  
@@ -2842,9 +2842,9 @@ Some Roman courtezan.
 
 **PISANIO**  
 No, on my life.
-I’ll give but notice you are dead and send him  
-Some bloody sign of it; for ’tis commanded  
-I should do so: you shall be miss’d at court,  
+I'll give but notice you are dead and send him  
+Some bloody sign of it; for 'tis commanded  
+I should do so: you shall be miss'd at court,  
 And that will well confirm it.
 
 **IMOGEN**  
@@ -2854,7 +2854,7 @@ Or in my life what comfort, when I am
 Dead to my husband?
 
 **PISANIO**  
-If you’ll back to the court–
+If you'll back to the court--
 
 **IMOGEN**  
 No court, no father; nor no more ado  
@@ -2869,10 +2869,10 @@ Then not in Britain must you bide.
 **IMOGEN**  
 Where then
 Hath Britain all the sun that shines? Day, night,  
-Are they not but in Britain? I’ the world’s volume  
-Our Britain seems as of it, but not in ’t;  
-In a great pool a swan’s nest: prithee, think  
-There’s livers out of Britain.
+Are they not but in Britain? I' the world's volume  
+Our Britain seems as of it, but not in 't;  
+In a great pool a swan's nest: prithee, think  
+There's livers out of Britain.
 
 **PISANIO**  
 I am most glad
@@ -2890,20 +2890,20 @@ As truly as he moves.
 
 **IMOGEN**  
 O, for such means!
-Though peril to my modesty, not death on’t,  
+Though peril to my modesty, not death on't,  
 I would adventure.
 
 **PISANIO**  
-Well, then, here’s the point:  
+Well, then, here's the point:  
 You must forget to be a woman; change  
-Command into obedience: fear and niceness–  
+Command into obedience: fear and niceness--  
 The handmaids of all women, or, more truly,  
-Woman its pretty self–into a waggish courage:  
-Ready in gibes, quick-answer’d, saucy and  
+Woman its pretty self--into a waggish courage:  
+Ready in gibes, quick-answer'd, saucy and  
 As quarrelous as the weasel; nay, you must  
 Forget that rarest treasure of your cheek,  
-Exposing it–but, O, the harder heart!  
-Alack, no remedy!–to the greedy touch  
+Exposing it--but, O, the harder heart!  
+Alack, no remedy!--to the greedy touch  
 Of common-kissing Titan, and forget  
 Your laboursome and dainty trims, wherein  
 You made great Juno angry.
@@ -2915,15 +2915,15 @@ A man already.
 
 **PISANIO**  
 First, make yourself but like one.  
-Fore-thinking this, I have already fit–  
-’Tis in my cloak-bag–doublet, hat, hose, all  
+Fore-thinking this, I have already fit--  
+'Tis in my cloak-bag--doublet, hat, hose, all  
 That answer to them: would you in their serving,  
 And with what imitation you can borrow  
-From youth of such a season, ’fore noble Lucius  
+From youth of such a season, 'fore noble Lucius  
 Present yourself, desire his service, tell him  
-wherein you’re happy,–which you’ll make him know,  
-If that his head have ear in music,–doubtless  
-With joy he will embrace you, for he’s honourable  
+wherein you're happy,--which you'll make him know,  
+If that his head have ear in music,--doubtless  
+With joy he will embrace you, for he's honourable  
 And doubling that, most holy. Your means abroad,  
 You have me, rich; and I will never fail  
 Beginning nor supplyment.
@@ -2931,18 +2931,18 @@ Beginning nor supplyment.
 **IMOGEN**  
 Thou art all the comfort  
 The gods will diet me with. Prithee, away:  
-There’s more to be consider’d; but we’ll even  
+There's more to be consider'd; but we'll even  
 All that good time will give us: this attempt  
 I am soldier to, and will abide it with  
-A prince’s courage. Away, I prithee.
+A prince's courage. Away, I prithee.
 
 **PISANIO**  
 Well, madam, we must take a short farewell,  
-Lest, being miss’d, I be suspected of  
+Lest, being miss'd, I be suspected of  
 Your carriage from the court. My noble mistress,  
 Here is a box; I had it from the queen:  
-What’s in’t is precious; if you are sick at sea,  
-Or stomach-qualm’d at land, a dram of this  
+What's in't is precious; if you are sick at sea,  
+Or stomach-qualm'd at land, a dram of this  
 Will drive away distemper. To some shade,  
 And fit you to your manhood. May the gods  
 Direct you to the best!
@@ -2952,7 +2952,7 @@ Amen: I thank thee.
 
 *Exeunt, severally*
 
-### SCENE V. A room in Cymbeline’s palace.
+### SCENE V. A room in Cymbeline's palace.
 
 *Enter CYMBELINE, QUEEN, CLOTEN, LUCIUS, Lords, and Attendants*
 
@@ -2963,7 +2963,7 @@ Thus far; and so farewell.
 Thanks, royal sir.
 My emperor hath wrote, I must from hence;  
 And am right sorry that I must report ye  
-My master’s enemy.
+My master's enemy.
 
 **CYMBELINE**  
 Our subjects, sir,
@@ -2997,7 +2997,7 @@ Is yet to name the winner: fare you well.
 
 **CYMBELINE**  
 Leave not the worthy Lucius, good my lords,  
-Till he have cross’d the Severn. Happiness!
+Till he have cross'd the Severn. Happiness!
 
 *Exeunt LUCIUS and Lords*
 
@@ -3006,7 +3006,7 @@ He goes hence frowning: but it honours us
 That we have given him cause.
 
 **CLOTEN**  
-’Tis all the better;
+'Tis all the better;
 Your valiant Britons have their wishes in it.
 
 **CYMBELINE**  
@@ -3018,14 +3018,14 @@ Will soon be drawn to head, from whence he moves
 His war for Britain.
 
 **QUEEN**  
-’Tis not sleepy business;  
-But must be look’d to speedily and strongly.
+'Tis not sleepy business;  
+But must be look'd to speedily and strongly.
 
 **CYMBELINE**  
 Our expectation that it would be thus  
 Hath made us forward. But, my gentle queen,  
-Where is our daughter? She hath not appear’d  
-Before the Roman, nor to us hath tender’d  
+Where is our daughter? She hath not appear'd  
+Before the Roman, nor to us hath tender'd  
 The duty of the day: she looks us like  
 A thing more made of malice than of duty:  
 We have noted it. Call her before us; for  
@@ -3037,8 +3037,8 @@ We have been too slight in sufferance.
 Royal sir,
 Since the exile of Posthumus, most retired  
 Hath her life been; the cure whereof, my lord,  
-’Tis time must do. Beseech your majesty,  
-Forbear sharp speeches to her: she’s a lady  
+'Tis time must do. Beseech your majesty,  
+Forbear sharp speeches to her: she's a lady  
 So tender of rebukes that words are strokes  
 And strokes death to her.
 
@@ -3046,24 +3046,24 @@ And strokes death to her.
 
 **CYMBELINE**  
 Where is she, sir? How  
-Can her contempt be answer’d?
+Can her contempt be answer'd?
 
 **Attendant**  
 Please you, sir,
-Her chambers are all lock’d; and there’s no answer  
+Her chambers are all lock'd; and there's no answer  
 That will be given to the loudest noise we make.
 
 **QUEEN**  
 My lord, when last I went to visit her,  
-She pray’d me to excuse her keeping close,  
-Whereto constrain’d by her infirmity,  
+She pray'd me to excuse her keeping close,  
+Whereto constrain'd by her infirmity,  
 She should that duty leave unpaid to you,  
 Which daily she was bound to proffer: this  
-She wish’d me to make known; but our great court  
+She wish'd me to make known; but our great court  
 Made me to blame in memory.
 
 **CYMBELINE**  
-Her doors lock’d?
+Her doors lock'd?
 Not seen of late? Grant, heavens, that which I fear  
 Prove false!
 
@@ -3081,12 +3081,12 @@ Go, look after.
 
 *Exit CLOTEN*
 
-Pisanio, thou that stand’st so for Posthumus!  
+Pisanio, thou that stand'st so for Posthumus!  
 He hath a drug of mine; I pray his absence  
 Proceed by swallowing that, for he believes  
 It is a thing most precious. But for her,  
 Where is she gone? Haply, despair hath seized her,  
-Or, wing’d with fervor of her love, she’s flown  
+Or, wing'd with fervor of her love, she's flown  
 To her desired Posthumus: gone she is  
 To death or to dishonour; and my end  
 Can make good use of either: she being down,  
@@ -3097,7 +3097,7 @@ I have the placing of the British crown.
 How now, my son!
 
 **CLOTEN**  
-’Tis certain she is fled.  
+'Tis certain she is fled.  
 Go in and cheer the king: he rages; none  
 Dare come about him.
 
@@ -3109,16 +3109,16 @@ This night forestall him of the coming day!
 *Exit*
 
 **CLOTEN**  
-I love and hate her: for she’s fair and royal,  
+I love and hate her: for she's fair and royal,  
 And that she hath all courtly parts more exquisite  
 Than lady, ladies, woman; from every one  
 The best she hath, and she, of all compounded,  
 Outsells them all; I love her therefore: but  
 Disdaining me and throwing favours on  
 The low Posthumus slanders so her judgment  
-That what’s else rare is choked; and in that point  
+That what's else rare is choked; and in that point  
 I will conclude to hate her, nay, indeed,  
-To be revenged upon her. For when fools Shall–
+To be revenged upon her. For when fools Shall--
 
 *Enter PISANIO*
 
@@ -3131,9 +3131,9 @@ Thou art straightway with the fiends.
 O, good my lord!
 
 **CLOTEN**  
-Where is thy lady? Or, by Jupiter,–  
+Where is thy lady? Or, by Jupiter,--  
 I will not ask again. Close villain,  
-I’ll have this secret from thy heart, or rip  
+I'll have this secret from thy heart, or rip  
 Thy heart to find it. Is she with Posthumus?  
 From whose so many weights of baseness cannot  
 A dram of worth be drawn.
@@ -3154,7 +3154,7 @@ O, my all-worthy lord!
 **CLOTEN**  
 All-worthy villain!
 Discover where thy mistress is at once,  
-At the next word: no more of ‘worthy lord!’  
+At the next word: no more of 'worthy lord!'  
 Speak, or thy silence on the instant is  
 Thy condemnation and thy death.
 
@@ -3166,13 +3166,13 @@ Touching her flight.
 *Presenting a letter*
 
 **CLOTEN**  
-Let’s see’t. I will pursue her  
-Even to Augustus’ throne.
+Let's see't. I will pursue her  
+Even to Augustus' throne.
 
 **PISANIO**  
 *\[Aside]*  
 Or this, or perish.
-She’s far enough; and what he learns by this  
+She's far enough; and what he learns by this  
 May prove his travel, not her danger.
 
 **CLOTEN**  
@@ -3180,7 +3180,7 @@ Hum!
 
 **PISANIO**  
 *\[Aside]*
-I’ll write to my lord she’s dead. O Imogen,  
+I'll write to my lord she's dead. O Imogen,  
 Safe mayst thou wander, safe return again!
 
 **CLOTEN**  
@@ -3190,11 +3190,11 @@ Sirrah, is this letter true?
 Sir, as I think.
 
 **CLOTEN**  
-It is Posthumus’ hand; I know’t. Sirrah, if thou  
+It is Posthumus' hand; I know't. Sirrah, if thou  
 wouldst not be a villain, but do me true service,  
 undergo those employments wherein I should have  
 cause to use thee with a serious industry, that is,  
-what villany soe’er I bid thee do, to perform it  
+what villany soe'er I bid thee do, to perform it  
 directly and truly, I would think thee an honest  
 man: thou shouldst neither want my means for thy  
 relief nor my voice for thy preferment.
@@ -3213,8 +3213,8 @@ mine: wilt thou serve me?
 Sir, I will.
 
 **CLOTEN**  
-Give me thy hand; here’s my purse. Hast any of thy  
-late master’s garments in thy possession?
+Give me thy hand; here's my purse. Hast any of thy  
+late master's garments in thy possession?
 
 **PISANIO**  
 I have, my lord, at my lodging, the same suit he  
@@ -3230,11 +3230,11 @@ I shall, my lord.
 *Exit*
 
 **CLOTEN**  
-Meet thee at Milford-Haven!–I forgot to ask him one  
-thing; I’ll remember’t anon:–even there, thou  
+Meet thee at Milford-Haven!--I forgot to ask him one  
+thing; I'll remember't anon:--even there, thou  
 villain Posthumus, will I kill thee. I would these  
-garments were come. She said upon a time–the  
-bitterness of it I now belch from my heart–that she  
+garments were come. She said upon a time--the  
+bitterness of it I now belch from my heart--that she  
 held the very garment of Posthumus in more respect  
 than my noble and natural person together with the  
 adornment of my qualities. With that suit upon my  
@@ -3242,11 +3242,11 @@ back, will I ravish her: first kill him, and in her
 eyes; there shall she see my valour, which will then  
 be a torment to her contempt. He on the ground, my  
 speech of insultment ended on his dead body, and  
-when my lust hath dined,–which, as I say, to vex  
+when my lust hath dined,--which, as I say, to vex  
 her I will execute in the clothes that she so  
-praised,–to the court I’ll knock her back, foot  
+praised,--to the court I'll knock her back, foot  
 her home again. She hath despised me rejoicingly,  
-and I’ll be merry in my revenge.
+and I'll be merry in my revenge.
 
 *Re-enter PISANIO, with the clothes*
 
@@ -3256,7 +3256,7 @@ Be those the garments?
 Ay, my noble lord.
 
 **CLOTEN**  
-How long is’t since she went to Milford-Haven?
+How long is't since she went to Milford-Haven?
 
 **PISANIO**  
 She can scarce be there yet.
@@ -3272,47 +3272,47 @@ wings to follow it! Come, and be true.
 *Exit*
 
 **PISANIO**  
-Thou bid’st me to my loss: for true to thee  
+Thou bid'st me to my loss: for true to thee  
 Were to prove false, which I will never be,  
 To him that is most true. To Milford go,  
 And find not her whom thou pursuest. Flow, flow,  
-You heavenly blessings, on her! This fool’s speed  
-Be cross’d with slowness; labour be his meed!
+You heavenly blessings, on her! This fool's speed  
+Be cross'd with slowness; labour be his meed!
 
 *Exit*
 
 ### SCENE VI. Wales. Before the cave of Belarius.
 
-*Enter IMOGEN, in boy ’s clothes*
+*Enter IMOGEN, in boy 's clothes*
 
 **IMOGEN**  
-I see a man’s life is a tedious one:  
+I see a man's life is a tedious one:  
 I have tired myself, and for two nights together  
 Have made the ground my bed. I should be sick,  
 But that my resolution helps me. Milford,  
-When from the mountain-top Pisanio show’d thee,  
+When from the mountain-top Pisanio show'd thee,  
 Thou wast within a ken: O Jove! I think  
 Foundations fly the wretched; such, I mean,  
 Where they should be relieved. Two beggars told me  
 I could not miss my way: will poor folks lie,  
-That have afflictions on them, knowing ‘tis  
+That have afflictions on them, knowing 'tis  
 A punishment or trial? Yes; no wonder,  
 When rich ones scarce tell true. To lapse in fulness  
 Is sorer than to lie for need, and falsehood  
 Is worse in kings than beggars. My dear lord!  
-Thou art one o’ the false ones. Now I think on thee,  
-My hunger’s gone; but even before, I was  
+Thou art one o' the false ones. Now I think on thee,  
+My hunger's gone; but even before, I was  
 At point to sink for food. But what is this?  
-Here is a path to’t: ’tis some savage hold:  
+Here is a path to't: 'tis some savage hold:  
 I were best not to call; I dare not call:  
 yet famine,
-Ere clean it o’erthrow nature, makes it valiant,  
+Ere clean it o'erthrow nature, makes it valiant,  
 Plenty and peace breeds cowards: hardness ever  
-Of hardiness is mother. Ho! who’s here?  
-If any thing that’s civil, speak; if savage,  
-Take or lend. Ho! No answer? Then I’ll enter.  
+Of hardiness is mother. Ho! who's here?  
+If any thing that's civil, speak; if savage,  
+Take or lend. Ho! No answer? Then I'll enter.  
 Best draw my sword: and if mine enemy  
-But fear the sword like me, he’ll scarcely look on’t.  
+But fear the sword like me, he'll scarcely look on't.  
 Such a foe, good heavens!
 
 *Exit, to the cave*
@@ -3322,13 +3322,13 @@ Such a foe, good heavens!
 **BELARIUS**  
 You, Polydote, have proved best woodman and  
 Are master of the feast: Cadwal and I  
-Will play the cook and servant; ’tis our match:  
+Will play the cook and servant; 'tis our match:  
 The sweat of industry would dry and die,  
 But for the end it works to. Come; our stomachs  
-Will make what’s homely savoury: weariness  
+Will make what's homely savoury: weariness  
 Can snore upon the flint, when resty sloth  
 Finds the down pillow hard. Now peace be here,  
-Poor house, that keep’st thyself!
+Poor house, that keep'st thyself!
 
 **GUIDERIUS**  
 I am thoroughly weary.
@@ -3337,8 +3337,8 @@ I am thoroughly weary.
 I am weak with toil, yet strong in appetite.
 
 **GUIDERIUS**  
-There is cold meat i’ the cave; we’ll browse on that,  
-Whilst what we have kill’d be cook’d.
+There is cold meat i' the cave; we'll browse on that,  
+Whilst what we have kill'd be cook'd.
 
 **BELARIUS**  
 *\[Looking into the cave]*  
@@ -3347,7 +3347,7 @@ But that it eats our victuals, I should think
 Here were a fairy.
 
 **GUIDERIUS**  
-What’s the matter, sir?
+What's the matter, sir?
 
 **BELARIUS**  
 By Jupiter, an angel! or, if not,  
@@ -3358,11 +3358,11 @@ No elder than a boy!
 
 **IMOGEN**  
 Good masters, harm me not:  
-Before I enter’d here, I call’d; and thought  
-To have begg’d or bought what I have took:  
+Before I enter'd here, I call'd; and thought  
+To have begg'd or bought what I have took:  
 good troth,
-I have stol’n nought, nor would not, though I had found  
-Gold strew’d i’ the floor. Here’s money for my meat:  
+I have stol'n nought, nor would not, though I had found  
+Gold strew'd i' the floor. Here's money for my meat:  
 I would have left it on the board so soon  
 As I had made my meal, and parted  
 With prayers for the provider.
@@ -3372,11 +3372,11 @@ Money, youth?
 
 **ARVIRAGUS**  
 All gold and silver rather turn to dirt!  
-As ’tis no better reckon’d, but of those  
+As 'tis no better reckon'd, but of those  
 Who worship dirty gods.
 
 **IMOGEN**  
-I see you’re angry:
+I see you're angry:
 Know, if you kill me for my fault, I should  
 Have died had I not made it.
 
@@ -3387,41 +3387,41 @@ Whither bound?
 To Milford-Haven.
 
 **BELARIUS**  
-What’s your name?
+What's your name?
 
 **IMOGEN**  
 Fidele, sir. I have a kinsman who  
-Is bound for Italy; he embark’d at Milford;  
+Is bound for Italy; he embark'd at Milford;  
 To whom being going, almost spent with hunger,  
-I am fall’n in this offence.
+I am fall'n in this offence.
 
 **BELARIUS**  
 Prithee, fair youth,
 Think us no churls, nor measure our good minds  
-By this rude place we live in. Well encounter’d!  
-’Tis almost night: you shall have better cheer  
+By this rude place we live in. Well encounter'd!  
+'Tis almost night: you shall have better cheer  
 Ere you depart: and thanks to stay and eat it.  
 Boys, bid him welcome.
 
 **GUIDERIUS**  
 Were you a woman, youth,
 I should woo hard but be your groom. In honesty,  
-I bid for you as I’d buy.
+I bid for you as I'd buy.
 
 **ARVIRAGUS**  
-I’ll make’t my comfort
-He is a man; I’ll love him as my brother:  
-And such a welcome as I’d give to him  
+I'll make't my comfort
+He is a man; I'll love him as my brother:  
+And such a welcome as I'd give to him  
 After long absence, such is yours: most welcome!  
-Be sprightly, for you fall ’mongst friends.
+Be sprightly, for you fall 'mongst friends.
 
 **IMOGEN**  
-’Mongst friends,  
+'Mongst friends,  
 If brothers.
 
 *\[Aside]*
 Would it had been so, that they  
-Had been my father’s sons! then had my prize  
+Had been my father's sons! then had my prize  
 Been less, and so more equal ballasting  
 To thee, Posthumus.
 
@@ -3429,11 +3429,11 @@ To thee, Posthumus.
 He wrings at some distress.
 
 **GUIDERIUS**  
-Would I could free’t!
+Would I could free't!
 
 **ARVIRAGUS**  
-Or I, whate’er it be,
-What pain it cost, what danger. God’s!
+Or I, whate'er it be,
+What pain it cost, what danger. God's!
 
 **BELARIUS**  
 Hark, boys.
@@ -3444,17 +3444,17 @@ Hark, boys.
 Great men,
 That had a court no bigger than this cave,  
 That did attend themselves and had the virtue  
-Which their own conscience seal’d them–laying by  
-That nothing-gift of differing multitudes–  
+Which their own conscience seal'd them--laying by  
+That nothing-gift of differing multitudes--  
 Could not out-peer these twain. Pardon me, gods!  
-I’d change my sex to be companion with them,  
-Since Leonatus’s false.
+I'd change my sex to be companion with them,  
+Since Leonatus's false.
 
 **BELARIUS**  
 It shall be so.
-Boys, we’ll go dress our hunt. Fair youth, come in:  
-Discourse is heavy, fasting; when we have supp’d,  
-We’ll mannerly demand thee of thy story,  
+Boys, we'll go dress our hunt. Fair youth, come in:  
+Discourse is heavy, fasting; when we have supp'd,  
+We'll mannerly demand thee of thy story,  
 So far as thou wilt speak it.
 
 **GUIDERIUS**  
@@ -3477,12 +3477,12 @@ I pray, draw near.
 *Enter two Senators and Tribunes*
 
 **First Senator**  
-This is the tenor of the emperor’s writ:  
+This is the tenor of the emperor's writ:  
 That since the common men are now in action  
-’Gainst the Pannonians and Dalmatians,  
+'Gainst the Pannonians and Dalmatians,  
 And that the legions now in Gallia are  
 Full weak to undertake our wars against  
-The fall’n-off Britons, that we do incite  
+The fall'n-off Britons, that we do incite  
 The gentry to this business. He creates  
 Lucius preconsul: and to you the tribunes,  
 For this immediate levy, he commends  
@@ -3520,11 +3520,11 @@ I am near to the place where they should meet, if
 Pisanio have mapped it truly. How fit his garments  
 serve me! Why should his mistress, who was made by  
 him that made the tailor, not be fit too? the  
-rather–saving reverence of the word–for ’tis said  
-a woman’s fitness comes by fits. Therein I must  
-play the workman. I dare speak it to myself–for it  
+rather--saving reverence of the word--for 'tis said  
+a woman's fitness comes by fits. Therein I must  
+play the workman. I dare speak it to myself--for it  
 is not vain-glory for a man and his glass to confer  
-in his own chamber–I mean, the lines of my body are  
+in his own chamber--I mean, the lines of my body are  
 as well drawn as his; no less young, more strong,  
 not beneath him in fortunes, beyond him in the  
 advantage of the time, above him in birth, alike  
@@ -3552,7 +3552,7 @@ the fellow dares not deceive me.
 **BELARIUS**  
 *\[To IMOGEN]*
 You are not well: remain here in the cave;  
-We’ll come to you after hunting.
+We'll come to you after hunting.
 
 **ARVIRAGUS**  
 *\[To IMOGEN]*  
@@ -3565,7 +3565,7 @@ But clay and clay differs in dignity,
 Whose dust is both alike. I am very sick.
 
 **GUIDERIUS**  
-Go you to hunting; I’ll abide with him.
+Go you to hunting; I'll abide with him.
 
 **IMOGEN**  
 So sick I am not, yet I am not well;  
@@ -3576,7 +3576,7 @@ Is breach of all. I am ill, but your being by me
 Cannot amend me; society is no comfort  
 To one not sociable: I am not very sick,  
 Since I can reason of it. Pray you, trust me here:  
-I’ll rob none but myself; and let me die,  
+I'll rob none but myself; and let me die,  
 Stealing so poorly.
 
 **GUIDERIUS**  
@@ -3589,11 +3589,11 @@ What! how! how!
 
 **ARVIRAGUS**  
 If it be sin to say so, I yoke me  
-In my good brother’s fault: I know not why  
+In my good brother's fault: I know not why  
 I love this youth; and I have heard you say,  
-Love’s reason’s without reason: the bier at door,  
-And a demand who is’t shall die, I’d say  
-‘My father, not this youth.’
+Love's reason's without reason: the bier at door,  
+And a demand who is't shall die, I'd say  
+'My father, not this youth.'
 
 **BELARIUS**  
 *\[Aside]*
@@ -3601,9 +3601,9 @@ O noble strain!
 O worthiness of nature! breed of greatness!  
 Cowards father cowards and base things sire base:  
 Nature hath meal and bran, contempt and grace.  
-I’m not their father; yet who this should be,  
+I'm not their father; yet who this should be,  
 Doth miracle itself, loved before me.  
-‘Tis the ninth hour o’ the morn.
+'Tis the ninth hour o' the morn.
 
 **ARVIRAGUS**  
 Brother, farewell.
@@ -3618,12 +3618,12 @@ You health. So please you, sir.
 *\[Aside]*
 These are kind creatures. Gods, what lies  
 I have heard!
-Our courtiers say all’s savage but at court:  
+Our courtiers say all's savage but at court:  
 Experience, O, thou disprovest report!  
 The imperious seas breed monsters, for the dish  
 Poor tributary rivers as sweet fish.  
 I am sick still; heart-sick. Pisanio,  
-I’ll now taste of thy drug.
+I'll now taste of thy drug.
 
 *Swallows some*
 
@@ -3638,10 +3638,10 @@ I might know more.
 
 **BELARIUS**  
 To the field, to the field!
-We’ll leave you for this time: go in and rest.
+We'll leave you for this time: go in and rest.
 
 **ARVIRAGUS**  
-We’ll not be long away.
+We'll not be long away.
 
 **BELARIUS**  
 Pray, be not sick,
@@ -3656,7 +3656,7 @@ And shalt be ever.
 
 *Exit IMOGEN, to the cave*
 
-This youth, how’er distress’d, appears he hath had  
+This youth, how'er distress'd, appears he hath had  
 Good ancestors.
 
 **ARVIRAGUS**  
@@ -3687,21 +3687,21 @@ And let the stinking elder, grief, untwine
 His perishing root with the increasing vine!
 
 **BELARIUS**  
-It is great morning. Come, away!–  
-Who’s there?
+It is great morning. Come, away!--  
+Who's there?
 
 *Enter CLOTEN*
 
 **CLOTEN**  
 I cannot find those runagates; that villain  
-Hath mock’d me. I am faint.
+Hath mock'd me. I am faint.
 
 **BELARIUS**  
-‘Those runagates!’
-Means he not us? I partly know him: ‘tis  
-Cloten, the son o’ the queen. I fear some ambush.  
+'Those runagates!'
+Means he not us? I partly know him: 'tis  
+Cloten, the son o' the queen. I fear some ambush.  
 I saw him not these many years, and yet  
-I know ’tis he. We are held as outlaws: hence!
+I know 'tis he. We are held as outlaws: hence!
 
 **GUIDERIUS**  
 He is but one: you and my brother search  
@@ -3717,7 +3717,7 @@ I have heard of such. What slave art thou?
 
 **GUIDERIUS**  
 A thing
-More slavish did I ne’er than answering  
+More slavish did I ne'er than answering  
 A slave without a knock.
 
 **CLOTEN**  
@@ -3733,7 +3733,7 @@ Why I should yield to thee?
 
 **CLOTEN**  
 Thou villain base,
-Know’st me not by my clothes?
+Know'st me not by my clothes?
 
 **GUIDERIUS**  
 No, nor thy tailor, rascal,
@@ -3754,7 +3754,7 @@ Thou injurious thief,
 Hear but my name, and tremble.
 
 **GUIDERIUS**  
-What’s thy name?
+What's thy name?
 
 **CLOTEN**  
 Cloten, thou villain.
@@ -3763,7 +3763,7 @@ Cloten, thou villain.
 Cloten, thou double villain, be thy name,  
 I cannot tremble at it: were it Toad, or  
 Adder, Spider,
-’Twould move me sooner.
+'Twould move me sooner.
 
 **CLOTEN**  
 To thy further fear,
@@ -3771,7 +3771,7 @@ Nay, to thy mere confusion, thou shalt know
 I am son to the queen.
 
 **GUIDERIUS**  
-I am sorry for ’t; not seeming  
+I am sorry for 't; not seeming  
 So worthy as thy birth.
 
 **CLOTEN**  
@@ -3784,8 +3784,8 @@ At fools I laugh, not fear them.
 **CLOTEN**  
 Die the death:
 When I have slain thee with my proper hand,  
-I’ll follow those that even now fled hence,  
-And on the gates of Lud’s-town set your heads:  
+I'll follow those that even now fled hence,  
+And on the gates of Lud's-town set your heads:  
 Yield, rustic mountaineer.
 
 *Exeunt, fighting*
@@ -3800,10 +3800,10 @@ None in the world: you did mistake him, sure.
 
 **BELARIUS**  
 I cannot tell: long is it since I saw him,  
-But time hath nothing blurr’d those lines of favour  
+But time hath nothing blurr'd those lines of favour  
 Which then he wore; the snatches in his voice,  
 And burst of speaking, were as his: I am absolute  
-’Twas very Cloten.
+'Twas very Cloten.
 
 **ARVIRAGUS**  
 In this place we left them:
@@ -3816,12 +3816,12 @@ I mean, to man, he had not apprehension
 Of roaring terrors; for the effect of judgment  
 Is oft the cause of fear. But, see, thy brother.
 
-*Re-enter GUIDERIUS, with CLOTEN ’S head*
+*Re-enter GUIDERIUS, with CLOTEN 'S head*
 
 **GUIDERIUS**  
 This Cloten was a fool, an empty purse;  
-There was no money in’t: not Hercules  
-Could have knock’d out his brains, for he had none:  
+There was no money in't: not Hercules  
+Could have knock'd out his brains, for he had none:  
 Yet I not doing this, the fool had borne  
 My head as I do his.
 
@@ -3829,12 +3829,12 @@ My head as I do his.
 What hast thou done?
 
 **GUIDERIUS**  
-I am perfect what: cut off one Cloten’s head,  
+I am perfect what: cut off one Cloten's head,  
 Son to the queen, after his own report;  
-Who call’d me traitor, mountaineer, and swore  
-With his own single hand he’ld take us in  
-Displace our heads where–thank the gods!–they grow,  
-And set them on Lud’s-town.
+Who call'd me traitor, mountaineer, and swore  
+With his own single hand he'ld take us in  
+Displace our heads where--thank the gods!--they grow,  
+And set them on Lud's-town.
 
 **BELARIUS**  
 We are all undone.
@@ -3858,9 +3858,9 @@ Absolute madness could so far have raved
 To bring him here alone; although perhaps  
 It may be heard at court that such as we  
 Cave here, hunt here, are outlaws, and in time  
-May make some stronger head; the which he hearing–  
-As it is like him–might break out, and swear  
-He’ld fetch us in; yet is’t not probable  
+May make some stronger head; the which he hearing--  
+As it is like him--might break out, and swear  
+He'ld fetch us in; yet is't not probable  
 To come alone, either he so undertaking,  
 Or they so suffering: then on good ground we fear,  
 If we do fear this body hath a tail  
@@ -3868,76 +3868,76 @@ More perilous than the head.
 
 **ARVIRAGUS**  
 Let ordinance
-Come as the gods foresay it: howsoe’er,  
+Come as the gods foresay it: howsoe'er,  
 My brother hath done well.
 
 **BELARIUS**  
 I had no mind
-To hunt this day: the boy Fidele’s sickness  
+To hunt this day: the boy Fidele's sickness  
 Did make my way long forth.
 
 **GUIDERIUS**  
 With his own sword,
-Which he did wave against my throat, I have ta’en  
-His head from him: I’ll throw’t into the creek  
+Which he did wave against my throat, I have ta'en  
+His head from him: I'll throw't into the creek  
 Behind our rock; and let it to the sea,  
-And tell the fishes he’s the queen’s son, Cloten:  
-That’s all I reck.
+And tell the fishes he's the queen's son, Cloten:  
+That's all I reck.
 
 *Exit*
 
 **BELARIUS**  
-I fear ’twill be revenged:
-Would, Polydote, thou hadst not done’t! though valour  
+I fear 'twill be revenged:
+Would, Polydote, thou hadst not done't! though valour  
 Becomes thee well enough.
 
 **ARVIRAGUS**  
-Would I had done’t
+Would I had done't
 So the revenge alone pursued me! Polydore,  
 I love thee brotherly, but envy much  
-Thou hast robb’d me of this deed: I would revenges,  
+Thou hast robb'd me of this deed: I would revenges,  
 That possible strength might meet, would seek us through  
 And put us to our answer.
 
 **BELARIUS**  
-Well, ’tis done:
-We’ll hunt no more to-day, nor seek for danger  
-Where there’s no profit. I prithee, to our rock;  
-You and Fidele play the cooks: I’ll stay  
+Well, 'tis done:
+We'll hunt no more to-day, nor seek for danger  
+Where there's no profit. I prithee, to our rock;  
+You and Fidele play the cooks: I'll stay  
 Till hasty Polydote return, and bring him  
 To dinner presently.
 
 **ARVIRAGUS**  
 Poor sick Fidele!
-I’ll weringly to him: to gain his colour  
-I’ld let a parish of such Clotens’ blood,  
+I'll weringly to him: to gain his colour  
+I'ld let a parish of such Clotens' blood,  
 And praise myself for charity.
 
 *Exit*
 
 **BELARIUS**  
 O thou goddess,
-Thou divine Nature, how thyself thou blazon’st  
+Thou divine Nature, how thyself thou blazon'st  
 In these two princely boys! They are as gentle  
 As zephyrs blowing below the violet,  
 Not wagging his sweet head; and yet as rough,  
 Their royal blood enchafed, as the rudest wind,  
 That by the top doth take the mountain pine,  
-And make him stoop to the vale. ’Tis wonder  
+And make him stoop to the vale. 'Tis wonder  
 That an invisible instinct should frame them  
-To royalty unlearn’d, honour untaught,  
+To royalty unlearn'd, honour untaught,  
 Civility not seen from other, valour  
 That wildly grows in them, but yields a crop  
-As if it had been sow’d. Yet still it’s strange  
-What Cloten’s being here to us portends,  
+As if it had been sow'd. Yet still it's strange  
+What Cloten's being here to us portends,  
 Or what his death will bring us.
 
 *Re-enter GUIDERIUS*
 
 **GUIDERIUS**  
-Where’s my brother?
-I have sent Cloten’s clotpoll down the stream,  
-In embassy to his mother: his body’s hostage  
+Where's my brother?
+I have sent Cloten's clotpoll down the stream,  
+In embassy to his mother: his body's hostage  
 For his return.
 
 *Solemn music*
@@ -3954,7 +3954,7 @@ Is he at home?
 He went hence even now.
 
 **GUIDERIUS**  
-What does he mean? since death of my dear’st mother  
+What does he mean? since death of my dear'st mother  
 it did not speak before. All solemn things  
 Should answer solemn accidents. The matter?  
 Triumphs for nothing and lamenting toys  
@@ -3971,14 +3971,14 @@ Of what we blame him for.
 **ARVIRAGUS**  
 The bird is dead
 That we have made so much on. I had rather  
-Have skipp’d from sixteen years of age to sixty,  
-To have turn’d my leaping-time into a crutch,  
+Have skipp'd from sixteen years of age to sixty,  
+To have turn'd my leaping-time into a crutch,  
 Than have seen this.
 
 **GUIDERIUS**  
 O sweetest, fairest lily!
 My brother wears thee not the one half so well  
-As when thou grew’st thyself.
+As when thou grew'st thyself.
 
 **BELARIUS**  
 O melancholy!
@@ -3992,7 +3992,7 @@ How found you him?
 **ARVIRAGUS**  
 Stark, as you see:
 Thus smiling, as some fly hid tickled slumber,  
-Not as death’s dart, being laugh’d at; his  
+Not as death's dart, being laugh'd at; his  
 right cheek
 Reposing on a cushion.
 
@@ -4000,29 +4000,29 @@ Reposing on a cushion.
 Where?
 
 **ARVIRAGUS**  
-O’ the floor;
+O' the floor;
 His arms thus leagued: I thought he slept, and put  
 My clouted brogues from off my feet, whose rudeness  
-Answer’d my steps too loud.
+Answer'd my steps too loud.
 
 **GUIDERIUS**  
 Why, he but sleeps:
-If he be gone, he’ll make his grave a bed;  
+If he be gone, he'll make his grave a bed;  
 With female fairies will his tomb be haunted,  
 And worms will not come to thee.
 
 **ARVIRAGUS**  
 With fairest flowers
 Whilst summer lasts and I live here, Fidele,  
-I’ll sweeten thy sad grave: thou shalt not lack  
-The flower that’s like thy face, pale primrose, nor  
+I'll sweeten thy sad grave: thou shalt not lack  
+The flower that's like thy face, pale primrose, nor  
 The azured harebell, like thy veins, no, nor  
 The leaf of eglantine, whom not to slander,  
-Out-sweeten’d not thy breath: the ruddock would,  
-With charitable bill,–O bill, sore-shaming  
+Out-sweeten'd not thy breath: the ruddock would,  
+With charitable bill,--O bill, sore-shaming  
 Those rich-left heirs that let their fathers lie  
-Without a monument!–bring thee all this;  
-Yea, and furr’d moss besides, when flowers are none,  
+Without a monument!--bring thee all this;  
+Yea, and furr'd moss besides, when flowers are none,  
 To winter-ground thy corse.
 
 **GUIDERIUS**  
@@ -4033,13 +4033,13 @@ And not protract with admiration what
 Is now due debt. To the grave!
 
 **ARVIRAGUS**  
-Say, where shall’s lay him?
+Say, where shall's lay him?
 
 **GUIDERIUS**  
 By good Euriphile, our mother.
 
 **ARVIRAGUS**  
-Be’t so:
+Be't so:
 And let us, Polydore, though now our voices  
 Have got the mannish crack, sing him to the ground,  
 As once our mother; use like note and words,  
@@ -4047,42 +4047,42 @@ Save that Euriphile must be Fidele.
 
 **GUIDERIUS**  
 Cadwal,
-I cannot sing: I’ll weep, and word it with thee;  
+I cannot sing: I'll weep, and word it with thee;  
 For notes of sorrow out of tune are worse  
 Than priests and fanes that lie.
 
 **ARVIRAGUS**  
-We’ll speak it, then.
+We'll speak it, then.
 
 **BELARIUS**  
 Great griefs, I see, medicine the less; for Cloten  
-Is quite forgot. He was a queen’s son, boys;  
+Is quite forgot. He was a queen's son, boys;  
 And though he came our enemy, remember  
 He was paid for that: though mean and  
 mighty, rotting
 Together, have one dust, yet reverence,  
 That angel of the world, doth make distinction  
-Of place ’tween high and low. Our foe was princely  
+Of place 'tween high and low. Our foe was princely  
 And though you took his life, as being our foe,  
 Yet bury him as a prince.
 
 **GUIDERIUS**  
 Pray You, fetch him hither.
-Thersites’ body is as good as Ajax’,  
+Thersites' body is as good as Ajax',  
 When neither are alive.
 
 **ARVIRAGUS**  
-If you’ll go fetch him,
-We’ll say our song the whilst. Brother, begin.
+If you'll go fetch him,
+We'll say our song the whilst. Brother, begin.
 
 *Exit BELARIUS*
 
 **GUIDERIUS**  
 Nay, Cadwal, we must lay his head to the east;  
-My father hath a reason for’t.
+My father hath a reason for't.
 
 **ARVIRAGUS**  
-’Tis true.
+'Tis true.
 
 **GUIDERIUS**  
 Come on then, and remove him.
@@ -4093,16 +4093,16 @@ So. Begin.
 *SONG*
 
 **GUIDERIUS**  
-Fear no more the heat o’ the sun,  
-Nor the furious winter’s rages;  
+Fear no more the heat o' the sun,  
+Nor the furious winter's rages;  
 Thou thy worldly task hast done,  
-Home art gone, and ta’en thy wages:  
+Home art gone, and ta'en thy wages:  
 Golden lads and girls all must,  
 As chimney-sweepers, come to dust.
 
 **ARVIRAGUS**  
-Fear no more the frown o’ the great;  
-Thou art past the tyrant’s stroke;  
+Fear no more the frown o' the great;  
+Thou art past the tyrant's stroke;  
 Care no more to clothe and eat;  
 To thee the reed is as the oak:  
 The sceptre, learning, physic, must  
@@ -4118,7 +4118,7 @@ Nor the all-dreaded thunder-stone;
 Fear not slander, censure rash;
 
 **ARVIRAGUS**  
-Thou hast finish’d joy and moan:
+Thou hast finish'd joy and moan:
 
 **GUIDERIUS** **ARVIRAGUS**  
 All lovers young, all lovers must  
@@ -4146,10 +4146,10 @@ And renowned be thy grave!
 We have done our obsequies: come, lay him down.
 
 **BELARIUS**  
-Here’s a few flowers; but ‘bout midnight, more:  
-The herbs that have on them cold dew o’ the night  
-Are strewings fitt’st for graves. Upon their faces.  
-You were as flowers, now wither’d: even so  
+Here's a few flowers; but 'bout midnight, more:  
+The herbs that have on them cold dew o' the night  
+Are strewings fitt'st for graves. Upon their faces.  
+You were as flowers, now wither'd: even so  
 These herblets shall, which we upon you strew.  
 Come on, away: apart upon our knees.  
 The ground that gave them first has them again:  
@@ -4160,49 +4160,49 @@ Their pleasures here are past, so is their pain.
 **IMOGEN**  
 *\[Awaking]*
 Yes, sir, to Milford-Haven; which is  
-the way?–
-I thank you.–By yond bush?–Pray, how far thither?  
-’Ods pittikins! can it be six mile yet?–  
-I have gone all night. ’Faith, I’ll lie down and sleep.  
-But, soft! no bedfellow!–O god s and goddesses!
+the way?--
+I thank you.--By yond bush?--Pray, how far thither?  
+'Ods pittikins! can it be six mile yet?--  
+I have gone all night. 'Faith, I'll lie down and sleep.  
+But, soft! no bedfellow!--O god s and goddesses!
 
 *Seeing the body of CLOTEN*
 
 These flowers are like the pleasures of the world;  
-This bloody man, the care on’t. I hope I dream;  
+This bloody man, the care on't. I hope I dream;  
 For so I thought I was a cave-keeper,  
-And cook to honest creatures: but ’tis not so;  
-’Twas but a bolt of nothing, shot at nothing,  
+And cook to honest creatures: but 'tis not so;  
+'Twas but a bolt of nothing, shot at nothing,  
 Which the brain makes of fumes: our very eyes  
 Are sometimes like our judgments, blind. Good faith,  
 I tremble stiff with fear: but if there be  
 Yet left in heaven as small a drop of pity  
-As a wren’s eye, fear’d gods, a part of it!  
-The dream’s here still: even when I wake, it is  
+As a wren's eye, fear'd gods, a part of it!  
+The dream's here still: even when I wake, it is  
 Without me, as within me; not imagined, felt.  
 A headless man! The garments of Posthumus!  
-I know the shape of’s leg: this is his hand;  
+I know the shape of's leg: this is his hand;  
 His foot Mercurial; his Martial thigh;  
 The brawns of Hercules: but his Jovial face  
-Murder in heaven?–How!–’Tis gone. Pisanio,  
+Murder in heaven?--How!--'Tis gone. Pisanio,  
 All curses madded Hecuba gave the Greeks,  
 And mine to boot, be darted on thee! Thou,  
 Conspired with that irregulous devil, Cloten,  
 Hast here cut off my lord. To write and read  
-Be henceforth treacherous! Damn’d Pisanio  
-Hath with his forged letters,–damn’d Pisanio–  
+Be henceforth treacherous! Damn'd Pisanio  
+Hath with his forged letters,--damn'd Pisanio--  
 From this most bravest vessel of the world  
 Struck the main-top! O Posthumus! alas,  
-Where is thy head? where’s that? Ay me!  
-where’s that?
-Pisanio might have kill’d thee at the heart,  
+Where is thy head? where's that? Ay me!  
+where's that?
+Pisanio might have kill'd thee at the heart,  
 And left this head on. How should this be? Pisanio?  
-’Tis he and Cloten: malice and lucre in them  
-Have laid this woe here. O, ’tis pregnant, pregnant!  
+'Tis he and Cloten: malice and lucre in them  
+Have laid this woe here. O, 'tis pregnant, pregnant!  
 The drug he gave me, which he said was precious  
 And cordial to me, have I not found it  
 Murderous to the senses? That confirms it home:  
-This is Pisanio’s deed, and Cloten’s: O!  
+This is Pisanio's deed, and Cloten's: O!  
 Give colour to my pale cheek with thy blood,  
 That we the horrider may seem to those  
 Which chance to find us: O, my lord, my lord!
@@ -4212,8 +4212,8 @@ Which chance to find us: O, my lord, my lord!
 *Enter LUCIUS, a Captain and other Officers, and a Soothsayer*
 
 **Captain**  
-To them the legions garrison’d in Gailia,  
-After your will, have cross’d the sea, attending  
+To them the legions garrison'd in Gailia,  
+After your will, have cross'd the sea, attending  
 You here at Milford-Haven with your ships:  
 They are in readiness.
 
@@ -4221,31 +4221,31 @@ They are in readiness.
 But what from Rome?
 
 **Captain**  
-The senate hath stirr’d up the confiners  
+The senate hath stirr'd up the confiners  
 And gentlemen of Italy, most willing spirits,  
 That promise noble service: and they come  
 Under the conduct of bold Iachimo,  
-Syenna’s brother.
+Syenna's brother.
 
 **CAIUS LUCIUS**  
 When expect you them?
 
 **Captain**  
-With the next benefit o’ the wind.
+With the next benefit o' the wind.
 
 **CAIUS LUCIUS**  
 This forwardness
 Makes our hopes fair. Command our present numbers  
-Be muster’d; bid the captains look to’t. Now, sir,  
-What have you dream’d of late of this war’s purpose?
+Be muster'd; bid the captains look to't. Now, sir,  
+What have you dream'd of late of this war's purpose?
 
 **Soothsayer**  
-Last night the very gods show’d me a vision–  
-I fast and pray’d for their intelligence–thus:  
-I saw Jove’s bird, the Roman eagle, wing’d  
+Last night the very gods show'd me a vision--  
+I fast and pray'd for their intelligence--thus:  
+I saw Jove's bird, the Roman eagle, wing'd  
 From the spongy south to this part of the west,  
-There vanish’d in the sunbeams: which portends–  
-Unless my sins abuse my divination–  
+There vanish'd in the sunbeams: which portends--  
+Unless my sins abuse my divination--  
 Success to the Roman host.
 
 **CAIUS LUCIUS**  
@@ -4256,18 +4256,18 @@ It was a worthy building. How! a page!
 Or dead, or sleeping on him? But dead rather;  
 For nature doth abhor to make his bed  
 With the defunct, or sleep upon the dead.  
-Let’s see the boy’s face.
+Let's see the boy's face.
 
 **Captain**  
-He’s alive, my lord.
+He's alive, my lord.
 
 **CAIUS LUCIUS**  
-He’ll then instruct us of this body. Young one,  
+He'll then instruct us of this body. Young one,  
 Inform us of thy fortunes, for it seems  
 They crave to be demanded. Who is this  
 Thou makest thy bloody pillow? Or who was he  
 That, otherwise than noble nature did,  
-Hath alter’d that good picture? What’s thy interest  
+Hath alter'd that good picture? What's thy interest  
 In this sad wreck? How came it? Who is it?  
 What art thou?
 
@@ -4282,7 +4282,7 @@ Try many, all good, serve truly, never
 Find such another master.
 
 **CAIUS LUCIUS**  
-’Lack, good youth!
+'Lack, good youth!
 Thou movest no less with thy complaining than  
 Thy master in bleeding: say his name, good friend.
 
@@ -4292,7 +4292,7 @@ Richard du Champ.
 *\[Aside]*
 If I do lie and do
 No harm by it, though the gods hear, I hope  
-They’ll pardon it.–Say you, sir?
+They'll pardon it.--Say you, sir?
 
 **CAIUS LUCIUS**  
 Thy name?
@@ -4304,18 +4304,18 @@ Fidele, sir.
 Thou dost approve thyself the very same:  
 Thy name well fits thy faith, thy faith thy name.  
 Wilt take thy chance with me? I will not say  
-Thou shalt be so well master’d, but, be sure,  
-No less beloved. The Roman emperor’s letters,  
+Thou shalt be so well master'd, but, be sure,  
+No less beloved. The Roman emperor's letters,  
 Sent by a consul to me, should not sooner  
 Than thine own worth prefer thee: go with me.
 
 **IMOGEN**  
-I’ll follow, sir. But first, an’t please the gods,  
-I’ll hide my master from the flies, as deep  
+I'll follow, sir. But first, an't please the gods,  
+I'll hide my master from the flies, as deep  
 As these poor pickaxes can dig; and when  
-With wild wood-leaves and weeds I ha’ strew’d his grave,  
+With wild wood-leaves and weeds I ha' strew'd his grave,  
 And on it said a century of prayers,  
-Such as I can, twice o’er, I’ll weep and sigh;  
+Such as I can, twice o'er, I'll weep and sigh;  
 And leaving so his service, follow you,  
 So please you entertain me.
 
@@ -4326,24 +4326,24 @@ My friends,
 The boy hath taught us manly duties: let us  
 Find out the prettiest daisied plot we can,  
 And make him with our pikes and partisans  
-A grave: come, arm him. Boy, he is preferr’d  
-By thee to us, and he shall be interr’d  
+A grave: come, arm him. Boy, he is preferr'd  
+By thee to us, and he shall be interr'd  
 As soldiers can. Be cheerful; wipe thine eyes  
 Some falls are means the happier to arise.
 
 *Exeunt*
 
-### SCENE III. A room in Cymbeline’s palace.
+### SCENE III. A room in Cymbeline's palace.
 
 *Enter CYMBELINE, Lords, PISANIO, and Attendants*
 
 **CYMBELINE**  
-Again; and bring me word how ’tis with her.
+Again; and bring me word how 'tis with her.
 
 *Exit an Attendant*
 
 A fever with the absence of her son,  
-A madness, of which her life’s in danger. Heavens,  
+A madness, of which her life's in danger. Heavens,  
 How deeply you at once do touch me! Imogen,  
 The great part of my comfort, gone; my queen  
 Upon a desperate bed, and in a time  
@@ -4351,7 +4351,7 @@ When fearful wars point at me; her son gone,
 So needful for this present: it strikes me, past  
 The hope of comfort. But for thee, fellow,  
 Who needs must know of her departure and  
-Dost seem so ignorant, we’ll enforce it from thee  
+Dost seem so ignorant, we'll enforce it from thee  
 By a sharp torture.
 
 **PISANIO**  
@@ -4364,7 +4364,7 @@ Hold me your loyal servant.
 **First Lord**  
 Good my liege,
 The day that she was missing he was here:  
-I dare be bound he’s true and shall perform  
+I dare be bound he's true and shall perform  
 All parts of his subjection loyally. For Cloten,  
 There wants no diligence in seeking him,  
 And will, no doubt, be found.
@@ -4374,7 +4374,7 @@ The time is troublesome.
 
 *To PISANIO*
 
-We’ll slip you for a season; but our jealousy  
+We'll slip you for a season; but our jealousy  
 Does yet depend.
 
 **First Lord**  
@@ -4391,12 +4391,12 @@ I am amazed with matter.
 Good my liege,
 Your preparation can affront no less  
 Than what you hear of: come more, for more  
-you’re ready:
+you're ready:
 The want is but to put those powers in motion  
 That long to move.
 
 **CYMBELINE**  
-I thank you. Let’s withdraw;
+I thank you. Let's withdraw;
 And meet the time as it seeks us. We fear not  
 What can from Italy annoy us; but  
 We grieve at chances here. Away!
@@ -4405,16 +4405,16 @@ We grieve at chances here. Away!
 
 **PISANIO**  
 I heard no letter from my master since  
-I wrote him Imogen was slain: ‘tis strange:  
+I wrote him Imogen was slain: 'tis strange:  
 Nor hear I from my mistress who did promise  
 To yield me often tidings: neither know I  
 What is betid to Cloten; but remain  
-Perplex’d in all. The heavens still must work.  
+Perplex'd in all. The heavens still must work.  
 Wherein I am false I am honest; not true, to be true.  
 These present wars shall find I love my country,  
-Even to the note o’ the king, or I’ll fall in them.  
-All other doubts, by time let them be clear’d:  
-Fortune brings in some boats that are not steer’d.
+Even to the note o' the king, or I'll fall in them.  
+All other doubts, by time let them be clear'd:  
+Fortune brings in some boats that are not steer'd.
 
 *Exit*
 
@@ -4441,11 +4441,11 @@ During their use, and slay us after.
 
 **BELARIUS**  
 Sons,
-We’ll higher to the mountains; there secure us.  
-To the king’s party there’s no going: newness  
-Of Cloten’s death–we being not known, not muster’d  
-Among the bands–may drive us to a render  
-Where we have lived, and so extort from’s that  
+We'll higher to the mountains; there secure us.  
+To the king's party there's no going: newness  
+Of Cloten's death--we being not known, not muster'd  
+Among the bands--may drive us to a render  
+Where we have lived, and so extort from's that  
 Which we have done, whose answer would be death  
 Drawn on with torture.
 
@@ -4457,8 +4457,8 @@ Nor satisfying us.
 **ARVIRAGUS**  
 It is not likely
 That when they hear the Roman horses neigh,  
-Behold their quarter’d fires, have both their eyes  
-And ears so cloy’d importantly as now,  
+Behold their quarter'd fires, have both their eyes  
+And ears so cloy'd importantly as now,  
 That they will waste their time upon our note,  
 To know from whence we are.
 
@@ -4471,32 +4471,32 @@ Hath not deserved my service nor your loves;
 Who find in my exile the want of breeding,  
 The certainty of this hard life; aye hopeless  
 To have the courtesy your cradle promised,  
-But to be still hot summer’s tamings and  
+But to be still hot summer's tamings and  
 The shrinking slaves of winter.
 
 **GUIDERIUS**  
 Than be so
 Better to cease to be. Pray, sir, to the army:  
 I and my brother are not known; yourself  
-So out of thought, and thereto so o’ergrown,  
-Cannot be question’d.
+So out of thought, and thereto so o'ergrown,  
+Cannot be question'd.
 
 **ARVIRAGUS**  
 By this sun that shines,
-I’ll thither: what thing is it that I never  
-Did see man die! scarce ever look’d on blood,  
+I'll thither: what thing is it that I never  
+Did see man die! scarce ever look'd on blood,  
 But that of coward hares, hot goats, and venison!  
 Never bestrid a horse, save one that had  
-A rider like myself, who ne’er wore rowel  
+A rider like myself, who ne'er wore rowel  
 Nor iron on his heel! I am ashamed  
 To look upon the holy sun, to have  
 The benefit of his blest beams, remaining  
 So long a poor unknown.
 
 **GUIDERIUS**  
-By heavens, I’ll go:
+By heavens, I'll go:
 If you will bless me, sir, and give me leave,  
-I’ll take the better care, but if you will not,  
+I'll take the better care, but if you will not,  
 The hazard therefore due fall on me by  
 The hands of Romans!
 
@@ -4506,9 +4506,9 @@ So say I amen.
 **BELARIUS**  
 No reason I, since of your lives you set  
 So slight a valuation, should reserve  
-My crack’d one to more care. Have with you, boys!  
+My crack'd one to more care. Have with you, boys!  
 If in your country wars you chance to die,  
-That is my bed too, lads, an there I’ll lie:  
+That is my bed too, lads, an there I'll lie:  
 Lead, lead.
 
 *\[Aside]*  
@@ -4525,38 +4525,38 @@ Till it fly out and show them princes born.
 *Enter POSTHUMUS, with a bloody handkerchief*
 
 **POSTHUMUS LEONATUS**  
-Yea, bloody cloth, I’ll keep thee, for I wish’d  
-Thou shouldst be colour’d thus. You married ones,  
+Yea, bloody cloth, I'll keep thee, for I wish'd  
+Thou shouldst be colour'd thus. You married ones,  
 If each of you should take this course, how many  
 Must murder wives much better than themselves  
 For wrying but a little! O Pisanio!  
 Every good servant does not all commands:  
 No bond but to do just ones. Gods! if you  
-Should have ta’en vengeance on my faults, I never  
+Should have ta'en vengeance on my faults, I never  
 Had lived to put on this: so had you saved  
 The noble Imogen to repent, and struck  
 Me, wretch more worth your vengeance. But, alack,  
-You snatch some hence for little faults; that’s love,  
+You snatch some hence for little faults; that's love,  
 To have them fall no more: you some permit  
 To second ills with ills, each elder worse,  
-And make them dread it, to the doers’ thrift.  
+And make them dread it, to the doers' thrift.  
 But Imogen is your own: do your best wills,  
 And make me blest to obey! I am brought hither  
 Among the Italian gentry, and to fight  
-Against my lady’s kingdom: ‘tis enough  
-That, Britain, I have kill’d thy mistress; peace!  
-I’ll give no wound to thee. Therefore, good heavens,  
-Hear patiently my purpose: I’ll disrobe me  
+Against my lady's kingdom: 'tis enough  
+That, Britain, I have kill'd thy mistress; peace!  
+I'll give no wound to thee. Therefore, good heavens,  
+Hear patiently my purpose: I'll disrobe me  
 Of these Italian weeds and suit myself  
-As does a Briton peasant: so I’ll fight  
-Against the part I come with; so I’ll die  
+As does a Briton peasant: so I'll fight  
+Against the part I come with; so I'll die  
 For thee, O Imogen, even for whom my life  
 Is every breath a death; and thus, unknown,  
 Pitied nor hated, to the face of peril  
-Myself I’ll dedicate. Let me make men know  
+Myself I'll dedicate. Let me make men know  
 More valour in me than my habits show.  
-Gods, put the strength o’ the Leonati in me!  
-To shame the guise o’ the world, I will begin  
+Gods, put the strength o' the Leonati in me!  
+To shame the guise o' the world, I will begin  
 The fashion, less without and more within.
 
 *Exit*
@@ -4568,9 +4568,9 @@ The fashion, less without and more within.
 **IACHIMO**  
 The heaviness and guilt within my bosom  
 Takes off my manhood: I have belied a lady,  
-The princess of this country, and the air on’t  
+The princess of this country, and the air on't  
 Revengingly enfeebles me; or could this carl,  
-A very drudge of nature’s, have subdued me  
+A very drudge of nature's, have subdued me  
 In my profession? Knighthoods and honours, borne  
 As I wear mine, are titles but of scorn.  
 If that thy gentry, Britain, go before  
@@ -4593,15 +4593,15 @@ Stand, stand, and fight!
 
 **CAIUS LUCIUS**  
 Away, boy, from the troops, and save thyself;  
-For friends kill friends, and the disorder’s such  
-As war were hoodwink’d.
+For friends kill friends, and the disorder's such  
+As war were hoodwink'd.
 
 **IACHIMO**  
-’Tis their fresh supplies.
+'Tis their fresh supplies.
 
 **CAIUS LUCIUS**  
-It is a day turn’d strangely: or betimes  
-Let’s reinforce, or fly.
+It is a day turn'd strangely: or betimes  
+Let's reinforce, or fly.
 
 *Exeunt*
 
@@ -4626,56 +4626,56 @@ Of his wings destitute, the army broken,
 And but the backs of Britons seen, all flying  
 Through a straight lane; the enemy full-hearted,  
 Lolling the tongue with slaughtering, having work  
-More plentiful than tools to do’t, struck down  
-Some mortally, some slightly touch’d, some falling  
-Merely through fear; that the straight pass was damm’d  
+More plentiful than tools to do't, struck down  
+Some mortally, some slightly touch'd, some falling  
+Merely through fear; that the straight pass was damm'd  
 With dead men hurt behind, and cowards living  
-To die with lengthen’d shame.
+To die with lengthen'd shame.
 
 **Lord**  
 Where was this lane?
 
 **POSTHUMUS LEONATUS**  
-Close by the battle, ditch’d, and wall’d with turf;  
+Close by the battle, ditch'd, and wall'd with turf;  
 Which gave advantage to an ancient soldier,  
 An honest one, I warrant; who deserved  
 So long a breeding as his white beard came to,  
-In doing this for’s country: athwart the lane,  
+In doing this for's country: athwart the lane,  
 He, with two striplings-lads more like to run  
 The country base than to commit such slaughter  
 With faces fit for masks, or rather fairer  
-Than those for preservation cased, or shame–  
+Than those for preservation cased, or shame--  
 Made good the passage; cried to those that fled,  
-‘Our Britain s harts die flying, not our men:  
+'Our Britain s harts die flying, not our men:  
 To darkness fleet souls that fly backwards. Stand;  
 Or we are Romans and will give you that  
 Like beasts which you shun beastly, and may save,  
-But to look back in frown: stand, stand.’  
+But to look back in frown: stand, stand.'  
 These three,
-Three thousand confident, in act as many–  
+Three thousand confident, in act as many--  
 For three performers are the file when all  
-The rest do nothing–with this word ‘Stand, stand,’  
+The rest do nothing--with this word 'Stand, stand,'  
 Accommodated by the place, more charming  
-With their own nobleness, which could have turn’d  
+With their own nobleness, which could have turn'd  
 A distaff to a lance, gilded pale looks,  
-Part shame, part spirit renew’d; that some,  
-turn’d coward  
-But by example–O, a sin in war,
-Damn’d in the first beginners!–gan to look  
+Part shame, part spirit renew'd; that some,  
+turn'd coward  
+But by example--O, a sin in war,
+Damn'd in the first beginners!--gan to look  
 The way that they did, and to grin like lions  
-Upon the pikes o’ the hunters. Then began  
-A stop i’ the chaser, a retire, anon  
+Upon the pikes o' the hunters. Then began  
+A stop i' the chaser, a retire, anon  
 A rout, confusion thick; forthwith they fly  
-Chickens, the way which they stoop’d eagles; slaves,  
+Chickens, the way which they stoop'd eagles; slaves,  
 The strides they victors made: and now our cowards,  
 Like fragments in hard voyages, became  
-The life o’ the need: having found the backdoor open  
+The life o' the need: having found the backdoor open  
 Of the unguarded hearts, heavens, how they wound!  
 Some slain before; some dying; some their friends  
-O’er borne i’ the former wave: ten, chased by one,  
+O'er borne i' the former wave: ten, chased by one,  
 Are now each one the slaughter-man of twenty:  
 Those that would die or ere resist are grown  
-The mortal bugs o’ the field.
+The mortal bugs o' the field.
 
 **Lord**  
 This was strange chance
@@ -4684,23 +4684,23 @@ A narrow lane, an old man, and two boys.
 **POSTHUMUS LEONATUS**  
 Nay, do not wonder at it: you are made  
 Rather to wonder at the things you hear  
-Than to work any. Will you rhyme upon’t,  
+Than to work any. Will you rhyme upon't,  
 And vent it for a mockery? Here is one:  
-‘Two boys, an old man twice a boy, a lane,  
-Preserved the Britons, was the Romans’ bane.’
+'Two boys, an old man twice a boy, a lane,  
+Preserved the Britons, was the Romans' bane.'
 
 **Lord**  
 Nay, be not angry, sir.
 
 **POSTHUMUS LEONATUS**  
-’Lack, to what end?
-Who dares not stand his foe, I’ll be his friend;  
-For if he’ll do as he is made to do,  
-I know he’ll quickly fly my friendship too.  
+'Lack, to what end?
+Who dares not stand his foe, I'll be his friend;  
+For if he'll do as he is made to do,  
+I know he'll quickly fly my friendship too.  
 You have put me into rhyme.
 
 **Lord**  
-Farewell; you’re angry.
+Farewell; you're angry.
 
 **POSTHUMUS LEONATUS**  
 Still going?
@@ -4708,49 +4708,49 @@ Still going?
 *Exit Lord*
 
 This is a lord! O noble misery,
-To be i’ the field, and ask ‘what news?’ of me!  
+To be i' the field, and ask 'what news?' of me!  
 To-day how many would have given their honours  
-To have saved their carcasses! took heel to do’t,  
-And yet died too! I, in mine own woe charm’d,  
+To have saved their carcasses! took heel to do't,  
+And yet died too! I, in mine own woe charm'd,  
 Could not find death where I did hear him groan,  
 Nor feel him where he struck: being an ugly monster,  
-‘Tis strange he hides him in fresh cups, soft beds,  
+'Tis strange he hides him in fresh cups, soft beds,  
 Sweet words; or hath more ministers than we  
-That draw his knives i’ the war. Well, I will find him  
+That draw his knives i' the war. Well, I will find him  
 For being now a favourer to the Briton,  
 No more a Briton, I have resumed again  
 The part I came in: fight I will no more,  
 But yield me to the veriest hind that shall  
 Once touch my shoulder. Great the slaughter is  
 Here made by the Roman; great the answer be  
-Britons must take. For me, my ransom’s death;  
+Britons must take. For me, my ransom's death;  
 On either side I come to spend my breath;  
-Which neither here I’ll keep nor bear again,  
+Which neither here I'll keep nor bear again,  
 But end it by some means for Imogen.
 
 *Enter two British Captains and Soldiers*
 
 **First Captain**  
 Great Jupiter be praised! Lucius is taken.  
-’Tis thought the old man and his sons were angels.
+'Tis thought the old man and his sons were angels.
 
 **Second Captain**  
 There was a fourth man, in a silly habit,  
 That gave the affront with them.
 
 **First Captain**  
-So ’tis reported:
-But none of ’em can be found. Stand! who’s there?
+So 'tis reported:
+But none of 'em can be found. Stand! who's there?
 
 **POSTHUMUS LEONATUS**  
 A Roman,
 Who had not now been drooping here, if seconds  
-Had answer’d him.
+Had answer'd him.
 
 **Second Captain**  
 Lay hands on him; a dog!
 A leg of Rome shall not return to tell  
-What crows have peck’d them here. He brags  
+What crows have peck'd them here. He brags  
 his service
 As if he were of note: bring him to the king.
 
@@ -4761,7 +4761,7 @@ As if he were of note: bring him to the king.
 *Enter POSTHUMUS LEONATUS and two Gaolers*
 
 **First Gaoler**  
-You shall not now be stol’n, you have locks upon you;  
+You shall not now be stol'n, you have locks upon you;  
 So graze as you find pasture.
 
 **Second Gaoler**  
@@ -4772,31 +4772,31 @@ Ay, or a stomach.
 **POSTHUMUS LEONATUS**  
 Most welcome, bondage! for thou art away,  
 think, to liberty: yet am I better  
-Than one that’s sick o’ the gout; since he had rather  
+Than one that's sick o' the gout; since he had rather  
 Groan so in perpetuity than be cured  
 By the sure physician, death, who is the key  
-To unbar these locks. My conscience, thou art fetter’d  
+To unbar these locks. My conscience, thou art fetter'd  
 More than my shanks and wrists: you good gods, give me  
 The penitent instrument to pick that bolt,  
-Then, free for ever! Is’t enough I am sorry?  
+Then, free for ever! Is't enough I am sorry?  
 So children temporal fathers do appease;  
 Gods are more full of mercy. Must I repent?  
 I cannot do it better than in gyves,  
-Desired more than constrain’d: to satisfy,  
-If of my freedom ’tis the main part, take  
+Desired more than constrain'd: to satisfy,  
+If of my freedom 'tis the main part, take  
 No stricter render of me than my all.  
 I know you are more clement than vile men,  
 Who of their broken debtors take a third,  
 A sixth, a tenth, letting them thrive again  
-On their abatement: that’s not my desire:  
-For Imogen’s dear life take mine; and though  
-’Tis not so dear, yet ’tis a life; you coin’d it:  
-’Tween man and man they weigh not every stamp;  
-Though light, take pieces for the figure’s sake:  
+On their abatement: that's not my desire:  
+For Imogen's dear life take mine; and though  
+'Tis not so dear, yet 'tis a life; you coin'd it:  
+'Tween man and man they weigh not every stamp;  
+Though light, take pieces for the figure's sake:  
 You rather mine, being yours: and so, great powers,  
 If you will take this audit, take this life,  
 And cancel these cold bonds. O Imogen!  
-I’ll speak to thee in silence.
+I'll speak to thee in silence.
 
 *Sleeps*
 
@@ -4810,10 +4810,10 @@ That thy adulteries
 Rates and revenges.
 Hath my poor boy done aught but well,  
 Whose face I never saw?
-I died whilst in the womb he stay’d  
-Attending nature’s law:  
+I died whilst in the womb he stay'd  
+Attending nature's law:  
 Whose father then, as men report  
-Thou orphans’ father art,
+Thou orphans' father art,
 Thou shouldst have been, and shielded him  
 From this earth-vexing smart.
 
@@ -4821,14 +4821,14 @@ From this earth-vexing smart.
 Lucina lent not me her aid,  
 But took me in my throes;  
 That from me was Posthumus ript,  
-Came crying ’mongst his foes,
+Came crying 'mongst his foes,
 A thing of pity!
 
 **Sicilius Leonatus**  
 Great nature, like his ancestry,  
 Moulded the stuff so fair,
-That he deserved the praise o’ the world,  
-As great Sicilius’ heir.
+That he deserved the praise o' the world,  
+As great Sicilius' heir.
 
 **First Brother**  
 When once he was mature for man,  
@@ -4839,7 +4839,7 @@ In eye of Imogen, that best
 Could deem his dignity?
 
 **Mother**  
-With marriage wherefore was he mock’d,  
+With marriage wherefore was he mock'd,  
 To be exiled, and thrown  
 From Leonati seat, and cast  
 From her his dearest one,
@@ -4851,23 +4851,23 @@ Slight thing of Italy,
 To taint his nobler heart and brain  
 With needless jealosy;  
 And to become the geck and scorn
-O’ th’ other’s villany?
+O' th' other's villany?
 
 **Second Brother**  
 For this from stiller seats we came,  
 Our parents and us twain,
-That striking in our country’s cause  
+That striking in our country's cause  
 Fell bravely and were slain,  
-Our fealty and Tenantius’ right
+Our fealty and Tenantius' right
 With honour to maintain.
 
 **First Brother**  
 Like hardiment Posthumus hath  
-To Cymbeline perform’d:  
+To Cymbeline perform'd:  
 Then, Jupiter, thou king of gods,  
-Why hast thou thus adjourn’d  
+Why hast thou thus adjourn'd  
 The graces for his merits due,
-Being all to dolours turn’d?
+Being all to dolours turn'd?
 
 **Sicilius Leonatus**  
 Thy crystal window ope; look out;  
@@ -4899,12 +4899,12 @@ Sky-planted batters all rebelling coasts?
 Poor shadows of Elysium, hence, and rest  
 Upon your never-withering banks of flowers:  
 Be not with mortal accidents opprest;  
-No care of yours it is; you know ’tis ours.  
+No care of yours it is; you know 'tis ours.  
 Whom best I love I cross; to make my gift,  
-The more delay’d, delighted. Be content;  
+The more delay'd, delighted. Be content;  
 Your low-laid son our godhead will uplift:  
 His comforts thrive, his trials well are spent.  
-Our Jovial star reign’d at his birth, and in  
+Our Jovial star reign'd at his birth, and in  
 Our temple was he married. Rise, and fade.  
 He shall be lord of lady Imogen,
 And happier much by his affliction made.  
@@ -4919,7 +4919,7 @@ Mount, eagle, to my palace crystalline.
 **Sicilius Leonatus**  
 He came in thunder; his celestial breath  
 Was sulphurous to smell: the holy eagle  
-Stoop’d as to foot us: his ascension is  
+Stoop'd as to foot us: his ascension is  
 More sweet than our blest fields: his royal bird  
 Prunes the immortal wing and cloys his beak,  
 As when his god is pleased.
@@ -4928,7 +4928,7 @@ As when his god is pleased.
 Thanks, Jupiter!
 
 **Sicilius Leonatus**  
-The marble pavement closes, he is enter’d  
+The marble pavement closes, he is enter'd  
 His radiant root. Away! and, to be blest,  
 Let us with care perform his great behest.
 
@@ -4941,10 +4941,10 @@ A father to me; and thou hast created
 A mother and two brothers: but, O scorn!  
 Gone! they went hence so soon as they were born:  
 And so I am awake. Poor wretches that depend  
-On greatness’ favour dream as I have done,  
+On greatness' favour dream as I have done,  
 Wake and find nothing. But, alas, I swerve:  
 Many dream not to find, neither deserve,  
-And yet are steep’d in favours: so am I,  
+And yet are steep'd in favours: so am I,  
 That have this golden chance and know not why.  
 What fairies haunt this ground? A book? O rare one!  
 Be not, as is our fangled world, a garment  
@@ -4954,19 +4954,19 @@ As good as promise.
 
 *Reads*
 
-‘When as a lion’s whelp shall, to himself unknown,  
+'When as a lion's whelp shall, to himself unknown,  
 without seeking find, and be embraced by a piece of  
 tender air; and when from a stately cedar shall be  
 lopped branches, which, being dead many years,  
 shall after revive, be jointed to the old stock and  
 freshly grow; then shall Posthumus end his miseries,  
-Britain be fortunate and flourish in peace and plenty.’  
-’Tis still a dream, or else such stuff as madmen  
+Britain be fortunate and flourish in peace and plenty.'  
+'Tis still a dream, or else such stuff as madmen  
 Tongue and brain not; either both or nothing;  
 Or senseless speaking or a speaking such  
 As sense cannot untie. Be what it is,  
 The action of my life is like it, which  
-I’ll keep, if but for sympathy.
+I'll keep, if but for sympathy.
 
 *Re-enter First Gaoler*
 
@@ -4997,7 +4997,7 @@ light, the purse too light, being drawn of
 heaviness: of this contradiction you shall now be  
 quit. O, the charity of a penny cord! It sums up  
 thousands in a trice: you have no true debitor and  
-creditor but it; of what’s past, is, and to come,  
+creditor but it; of what's past, is, and to come,  
 the discharge: your neck, sir, is pen, book and  
 counters; so the acquittance follows.
 
@@ -5015,12 +5015,12 @@ sir, you know not which way you shall go.
 Yes, indeed do I, fellow.
 
 **First Gaoler**  
-Your death has eyes in ’s head then; I have not seen  
+Your death has eyes in 's head then; I have not seen  
 him so pictured: you must either be directed by  
 some that take upon them to know, or do take upon  
 yourself that which I am sure you do not know, or  
 jump the after inquiry on your own peril: and how  
-you shall speed in your journey’s end, I think you’ll  
+you shall speed in your journey's end, I think you'll  
 never return to tell one.
 
 **POSTHUMUS LEONATUS**  
@@ -5031,7 +5031,7 @@ will not use them.
 **First Gaoler**  
 What an infinite mock is this, that a man should  
 have the best use of eyes to see the way of  
-blindness! I am sure hanging’s the way of winking.
+blindness! I am sure hanging's the way of winking.
 
 *Enter a Messenger*
 
@@ -5039,10 +5039,10 @@ blindness! I am sure hanging’s the way of winking.
 Knock off his manacles; bring your prisoner to the king.
 
 **POSTHUMUS LEONATUS**  
-Thou bring’st good news; I am called to be made free.
+Thou bring'st good news; I am called to be made free.
 
 **First Gaoler**  
-I’ll be hang’d then.
+I'll be hang'd then.
 
 **POSTHUMUS LEONATUS**  
 Thou shalt be then freer than a gaoler; no bolts for the dead.
@@ -5058,11 +5058,11 @@ too that die against their wills; so should I, if I
 were one. I would we were all of one mind, and one  
 mind good; O, there were desolation of gaolers and  
 gallowses! I speak against my present profit, but  
-my wish hath a preferment in ’t.
+my wish hath a preferment in 't.
 
 *Exeunt*
 
-### SCENE V. Cymbeline’s tent.
+### SCENE V. Cymbeline's tent.
 
 *Enter CYMBELINE, BELARIUS, GUIDERIUS, ARVIRAGUS, PISANIO, Lords, Officers, and Attendants*
 
@@ -5071,7 +5071,7 @@ Stand by my side, you whom the gods have made
 Preservers of my throne. Woe is my heart  
 That the poor soldier that so richly fought,  
 Whose rags shamed gilded arms, whose naked breast  
-Stepp’d before larges of proof, cannot be found:  
+Stepp'd before larges of proof, cannot be found:  
 He shall be happy that can find him, if  
 Our grace can make him so.
 
@@ -5085,7 +5085,7 @@ But beggary and poor looks.
 No tidings of him?
 
 **PISANIO**  
-He hath been search’d among the dead and living,  
+He hath been search'd among the dead and living,  
 But no trace of him.
 
 **CYMBELINE**  
@@ -5095,7 +5095,7 @@ The heir of his reward;
 *\[To BELARIUS, GUIDERIUS, and ARVIRAGUS]*  
 which I will add
 To you, the liver, heart and brain of Britain,  
-By whom I grant she lives. ’Tis now the time  
+By whom I grant she lives. 'Tis now the time  
 To ask of whence you are. Report it.
 
 **BELARIUS**  
@@ -5106,15 +5106,15 @@ Unless I add, we are honest.
 
 **CYMBELINE**  
 Bow your knees.
-Arise my knights o’ the battle: I create you  
+Arise my knights o' the battle: I create you  
 Companions to our person and will fit you  
 With dignities becoming your estates.
 
 *Enter CORNELIUS and Ladies*
 
-There’s business in these faces. Why so sadly  
+There's business in these faces. Why so sadly  
 Greet you our victory? you look like Romans,  
-And not o’ the court of Britain.
+And not o' the court of Britain.
 
 **CORNELIUS**  
 Hail, great king!
@@ -5124,25 +5124,25 @@ The queen is dead.
 **CYMBELINE**  
 Who worse than a physician
 Would this report become? But I consider,  
-By medicine life may be prolong’d, yet death  
+By medicine life may be prolong'd, yet death  
 Will seize the doctor too. How ended she?
 
 **CORNELIUS**  
 With horror, madly dying, like her life,  
 Which, being cruel to the world, concluded  
-Most cruel to herself. What she confess’d  
+Most cruel to herself. What she confess'd  
 I will report, so please you: these her women  
 Can trip me, if I err; who with wet cheeks  
-Were present when she finish’d.
+Were present when she finish'd.
 
 **CYMBELINE**  
 Prithee, say.
 
 **CORNELIUS**  
-First, she confess’d she never loved you, only  
+First, she confess'd she never loved you, only  
 Affected greatness got by you, not you:  
 Married your royalty, was wife to your place;  
-Abhorr’d your person.
+Abhorr'd your person.
 
 **CYMBELINE**  
 She alone knew this;
@@ -5154,11 +5154,11 @@ Your daughter, whom she bore in hand to love
 With such integrity, she did confess  
 Was as a scorpion to her sight; whose life,  
 But that her flight prevented it, she had  
-Ta’en off by poison.
+Ta'en off by poison.
 
 **CYMBELINE**  
 O most delicate fiend!
-Who is ’t can read a woman? Is there more?
+Who is 't can read a woman? Is there more?
 
 **CORNELIUS**  
 More, sir, and worse. She did confess she had  
@@ -5166,13 +5166,13 @@ For you a mortal mineral; which, being took,
 Should by the minute feed on life and lingering  
 By inches waste you: in which time she purposed,  
 By watching, weeping, tendance, kissing, to  
-O’ercome you with her show, and in time,  
+O'ercome you with her show, and in time,  
 When she had fitted you with her craft, to work  
 Her son into the adoption of the crown:  
 But, failing of her end by his strange absence,  
-Grew shameless-desperate; open’d, in despite  
+Grew shameless-desperate; open'd, in despite  
 Of heaven and men, her purposes; repented  
-The evils she hatch’d were not effected; so  
+The evils she hatch'd were not effected; so  
 Despairing died.
 
 **CYMBELINE**  
@@ -5204,15 +5204,15 @@ So think of your estate.
 Consider, sir, the chance of war: the day  
 Was yours by accident; had it gone with us,  
 We should not, when the blood was cool,  
-have threaten’d
+have threaten'd
 Our prisoners with the sword. But since the gods  
 Will have it thus, that nothing but our lives  
-May be call’d ransom, let it come: sufficeth  
-A Roman with a Roman’s heart can suffer:  
-Augustus lives to think on’t: and so much  
+May be call'd ransom, let it come: sufficeth  
+A Roman with a Roman's heart can suffer:  
+Augustus lives to think on't: and so much  
 For my peculiar care. This one thing only  
 I will entreat; my boy, a Briton born,  
-Let him be ransom’d: never master had  
+Let him be ransom'd: never master had  
 A page so kind, so duteous, diligent,  
 So tender over his occasions, true,  
 So feat, so nurse-like: let his virtue join  
@@ -5224,13 +5224,13 @@ And spare no blood beside.
 **CYMBELINE**  
 I have surely seen him:  
 His favour is familiar to me. Boy,
-Thou hast look’d thyself into my grace,  
+Thou hast look'd thyself into my grace,  
 And art mine own. I know not why, wherefore,  
-To say ‘live, boy:’ ne’er thank thy master; live:  
+To say 'live, boy:' ne'er thank thy master; live:  
 And ask of Cymbeline what boon thou wilt,  
-Fitting my bounty and thy state, I’ll give it;  
+Fitting my bounty and thy state, I'll give it;  
 Yea, though thou do demand a prisoner,  
-The noblest ta’en.
+The noblest ta'en.
 
 **IMOGEN**  
 I humbly thank your highness.
@@ -5241,7 +5241,7 @@ And yet I know thou wilt.
 
 **IMOGEN**  
 No, no: alack,
-There’s other work in hand: I see a thing  
+There's other work in hand: I see a thing  
 Bitter to me as death: your life, good master,  
 Must shuffle for itself.
 
@@ -5249,12 +5249,12 @@ Must shuffle for itself.
 The boy disdains me,
 He leaves me, scorns me: briefly die their joys  
 That place them on the truth of girls and boys.  
-Why stands he so perplex’d?
+Why stands he so perplex'd?
 
 **CYMBELINE**  
 What wouldst thou, boy?
 I love thee more and more: think more and more  
-What’s best to ask. Know’st him thou look’st on? speak,  
+What's best to ask. Know'st him thou look'st on? speak,  
 Wilt have him live? Is he thy kin? thy friend?
 
 **IMOGEN**  
@@ -5266,19 +5266,19 @@ Am something nearer.
 Wherefore eyest him so?
 
 **IMOGEN**  
-I’ll tell you, sir, in private, if you please  
+I'll tell you, sir, in private, if you please  
 To give me hearing.
 
 **CYMBELINE**  
 Ay, with all my heart,
-And lend my best attention. What’s thy name?
+And lend my best attention. What's thy name?
 
 **IMOGEN**  
 Fidele, sir.
 
 **CYMBELINE**  
-Thou’rt my good youth, my page;
-I’ll be thy master: walk with me; speak freely.
+Thou'rt my good youth, my page;
+I'll be thy master: walk with me; speak freely.
 
 *CYMBELINE and IMOGEN converse apart*
 
@@ -5295,14 +5295,14 @@ The same dead thing alive.
 
 **BELARIUS**  
 Peace, peace! see further; he eyes us not; forbear;  
-Creatures may be alike: were ’t he, I am sure  
+Creatures may be alike: were 't he, I am sure  
 He would have spoke to us.
 
 **GUIDERIUS**  
 But we saw him dead.
 
 **BELARIUS**  
-Be silent; let’s see further.
+Be silent; let's see further.
 
 **PISANIO**  
 *\[Aside]*
@@ -5329,35 +5329,35 @@ Of whom he had this ring.
 
 **POSTHUMUS LEONATUS**  
 *\[Aside]*  
-What’s that to him?
+What's that to him?
 
 **CYMBELINE**  
 That diamond upon your finger, say  
 How came it yours?
 
 **IACHIMO**  
-Thou’lt torture me to leave unspoken that  
+Thou'lt torture me to leave unspoken that  
 Which, to be spoke, would torture thee.
 
 **CYMBELINE**  
 How! me?
 
 **IACHIMO**  
-I am glad to be constrain’d to utter that  
+I am glad to be constrain'd to utter that  
 Which torments me to conceal. By villany  
-I got this ring: ‘twas Leonatus’ jewel;  
-Whom thou didst banish; and–which more may  
+I got this ring: 'twas Leonatus' jewel;  
+Whom thou didst banish; and--which more may  
 grieve thee,  
-As it doth me–a nobler sir ne’er lived  
-’Twixt sky and ground. Wilt thou hear more, my lord?
+As it doth me--a nobler sir ne'er lived  
+'Twixt sky and ground. Wilt thou hear more, my lord?
 
 **CYMBELINE**  
 All that belongs to this.
 
 **IACHIMO**  
-That paragon, thy daughter,–
+That paragon, thy daughter,--
 For whom my heart drops blood, and my false spirits  
-Quail to remember–Give me leave; I faint.
+Quail to remember--Give me leave; I faint.
 
 **CYMBELINE**  
 My daughter! what of her? Renew thy strength:  
@@ -5365,22 +5365,22 @@ I had rather thou shouldst live while nature will
 Than die ere I hear more: strive, man, and speak.
 
 **IACHIMO**  
-Upon a time,–unhappy was the clock
-That struck the hour!–it was in Rome,–accursed  
-The mansion where!–’twas at a feast,–O, would  
-Our viands had been poison’d, or at least  
-Those which I heaved to head!–the good Posthumus–  
+Upon a time,--unhappy was the clock
+That struck the hour!--it was in Rome,--accursed  
+The mansion where!--'twas at a feast,--O, would  
+Our viands had been poison'd, or at least  
+Those which I heaved to head!--the good Posthumus--  
 What should I say? he was too good to be  
 Where ill men were; and was the best of all  
-Amongst the rarest of good ones,–sitting sadly,  
+Amongst the rarest of good ones,--sitting sadly,  
 Hearing us praise our loves of Italy
-For beauty that made barren the swell’d boast  
+For beauty that made barren the swell'd boast  
 Of him that best could speak, for feature, laming  
 The shrine of Venus, or straight-pight Minerva.  
 Postures beyond brief nature, for condition,  
 A shop of all the qualities that man
 Loves woman for, besides that hook of wiving,  
-Fairness which strikes the eye–
+Fairness which strikes the eye--
 
 **CYMBELINE**  
 I stand on fire:  
@@ -5391,77 +5391,77 @@ All too soon I shall,
 Unless thou wouldst grieve quickly. This Posthumus,  
 Most like a noble lord in love and one  
 That had a royal lover, took his hint;  
-And, not dispraising whom we praised,–therein  
-He was as calm as virtue–he began
-His mistress’ picture; which by his tongue  
+And, not dispraising whom we praised,--therein  
+He was as calm as virtue--he began
+His mistress' picture; which by his tongue  
 being made,
-And then a mind put in’t, either our brags  
-Were crack’d of kitchen-trolls, or his description  
+And then a mind put in't, either our brags  
+Were crack'd of kitchen-trolls, or his description  
 Proved us unspeaking sots.
 
 **CYMBELINE**  
 Nay, nay, to the purpose.
 
 **IACHIMO**  
-Your daughter’s chastity–there it begins.  
+Your daughter's chastity--there it begins.  
 He spake of her, as Dian had hot dreams,  
 And she alone were cold: whereat I, wretch,  
-Made scruple of his praise; and wager’d with him  
-Pieces of gold ‘gainst this which then he wore  
-Upon his honour’d finger, to attain
-In suit the place of’s bed and win this ring  
+Made scruple of his praise; and wager'd with him  
+Pieces of gold 'gainst this which then he wore  
+Upon his honour'd finger, to attain
+In suit the place of's bed and win this ring  
 By hers and mine adultery. He, true knight,  
 No lesser of her honour confident
 Than I did truly find her, stakes this ring;  
 And would so, had it been a carbuncle
-Of Phoebus’ wheel, and might so safely, had it  
-Been all the worth of’s car. Away to Britain  
+Of Phoebus' wheel, and might so safely, had it  
+Been all the worth of's car. Away to Britain  
 Post I in this design: well may you, sir,  
 Remember me at court; where I was taught  
 Of your chaste daughter the wide difference  
-’Twixt amorous and villanous. Being thus quench’d  
+'Twixt amorous and villanous. Being thus quench'd  
 Of hope, not longing, mine Italian brain  
-’Gan in your duller Britain operate  
+'Gan in your duller Britain operate  
 Most vilely; for my vantage, excellent:  
-And, to be brief, my practise so prevail’d,  
-That I return’d with simular proof enough  
+And, to be brief, my practise so prevail'd,  
+That I return'd with simular proof enough  
 To make the noble Leonatus mad,  
 By wounding his belief in her renown
 With tokens thus, and thus; averting notes  
-Of chamber-hanging, pictures, this her bracelet,–  
-O cunning, how I got it!–nay, some marks  
+Of chamber-hanging, pictures, this her bracelet,--  
+O cunning, how I got it!--nay, some marks  
 Of secret on her person, that he could not  
-But think her bond of chastity quite crack’d,  
-I having ta’en the forfeit. Whereupon–  
-Methinks, I see him now–
+But think her bond of chastity quite crack'd,  
+I having ta'en the forfeit. Whereupon--  
+Methinks, I see him now--
 
 **POSTHUMUS LEONATUS**  
 *\[Advancing]*
 Ay, so thou dost,
 Italian fiend! Ay me, most credulous fool,  
 Egregious murderer, thief, any thing
-That’s due to all the villains past, in being,  
+That's due to all the villains past, in being,  
 To come! O, give me cord, or knife, or poison,  
 Some upright justicer! Thou, king, send out  
 For torturers ingenious: it is I
-That all the abhorred things o’ the earth amend  
+That all the abhorred things o' the earth amend  
 By being worse than they. I am Posthumus,  
-That kill’d thy daughter:–villain-like, I lie–  
+That kill'd thy daughter:--villain-like, I lie--  
 That caused a lesser villain than myself,  
-A sacrilegious thief, to do’t: the temple  
+A sacrilegious thief, to do't: the temple  
 Of virtue was she; yea, and she herself.  
 Spit, and throw stone s, cast mire upon me, set  
-The dogs o’ the street to bay me: every villain  
-Be call’d Posthumus Leonitus; and  
-Be villany less than ’twas! O Imogen!  
+The dogs o' the street to bay me: every villain  
+Be call'd Posthumus Leonitus; and  
+Be villany less than 'twas! O Imogen!  
 My queen, my life, my wife! O Imogen,  
 Imogen, Imogen!
 
 **IMOGEN**  
-Peace, my lord; hear, hear–
+Peace, my lord; hear, hear--
 
 **POSTHUMUS LEONATUS**  
-Shall’s have a play of this? Thou scornful page,  
+Shall's have a play of this? Thou scornful page,  
 There lie thy part.
 
 *Striking her: she falls*
@@ -5469,8 +5469,8 @@ There lie thy part.
 **PISANIO**  
 O, gentlemen, help!
 Mine and your mistress! O, my lord Posthumus!  
-You ne’er kill’d Imogen til now. Help, help!  
-Mine honour’d lady!
+You ne'er kill'd Imogen til now. Help, help!  
+Mine honour'd lady!
 
 **CYMBELINE**  
 Does the world go round?
@@ -5506,18 +5506,18 @@ A precious thing: I had it from the queen.
 New matter still?
 
 **IMOGEN**  
-It poison’d me.
+It poison'd me.
 
 **CORNELIUS**  
 O gods!
-I left out one thing which the queen confess’d.  
-Which must approve thee honest: ‘If Pisanio  
-Have,’ said she, ‘given his mistress that confection  
+I left out one thing which the queen confess'd.  
+Which must approve thee honest: 'If Pisanio  
+Have,' said she, 'given his mistress that confection  
 Which I gave him for cordial, she is served  
-As I would serve a rat.’
+As I would serve a rat.'
 
 **CYMBELINE**  
-What’s this, Comelius?
+What's this, Comelius?
 
 **CORNELIUS**  
 The queen, sir, very oft importuned me
@@ -5526,10 +5526,10 @@ The satisfaction of her knowledge only
 In killing creatures vile, as cats and dogs,  
 Of no esteem: I, dreading that her purpose  
 Was of more danger, did compound for her  
-A certain stuff, which, being ta’en, would cease  
+A certain stuff, which, being ta'en, would cease  
 The present power of life, but in short time  
 All offices of nature should again
-Do their due functions. Have you ta’en of it?
+Do their due functions. Have you ta'en of it?
 
 **IMOGEN**  
 Most like I did, for I was dead.
@@ -5565,15 +5565,15 @@ Your blessing, sir.
 *\[To GUIDERIUS and ARVIRAGUS]*  
 Though you did love  
 this youth, I blame ye not:  
-You had a motive for’t.
+You had a motive for't.
 
 **CYMBELINE**  
 My tears that fall  
 Prove holy water on thee! Imogen,  
-Thy mother’s dead.
+Thy mother's dead.
 
 **IMOGEN**  
-I am sorry for’t, my lord.
+I am sorry for't, my lord.
 
 **CYMBELINE**  
 O, she was nought; and long of her it was  
@@ -5582,18 +5582,18 @@ Is gone, we know not how nor where.
 
 **PISANIO**  
 My lord,
-Now fear is from me, I’ll speak troth. Lord Cloten,  
-Upon my lady’s missing, came to me
-With his sword drawn; foam’d at the mouth, and swore,  
-If I discover’d not which way she was gone,  
+Now fear is from me, I'll speak troth. Lord Cloten,  
+Upon my lady's missing, came to me
+With his sword drawn; foam'd at the mouth, and swore,  
+If I discover'd not which way she was gone,  
 It was my instant death. By accident,  
-had a feigned letter of my master’s  
+had a feigned letter of my master's  
 Then in my pocket; which directed him
 To seek her on the mountains near to Milford;  
-Where, in a frenzy, in my master’s garments,  
+Where, in a frenzy, in my master's garments,  
 Which he enforced from me, away he posts
 With unchaste purpose and with oath to violate  
-My lady’s honour: what became of him  
+My lady's honour: what became of him  
 I further know not.
 
 **GUIDERIUS**  
@@ -5604,7 +5604,7 @@ I slew him there.
 Marry, the gods forfend!
 I would not thy good deeds should from my lips  
 Pluck a bard sentence: prithee, valiant youth,  
-Deny’t again.
+Deny't again.
 
 **GUIDERIUS**  
 I have spoke it, and I did it.
@@ -5616,14 +5616,14 @@ He was a prince.
 A most incivil one: the wrongs he did me
 Were nothing prince-like; for he did provoke me  
 With language that would make me spurn the sea,  
-If it could so roar to me: I cut off’s head;  
+If it could so roar to me: I cut off's head;  
 And am right glad he is not standing here  
 To tell this tale of mine.
 
 **CYMBELINE**  
 I am sorry for thee:
-By thine own tongue thou art condemn’d, and must  
-Endure our law: thou’rt dead.
+By thine own tongue thou art condemn'd, and must  
+Endure our law: thou'rt dead.
 
 **IMOGEN**  
 That headless man  
@@ -5654,17 +5654,17 @@ As good as we?
 In that he spake too far.
 
 **CYMBELINE**  
-And thou shalt die for’t.
+And thou shalt die for't.
 
 **BELARIUS**  
 We will die all three:  
-But I will prove that two on’s are as good  
+But I will prove that two on's are as good  
 As I have given out him. My sons, I must,
 For mine own part, unfold a dangerous speech,  
 Though, haply, well for you.
 
 **ARVIRAGUS**  
-Your danger’s ours.
+Your danger's ours.
 
 **GUIDERIUS**  
 And our good his.
@@ -5672,15 +5672,15 @@ And our good his.
 **BELARIUS**  
 Have at it then, by leave.  
 Thou hadst, great king, a subject who  
-Was call’d Belarius.
+Was call'd Belarius.
 
 **CYMBELINE**  
 What of him? he is  
-A banish’d traitor.
+A banish'd traitor.
 
 **BELARIUS**  
 He it is that hath  
-Assumed this age; indeed a banish’d man;  
+Assumed this age; indeed a banish'd man;  
 I know not how a traitor.
 
 **CYMBELINE**  
@@ -5697,7 +5697,7 @@ As I have received it.
 Nursing of my sons!
 
 **BELARIUS**  
-I am too blunt and saucy: here’s my knee:  
+I am too blunt and saucy: here's my knee:  
 Ere I arise, I will prefer my sons;  
 Then spare not the old father. Mighty sir,  
 These two young gentlemen, that call me father  
@@ -5709,32 +5709,32 @@ And blood of your begetting.
 How! my issue!
 
 **BELARIUS**  
-So sure as you your father’s. I, old Morgan,  
-Am that Belarius whom you sometime banish’d:  
+So sure as you your father's. I, old Morgan,  
+Am that Belarius whom you sometime banish'd:  
 Your pleasure was my mere offence, my punishment  
-Itself, and all my treason; that I suffer’d  
-Was all the harm I did. These gentle princes–  
-For such and so they are–these twenty years  
-Have I train’d up: those arts they have as I  
+Itself, and all my treason; that I suffer'd  
+Was all the harm I did. These gentle princes--  
+For such and so they are--these twenty years  
+Have I train'd up: those arts they have as I  
 Could put into them; my breeding was, sir, as  
 Your highness knows. Their nurse, Euriphile,  
 Whom for the theft I wedded, stole these children  
-Upon my banishment: I moved her to’t,  
+Upon my banishment: I moved her to't,  
 Having received the punishment before,
 For that which I did then: beaten for loyalty  
 Excited me to treason: their dear loss,
-The more of you ’twas felt, the more it shaped  
+The more of you 'twas felt, the more it shaped  
 Unto my end of stealing them. But, gracious sir,  
 Here are your sons again; and I must lose
-Two of the sweet’st companions in the world.  
+Two of the sweet'st companions in the world.  
 The benediction of these covering heavens
 Fall on their heads like dew! for they are worthy  
 To inlay heaven with stars.
 
 **CYMBELINE**  
-Thou weep’st, and speak’st.
+Thou weep'st, and speak'st.
 The service that you three have done is more  
-Unlike than this thou tell’st. I lost my children:  
+Unlike than this thou tell'st. I lost my children:  
 If these be they, I know not how to wish  
 A pair of worthier sons.
 
@@ -5743,7 +5743,7 @@ Be pleased awhile.
 This gentleman, whom I call Polydore,
 Most worthy prince, as yours, is true Guiderius:  
 This gentleman, my Cadwal, Arviragus,
-Your younger princely son; he, sir, was lapp’d  
+Your younger princely son; he, sir, was lapp'd  
 In a most curious mantle, wrought by the hand  
 Of his queen mother, which for more probation  
 I can with ease produce.
@@ -5756,12 +5756,12 @@ It was a mark of wonder.
 **BELARIUS**  
 This is he;  
 Who hath upon him still that natural stamp:  
-It was wise nature’s end in the donation,  
+It was wise nature's end in the donation,  
 To be his evidence now.
 
 **CYMBELINE**  
 O, what, am I
-A mother to the birth of three? Ne’er mother  
+A mother to the birth of three? Ne'er mother  
 Rejoiced deliverance more. Blest pray you be,  
 That, after this strange starting from your orbs,  
 may reign in them now! O Imogen,
@@ -5769,14 +5769,14 @@ Thou hast lost by this a kingdom.
 
 **IMOGEN**  
 No, my lord;
-I have got two worlds by ’t. O my gentle brothers,  
+I have got two worlds by 't. O my gentle brothers,  
 Have we thus met? O, never say hereafter
-But I am truest speaker you call’d me brother,  
+But I am truest speaker you call'd me brother,  
 When I was but your sister; I you brothers,  
 When ye were so indeed.
 
 **CYMBELINE**  
-Did you e’er meet?
+Did you e'er meet?
 
 **ARVIRAGUS**  
 Ay, my good lord.
@@ -5786,7 +5786,7 @@ And at first meeting loved;
 Continued so, until we thought he died.
 
 **CORNELIUS**  
-By the queen’s dram she swallow’d.
+By the queen's dram she swallow'd.
 
 **CYMBELINE**  
 O rare instinct!  
@@ -5801,23 +5801,23 @@ And your three motives to the battle, with
 I know not how much more, should be demanded;  
 And all the other by-dependencies,
 From chance to chance: but nor the time nor place  
-Will serve our long inter’gatories. See,  
+Will serve our long inter'gatories. See,  
 Posthumus anchors upon Imogen,
 And she, like harmless lightning, throws her eye  
 On him, her brother, me, her master, hitting  
 Each object with a joy: the counterchange
-Is severally in all. Let’s quit this ground,  
+Is severally in all. Let's quit this ground,  
 And smoke the temple with our sacrifices.
 
 *\[To BELARIUS]*
-Thou art my brother; so we’ll hold thee ever.
+Thou art my brother; so we'll hold thee ever.
 
 **IMOGEN**  
 You are my father too, and did relieve me,  
 To see this gracious season.
 
 **CYMBELINE**  
-All o’erjoy’d,  
+All o'erjoy'd,  
 Save these in bonds: let them be joyful too,  
 For they shall taste our comfort.
 
@@ -5836,8 +5836,8 @@ The thankings of a king.
 **POSTHUMUS LEONATUS**  
 I am, sir,  
 The soldier that did company these three  
-In poor beseeming; ’twas a fitment for  
-The purpose I then follow’d. That I was he,  
+In poor beseeming; 'twas a fitment for  
+The purpose I then follow'd. That I was he,  
 Speak, Iachimo: I had you down and might  
 Have made you finish.
 
@@ -5857,20 +5857,20 @@ The malice towards you to forgive you: live,
 And deal with others better.
 
 **CYMBELINE**  
-Nobly doom’d!  
-We’ll learn our freeness of a son-in-law;  
-Pardon’s the word to all.
+Nobly doom'd!  
+We'll learn our freeness of a son-in-law;  
+Pardon's the word to all.
 
 **ARVIRAGUS**  
 You holp us, sir,  
 As you did mean indeed to be our brother;
-Joy’d are we that you are.
+Joy'd are we that you are.
 
 **POSTHUMUS LEONATUS**  
 Your servant, princes. Good my lord of Rome,  
 Call forth your soothsayer: as I slept, methought  
-Great Jupiter, upon his eagle back’d,  
-Appear’d to me, with other spritely shows  
+Great Jupiter, upon his eagle back'd,  
+Appear'd to me, with other spritely shows  
 Of mine own kindred: when I waked, I found  
 This label on my bosom; whose containing  
 Is so from sense in hardness, that I can  
@@ -5888,25 +5888,25 @@ Read, and declare the meaning.
 
 **Soothsayer**  
 *\[Reads]*  
-‘When as a lion’s whelp shall, to himself
+'When as a lion's whelp shall, to himself
 unknown, without seeking find, and be embraced by a  
 piece of tender air; and when from a stately cedar  
 shall be lopped branches, which, being dead many  
 years, shall after revive, be jointed to the old  
 stock, and freshly grow; then shall Posthumus end  
 his miseries, Britain be fortunate and flourish in  
-peace and plenty.’  
-Thou, Leonatus, art the lion’s whelp;  
+peace and plenty.'  
+Thou, Leonatus, art the lion's whelp;  
 The fit and apt construction of thy name,
 Being Leonatus, doth import so much.
 
 *\[To CYMBELINE]*  
 The piece of tender air, thy virtuous daughter,  
-Which we call ‘mollis aer;’ and ‘mollis aer’  
-We term it ‘mulier:’ which ‘mulier’ I divine  
+Which we call 'mollis aer;' and 'mollis aer'  
+We term it 'mulier:' which 'mulier' I divine  
 Is this most constant wife; who, even now,  
 Answering the letter of the oracle,  
-Unknown to you, unsought, were clipp’d about  
+Unknown to you, unsought, were clipp'd about  
 With this most tender air.
 
 **CYMBELINE**  
@@ -5914,10 +5914,10 @@ This hath some seeming.
 
 **Soothsayer**  
 The lofty cedar, royal Cymbeline,  
-Personates thee: and thy lopp’d branches point  
-Thy two sons forth; who, by Belarius stol’n,  
+Personates thee: and thy lopp'd branches point  
+Thy two sons forth; who, by Belarius stol'n,  
 For many years thought dead, are now revived,  
-To the majestic cedar join’d, whose issue
+To the majestic cedar join'd, whose issue
 Promises Britain peace and plenty.
 
 **CYMBELINE**  
@@ -5935,10 +5935,10 @@ The fingers of the powers above do tune
 The harmony of this peace. The vision  
 Which I made known to Lucius, ere the stroke  
 Of this yet scarce-cold battle, at this instant  
-Is full accomplish’d; for the Roman eagle,  
+Is full accomplish'd; for the Roman eagle,  
 From south to west on wing soaring aloft,  
-Lessen’d herself, and in the beams o’ the sun
-So vanish’d: which foreshow’d our princely eagle,  
+Lessen'd herself, and in the beams o' the sun
+So vanish'd: which foreshow'd our princely eagle,  
 The imperial Caesar, should again unite  
 His favour with the radiant Cymbeline,  
 Which shines here in the west.
@@ -5949,11 +5949,11 @@ And let our crooked smokes climb to their nostrils
 From our blest altars. Publish we this peace  
 To all our subjects. Set we forward: let  
 A Roman and a British ensign wave  
-Friendly together: so through Lud’s-town march:  
+Friendly together: so through Lud's-town march:  
 And in the temple of great Jupiter  
-Our peace we’ll ratify; seal it with feasts.  
+Our peace we'll ratify; seal it with feasts.  
 Set on there! Never was a war did cease,
-Ere bloody hands were wash’d, with such a peace.
+Ere bloody hands were wash'd, with such a peace.
 
 *Exeunt*
 

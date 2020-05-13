@@ -216,7 +216,7 @@ Who attends us there? ...
 *Enter THALIARD*
 
 **THALIARD**  
-...Doth your highness call?
+... Doth your highness call?
 
 **ANTIOCHUS**  
 Thaliard,  
@@ -232,7 +232,7 @@ Because we bid it. Say, is it done?
 My lord, 'Tis done. ...
 
 **ANTIOCHUS**  
-...Enough.
+... Enough.
 
 *Enter a Messenger*
 
@@ -244,7 +244,7 @@ My lord, prince Pericles is fled. ...
 *Exit*
 
 **ANTIOCHUS**  
-...As thou  
+... As thou  
 Wilt live, fly after: and like an arrow shot  
 From a well-experienced archer hits the mark  
 His eye doth level at, so thou ne'er return  
@@ -305,16 +305,16 @@ How dare the plants look up to heaven, from whence
 They have their nourishment? ...
 
 **PERICLES**  
-...Thou know'st I have power  
+... Thou know'st I have power  
 To take thy life from thee. ...
 
 **HELICANUS**  
 *\[Kneeling]*  
-...I have ground the axe myself;  
+... I have ground the axe myself;  
 Do you but strike the blow. ...
 
 **PERICLES**  
-...Rise, prithee, rise.  
+... Rise, prithee, rise.  
 Sit down: thou art no flatterer:  
 I thank thee for it; and heaven forbid  
 That kings should let their ears hear their faults hid!  
@@ -323,7 +323,7 @@ Who by thy wisdom makest a prince thy servant,
 What wouldst thou have me do? ...
 
 **HELICANUS**  
-...To bear with patience  
+... To bear with patience  
 Such griefs as you yourself do lay upon yourself.
 
 **PERICLES**  
@@ -548,7 +548,7 @@ The misery of Tarsus may be theirs.
 Where's the lord governor? ...
 
 **CLEON**  
-...Here.  
+... Here.  
 Speak out thy sorrows which thou bring'st in haste,  
 For comfort is too far for us to expect.
 
@@ -583,7 +583,7 @@ To know for what he comes, and whence he comes,
 And what he craves. ...
 
 **Lord**  
-...I go, my lord.
+... I go, my lord.
 
 *Exit*
 
@@ -610,7 +610,7 @@ The gods of Greece protect you!
 And we'll pray for you. ...
 
 **PERICLES**  
-...Arise, I pray you, rise:  
+... Arise, I pray you, rise:  
 We do not look for reverence, but to love,  
 And harbourage for ourself, our ships, and men.
 
@@ -1024,14 +1024,14 @@ The motto thus, in Spanish,'Piu por dulzura que por fuerza.'
 And what's the third? ...
 
 **THAISA**  
-...The third of Antioch;  
+... The third of Antioch;  
 And his device, a wreath of chivalry;  
 The word,'Me pompae provexit apex.' ...
 
 *The Fourth Knight, PERICLES, passes over*
 
 **SIMONIDES**  
-...And what's  
+... And what's  
 The fourth and last, the which the knight himself  
 With such a graceful courtesy deliver'd?
 
@@ -1041,7 +1041,7 @@ A wither'd branch, that's only green at top;
 The motto,'In hac spe vivo.' ...
 
 **SIMONIDES**  
-...A pretty moral;  
+... A pretty moral;  
 From the dejected state wherein he is,  
 He hopes by you his fortunes yet may flourish.
 
@@ -1103,7 +1103,7 @@ For who hates honour hates the gods above.
 Sir, yonder is your place. ...
 
 **PERICLES**  
-...Some other is more fit.
+... Some other is more fit.
 
 **First Knight**  
 Contend not, sir; for we are gentlemen  
@@ -1114,7 +1114,7 @@ Envy the great nor do the low despise.
 You are right courteous knights. ...
 
 **SIMONIDES**  
-...Sit, sir, sit.
+... Sit, sir, sit.
 
 **PERICLES**  
 By Jove, I wonder, that is king of thoughts,  
@@ -1158,7 +1158,7 @@ As you do love, fill to your mistress' lips,-
 We drink this health to you. ...
 
 **Third Knight**  
-...We thank your grace.
+... We thank your grace.
 
 **SIMONIDES**  
 Yet pause awhile:  
@@ -1168,11 +1168,11 @@ Had not a show might countervail his worth.
 Note it not you, Thaisa? ...
 
 **THAISA**  
-...What is it  
+... What is it  
 To me, my father? ...
 
 **SIMONIDES**  
-...O, attend, my daughter:  
+... O, attend, my daughter:  
 Princes in this should live like gods above,  
 Who freely give to every one that comes  
 To honour them:  
@@ -1287,7 +1287,7 @@ Scorn now their hand should give them burial.
 'Twas very strange. ...
 
 **HELICANUS**  
-...And yet but justice; for though  
+... And yet but justice; for though  
 This king were great, his greatness was no guard  
 To bar heaven's shaft, but sin had his reward.
 
@@ -1421,7 +1421,7 @@ It is your grace's pleasure to commend;
 Not my desert. ...
 
 **SIMONIDES**  
-...Sir, you are music's master.
+... Sir, you are music's master.
 
 **PERICLES**  
 The worst of all her scholars, my good lord.
@@ -1474,10 +1474,10 @@ A deed might gain her love or your displeasure.
 Traitor, thou liest. ...
 
 **PERICLES**  
-...Traitor! ...
+... Traitor! ...
 
 **SIMONIDES**  
-...Ay, traitor.
+... Ay, traitor.
 
 **PERICLES**  
 Even in his throat -unless it be the king-  
@@ -1535,7 +1535,7 @@ And for a further grief,-God give you joy!-
 What, are you both pleased? ...
 
 **THAISA**  
-...Yes, if you love me, sir.
+... Yes, if you love me, sir.
 
 **PERICLES**  
 Even as my life, or blood that fosters it.
@@ -1544,7 +1544,7 @@ Even as my life, or blood that fosters it.
 What, are you both agreed? ...
 
 **BOTH**  
-...Yes, if it please your majesty.
+... Yes, if it please your majesty.
 
 **SIMONIDES**  
 It pleaseth me so well, that I will see you wed;  
@@ -1659,7 +1659,7 @@ Am like to do: take in your arms this piece
 Of your dead queen. ...
 
 **PERICLES**  
-...How, how, Lychorida!
+... How, how, Lychorida!
 
 **LYCHORIDA**  
 Patience, good sir; do not assist the storm.  
@@ -1668,18 +1668,18 @@ A little daughter: for the sake of it,
 Be manly, and take comfort. ...
 
 **PERICLES**  
-...O you gods!  
+... O you gods!  
 Why do you make us love your goodly gifts,  
 And snatch them straight away? We here below  
 Recall not what we give, and therein may  
 Use honour with you. ...
 
 **LYCHORIDA**  
-...Patience, good sir,  
+... Patience, good sir,  
 Even for this charge. ...
 
 **PERICLES**  
-...Now, mild may be thy life!  
+... Now, mild may be thy life!  
 For a more blustrous birth had never babe:  
 Quiet and gentle thy conditions! for  
 Thou art the rudeliest welcome to this world  
@@ -1694,7 +1694,7 @@ Throw their best eyes upon't! ...
 *Enter a Sailor*
 
 **Sailor**  
-...What courage, sir? God save you!
+... What courage, sir? God save you!
 
 **PERICLES**  
 Courage enough: I do not fear the flaw;  
@@ -1773,14 +1773,14 @@ I'll bring the body presently.
 Good morrow. ...
 
 **Second Gentleman**  
-...Good morrow to your lordship.
+... Good morrow to your lordship.
 
 **CERIMON**  
 Gentlemen,  
 Why do you stir so early? ...
 
 **First Gentleman**  
-...Sir,  
+... Sir,  
 Our lodgings, standing bleak upon the sea,  
 Shook as the earth did quake;  
 The very principals did seem to rend,  
@@ -1792,7 +1792,7 @@ That is the cause we trouble you so early;
 'Tis not our husbandry. ...
 
 **CERIMON**  
-...O, you say well.
+... O, you say well.
 
 **First Gentleman**  
 But I much marvel that your lordship, having  
@@ -1803,7 +1803,7 @@ Nature should be so conversant with pain,
 Being thereto not compell'd. ...
 
 **CERIMON**  
-...I hold it ever,  
+... I hold it ever,  
 Virtue and cunning were endowments greater  
 Than nobleness and riches: careless heirs  
 May the two latter darken and expend;  
@@ -1835,21 +1835,21 @@ Such strong renown as time shall ne'er decay.
 So; lift there. ...
 
 **CERIMON**  
-...What is that? ...
+... What is that? ...
 
 **First Servant**  
-...Sir, even now  
+... Sir, even now  
 Did the sea toss upon our shore this chest:  
 'Tis of some wreck. ...
 
 **CERIMON**  
-...Set't down, let's look upon't.
+... Set't down, let's look upon't.
 
 **Second Gentleman**  
 'Tis like a coffin, sir. ...
 
 **CERIMON**  
-...Whate'er it be,  
+... Whate'er it be,  
 'Tis wondrous heavy. Wrench it open straight:  
 If the sea's stomach be o'ercharged with gold,  
 'Tis a good constraint of fortune it belches upon us.
@@ -1858,7 +1858,7 @@ If the sea's stomach be o'ercharged with gold,
 'Tis so, my lord. ...
 
 **CERIMON**  
-...How close 'tis caulk'd and bitumed!  
+... How close 'tis caulk'd and bitumed!  
 Did the sea cast it up?
 
 **First Servant**  
@@ -1866,7 +1866,7 @@ I never saw so huge a billow, sir,
 As toss'd it upon shore. ...
 
 **CERIMON**  
-...Wrench it open;  
+... Wrench it open;  
 Soft! it smells most sweetly in my sense.
 
 **Second Gentleman**  
@@ -1900,7 +1900,7 @@ That even cracks for woe! This chanced tonight.
 Most likely, sir. ...
 
 **CERIMON**  
-...Nay, certainly to-night;  
+... Nay, certainly to-night;  
 For look how fresh she looks! They were too rough  
 That threw her in the sea. Make a fire within:  
 Fetch hither all my boxes in my closet.
@@ -1927,12 +1927,12 @@ Above five hours: see how she gins to blow
 Into life's flower again! ...
 
 **First Gentleman**  
-...The heavens,  
+... The heavens,  
 Through you, increase our wonder and set up  
 Your fame forever. ...
 
 **CERIMON**  
-...She is alive; behold,  
+... She is alive; behold,  
 Her eyelids, cases to those heavenly jewels  
 Which Pericles hath lost,  
 Begin to part their fringes of bright gold;  
@@ -1944,17 +1944,17 @@ Rare as you seem to be. ...
 *She moves*
 
 **THAISA**  
-...O dear Diana,  
+... O dear Diana,  
 Where am I? Where's my lord? What world is this?
 
 **Second Gentleman**  
 Is not this strange? ...
 
 **First Gentleman**  
-...Most rare. ...
+... Most rare. ...
 
 **CERIMON**  
-...Hush, my gentle neighbours!  
+... Hush, my gentle neighbours!  
 Lend me your hands; to the next chamber bear her.  
 Get linen: now this matter must be look'd to,  
 For her relapse is mortal. Come, come;  
@@ -1994,7 +1994,7 @@ To give her princely training, that she may be
 Manner'd as she is born. ...
 
 **CLEON**  
-...Fear not, my lord, but think  
+... Fear not, my lord, but think  
 Your grace, that fed my country with your corn,  
 For which the people's prayers still fall upon you,  
 Must in your child be thought on. If neglection  
@@ -2005,7 +2005,7 @@ The gods revenge it upon me and mine,
 To the end of generation! ...
 
 **PERICLES**  
-...I believe you;  
+... I believe you;  
 Your honour and your goodness teach me to't,  
 Without your vows. Till she be married, madam,  
 By bright Diana, whom we honour, all  
@@ -2015,12 +2015,12 @@ Good madam, make me blessed in your care
 In bringing up my child. ...
 
 **DIONYZA**  
-...I have one myself,  
+... I have one myself,  
 Who shall not be more dear to my respect  
 Than yours, my lord. ...
 
 **PERICLES**  
-...Madam, my thanks and prayers.
+... Madam, my thanks and prayers.
 
 **CLEON**  
 We'll bring your grace e'en to the edge o' the shore,  
@@ -2028,7 +2028,7 @@ Then give you up to the mask'd Neptune and
 The gentlest winds of heaven. ...
 
 **PERICLES**  
-...I will embrace your offer.
+... I will embrace your offer.
 
 *Exeunt*
 
@@ -2151,7 +2151,7 @@ she comes weeping for her only mistress ' death.
 Thou art resolved? ...
 
 **LEONINE**  
-...I am resolved.
+... I am resolved.
 
 *Enter MARINA, with a basket of flowers*
 
@@ -2181,7 +2181,7 @@ No, I pray you;
 I'll not bereave you of your servant. ...
 
 **DIONYZA**  
-...Come, come;  
+... Come, come;  
 I love the king your father, and yourself,  
 With more than foreign heart. We every day  
 Expect him here: when he shall come and find  
@@ -2195,7 +2195,7 @@ The eyes of young and old. Care not for me
 I can go home alone. ...
 
 **MARINA**  
-...Well, I will go;  
+... Well, I will go;  
 But yet I have no desire to it.
 
 **DIONYZA**  
@@ -2204,7 +2204,7 @@ Walk half an hour, Leonine, at the least:
 Remember what I have said. ...
 
 **LEONINE**  
-...I warrant you, madam.
+... I warrant you, madam.
 
 **DIONYZA**  
 I'll leave you, my sweet lady, for a while:  
@@ -2219,13 +2219,13 @@ My thanks, sweet madam.
 Is this wind westerly that blows? ...
 
 **LEONINE**  
-...South-west.
+... South-west.
 
 **MARINA**  
 When I was born, the wind was north. ...
 
 **LEONINE**  
-...Was't so?
+... Was't so?
 
 **MARINA**  
 My father, as nurse said, did never fear,  
@@ -2235,7 +2235,7 @@ And, clasping to the mast, endured a sea
 That almost burst the deck. ...
 
 **LEONINE**  
-...When was this?
+... When was this?
 
 **MARINA**  
 When I was born:  
@@ -2250,7 +2250,7 @@ The master calls, and trebles their confusion.
 Come, say your prayers. ...
 
 **MARINA**  
-...What mean you?
+... What mean you?
 
 **LEONINE**  
 If you require a little space for prayer,  
@@ -2259,13 +2259,13 @@ For the gods are quick of ear, and I am sworn
 To do my work with haste. ...
 
 **MARINA**  
-...Why will you kill me?
+... Why will you kill me?
 
 **LEONINE**  
 To satisfy my lady. ...
 
 **MARINA**  
-...Why would she have me kill'd?  
+... Why would she have me kill'd?  
 Now, as I can remember, by my troth,  
 I never did her hurt in all my life:  
 I never spake bad word, nor did ill turn  
@@ -2290,7 +2290,7 @@ Your lady seeks my life; come you between,
 And save poor me, the weaker. ...
 
 **LEONINE**  
-...I am sworn,  
+... I am sworn,  
 And will dispatch. ...
 
 *He seizes her*
@@ -2298,12 +2298,12 @@ And will dispatch. ...
 *Enter Pirates*
 
 **First Pirate**  
-...Hold, villain! ...
+... Hold, villain! ...
 
 *LEONINE runs away*
 
 **Second Pirate**  
-...A prize! a prize!
+... A prize! a prize!
 
 **Third Pirate**  
 Half-part, mates, half-part.  
@@ -2454,7 +2454,7 @@ For to seek my mother!
 Why lament you, pretty one? ...
 
 **MARINA**  
-...That I am pretty.
+... That I am pretty.
 
 **Bawd**  
 Come, the gods have done their part in you.
@@ -2473,7 +2473,7 @@ To scape his hands where I was like to die.
 Ay, and you shall live in pleasure. ...
 
 **MARINA**  
-...No.
+... No.
 
 **Bawd**  
 Yes, indeed shall you, and taste gentlemen of all  
@@ -2645,25 +2645,25 @@ And for an honest attribute cry out
 'She died by foul play.' ...
 
 **CLEON**  
-...O, go to. Well, well,  
+... O, go to. Well, well,  
 Of all the faults beneath the heavens, the gods  
 Do like this worst. ...
 
 **DIONYZA**  
-...Be one of those that think  
+... Be one of those that think  
 The petty wrens of Tarsus will fly hence,  
 And open this to Pericles. I do shame  
 To think of what a noble strain you are,  
 And of how coward a spirit. ...
 
 **CLEON**  
-...To such proceeding  
+... To such proceeding  
 Who ever but his approbation added,  
 Though not his prime consent, he did not flow  
 From honourable sources. ...
 
 **DIONYZA**  
-...Be it so, then:  
+... Be it so, then:  
 Yet none does know, but you, how she came dead,  
 Nor none can know, Leonine being gone.  
 She did disdain my child, and stood between  
@@ -2680,7 +2680,7 @@ Perform'd to your sole daughter.
 Heavens forgive it! ...
 
 **DIONYZA**  
-...And as for Pericles,  
+... And as for Pericles,  
 What should he say? We wept after her hearse,  
 And yet we mourn: her monument  
 Is almost finish'd, and her epitaphs  
@@ -2689,7 +2689,7 @@ A general praise to her, and care in us
 At whose expense 'tis done. ...
 
 **CLEON**  
-...Thou art like the harpy,  
+... Thou art like the harpy,  
 Which, to betray, dost, with thine angel's face,  
 Seize with thine eagle's talons.
 
@@ -2959,7 +2959,7 @@ That thought you worthy of it.
 How's this? how's this? Some more; be sage. ...
 
 **MARINA**  
-...For me,  
+... For me,  
 That am a maid, though most ungentle fortune  
 Have placed me in this sty, where, since I came,  
 Diseases have been sold dearer than physic,  
@@ -2969,7 +2969,7 @@ Though they did change me to the meanest bird
 That flies i'the purer air! ...
 
 **LYSIMACHUS**  
-...I did not think  
+... I did not think  
 Thou couldst have spoke so well; ne'er dream'd thou couldst.  
 Had I brought hither a corrupted mind,  
 Thy speech had alter'd it. Hold, here's gold for thee:  
@@ -2980,7 +2980,7 @@ And the gods strengthen thee!
 The good gods preserve you! ...
 
 **LYSIMACHUS**  
-...For me, be you thoughten  
+... For me, be you thoughten  
 That I came with no ill intent; for to me  
 The very doors and windows savour vilely.  
 Fare thee well. Thou art a piece of virtue, and  
@@ -3073,7 +3073,7 @@ To take from you the jewel you hold so dear.
 Prithee, tell me one thing first. ...
 
 **BOULT**  
-...Come now, your one thing.
+... Come now, your one thing.
 
 **MARINA**  
 What canst thou wish thine enemy to be?
@@ -3200,7 +3200,7 @@ And you, sir, to outlive the age I am,
 And die as I would do. ...
 
 **LYSIMACHUS**  
-...You wish me well.  
+... You wish me well.  
 Being on shore, honouring of Neptune's triumphs,  
 Seeing this goodly vessel ride before us,  
 I made to it, to know of whence you are.
@@ -3230,12 +3230,12 @@ Of a beloved daughter and a wife.
 May we not see him? ...
 
 **HELICANUS**  
-...You may;  
+... You may;  
 But bootless is your sight: he will not speak  
 To any. ...
 
 **LYSIMACHUS**  
-...Yet let me obtain my wish.
+... Yet let me obtain my wish.
 
 **HELICANUS**  
 Behold him.
@@ -3259,7 +3259,7 @@ We have a maid in Mytilene, I durst wager,
 Would win some words of him. ...
 
 **LYSIMACHUS**  
-...'Tis well bethought.  
+... 'Tis well bethought.  
 She questionless with her sweet harmony  
 And other chosen attractions, would allure,  
 And make a battery through his deafen'd parts,  
@@ -3280,7 +3280,7 @@ Wherein we are not destitute for want,
 But weary for the staleness. ...
 
 **LYSIMACHUS**  
-...O, sir, a courtesy  
+... O, sir, a courtesy  
 Which if we should deny, the most just gods  
 For every graff would send a caterpillar,  
 And so afflict our province. Yet once more  
@@ -3288,18 +3288,18 @@ Let me entreat to know at large the cause
 Of your king's sorrow. ...
 
 **HELICANUS**  
-...Sit, sir, I will recount it to you:  
+... Sit, sir, I will recount it to you:  
 But, see, I am prevented. ...
 
 *Re-enter, from the barge, Lord, with MARINA*
 
 **LYSIMACHUS**  
-...O, here is  
+... O, here is  
 The lady that I sent for. Welcome, fair one!  
 Is't not a goodly presence? ...
 
 **HELICANUS**  
-...She's a gallant lady.
+... She's a gallant lady.
 
 **LYSIMACHUS**  
 She's such a one, that, were I well assured  
@@ -3313,7 +3313,7 @@ Thy sacred physic shall receive such pay
 As thy desires can wish. ...
 
 **MARINA**  
-...Sir, I will use  
+... Sir, I will use  
 My utmost skill in his recovery.
 
 **LYSIMACHUS**  
@@ -3326,19 +3326,19 @@ And the gods make her prosperous!
 Mark'd he your music? ...
 
 **MARINA**  
-...No, nor look'd on us.
+... No, nor look'd on us.
 
 **LYSIMACHUS**  
 See, she will speak to him. ...
 
 **MARINA**  
-...Hail, sir! my lord, lend ear.
+... Hail, sir! my lord, lend ear.
 
 **PERICLES**  
 Hum, ha! ...
 
 **MARINA**  
-...I am a maid,  
+... I am a maid,  
 My lord, that ne'er before invited eyes,  
 But have been gazed on like a comet: she speaks,  
 My lord, that, may be, hath endured a grief  
@@ -3369,7 +3369,7 @@ You are like something that -What country-woman?
 Here of these shores? ...
 
 **MARINA**  
-...No, nor of any shores:  
+... No, nor of any shores:  
 Yet I was mortally brought forth, and am  
 No other than I appear.
 
@@ -3388,7 +3388,7 @@ Where I am but a stranger: from the deck
 You may discern the place. ...
 
 **PERICLES**  
-...Where were you bred?  
+... Where were you bred?  
 And how achieved you these endowments, which  
 You make more rich to owe?
 
@@ -3397,7 +3397,7 @@ If I should tell my history, it would seem
 Like lies disdain'd in the reporting. ...
 
 **PERICLES**  
-...Prithee, speak:  
+... Prithee, speak:  
 Falseness cannot come from thee; for thou look'st  
 Modest as Justice, and thou seem'st a palace  
 For the crown'd Truth to dwell in: I will believe thee,  
@@ -3409,7 +3409,7 @@ Which was when I perceived thee-that thou camest
 From good descending? ...
 
 **MARINA**  
-...So indeed I did.
+... So indeed I did.
 
 **PERICLES**  
 Report thy parentage. I think thou said'st  
@@ -3418,12 +3418,12 @@ And that thou thought'st thy griefs might equal mine,
 If both were open'd. ...
 
 **MARINA**  
-...Some such thing  
+... Some such thing  
 I said, and said no more but what my thoughts  
 Did warrant me was likely. ...
 
 **PERICLES**  
-...Tell thy story;  
+... Tell thy story;  
 If thine consider'd prove the thousandth part  
 Of my endurance, thou art a man, and I  
 Have suffer'd like a girl: yet thou dost look  
@@ -3436,26 +3436,26 @@ Recount, I do beseech thee: come, sit by me.
 My name is Marina. ...
 
 **PERICLES**  
-...O, I am mock'd,  
+... O, I am mock'd,  
 And thou by some incensed god sent hither  
 To make the world to laugh at me. ...
 
 **MARINA**  
-...Patience, good sir,  
+... Patience, good sir,  
 Or here I'll cease. ...
 
 **PERICLES**  
-...Nay, I'll be patient.  
+... Nay, I'll be patient.  
 Thou little know'st how thou dost startle me,  
 To call thyself Marina. ...
 
 **MARINA**  
-...The name  
+... The name  
 Was given me by one that had some power,  
 My father, and a king. ...
 
 **PERICLES**  
-...How! a king's daughter?  
+... How! a king's daughter?  
 And call'd Marina? ...
 
 **MARINA**  
@@ -3464,17 +3464,17 @@ But, not to be a troubler of your peace,
 I will end here. ...
 
 **PERICLES**  
-...But are you flesh and blood?  
+... But are you flesh and blood?  
 Have you a working pulse? and are no fairy?  
 Motion! Well; speak on. Where were you born?  
 And wherefore call'd Marina? ...
 
 **MARINA**  
-...Call'd Marina  
+... Call'd Marina  
 For I was born at sea. ...
 
 **PERICLES**  
-...At sea! what mother?
+... At sea! what mother?
 
 **MARINA**  
 My mother was the daughter of a king;  
@@ -3483,7 +3483,7 @@ As my good nurse Lychorida hath oft
 Deliver'd weeping. ...
 
 **PERICLES**  
-...O, stop there a little!
+... O, stop there a little!
 
 *\[Aside]*  
 This is the rarest dream that e'er dull sleep  
@@ -3514,7 +3514,7 @@ I am the daughter to King Pericles,
 If good King Pericles be. ...
 
 **PERICLES**  
-...Ho, Helicanus!
+... Ho, Helicanus!
 
 **HELICANUS**  
 Calls my lord?
@@ -3526,12 +3526,12 @@ What this maid is, or what is like to be,
 That thus hath made me weep? ...
 
 **HELICANUS**  
-...I know not; but  
+... I know not; but  
 Here is the regent, sir, of Mytilene  
 Speaks nobly of her. ...
 
 **LYSIMACHUS**  
-...She would never tell  
+... She would never tell  
 Her parentage; being demanded that,  
 She would sit still and weep.
 
@@ -3551,7 +3551,7 @@ For truth can never be confirm'd enough,
 Though doubts did ever sleep. ...
 
 **MARINA**  
-...First, sir, I pray,  
+... First, sir, I pray,  
 What is your title?
 
 **PERICLES**  
@@ -3581,7 +3581,7 @@ Who, hearing of your melancholy state,
 Did come to see you. ...
 
 **PERICLES**  
-...I embrace you.  
+... I embrace you.  
 Give me my robes. I am wild in my beholding.  
 O heavens bless my girl! But, hark, what music?  
 Tell Helicanus, my Marina, tell him  
@@ -3592,7 +3592,7 @@ How sure you are my daughter. But, what music?
 My lord, I hear none. ...
 
 **PERICLES**  
-...None!  
+... None!  
 The music of the spheres! List, my Marina.
 
 **LYSIMACHUS**  
@@ -3602,7 +3602,7 @@ It is not good to cross him; give him way.
 Rarest sounds! Do ye not hear? ...
 
 **LYSIMACHUS**  
-...My lord, I hear.
+... My lord, I hear.
 
 *Music*
 
@@ -3658,12 +3658,12 @@ And give you gold for such provision
 As our intents will need? ...
 
 **LYSIMACHUS**  
-...Sir,  
+... Sir,  
 With all my heart; and, when you come ashore,  
 I have another suit. ...
 
 **PERICLES**  
-...You shall prevail,  
+... You shall prevail,  
 Were it to woo my daughter; for it seems  
 You have been noble towards her.
 
@@ -3671,7 +3671,7 @@ You have been noble towards her.
 Sir, lend me your arm. ...
 
 **PERICLES**  
-...Come, my Marina.
+... Come, my Marina.
 
 *Exeunt*
 
@@ -3723,7 +3723,7 @@ Where, by her own most clear remembrance, she
 Made known herself my daughter. ...
 
 **THAISA**  
-...Voice and favour!  
+... Voice and favour!  
 You are, you are -O royal Pericles!
 
 *Faints*
@@ -3737,14 +3737,14 @@ If you have told Diana's altar true,
 This is your wife. ...
 
 **PERICLES**  
-...Reverend appearer, no;  
+... Reverend appearer, no;  
 I threw her overboard with these very arms.
 
 **CERIMON**  
 Upon this coast, I warrant you. ...
 
 **PERICLES**  
-...'Tis most certain.
+... 'Tis most certain.
 
 **CERIMON**  
 Look to the lady; O, she's but o'erjoy'd.  
@@ -3754,7 +3754,7 @@ Found there rich jewels; recover'd her, and placed her
 Here in Diana's temple. ...
 
 **PERICLES**  
-...May we see them?
+... May we see them?
 
 **CERIMON**  
 Great sir, they shall be brought you to my house,  
@@ -3770,14 +3770,14 @@ Like him you are: did you not name a tempest,
 A birth, and death? ...
 
 **PERICLES**  
-...The voice of dead Thaisa!
+... The voice of dead Thaisa!
 
 **THAISA**  
 That Thaisa am I, supposed dead  
 And drown'd. ...
 
 **PERICLES**  
-...Immortal Dian!
+... Immortal Dian!
 
 **THAISA**  
 Now I know you better.  
@@ -3794,7 +3794,7 @@ Melt and no more be seen. O, come, be buried
 A second time within these arms. ...
 
 **MARINA**  
-...My heart  
+... My heart  
 Leaps to be gone into my mother's bosom.
 
 *Kneels to THAISA*
@@ -3805,13 +3805,13 @@ Thy burden at the sea, and call'd Marina
 For she was yielded there. ...
 
 **THAISA**  
-...Blest, and mine own!
+... Blest, and mine own!
 
 **HELICANUS**  
 Hail, madam, and my queen! ...
 
 **THAISA**  
-...I know you not.
+... I know you not.
 
 **PERICLES**  
 You have heard me say, when I did fly from Tyre,  
@@ -3820,7 +3820,7 @@ Can you remember what I call'd the man?
 I have named him oft. ...
 
 **THAISA**  
-...'Twas Helicanus then.
+... 'Twas Helicanus then.
 
 **PERICLES**  
 Still confirmation:  
@@ -3835,13 +3835,13 @@ Through whom the gods have shown their power; that can
 From first to last resolve you. ...
 
 **PERICLES**  
-...Reverend sir,  
+... Reverend sir,  
 The gods can have no mortal officer  
 More like a god than you. Will you deliver  
 How this dead queen re-lives? ...
 
 **CERIMON**  
-...I will, my lord.  
+... I will, my lord.  
 Beseech you, first go with me to my house,  
 Where shall be shown you all was found with her;  
 How she came placed here in the temple;  

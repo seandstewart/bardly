@@ -41,8 +41,8 @@ stay the cooling too, or you may chance to burn your lips.
 Patience herself, what goddess e'er she be,  
 Doth lesser blench at sufferance than I do.  
 At Priam's royal table do I sit;  
-And when fair Cressid comes into my thoughts,---  
-O Pandarus! I tell thee, Pandarus,---  
+And when fair Cressid comes into my thoughts,--  
+O Pandarus! I tell thee, Pandarus,--  
 When I do tell thee, there my hopes lie drown'd,  
 Reply not in how many fathoms deep  
 They lie indrench'd. I tell thee I am mad  
@@ -89,13 +89,13 @@ I'll tell her the next time I see her: for my part,
 I'll meddle nor make no more i' the matter.
 
 **TROILUS**  
-Pandarus,--- ...
+Pandarus,-- ...
 
 **PANDARUS**  
 ... Not I. ...
 
 **TROILUS**  
-... Sweet Pandarus,---
+... Sweet Pandarus,--
 
 **PANDARUS**  
 Pray you, speak no more to me: I will leave  
@@ -330,8 +330,8 @@ Nor his beauty.
 **PANDARUS**  
 You have no judgment, niece: Helen  
 herself swore th' other day, that Troilus, for  
-a brown favour---for so 'tis, I must confess,---  
-not brown neither,---
+a brown favour--for so 'tis, I must confess,--  
+not brown neither,--
 
 **CRESSIDA**  
 No, but brown.
@@ -361,8 +361,8 @@ Then she's a merry Greek indeed.
 
 **PANDARUS**  
 Nay, I am sure she does. She came to him th' other  
-day into the compassed window,---and, you know, he  
-has not past three or four hairs on his chin,---
+day into the compassed window,--and, you know, he  
+has not past three or four hairs on his chin,--
 
 **CRESSIDA**  
 Indeed, a tapster's arithmetic may soon bring his  
@@ -377,7 +377,7 @@ Is he so young a man and so old a lifter?
 
 **PANDARUS**  
 But to prove to you that Helen loves him: she came  
-and puts me her white hand to his cloven chin---
+and puts me her white hand to his cloven chin--
 
 **CRESSIDA**  
 Juno have mercy! how came it cloven?
@@ -397,7 +397,7 @@ O yes, an 'twere a cloud in autumn.
 
 **PANDARUS**  
 Why, go to, then: but to prove to you that Helen  
-loves Troilus,---
+loves Troilus,--
 
 **CRESSIDA**  
 Troilus will stand to the proof, if you'll  
@@ -414,7 +414,7 @@ head, you would eat chickens i' the shell.
 **PANDARUS**  
 I cannot choose but laugh, to think how she tickled  
 his chin: indeed, she has a marvellous white hand, I  
-must needs confess,---
+must needs confess,--
 
 **CRESSIDA**  
 Without the rack.
@@ -717,9 +717,9 @@ Which, slanderer, he imitation calls,
 He pageants us.
 
 **NESTOR**  
-And in the imitation of these twain---  
+And in the imitation of these twain--  
 Who, as Ulysses says, opinion crowns  
-With an imperial voice---many are infect.  
+With an imperial voice--many are infect.  
 Ajax is grown self-will'd, and bears his head  
 In such a rein, in full as proud a place  
 As broad Achilles; keeps his tent like him;  
@@ -766,12 +766,12 @@ Call Agamemnon head and general.
 
 **AENEAS**  
 We have, great Agamemnon, here in Troy  
-A prince call'd Hector,---Priam is his father,---  
+A prince call'd Hector,--Priam is his father,--  
 If there be one among the fair'st of Greece  
 That loves his mistress more than in confession,  
 With truant vows to her own lips he loves,  
 And dare avow her beauty and her worth  
-In other arms than hers,---to him this challenge.  
+In other arms than hers,--to him this challenge.  
 Hector, in view of Trojans and of Greeks,  
 Shall make it good, or do his best to do it,  
 He hath a lady, wiser, fairer, truer,  
@@ -815,8 +815,8 @@ Relates in purpose only to Achilles.
 
 **NESTOR**  
 And that Achilles, were his brain as barren  
-As banks of Libya,---though, Apollo knows,  
-'Tis dry enough,---will, with great speed of judgment,  
+As banks of Libya,--though, Apollo knows,  
+'Tis dry enough,--will, with great speed of judgment,  
 Ay, with celerity, find Hector's purpose  
 Pointing on him.
 
@@ -1014,7 +1014,7 @@ I would have peace and quietness, but the fool will
 not: he there: that he: look you there.
 
 **AJAX**  
-O thou damned cur! I shall---
+O thou damned cur! I shall--
 
 **ACHILLES**  
 Will you set your wit to a fool's?
@@ -1062,7 +1062,7 @@ That Hector, by the fifth hour of the sun,
 Will with a trumpet 'twixt our tents and Troy  
 Tomorrow morning call some knight to arms  
 That hath a stomach; and such a one that dare  
-Maintain---I know not what: 'tis trash. Farewell.
+Maintain--I know not what: 'tis trash. Farewell.
 
 **AJAX**  
 Farewell. Who shall answer him?
@@ -1083,10 +1083,10 @@ O, meaning you. I will go learn more of it.
 **PRIAM**  
 After so many hours, lives, speeches spent,  
 Thus once again says Nestor from the Greeks:  
-'Deliver Helen, and all damage else---  
+'Deliver Helen, and all damage else--  
 As honour, loss of time, travail, expense,  
 Wounds, friends, and what else dear that is consumed  
-In hot digestion of this cormorant war---  
+In hot digestion of this cormorant war--  
 Shall be struck off.' Hector, what say you to't?
 
 **HECTOR**  
@@ -1185,7 +1185,7 @@ Of divination in our sister work
 Some touches of remorse? or is your blood  
 So madly hot that no discourse of reason,  
 Nor fear of bad success in a bad cause,  
-Can qualify the same?...
+Can qualify the same? ...
 
 **TROILUS**  
 ... Why, brother Hector,  
@@ -1493,7 +1493,7 @@ more tractable.
 Achilles will not to the field tomorrow.
 
 **AGAMEMNON**  
-What's his excuse?...
+What's his excuse? ...
 
 **ULYSSES**  
 ... He doth rely on none,  
@@ -1555,14 +1555,14 @@ sing, certainly.
 **PANDARUS**  
 Well, sweet queen. You are pleasant with me. But,  
 marry, thus, my lord: my dear lord and most esteemed  
-friend, your brother Troilus,---
+friend, your brother Troilus,--
 
 **HELEN**  
-My Lord Pandarus; honey-sweet lord,---
+My Lord Pandarus; honey-sweet lord,--
 
 **PANDARUS**  
-Go to, sweet queen, to go:---commends himself most  
-affectionately to you,---
+Go to, sweet queen, to go:--commends himself most  
+affectionately to you,--
 
 **HELEN**  
 You shall not bob us out of our melody: if you do,  
@@ -1581,7 +1581,7 @@ no. And, my lord, he desires you, that if the king
 call for him at supper, you will make his excuse.
 
 **HELEN**  
-My Lord Pandarus,---
+My Lord Pandarus,--
 
 **PANDARUS**  
 What says my sweet queen, my very very sweet queen?
@@ -1590,7 +1590,7 @@ What says my sweet queen, my very very sweet queen?
 What exploit's in hand? where sups he tonight?
 
 **HELEN**  
-Nay, but, my lord,---
+Nay, but, my lord,--
 
 **PANDARUS**  
 What says my sweet queen? My cousin will fall out  
@@ -1680,7 +1680,7 @@ To help unarm our Hector: his stubborn buckles,
 With these your white enchanting fingers touch'd,  
 Shall more obey than to the edge of steel  
 Or force of Greekish sinews; you shall do more  
-Than all the island kings,---disarm great Hector.
+Than all the island kings,--disarm great Hector.
 
 **HELEN**  
 'Twill make us proud to be his servant, Paris;  
@@ -1733,7 +1733,7 @@ You have bereft me of all words, lady.
 Words pay no debts, give her deeds: but she'll  
 bereave you o' the deeds too, if she call your  
 activity in question. What, billing again? Here's  
-'In witness whereof the parties interchangeably'---  
+'In witness whereof the parties interchangeably'--  
 Come in, come in: I'll go get a fire.
 
 *Exit*
@@ -1745,7 +1745,7 @@ Will you walk in, my lord?
 O Cressida, how often have I wished me thus!
 
 **CRESSIDA**  
-Wished, my lord! The gods grant,---O my lord!
+Wished, my lord! The gods grant,--O my lord!
 
 **TROILUS**  
 What should they grant? what makes this pretty  
@@ -1834,7 +1834,7 @@ Why was my Cressid then so hard to win?
 
 **CRESSIDA**  
 Hard to seem won: but I was won, my lord,  
-With the first glance that ever---pardon me---  
+With the first glance that ever--pardon me--  
 If I confess much, you will play the tyrant.  
 I love you now; but not, till now, so much  
 But I might master it: in faith, I lie;  
@@ -1867,13 +1867,13 @@ For this time will I take my leave, my lord.
 Your leave, sweet Cressid!
 
 **PANDARUS**  
-Leave! an you take leave till tomorrow morning,---
+Leave! an you take leave till tomorrow morning,--
 
 **CRESSIDA**  
 Pray you, content you.
 
 **TROILUS**  
-What offends you, lady?...
+What offends you, lady? ...
 
 **CRESSIDA**  
 ... Sir, mine own company.
@@ -1899,8 +1899,8 @@ Or else you love not, for to be wise and love
 Exceeds man's might; that dwells with gods above.
 
 **TROILUS**  
-O that I thought it could be in a woman---  
-As, if it can, I will presume in you---  
+O that I thought it could be in a woman--  
+As, if it can, I will presume in you--  
 To feed for aye her ramp and flames of love;  
 To keep her constancy in plight and youth,  
 Outliving beauty's outward, with a mind  
@@ -1995,7 +1995,7 @@ What wouldst thou of us, Trojan? make demand.
 **CALCHAS**  
 You have a Trojan prisoner, call'd Antenor,  
 Yesterday took: Troy holds him very dear.  
-Oft have you---often have you thanks therefore---  
+Oft have you--often have you thanks therefore--  
 Desired my Cressid in right great exchange,  
 Whom Troy hath still denied: but this Antenor,  
 I know, is such a wrest in their affairs  
@@ -2091,13 +2091,13 @@ To holy altars.
 **ACHILLES**  
 What, am I poor of late? Here is Ulysses;  
 I'll interrupt his reading.  
-How now Ulysses!...
+How now Ulysses! ...
 
 **ULYSSES**  
 ... Now, great Thetis' son!
 
 **ACHILLES**  
-What are you reading?...
+What are you reading? ...
 
 **ULYSSES**  
 ... A strange fellow here  
@@ -2107,7 +2107,7 @@ Cannot make boast to have that which he hath,
 Nor feels not what he owes, but by reflection;  
 As when his virtues shining upon others  
 Heat them and they retort that heat again  
-To the first giver.'...
+To the first giver.' ...
 
 **ACHILLES**  
 ... This is not strange, Ulysses.  
@@ -2122,8 +2122,8 @@ Till it hath travell'd and is mirror'd there
 Where it may see itself. This is not strange at all.
 
 **ULYSSES**  
-I do not strain at the position,---  
-It is familiar,---but at the author's drift;  
+I do not strain at the position,--  
+It is familiar,--but at the author's drift;  
 Who, in his circumstance, expressly proves  
 That no man is the lord of anything,  
 Till he communicate his parts to others:  
@@ -2134,11 +2134,11 @@ Heavens, what a man is there! a very horse,
 That has he knows not what. Nature, what things there are  
 Most abject in regard and dear in use!  
 What things again most dear in the esteem  
-And poor in worth! Now shall we see tomorrow---  
-An act that very chance doth throw upon him---  
+And poor in worth! Now shall we see tomorrow--  
+An act that very chance doth throw upon him--  
 Ajax renown'd. O heavens, what some men do,  
 While some men leave to do!  
-To see these Grecian lords!---why, even already  
+To see these Grecian lords!--why, even already  
 They clap the lubber Ajax on the shoulder,  
 As if his foot were on brave Hector's breast  
 And great Troy shrieking.
@@ -2230,10 +2230,10 @@ Go call Thersites hither, sweet Patroclus.
 
 *Enter THERSITES*
 
-A labour saved!...
+A labour saved! ...
 
 **THERSITES**  
-... A wonder!...
+... A wonder! ...
 
 **ACHILLES**  
 ... What?
@@ -2253,7 +2253,7 @@ raves in saying nothing.
 How can that be?
 
 **THERSITES**  
-Why, he stalks up and down like a peacock,---a stride  
+Why, he stalks up and down like a peacock,--a stride  
 and a stand: ruminates like an hostess that hath no  
 arithmetic but her brain to set down her reckoning:  
 bites his lip with a politic regard, as who should  
@@ -2287,13 +2287,13 @@ Jove bless great Ajax!
 Hum!
 
 **PATROCLUS**  
-I come from the worthy Achilles,---
+I come from the worthy Achilles,--
 
 **THERSITES**  
 Ha!
 
 **PATROCLUS**  
-Who most humbly desires you to invite Hector to his tent,---
+Who most humbly desires you to invite Hector to his tent,--
 
 **THERSITES**  
 Hum!
@@ -2494,7 +2494,7 @@ be sworn: for my own part, I came in late. What
 should he do here?
 
 **AENEAS**  
-Who!---nay, then: come, come, you'll do him wrong  
+Who!--nay, then: come, come, you'll do him wrong  
 ere you're ware: you'll be so true to him, to be  
 false to him: do not you know of him, but yet go  
 fetch him hither; go.
@@ -2585,7 +2585,7 @@ If ever she leave Troilus! Time, force, and death,
 Do to this body what extremes you can;  
 But the strong base and building of my love  
 Is as the very centre of the earth,  
-Drawing all things to it. I'll go in and weep,---
+Drawing all things to it. I'll go in and weep,--
 
 **PANDARUS**  
 Do, do.
@@ -2657,7 +2657,7 @@ O Troilus! Troilus!
 **PANDARUS**  
 What a pair of spectacles is here!  
 Let me embrace too. 'O heart,' as the goodly saying is,  
-'---O heart, heavy heart,  
+'--O heart, heavy heart,  
 Why sigh'st thou without breaking?'  
 where he answers again,  
 'Because thou canst not ease thy smart  
@@ -2716,7 +2716,7 @@ A woful Cressid 'mongst the merry Greeks!
 When shall we see again?
 
 **TROILUS**  
-Hear me, my love: be thou but true of heart,---
+Hear me, my love: be thou but true of heart,--
 
 **CRESSIDA**  
 I true! how now! what wicked deem is this?
@@ -2755,8 +2755,8 @@ The Grecian youths are full of quality;
 They're loving, well composed with gifts of nature,  
 Flowing and swelling o'er with arts and exercise:  
 How novelty may move, and parts with person,  
-Alas, a kind of godly jealousy---  
-Which, I beseech you, call a virtuous sin---  
+Alas, a kind of godly jealousy--  
+Which, I beseech you, call a virtuous sin--  
 Makes me afeard. ...
 
 **CRESSIDA**  
@@ -2774,7 +2774,7 @@ There lurks a still and dumb-discoursive devil
 That tempts most cunningly: but be not tempted.
 
 **CRESSIDA**  
-Do you think I will?...
+Do you think I will? ...
 
 **TROILUS**  
 ... No.
@@ -2785,7 +2785,7 @@ Presuming on their changeful potency.
 
 **AENEAS**  
 *\[Within]*  
-Nay, good my lord,--- ...
+Nay, good my lord,-- ...
 
 **TROILUS**  
 ... Come, kiss; and let us part.
@@ -2890,7 +2890,7 @@ Is not yond Diomed, with Calchas' daughter?
 *Enter DIOMEDES, with CRESSIDA*
 
 **AGAMEMNON**  
-Is this the Lady Cressid?...
+Is this the Lady Cressid? ...
 
 **DIOMEDES**  
 ... Even she.
@@ -2970,7 +2970,7 @@ The knight opposed. ...
 
 **AENEAS**  
 ... If not Achilles, sir,  
-What is your name?...
+What is your name? ...
 
 **ACHILLES**  
 ... If not Achilles, nothing.
@@ -3056,8 +3056,8 @@ What further you will do. ...
 The issue is embracement: Ajax, farewell.
 
 **AJAX**  
-If I might in entreaties find success---  
-As seld I have the chance---I would desire  
+If I might in entreaties find success--  
+As seld I have the chance--I would desire  
 My famous cousin to our Grecian tents.
 
 **HECTOR**  
@@ -3160,7 +3160,7 @@ It would discredit the blest gods, proud man,
 To answer such a question: stand again:  
 Think'st thou to catch my life so pleasantly  
 As to prenominate in nice conjecture  
-Where thou wilt hit me dead?...
+Where thou wilt hit me dead? ...
 
 **ACHILLES**  
 ... I tell thee, yea.
@@ -3174,7 +3174,7 @@ I'll kill thee everywhere, yea, o'er and o'er.
 You wisest Grecians, pardon me this brag;  
 His insolence draws folly from my lips;  
 But I'll endeavour deeds to match these words,  
-Or may I never---...
+Or may I never-- ...
 
 **AJAX**  
 ... Do not chafe thee, cousin:  
@@ -3221,7 +3221,7 @@ On the fair Cressid.
 **TROILUS**  
 Shall sweet lord, be bound to you so much,  
 After we part from Agamemnon's tent,  
-To bring me thither?...
+To bring me thither? ...
 
 **ULYSSES**  
 ... You shall command me, sir.  
@@ -3465,13 +3465,13 @@ List.
 Sweet honey Greek, tempt me no more to folly.
 
 **THERSITES**  
-Roguery!...
+Roguery! ...
 
 **DIOMEDES**  
-... Nay, then,---...
+... Nay, then,-- ...
 
 **CRESSIDA**  
-... I'll tell you what,---
+... I'll tell you what,--
 
 **DIOMEDES**  
 Foh, foh! come, tell a pin: you are forsworn.
@@ -3480,7 +3480,7 @@ Foh, foh! come, tell a pin: you are forsworn.
 In faith, I cannot: what would you have me do?
 
 **THERSITES**  
-A juggling trick,---to be secretly open.
+A juggling trick,--to be secretly open.
 
 **DIOMEDES**  
 What did you swear you would bestow on me?
@@ -3493,13 +3493,13 @@ Bid me do anything but that, sweet Greek.
 Good night. ...
 
 **TROILUS**  
-... Hold, patience!...
+... Hold, patience! ...
 
 **ULYSSES**  
-... How now, Trojan!...
+... How now, Trojan! ...
 
 **CRESSIDA**  
-... Diomed,---
+... Diomed,--
 
 **DIOMEDES**  
 No, no, good night: I'll be your fool no more.
@@ -3520,7 +3520,7 @@ To wrathful terms: this place is dangerous;
 The time right deadly; I beseech you, go.
 
 **TROILUS**  
-Behold, I pray you!...
+Behold, I pray you! ...
 
 **ULYSSES**  
 ... Nay, good my lord, go off:  
@@ -3534,7 +3534,7 @@ I pray thee, stay. ...
 
 **TROILUS**  
 I pray you, stay; by hell and all hell's torments  
-I will not speak a word!...
+I will not speak a word! ...
 
 **DIOMEDES**  
 ... And so, good night.
@@ -3544,17 +3544,17 @@ Nay, but you part in anger. ...
 
 **TROILUS**  
 ... Doth that grieve thee?  
-O wither'd truth!...
+O wither'd truth! ...
 
 **ULYSSES**  
-... Why, how now, lord!...
+... Why, how now, lord! ...
 
 **TROILUS**  
 ... By Jove,
 I will be patient. ...
 
 **CRESSIDA**  
-... Guardian!---why, Greek!
+... Guardian!--why, Greek!
 
 **DIOMEDES**  
 Foh, foh! adieu; you palter.
@@ -3567,7 +3567,7 @@ You shake, my lord, at something: will you go?
 You will break out. ...
 
 **TROILUS**  
-... She strokes his cheek!...
+... She strokes his cheek! ...
 
 **ULYSSES**  
 ... Come, come.
@@ -3615,14 +3615,14 @@ Here, Diomed, keep this sleeve.
 O beauty! where is thy faith?
 
 **ULYSSES**  
-My lord,---
+My lord,--
 
 **TROILUS**  
 I will be patient; outwardly I will.
 
 **CRESSIDA**  
 You look upon that sleeve; behold it well.  
-He loved me---O false wench!---Give't me again.
+He loved me--O false wench!--Give't me again.
 
 **DIOMEDES**  
 Whose was't?
@@ -3712,7 +3712,7 @@ Nor I, by Pluto: but that that likes not you pleases me best.
 What, shall I come? the hour?
 
 **CRESSIDA**  
-Ay, come:---O Jove!---do come:---I shall be plagued.
+Ay, come:--O Jove!--do come:--I shall be plagued.
 
 **DIOMEDES**  
 Farewell till then. ...
@@ -3754,7 +3754,7 @@ An esperance so obstinately strong,
 That doth invert the attest of eyes and ears,  
 As if those organs had deceptious functions,  
 Created only to calumniate.  
-Was Cressid here?...
+Was Cressid here? ...
 
 **ULYSSES**  
 ... I cannot conjure, Trojan.
@@ -3987,7 +3987,7 @@ The venom'd vengeance ride upon our swords,
 Spur them to ruthful work, rein them from ruth.
 
 **HECTOR**  
-Fie, savage, fie!...
+Fie, savage, fie! ...
 
 **TROILUS**  
 ... Hector, then 'tis wars.
@@ -4038,7 +4038,7 @@ To take that course by your consent and voice,
 Which you do here forbid me, royal Priam.
 
 **CASSANDRA**  
-O Priam, yield not to him!...
+O Priam, yield not to him! ...
 
 **ANDROMACHE**  
 ... Do not, dear father.
@@ -4089,7 +4089,7 @@ I come to lose my arm, or win my sleeve.
 *Enter PANDARUS*
 
 **PANDARUS**  
-Do you hear, my lord? do you hear?...
+Do you hear, my lord? do you hear? ...
 
 **TROILUS**  
 ... What now?
@@ -4157,8 +4157,8 @@ Withdrew me from the odds of multitude:
 Have at thee!
 
 **THERSITES**  
-Hold thy whore, Grecian!---now for thy whore,  
-Trojan!---now the sleeve, now the sleeve!
+Hold thy whore, Grecian!--now for thy whore,  
+Trojan!--now the sleeve, now the sleeve!
 
 *Exeunt TROILUS and DIOMEDES, fighting, THERSITES following*
 

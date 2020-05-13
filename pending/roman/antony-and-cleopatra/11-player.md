@@ -2223,10 +2223,10 @@ With half the bulk o' the world play'd as I pleased,
 Making and marring fortunes. You did know  
 How much you were my conqueror; and that  
 My sword, made weak by my affection, would  
-Obey it on all cause. …
+Obey it on all cause. ...
 
 **CLEOPATRA**  
-… Pardon, pardon!
+... Pardon, pardon!
 
 **MARK ANTONY**  
 Fall not a tear, I say; one of them rates  

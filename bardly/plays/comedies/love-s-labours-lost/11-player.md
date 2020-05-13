@@ -1061,7 +1061,7 @@ Pray you, do my commendations; I would be glad to see it.
 I would you heard it groan.
 
 **ROSALINE**  
-Is the fool sick?...
+Is the fool sick? ...
 
 **BIRON**  
 ... Sick at the heart.
@@ -1073,7 +1073,7 @@ Alack, let it blood. ...
 ... Would that do it good?
 
 **ROSALINE**  
-My physic says 'ay.'...
+My physic says 'ay.' ...
 
 **BIRON**  
 ... Will you prick't with your eye?
@@ -1085,7 +1085,7 @@ No point, with my knife. ...
 ... Now, God save thy life!
 
 **ROSALINE**  
-And yours from long living!...
+And yours from long living! ...
 
 **BIRON**  
 ... I cannot stay thanksgiving.  
@@ -1137,13 +1137,13 @@ Not unlike, sir, that may be.
 *Exit LONGAVILLE*
 
 **BIRON**  
-What's her name in the cap?...
+What's her name in the cap? ...
 
 **BOYET**  
 ... Rosaline, by good hap.
 
 **BIRON**  
-Is she wedded or no?...
+Is she wedded or no? ...
 
 **BOYET**  
 ... To her will, sir, or so.
@@ -1188,7 +1188,7 @@ So you grant pasture for me. ...
 My lips are no common, though several they be.
 
 **BOYET**  
-Belonging to whom?...
+Belonging to whom? ...
 
 **MARIA**  
 ... To my fortunes and me.
@@ -2082,7 +2082,7 @@ Ay me! ...
 
 **BIRON**  
 *\[Aside]*  
-… Shot, by heaven! Proceed, sweet Cupid:  
+... Shot, by heaven! Proceed, sweet Cupid:  
 thou hast thumped him with thy bird-bolt under the  
 left pap. In faith, secrets!
 
@@ -2308,7 +2308,7 @@ A true man or a thief that gallops so?
 *Enter JAQUENETTA and COSTARD*
 
 **JAQUENETTA**  
-God bless the king!...
+God bless the king! ...
 
 **FERDINAND**  
 ... What present hast thou there?
@@ -3256,7 +3256,7 @@ Will you vouchsafe with me to change a word?
 Name it. ...
 
 **DUMAIN**  
-... Fair lady,--...
+... Fair lady,-- ...
 
 **MARIA**  
 ... Say you so? Fair lord,--  
@@ -3285,7 +3285,7 @@ And would afford my speechless vizard half.
 Veal, quoth the Dutchman. Is not 'veal' a calf?
 
 **LONGAVILLE**  
-A calf, fair lady!...
+A calf, fair lady! ...
 
 **KATHARINE**  
 ... No, a fair lord calf.
@@ -3350,7 +3350,7 @@ No point, quoth I; my servant straight was mute.
 
 **KATHARINE**  
 Lord Longaville said, I came o'er his heart;  
-And trow you what he called me?...
+And trow you what he called me? ...
 
 **PRINCESS**  
 ... Qualm, perhaps.

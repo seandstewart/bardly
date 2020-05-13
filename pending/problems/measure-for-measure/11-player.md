@@ -45,7 +45,7 @@ That to the observer doth thy history
 Fully unfold. Thyself and thy belongings  
 Are not thine own so proper as to waste  
 Thyself upon thy virtues, they on thee.  
-Hold therefore, Angelo:---  
+Hold therefore, Angelo:--  
 In our remove be thou at full ourself;  
 Mortality and mercy in Vienna  
 Live in thy tongue and heart: old Escalus,  
@@ -104,7 +104,7 @@ I am not yet instructed.
 **ANGELO**  
 'Tis so with me. Let us withdraw together,  
 And we may soon our satisfaction have  
-Touching that point...
+Touching that point ...
 
 **ESCALUS**  
 ... I'll wait upon your honour.
@@ -117,7 +117,7 @@ Touching that point...
 
 **LUCIO**  
 Behold, behold. where Madam Mitigation comes! I  
-have purchased as many diseases under her roof as come to---
+have purchased as many diseases under her roof as come to--
 
 **Gentleman**  
 To what, I pray?
@@ -336,7 +336,7 @@ With child, perhaps? ...
 
 **CLAUDIO**  
 ... Unhapp'ly, e'en so.  
-And the new deputy now for the duke---  
+And the new deputy now for the duke--  
 Which have, like unscour'd armour, hung by the wall  
 So long that nineteen zodiacs have gone round  
 And none of them been worn; and, for a name,  
@@ -504,9 +504,9 @@ Is very snow-broth; one who never feels
 The wanton stings and motions of the sense,  
 But doth rebate and blunt his natural edge  
 With profits of the mind, study and fast.  
-He---to give fear to use and liberty,  
+He--to give fear to use and liberty,  
 Which have for long run by the hideous law,  
-As mice by lions---hath pick'd out an act,  
+As mice by lions--hath pick'd out an act,  
 Under whose heavy sense your brother's life  
 Falls into forfeit: he arrests him on it;  
 And follows close the rigour of the statute,  
@@ -531,7 +531,7 @@ To do him good? ...
 ... Assay the power you have.
 
 **ISABELLA**  
-My power? Alas, I doubt--- ...
+My power? Alas, I doubt-- ...
 
 **LUCIO**  
 ... Our doubts are traitors  
@@ -674,13 +674,13 @@ professes a hot-house, which, I think, is a very ill house too.
 How know you that?
 
 **ELBOW**  
-My wife, sir, whom I detest before heaven and your honour---
+My wife, sir, whom I detest before heaven and your honour--
 
 **ESCALUS**  
 How? thy wife?
 
 **ELBOW**  
-Ay, sir; whom, I thank heaven, is an honest woman---
+Ay, sir; whom, I thank heaven, is an honest woman--
 
 **ESCALUS**  
 Dost thou detest her therefore?
@@ -722,7 +722,7 @@ sir, we had but two in the house, which at that very
 distant time stood, as it were, in a fruit-dish, a  
 dish of some three-pence; your honours have seen  
 such dishes; they are not China dishes, but very  
-good dishes---
+good dishes--
 
 **ESCALUS**  
 Go to, go to: no matter for the dish, sir.
@@ -743,7 +743,7 @@ No, indeed.
 
 **POMPEY**  
 Very well: you being then, if you be remembered,  
-cracking the stones of the foresaid prunes---
+cracking the stones of the foresaid prunes--
 
 **FROTH**  
 Ay, so I did indeed.
@@ -752,13 +752,13 @@ Ay, so I did indeed.
 Why, very well; I telling you then, if you be  
 remembered, that such a one and such a one were past  
 cure of the thing you wot of, unless they kept very  
-good diet, as I told you---
+good diet, as I told you--
 
 **FROTH**  
 All this is true.
 
 **POMPEY**  
-Why, very well, then---
+Why, very well, then--
 
 **ESCALUS**  
 Come, you are a tedious fool: to the purpose. What  
@@ -1534,9 +1534,9 @@ Accountant to the law upon that pain.
 True.
 
 **ANGELO**  
-Admit no other way to save his life---  
+Admit no other way to save his life--  
 As I subscribe not that, nor any other,  
-But in the loss of question---that you, his sister,  
+But in the loss of question--that you, his sister,  
 Finding yourself desired of such a person,  
 Whose credit with the judge, or own great place,  
 Could fetch your brother from the manacles  
@@ -1604,9 +1604,9 @@ And credulous to false prints. ...
 
 **ANGELO**  
 ... I think it well:  
-And from this testimony of your own sex---  
+And from this testimony of your own sex--  
 Since I suppose we are made to be no stronger  
-Than faults may shake our frames---let me be bold;  
+Than faults may shake our frames--let me be bold;  
 I do arrest your words. Be that you are,  
 That is, a woman; if you be more, you're none;  
 If you be one, as you are well express'd  
@@ -2030,8 +2030,8 @@ his demands to the point; only refer yourself to
 this advantage, first, that your stay with him may  
 not be long; that the time may have all shadow and  
 silence in it; and the place answer to convenience.  
-This being granted in course---and now follows  
-all---we shall advise this wronged maid to stead up  
+This being granted in course--and now follows  
+all--we shall advise this wronged maid to stead up  
 your appointment, go in your place; if the encounter  
 acknowledge itself hereafter, it may compel him to  
 her recompense: and here, by this, is your brother  
@@ -2087,7 +2087,7 @@ So stinkingly depending? Go mend, go mend.
 
 **POMPEY**  
 Indeed, it does stink in some sort, sir; but yet,  
-sir, I would prove---
+sir, I would prove--
 
 **DUKE VINCENTIO**  
 Nay, if the devil have given thee proofs for sin,  
@@ -2106,7 +2106,7 @@ That we were all, as some would seem to be,
 From our faults, as faults from seeming, free!
 
 **ELBOW**  
-His neck will come to your waist---a cord, sir.
+His neck will come to your waist--a cord, sir.
 
 **POMPEY**  
 I spy comfort; I cry bail. Here's a gentleman and a  
@@ -2562,7 +2562,7 @@ But my entreaty too.
 **ISABELLA**  
 Little have you to say  
 When you depart from him, but, soft and low,  
-'Remember now my brother.'...
+'Remember now my brother.' ...
 
 **MARIANA**  
 ... Fear me not.
@@ -2633,9 +2633,9 @@ the scale.
 *Exit*
 
 **POMPEY**  
-Pray, sir, by your good favour---for surely, sir, a  
+Pray, sir, by your good favour--for surely, sir, a  
 good favour you have, but that you have a hanging  
-look---do you call, sir, your occupation a mystery?
+look--do you call, sir, your occupation a mystery?
 
 **ABHORSON**  
 Ay, sir; a mystery
@@ -3078,7 +3078,7 @@ Quick, dispatch, and send the head to Angelo.
 
 *Exit Provost*
 
-Now will I write letters to Angelo---  
+Now will I write letters to Angelo--  
 The provost, he shall bear them, whose contents  
 Shall witness to him I am near at home,  
 And that, by great injunctions, I am bound  
@@ -3287,7 +3287,7 @@ I should not think it strange; for 'tis a physic
 That's bitter to sweet end.
 
 **MARIANA**  
-I would Friar Peter---
+I would Friar Peter--
 
 **ISABELLA**  
 O, peace! the friar is come.
@@ -3351,7 +3351,7 @@ Or wring redress from you. Hear me, O hear me, here!
 **ANGELO**  
 My lord, her wits, I fear me, are not firm:  
 She hath been a suitor to me for her brother  
-Cut off by course of justice---
+Cut off by course of justice--
 
 **ISABELLA**  
 By course of justice!
@@ -3396,7 +3396,7 @@ Had I more name for badness. ...
 
 **DUKE VINCENTIO**  
 ... By mine honesty,  
-If she be mad---as I believe no other---  
+If she be mad--as I believe no other--  
 Her madness hath the oddest frame of sense,  
 Such a dependency of thing on thing,  
 As e'er I heard in madness. ...
@@ -3418,7 +3418,7 @@ Condemn'd upon the act of fornication
 To lose his head; condemn'd by Angelo:  
 I, in probation of a sisterhood,  
 Was sent to by my brother; one Lucio  
-As then the messenger---
+As then the messenger--
 
 **LUCIO**  
 That's I, an't like your grace:  
@@ -3433,7 +3433,7 @@ A business for yourself, pray heaven you then
 Be perfect.
 
 **ISABELLA**  
-This gentleman told somewhat of my tale---
+This gentleman told somewhat of my tale--
 
 **LUCIO**  
 Right.
@@ -3445,8 +3445,8 @@ To speak before your time. Proceed.
 **ISABELLA**  
 In brief, to set the needless process by,  
 How I persuaded, how I pray'd, and kneel'd,  
-How he refell'd me, and how I replied---  
-For this was of much length---the vile conclusion  
+How he refell'd me, and how I replied--  
+For this was of much length--the vile conclusion  
 I now begin with grief and shame to utter:  
 He would not, but by gift of my chaste body  
 To his concupiscible intemperate lust,  
@@ -3942,10 +3942,10 @@ So happy is your brother. ...
 For this new-married man approaching here,  
 Whose salt imagination yet hath wrong'd  
 Your well defended honour, you must pardon  
-For Mariana's sake: but as he adjudged your brother---  
+For Mariana's sake: but as he adjudged your brother--  
 Being criminal, in double violation  
 Of sacred chastity and of promise-breach  
-Thereon dependent, for your brother's life---  
+Thereon dependent, for your brother's life--  
 The very mercy of the law cries out  
 Most audible, even from his proper tongue,  
 'An Angelo for Claudio, death for death!'  

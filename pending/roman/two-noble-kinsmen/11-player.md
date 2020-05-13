@@ -1729,7 +1729,7 @@ We shall have time enough. ...
 The duke has more, coz, eat now. ...
 
 **PALAMON**  
-...Yes. ...
+... Yes. ...
 
 *Eats.*
 
@@ -3824,12 +3824,12 @@ Give me thy last words; I am Palamon,
 One that yet loves thee dying. ...
 
 **ARCITE**  
-… Take Emilia,  
+... Take Emilia,  
 And with her all the world's joy. Reach thy hand;  
 Farewell. I have told my last hour; I was false,  
 Yet never treacherous. Forgive me, cousin.  
 One kiss from fair Emilia.—'Tis done.  
-Take her. I die. …  
+Take her. I die. ...  
 *\[Dies.]*
 
 **PALAMON**  

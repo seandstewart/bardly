@@ -448,11 +448,11 @@ Your use and counsel, we shall send for you.
 
 *Exit Worcester*
 
-You were about to speak….  
+You were about to speak. ...  
 *\[To Northumberland]*
 
 **NORTHUMBERLAND**  
-…Yea, my good lord.  
+... Yea, my good lord.  
 Those prisoners in your highness' name demanded,  
 Which Harry Percy here at Holmedon took,  
 Were, as he says, not with such strength denied  
@@ -640,10 +640,10 @@ Revenge the jeering and disdain'd contempt
 Of this proud king, who studies day and night  
 To answer all the debt he owes to you  
 Even with the bloody payment of your deaths:  
-Therefore, I say--…
+Therefore, I say-- ...
 
 **EARL OF WORCESTER**  
-…Peace, cousin, say no more:  
+... Peace, cousin, say no more:  
 And now I will unclasp a secret book,  
 And to your quick-conceiving discontents  
 I'll read you matter deep and dangerous,  
@@ -652,16 +652,16 @@ As to o'er-walk a current roaring loud
 On the unsteadfast footing of a spear.  
 Good cousin, give me audience for a while.  
 Those same noble Scots  
-That are your prisoners,--…
+That are your prisoners,-- ...
 
 **HOTSPUR**  
-…I'll keep them all;  
+... I'll keep them all;  
 By God, he shall not have a Scot of them;  
 No, if a Scot would save his soul, he shall not:  
-I'll keep them, by this hand….
+I'll keep them, by this hand. ...
 
 **EARL OF WORCESTER**  
-…You start away  
+... You start away  
 And lend no ear unto my purposes.  
 Those prisoners you shall keep.
 
@@ -1074,10 +1074,10 @@ One horse, my lord, he brought even now.
 What horse? a roan, a crop-ear, is it not?
 
 **Servant**  
-It is, my lord….
+It is, my lord. ...
 
 **HOTSPUR**  
-…That roan shall by my throne.  
+... That roan shall by my throne.  
 Well, I will back him straight: O esperance!  
 Bid Butler lead him forth into the park.
 
@@ -1150,10 +1150,10 @@ How! so far?
 Not an inch further. But hark you, Kate:  
 Whither I go, thither shall you go too;  
 To-day will I set forth, to-morrow you.  
-Will this content you, Kate?...
+Will this content you, Kate? ...
 
 **LADY PERCY**  
-…It must of force.
+... It must of force.
 
 *Exeunt*
 
@@ -1397,7 +1397,7 @@ could run as fast as thou canst. You are straight
 enough in the shoulders, you care not who sees your  
 back: call you that backing of your friends? A  
 plague upon such backing! give me them that will  
-face me. Give me a cup of sack: I am a rogue, if I’m  
+face me. Give me a cup of sack: I am a rogue, if I'm  
 drunk to-day.
 
 **PRINCE HENRY**  
@@ -2362,10 +2362,10 @@ Swear me, Kate, like a lady as thou art,
 A good mouth-filling oath, and leave 'in sooth,'  
 And such protest of pepper-gingerbread,  
 To velvet-guards and Sunday-citizens.  
-Come, sing….
+Come, sing. ...
 
 **LADY PERCY**  
-…I will not sing.
+... I will not sing.
 
 **HOTSPUR**  
 'Tis the next way to turn tailor, or be red-breast  
@@ -2449,10 +2449,10 @@ Make blind itself with foolish tenderness.
 
 **PRINCE HENRY**  
 I shall hereafter, my thrice gracious lord,  
-Be more myself….
+Be more myself. ...
 
 **KING HENRY IV**  
-…For all the world  
+... For all the world  
 As thou art to this hour was Richard then  
 When I from France set foot at Ravenspurgh,  
 And even as I was then is Percy now.  
@@ -2859,10 +2859,10 @@ Nay, task me to my word; approve me, lord.
 **EARL OF DOUGLAS**  
 Thou art the king of honour:  
 No man so potent breathes upon the ground  
-But I will beard him….
+But I will beard him. ...
 
 **HOTSPUR**  
-…Do so, and 'tis well.
+... Do so, and 'tis well.
 
 *Enter a Messenger with letters*
 
@@ -2940,10 +2940,10 @@ That wisdom, loyalty and mere dislike
 Of our proceedings kept her far from hence:  
 This absence of your mother's draws a curtain,  
 That shows the ignorant a kind of fear  
-Before not dreamt of….
+Before not dreamt of. ...
 
 **HOTSPUR**  
-…You strain too far.  
+... You strain too far.  
 I rather of her absence make this use:  
 It lends a lustre and more great opinion,  
 A larger dare to our great enterprise,  
@@ -2968,10 +2968,10 @@ The Earl of Westmoreland, seven thousand strong,
 Is marching hitherwards; with him Prince John.
 
 **HOTSPUR**  
-No harm: what more?...
+No harm: what more? ...
 
 **VERNON**  
-…And further, I have learn'd,  
+... And further, I have learn'd,  
 The king himself in person is set forth,  
 Or hitherwards intended speedily,  
 With strong and mighty preparation.
@@ -2980,10 +2980,10 @@ With strong and mighty preparation.
 He shall be welcome too. Where is his son,  
 The nimble-footed madcap Prince of Wales,  
 And his comrades, that daff'd the world aside,  
-And bid it pass?...
+And bid it pass? ...
 
 **VERNON**  
-…All furnish'd, all in arms;  
+... All furnish'd, all in arms;  
 I saw young Harry, with his beaver on,  
 His cuisses on his thighs, gallantly arm'd  
 Rise from the ground like feather'd Mercury,  
@@ -3003,10 +3003,10 @@ Who is to bear me like a thunderbolt
 Against the bosom of the Prince of Wales:  
 Harry to Harry shall, hot horse to horse,  
 Meet and ne'er part till one drop down a corse.  
-O that Glendower were come!...
+O that Glendower were come! ...
 
 **VERNON**  
-…There is more news:  
+... There is more news:  
 I learn'd in Worcester, as I rode along,  
 He cannot draw his power this fourteen days.
 
@@ -3014,10 +3014,10 @@ He cannot draw his power this fourteen days.
 What may the king's whole battle reach unto?
 
 **VERNON**  
-To thirty thousand….
+To thirty thousand. ...
 
 **HOTSPUR**  
-…Forty let it be:  
+... Forty let it be:  
 My mother and Glendower being both away,  
 The powers of us may serve so great a day  
 Come, let us take a muster speedily:  
@@ -3117,16 +3117,16 @@ Fits a dull fighter and a keen guest.
 *Enter HOTSPUR, WORCESTER, DOUGLAS, and VERNON*
 
 **HOTSPUR**  
-We'll fight with him to-night….
+We'll fight with him to-night. ...
 
 **EARL OF WORCESTER**  
-…It may not be.
+... It may not be.
 
 **VERNON**  
-Do not, my lord….
+Do not, my lord. ...
 
 **EARL OF DOUGLAS**  
-…You do not counsel well:  
+... You do not counsel well:  
 You speak it out of fear and cold heart.
 
 **VERNON**  
@@ -3136,13 +3136,13 @@ If well-respected honour bid me on,
 I hold as little counsel with weak fear  
 As you, my lord, or any Scot that this day lives:  
 Let it be seen to-morrow in the battle  
-Which of us fears….
+Which of us fears. ...
 
 **EARL OF DOUGLAS**  
-…Yea, or to-night….
+... Yea, or to-night. ...
 
 **VERNON**  
-…Content.
+... Content.
 
 **HOTSPUR**  
 To-night, say I.
@@ -3244,10 +3244,10 @@ Bring him our purposes: and so farewell.
 I would you would accept of grace and love.
 
 **HOTSPUR**  
-And may be so we shall….
+And may be so we shall. ...
 
 **LADY WENDY BLUNT**  
-…Pray God you do.
+... Pray God you do.
 
 *Exeunt*
 
@@ -3819,10 +3819,10 @@ Upon the foot of fear, fled with the rest;
 And falling from a hill, he was so bruised  
 That the pursuers took him. At my tent  
 The Douglas is; and I beseech your grace  
-I may dispose of him….
+I may dispose of him. ...
 
 **KING HENRY IV**  
-…With all my heart.
+... With all my heart.
 
 **PRINCE HENRY**  
 Then, brother John of Lancaster, to you  

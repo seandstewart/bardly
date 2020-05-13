@@ -2707,10 +2707,10 @@ To tame a shrew and charm her chattering tongue.
 O master, master, I have watch'd so long  
 That I am dog-weary: but at last I spied  
 An ancient angel coming down the hill,  
-Will serve the turn. …
+Will serve the turn. ...
 
 **TRANIO**  
-… What is he, Biondello?
+... What is he, Biondello?
 
 **BIONDELLO**  
 Master, a mercatante, or a pedant,  
@@ -2964,11 +2964,11 @@ And gentlewomen wear such caps as these
 
 **PETRUCHIO**  
 When you are gentle, you shall have one too,  
-And not till then. …
+And not till then. ...
 
 **HORTENSIO**  
 *\[Aside]*
-… That will not be in haste.
+... That will not be in haste.
 
 **KATHARINA**  
 Why, sir, I trust I may have leave to speak;  

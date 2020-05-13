@@ -366,7 +366,7 @@ Excuse it that your bonny horse is lame.
 
 **KING DAVID**  
 She heard that too; intolerable grief!  
-Woman, farewell! Although I do not stay...
+Woman, farewell! Although I do not stay ...
 
 *Exeunt Scots.*
 

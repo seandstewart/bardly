@@ -890,18 +890,18 @@ Turn back, dull earth, and find thy center out.
 *Enter BENVOLIO and MERCUTIO*
 
 **BENVOLIO**  
-Romeo! my cousin Romeo! …
+Romeo! my cousin Romeo! ...
 
 **MERCUTIO**  
-… He's wise;  
+... He's wise;  
 And, on my lie, hath stol'n him home to bed.
 
 **BENVOLIO**  
 He ran this way, and leap'd this orchard wall:  
-Call, good Mercutio. …
+Call, good Mercutio. ...
 
 **MERCUTIO**  
-… Nay, I'll conjure too.  
+... Nay, I'll conjure too.  
 Romeo! humors! madman! passion! lover!  
 I conjure thee by Rosaline's bright eyes,  
 By her high forehead and her scarlet lip,  
@@ -916,10 +916,10 @@ To be consorted with the humorous night:
 Blind is his love and best befits the dark.
 
 **MERCUTIO**  
-Come, shall we go? …
+Come, shall we go? ...
 
 **BENVOLIO**  
-… Go, then; for 'tis in vain  
+... Go, then; for 'tis in vain  
 To seek him here that means not to be found.
 
 *Exeunt*
@@ -3630,10 +3630,10 @@ The letter was not nice but full of charge
 Of dear import, and the neglecting it  
 May do much danger. Friar John, go hence;  
 Get me an iron crow, and bring it straight  
-Unto my cell. …
+Unto my cell. ...
 
 **FRIAR JOHN**  
-… Brother, I'll go and bring it thee.
+... Brother, I'll go and bring it thee.
 
 *Exit*
 

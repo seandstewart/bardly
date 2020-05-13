@@ -1089,7 +1089,7 @@ But for thy world enjoying but this land,
 Is it not more than shame to shame it so?  
 Landlord of England art thou now, not king:  
 Thy state of law is bondslave to the law;  
-And thou--- ...
+And thou-- ...
 
 **KING RICHARD II**  
 ... A lunatic lean-witted fool,  

@@ -144,7 +144,7 @@ What could the belly answer?
 
 **MENENIUS**  
 I will tell you  
-If you'll bestow a small--of what you have little---  
+If you'll bestow a small--of what you have little--  
 Patience awhile, you'll hear the belly's answer.  
 'True is it, my incorporate friends,' quoth he,  
 'That I receive the general food at first,  
@@ -933,7 +933,7 @@ and lances: COMINIUS and LARTIUS stand bare*
 
 May these same instruments, which you profane,  
 Never sound more! No more, I say! For that I have not wash'd  
-My nose that bled, or foil'd some debile wretch.---  
+My nose that bled, or foil'd some debile wretch.--  
 You shout me forth in acclamations hyperbolical;  
 As if I loved my little should be dieted  
 In praises sauced with lies.
@@ -2370,7 +2370,7 @@ He's a disease that must be cut away.
 O, he's a limb that has but a disease;  
 Mortal, to cut it off; to cure it, easy.  
 What has he done to Rome that's worthy death?  
-Killing our enemies, the blood he hath lost---  
+Killing our enemies, the blood he hath lost--  
 And what is left, to lose it by his country,  
 Were to us all, that do't and suffer it,  
 A brand to the end o' the world.
@@ -4122,7 +4122,7 @@ Measureless liar, thou hast made my heart
 Too great for what contains it. Boy! O slave!  
 Pardon me, lords, 'tis the first time that ever  
 I was forced to scold. Your judgments, my grave lords,  
-Must give this cur the lie: and his own notion---  
+Must give this cur the lie: and his own notion--  
 Who wears my stripes impress'd upon him; that  
 Must bear my beating to his grave--shall join  
 To thrust the lie unto him.
