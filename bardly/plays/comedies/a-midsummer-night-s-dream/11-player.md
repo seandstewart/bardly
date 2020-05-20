@@ -1,10 +1,10 @@
-# A Midsummer Night's Dream - Uncut
+# A Midsummer Night's Dream - 11 Player Cut
 
 ## ACT I
 
 ### SCENE I. Athens. The palace of THESEUS.
 
-*Enter THESEUS, HIPPOLYTA, PHILOSTRATE, and Attendants*
+*Enter THESEUS, and HIPPOLYTA*
 
 **THESEUS**  
 Now, fair Hippolyta, our nuptial hour  
@@ -22,16 +22,8 @@ New-bent in heaven, shall behold the night
 Of our solemnities. ...
 
 **THESEUS**  
-... Go, Philostrate,  
-Stir up the Athenian youth to merriments;  
-Awake the pert and nimble spirit of mirth;  
-Turn melancholy forth to funerals;  
-The pale companion is not for our pomp.
-
-*Exit PHILOSTRATE*
-
-Hippolyta, I woo'd thee with my sword,  
-And won thy love, doing thee injuries;  
+... Hippolyta,
+I won thy love, doing thee injuries;  
 But I will wed thee in another key,  
 With pomp, with triumph and with revelling.
 
@@ -53,11 +45,7 @@ This man hath bewitch'd the bosom of my child;
 Thou, thou, Lysander, thou hast given her rhymes,  
 And interchanged love-tokens with my child:  
 Thou hast by moonlight at her window sung,  
-With feigning voice verses of feigning love,  
-And stolen the impression of her fantasy  
-With bracelets of thy hair, rings, gawds, conceits,  
-Knacks, trifles, nosegays, sweetmeats, messengers  
-Of strong prevailment in unharden'd youth:  
+With feigning voice verses of feigning love;  
 With cunning hast thou filch'd my daughter's heart,  
 Turn'd her obedience, which is due to me,  
 To stubborn harshness: and, my gracious duke,  
@@ -168,11 +156,6 @@ But, being over-full of self-affairs,
 My mind did lose it. But, Demetrius, come;  
 And come, Egeus; you shall go with me,  
 I have some private schooling for you both.  
-For you, fair Hermia, look you arm yourself  
-To fit your fancies to your father's will;  
-Or else the law of Athens yields you up--  
-Which by no means we may extenuate--  
-To death, or to a vow of single life.  
 Come, my Hippolyta: what cheer, my love?  
 Demetrius and Egeus, go along:  
 I must employ you in some business  
@@ -377,7 +360,7 @@ To have his sight thither and back again.
 
 ### SCENE II. Athens. QUINCE'S house.
 
-*Enter QUINCE, SNUG, BOTTOM, FLUTE, SNOUT, and STARVELING*
+*Enter QUINCE, SNUG, BOTTOM, FLUTE, and SNOUT*
 
 **QUINCE**  
 Is all our company here?
@@ -474,24 +457,22 @@ and lady dear!'
 **QUINCE**  
 No, no; you must play Pyramus: and, Flute, you Thisby.
 
+ *\Exit Flute with Scroll*  
+
 **BOTTOM**  
 Well, proceed.  
 
 **QUINCE**  
-Robin Starveling, the tailor.
-
-**STARVELING**  
-Here, Peter Quince.
-
-**QUINCE**  
-Robin Starveling, you must play Thisby's mother.  
 Tom Snout, the tinker.  
 
 **SNOUT**  
 Here, Peter Quince.
 
 **QUINCE**  
-You, Pyramus' father: myself, Thisby's father:  
+You, Pyramus' father: myself, Thisby's father.  
+
+*\Exit Snout with paper*
+
 Snug, the joiner; you, the lion's part: and, I  
 hope, here is a play fitted.
 
@@ -513,7 +494,7 @@ An you should do it too terribly, you would fright
 the duchess and the ladies, that they would shriek;  
 and that were enough to hang us all.
 
-**ALL**  
+**SNUG**  
 That would hang us, every mother's son.
 
 **BOTTOM**  
@@ -591,8 +572,6 @@ Those be rubies, fairy favours,
 In those freckles live their savours:  
 I must go seek some dewdrops here  
 And hang a pearl in every cowslip's ear.  
-Farewell, thou lob of spirits; I'll be gone:  
-Our queen and all our elves come here anon.
 
 **PUCK**  
 The king doth keep his revels here tonight:  
@@ -645,14 +624,13 @@ But, room, fairy! here comes Oberon.
 **Fairy**  
 And here my mistress. Would that he were gone!
 
-*Enter, from one side, OBERON, with his train; from the other, TITANIA,
-with hers*
+*Enter, from one side, OBERON; from the other, TITANIA*  
 
 **OBERON**  
 Ill met by moonlight, proud Titania.
 
 **TITANIA**  
-What, jealous Oberon! Fairies, skip hence:  
+What, jealous Oberon! Fairy, skip hence:  
 I have forsworn his bed and company.
 
 **OBERON**  
@@ -692,19 +670,6 @@ As in revenge, have suck'd up from the sea
 Contagious fogs; which falling in the land  
 Have every pelting river made so proud  
 That they have overborne their continents:  
-The ox hath therefore stretch'd his yoke in vain,  
-The ploughman lost his sweat, and the green corn  
-Hath rotted ere his youth attain'd a beard;  
-The fold stands empty in the drowned field,  
-And crows are fatted with the murrion flock;  
-The nine men's morris is fill'd up with mud,  
-And the quaint mazes in the wanton green  
-For lack of tread are undistinguishable:  
-The human mortals want their winter here;  
-No night is now with hymn or carol blest:  
-Therefore the moon, the governess of floods,  
-Pale in her anger, washes all the air,  
-That rheumatic diseases do abound:  
 And thorough this distemperature we see  
 The seasons alter: hoary-headed frosts  
 Far in the fresh lap of the crimson rose,  
@@ -756,10 +721,10 @@ If not, shun me, and I will spare your haunts.
 Give me that boy, and I will go with thee.
 
 **TITANIA**  
-Not for thy fairy kingdom. Fairies, away!  
+Not for thy fairy kingdom. Fairy, away!    
 We shall chide downright, if I longer stay.
 
-*Exit TITANIA with her train*
+*Exit TITANIA with the Fairy*
 
 **OBERON**  
 Well, go thy way: thou shalt not from this grove  
@@ -945,20 +910,13 @@ Fear not, my lord, your servant shall do so.
 
 ### SCENE II. Another part of the wood.
 
-*Enter TITANIA, with her train*
+*Enter TITANIA and her fairy*
 
-**TITANIA**  
-Come, now a roundel and a fairy song;  
-Then, for the third part of a minute, hence;  
-Some to kill cankers in the musk-rose buds,  
-Some war with rere-mice for their leathern wings,  
-To make my small elves coats, and some keep back  
-The clamorous owl that nightly hoots and wonders  
-At our quaint spirits. Sing me now asleep;  
-Then to your offices and let me rest.
+**TITANIA**
+Come, now a fairy song; sing me asleep.  
 
-*The Fairies sing*
-
+**FAIRY**
+*\[Sings:]*
 You spotted snakes with double tongue,  
 Thorny hedgehogs, be not seen;  
 Newts and blind-worms, do no wrong,  
@@ -966,8 +924,6 @@ Come not near our fairy queen.
 Philomel, with melody  
 Sing in our sweet lullaby;  
 Lulla, lulla, lullaby, lulla, lulla, lullaby:
-
-*\[Sings]*  
 Never harm,  
 Nor spell nor charm,  
 Come our lovely lady nigh;  
@@ -978,11 +934,7 @@ Beetles black, approach not near;
 Worm nor snail, do no offence.  
 Philomel, with melody, & c.
 
-**Fairy**  
-Hence, away! now all is well:  
-One aloof stand sentinel.
-
-*Exeunt Fairies. TITANIA sleeps*
+*\Exit Fairy. TITANIA sleeps*
 
 *Enter OBERON and squeezes the flower on TITANIA's eyelids*
 
@@ -1184,7 +1136,7 @@ Either death or you I'll find immediately.
 
 ### SCENE I. The wood. TITANIA lying asleep.
 
-*Enter QUINCE, SNUG, BOTTOM, FLUTE, SNOUT, and STARVELING*
+*Enter QUINCE, SNUG, BOTTOM, and FLUTE*
 
 **BOTTOM**  
 Are we all met?
@@ -1207,10 +1159,8 @@ Thisby that will never please. First, Pyramus must
 draw a sword to kill himself; which the ladies  
 cannot abide. How answer you that?
 
-**SNOUT**  
+**SNUG**  
 By'r lakin, a parlous fear.
-
-**STARVELING**  
 I believe we must leave the killing out, when all is done.
 
 **BOTTOM**  
@@ -1229,10 +1179,10 @@ written in eight and six.
 **BOTTOM**  
 No, make it two more; let it be written in eight and eight.
 
-**SNOUT**  
+**SNUG**  
 Will not the ladies be afeard of the lion?
 
-**STARVELING**  
+**FLUTE**    
 I fear it, I promise you.
 
 **BOTTOM**  
@@ -1242,7 +1192,7 @@ most dreadful thing; for there is not a more fearful
 wild-fowl than your lion living; and we ought to  
 look to 't.
 
-**SNOUT**  
+**SNUG**  
 Therefore another prologue must tell he is not a lion.
 
 **BOTTOM**  
@@ -1262,7 +1212,7 @@ Well it shall be so. But there is two hard things;
 that is, to bring the moonlight into a chamber; for,  
 you know, Pyramus and Thisby meet by moonlight.
 
-**SNOUT**  
+**SNUG**  
 Doth the moon shine that night we play our play?
 
 **BOTTOM**  
@@ -1277,15 +1227,12 @@ Why, then may you leave a casement of the great
 chamber window, where we play, open, and the moon  
 may shine in at the casement.
 
-**QUINCE**  
-Ay; or else one must come in with a bush of thorns  
-and a lanthorn, and say he comes to disfigure, or to  
-present, the person of Moonshine. Then, there is  
-another thing: we must have a wall in the great  
-chamber; for Pyramus and Thisby says the story, did  
-talk through the chink of a wall.
+**QUINCE**
+Then, there is another thing: we must have a wall  
+in the great chamber; for Pyramus and Thisby says   
+the story, did talk through the chink of a wall.
 
-**SNOUT**  
+**SNUG**
 You can never bring in a wall. What say you, Bottom?
 
 **BOTTOM**  
@@ -1365,7 +1312,7 @@ If I were fair, Thisby, I were only thine.
 O monstrous! O strange! we are haunted. Pray,  
 masters! fly, masters! Help!
 
-*Exeunt QUINCE, SNUG, FLUTE, SNOUT, and STARVELING*
+*Exeunt QUINCE, SNUG, and FLUTE*
 
 **PUCK**  
 I'll follow you, I'll lead you about a round,  
@@ -1381,16 +1328,16 @@ Like horse, hound, hog, bear, fire, at every turn.
 Why do they run away? this is a knavery of them to  
 make me afeard.
 
-*Re-enter SNOUT*
+*Re-enter SNUG*
 
-**SNOUT**  
+**SNUG**
 O Bottom, thou art changed! what do I see on thee?
 
 **BOTTOM**  
 What do you see? you see an asshead of your own, do  
 you?
 
-*Exit SNOUT*
+*Exit SNUG*
 
 *Re-enter QUINCE*
 
@@ -1454,29 +1401,17 @@ Thou shalt remain here, whether thou wilt or no.
 I am a spirit of no common rate;  
 The summer still doth tend upon my state;  
 And I do love thee: therefore, go with me;  
-I'll give thee fairies to attend on thee,  
-And they shall fetch thee jewels from the deep,  
+I'll give thee someone to attend on thee,  
+And she shall fetch thee jewels from the deep,  
 And sing while thou on pressed flowers dost sleep;  
 And I will purge thy mortal grossness so  
 That thou shalt like an airy spirit go.  
-Peaseblossom! Cobweb! Moth! and Mustardseed!
+Fairy!
 
-*Enter PEASEBLOSSOM, COBWEB, MOTH, and MUSTARDSEED*
+*Enter Fairy*
 
-**PEASEBLOSSOM**  
-Ready. ...
-
-**COBWEB**  
-... And I. ...
-
-**MOTH**  
-... And I. ...
-
-**MUSTARDSEED**  
-... And I. ...
-
-**ALL**  
-... Where shall we go?
+**FAIRY**
+Ready. Where shall I go?
 
 **TITANIA**  
 Be kind and courteous to this gentleman;  
@@ -1489,51 +1424,10 @@ And light them at the fiery glow-worm's eyes,
 To have my love to bed and to arise;  
 And pluck the wings from Painted butterflies  
 To fan the moonbeams from his sleeping eyes:  
-Nod to him, elves, and do him courtesies.
+Nod to him, elf, and do him courtesies.
 
-**PEASEBLOSSOM**  
-Hail, mortal! ...
-
-**COBWEB**  
-... Hail! ...
-
-**MOTH**  
-... Hail! ...
-
-**MUSTARDSEED**  
-... Hail!
-
-**BOTTOM**  
-I cry your worship's mercy, heartily: I beseech your  
-worship's name.
-
-**COBWEB**  
-Cobweb.
-
-**BOTTOM**  
-I shall desire you of more acquaintance, good Master  
-Cobweb: if I cut my finger, I shall make bold with  
-you. Your name, honest gentleman?
-
-**PEASEBLOSSOM**  
-Peaseblossom.
-
-**BOTTOM**  
-I pray you, commend me to Mistress Squash, your  
-mother, and to Master Peascod, your father. Good  
-Master Peaseblossom, I shall desire you of more  
-acquaintance too. Your name, I beseech you, sir?
-
-**MUSTARDSEED**  
-Mustardseed.
-
-**BOTTOM**  
-Good Master Mustardseed, I know your patience well:  
-that same cowardly, giant-like ox-beef hath  
-devoured many a gentleman of your house: I promise  
-you your kindred had made my eyes water ere now. I  
-desire your more acquaintance, good Master  
-Mustardseed.
+**FAIRY**
+Hail, mortal! Hail!
 
 **TITANIA**  
 Come, wait upon him; lead him to my bower.  
@@ -2318,8 +2212,7 @@ The man shall have his mare again, and all shall be well.
 
 ### SCENE I. The same. LYSANDER, DEMETRIUS, HELENA, and HERMIA lying asleep.
 
-*Enter TITANIA and BOTTOM; PEASEBLOSSOM, COBWEB, MOTH, MUSTARDSEED, and
-other Fairies attending; OBERON behind unseen*
+*Enter TITANIA, her Fairy and BOTTOM. OBERON behind unseen*
 
 **TITANIA**  
 Come, sit thee down upon this flowery bed,  
@@ -2327,41 +2220,40 @@ While I thy amiable cheeks do coy,
 And stick musk-roses in thy sleek smooth head,  
 And kiss thy fair large ears, my gentle joy.
 
-**BOTTOM**  
-Where's Peaseblossom?
+**BOTTOM**
+Where's my Fairy attendant?
 
-**PEASEBLOSSOM**  
+**FAIRY**
 Ready.
 
-**BOTTOM**  
-Scratch my head Peaseblossom. Where's Mounsieur Cobweb?
+**BOTTOM**
+Scratch my head, madam. And madam?
 
-**COBWEB**  
+**FAIRY**
 Ready.
 
-**BOTTOM**  
-Mounsieur Cobweb, good mounsieur, get you your  
+**BOTTOM**
+My dear madam, good fairy, get you your  
 weapons in your hand, and kill me a red-hipped  
 humble-bee on the top of a thistle; and, good  
-mounsieur, bring me the honey-bag. Do not fret  
-yourself too much in the action, mounsieur; and,  
-good mounsieur, have a care the honey-bag break not;  
+madam, bring me the honey-bag. Do not fret  
+yourself too much in the action, madam; and,  
+good madam, have a care the honey-bag break not;  
 I would be loath to have you overflown with a  
-honey-bag, signior. Where's Mounsieur Mustardseed?
+honey-bag, madam. Good fairy?
 
-**MUSTARDSEED**  
+**FAIRY**
 Ready.
 
-**BOTTOM**  
-Give me your neaf, Mounsieur Mustardseed. Pray you,  
-leave your courtesy, good mounsieur.
+**BOTTOM**
+Give me your neaf, good madam. Pray you,  
+leave your courtesy, good madam.
 
-**MUSTARDSEED**  
+**FAIRY**
 What's your will?
 
-**BOTTOM**  
-Nothing, good mounsieur, but to help Cavalery Cobweb  
-to scratch. I must to the barber's, monsieur; for  
+**BOTTOM**
+I must to the barber's, madam; for  
 methinks I am marvellous hairy about the face; and I  
 am such a tender ass, if my hair do but tickle me,  
 I must scratch.
@@ -2395,7 +2287,7 @@ have an exposition of sleep come upon me.
 Sleep thou, and I will wind thee in my arms.  
 Fairies, begone, and be all ways away.
 
-*Exeunt fairies*
+*Exeunt fairy*
 
 So doth the woodbine the sweet honeysuckle  
 Gently entwist; the female ivy so  
@@ -2492,43 +2384,18 @@ With these mortals on the ground.
 
 *Exeunt*
 
+###SCENE III – The Same.**
+
 *Horns winded within*
 
-*Enter THESEUS, HIPPOLYTA, EGEUS, and train*
+*Enter THESEUS, HIPPOLYTA, and EGEUS*
 
 **THESEUS**  
-Go, one of you, find out the forester;  
+Go, Egeus, find out the forester;  
 For now our observation is perform'd;  
 And since we have the vaward of the day,  
 My love shall hear the music of my hounds.  
-Uncouple in the western valley; let them go:  
-Dispatch, I say, and find the forester.
-
-*Exit an Attendant*
-
-We will, fair queen, up to the mountain's top,  
-And mark the musical confusion  
-Of hounds and echo in conjunction.
-
-**HIPPOLYTA**  
-I was with Hercules and Cadmus once,  
-When in a wood of Crete they bay'd the bear  
-With hounds of Sparta: never did I hear  
-Such gallant chiding: for, besides the groves,  
-The skies, the fountains, every region near  
-Seem'd all one mutual cry: I never heard  
-So musical a discord, such sweet thunder.
-
-**THESEUS**  
-My hounds are bred out of the Spartan kind,  
-So flew'd, so sanded, and their heads are hung  
-With ears that sweep away the morning dew;  
-Crook-knee'd, and dew-lapp'd like Thessalian bulls;  
-Slow in pursuit, but match'd in mouth like bells,  
-Each under each. A cry more tuneable  
-Was never holla'd to, nor cheer'd with horn,  
-In Crete, in Sparta, nor in Thessaly:  
-Judge when you hear. But, soft! what nymphs are these?
+But, soft! what nymphs are these?
 
 **EGEUS**  
 My lord, this is my daughter here asleep;  
@@ -2546,12 +2413,9 @@ That Hermia should give answer of her choice?
 **EGEUS**  
 It is, my lord.
 
+*LYSANDER, DEMETRIUS, HELENA, and HERMIA wake and start up*
+
 **THESEUS**  
-Go, bid the huntsmen wake them with their horns.
-
-*Horns and shout within. LYSANDER, DEMETRIUS, HELENA, and HERMIA wake
-and start up*
-
 Good morrow, friends. Saint Valentine is past:  
 Begin these wood-birds but to couple now?
 
@@ -2614,7 +2478,7 @@ Away with us to Athens; three and three,
 We'll hold a feast in great solemnity.  
 Come, Hippolyta.
 
-*Exeunt THESEUS, HIPPOLYTA, EGEUS, and train*
+*Exeunt THESEUS, HIPPOLYTA, and EGEUS*
 
 **DEMETRIUS**  
 These things seem small and undistinguishable,
@@ -2654,7 +2518,7 @@ And by the way let us recount our dreams.
 When my cue comes, call me, and I will  
 answer: my next is, 'Most fair Pyramus.' Heigh-ho!  
 Peter Quince! Flute, the bellows-mender! Snout,  
-the tinker! Starveling! God's my life, stolen  
+the tinker! Joiner Snug! God's my life, stolen  
 hence, and left me asleep! I have had a most rare  
 vision. I have had a dream, past the wit of man to  
 say what dream it was: man is but an ass, if he go  
@@ -2674,20 +2538,17 @@ sing it at her death.
 
 *Exit*
 
-### SCENE II. QUINCE'S house.
+### SCENE III. Athens. QUINCE'S house.
 
-*Enter QUINCE, FLUTE, SNOUT, and STARVELING*
+*Enter QUINCE, FLUTE, and SNOUT*
 
 **QUINCE**  
 Have you sent to Bottom's house ? is he come home yet?
 
-**STARVELING**  
+**FLUTE**
 He cannot be heard of. Out of doubt he is  
-transported.
-
-**FLUTE**  
-If he come not, then the play is marred: it goes  
-not forward, doth it?
+transported. If he come not, then the play is marred:   
+It goes not forward, doth it?
 
 **QUINCE**  
 It is not possible: you have not a man in all  
@@ -2755,9 +2616,9 @@ comedy. No more words: away! go, away!
 
 ## ACT V
 
-### SCENE I. The palace of THESEUS.
+###SCENE I. Athens. The palace of THESEUS.
 
-*Enter THESEUS, HIPPOLYTA, PHILOSTRATE, Lords and Attendants*
+*Enter THESEUS, HIPPOLYTA, and PHILOSTRATE*
 
 **HIPPOLYTA**
 'Tis strange my Theseus, that these lovers speak of.
@@ -2921,9 +2782,9 @@ Of saucy and audacious eloquence.
 Love, therefore, and tongue-tied simplicity  
 In least speak most, to my capacity.
 
-*Re-enter PHILOSTRATE*
+*Enter QUINCE*
 
-**PHILOSTRATE**  
+**QUINCE**
 So please your grace, the Prologue is address'd.
 
 **THESEUS**  
@@ -2931,7 +2792,7 @@ Let him approach.
 
 *Flourish of trumpets*
 
-*Enter QUINCE for the Prologue*
+*QUINCE for the Prologue begins:*
 
 **Prologue (QUINCE)**  
 If we offend, it is with our good will.  
@@ -2972,10 +2833,6 @@ This man, with lime and rough-cast, doth present
 Wall, that vile Wall which did these lovers sunder;  
 And through Wall's chink, poor souls, they are content  
 To whisper. At the which let no man wonder.  
-This man, with lantern, dog, and bush of thorn,  
-Presenteth Moonshine; for, if you will know,  
-By Moonshine did these lovers think no scorn  
-To meet at Ninus' tomb, there, there to woo.  
 This grisly beast, which Lion hight by name,  
 The trusty Thisby, coming first by night,  
 Did scare away, or rather did affright;  
@@ -2987,10 +2844,10 @@ Whereat, with blade, with bloody blameful blade,
 He bravely broach'd is boiling bloody breast;  
 And Thisby, tarrying in mulberry shade,  
 His dagger drew, and died. For all the rest,  
-Let Lion, Moonshine, Wall, and lovers twain  
+Let fearsome Lion, Wall, and lovers twain  
 At large discourse, while here they do remain.
 
-*Exeunt Prologue, Thisbe, Lion, and Moonshine*
+*Exeunt Prologue, Thisbe, Lion, and Wall*
 
 **THESEUS**  
 I wonder if the lion be to speak.
@@ -3118,7 +2975,7 @@ If we imagine no worse of them than they of
 themselves, they may pass for excellent men. Here  
 come two noble beasts in, a man and a lion.
 
-*Enter Lion and Moonshine*
+*Enter Lion*
 
 **Lion (SNUG)**  
 You, ladies, you, whose gentle hearts do fear  
@@ -3148,51 +3005,10 @@ discretion; and the fox carries the goose.
 
 **THESEUS**  
 His discretion, I am sure, cannot carry his valour;  
-for the goose carries not the fox. It is well:  
-leave it to his discretion, and let us listen to the moon.
+for the goose carries not the fox. It is well.
 
-**Moonshine**  
-This lanthorn doth the horned moon present;--
-
-**DEMETRIUS**  
-He should have worn the horns on his head.
-
-**THESEUS**  
-He is no crescent, and his horns are  
-invisible within the circumference.
-
-**Moonshine**  
-This lanthorn doth the horned moon present;  
-Myself the man i' the moon do seem to be.
-
-**THESEUS**  
-This is the greatest error of all the rest: the man  
-should be put into the lanthorn. How is it else the  
-man i' the moon?
-
-**DEMETRIUS**  
-He dares not come there for the candle; for, you  
-see, it is already in snuff.
-
-**HIPPOLYTA**  
-I am aweary of this moon: would he would change!
-
-**THESEUS**  
-It appears, by his small light of discretion, that  
-he is in the wane; but yet, in courtesy, in all  
-reason, we must stay the time.
-
-**LYSANDER**  
-Proceed, Moon.
-
-**Moonshine**  
-All that I have to say, is, to tell you that the  
-lanthorn is the moon; I, the man in the moon; this  
-thorn-bush, my thorn-bush; and this dog, my dog.
-
-**DEMETRIUS**  
-Why, all these should be in the lanthorn; for all  
-these are in the moon. But, silence! here comes Thisbe.
+**DEMETRIUS**
+But, silence! here comes Thisbe.
 
 *Enter Thisbe*
 
@@ -3210,10 +3026,6 @@ Well roared, Lion.
 
 **THESEUS**  
 Well run, Thisbe.
-
-**HIPPOLYTA**  
-Well shone, Moon. Truly, the moon shines with a  
-good grace.
 
 *The Lion shakes Thisbe's mantle, and exit*
 
@@ -3275,10 +3087,7 @@ Now am I fled;
 My soul is in the sky:  
 Tongue, lose thy light;  
 Moon take thy flight:
-
-*Exit Moonshine*
-
-Now die, die, die, die, die.  
+Now die, die, die, die, die.
 *\[Dies]*
 
 **DEMETRIUS**  
@@ -3290,14 +3099,6 @@ Less than an ace, man; for he is dead; he is nothing.
 **THESEUS**  
 With the help of a surgeon he might yet recover, and  
 prove an ass.
-
-**HIPPOLYTA**  
-How chance Moonshine is gone before Thisbe comes  
-back and finds her lover?
-
-**THESEUS**  
-She will find him by starlight. Here she comes; and  
-her passion ends the play.
 
 *Re-enter Thisbe*
 
@@ -3346,8 +3147,8 @@ Thus Thisby ends:
 Adieu, adieu, adieu.  
 *\[Dies]*
 
-**THESEUS**  
-Moonshine and Lion are left to bury the dead.
+**THESEUS**
+Only the Lion is left to bury the dead.
 
 **DEMETRIUS**  
 Ay, and Wall too.
@@ -3405,25 +3206,9 @@ Shall disturb this hallow'd house:
 I am sent with broom before,  
 To sweep the dust behind the door.
 
-*Enter OBERON and TITANIA with their train*
+*Enter OBERON* *and TITANIA*
 
-**OBERON**  
-Through the house give gathering light,  
-By the dead and drowsy fire:  
-Every elf and fairy sprite  
-Hop as light as bird from brier;  
-And this ditty, after me,  
-Sing, and dance it trippingly.
-
-**TITANIA**  
-First, rehearse your song by rote  
-To each word a warbling note:  
-Hand in hand, with fairy grace,  
-Will we sing, and bless this place.
-
-*Song and dance*
-
-**OBERON**  
+**OBERON**
 Now, until the break of day,  
 Through this house each fairy stray.  
 To the best bride-bed will we,  
