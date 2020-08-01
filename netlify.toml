@@ -1,6 +1,8 @@
 [build]
-publish = "site/"
+publish = "site"
 command = """
-mkdocs build &&
-cp bardly/_redirects site/_redirects
+pip3 install -q poetry &&
+poetry config virtualenvs.in-project true &&
+poetry install -v &&
+mkdocs build -d site
 """
