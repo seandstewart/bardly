@@ -2,5 +2,5 @@
 publish = "site/"
 command = """
 mkdocs build &&
-cp mkdocs/_redirects site/_redirects
+cp bardly/_redirects site/_redirects
 """
