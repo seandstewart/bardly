@@ -21,6 +21,7 @@ theme:
 plugins:
   - search
   - awesome-pages
+  - bardly
 markdown_extensions:
   - toc:
       permalink: "#"
@@ -44,11 +45,11 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-  - fontawesome_markdown
+  - attr_list
 extra:
   social:
     - icon: "fontawesome/brands/github-alt"
-      link: "https://github.com/seandstewart/website"
+      link: "https://github.com/seandstewart/bardly"
     - icon: "fontawesome/brands/twitter"
       link: "https://twitter.com/MrSeanStewart"
     - icon: "fontawesome/brands/linkedin"

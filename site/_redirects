@@ -1,2 +1,0 @@
-# Redirect default Netlify subdomain to primary domain
-https://bardly.netlify.app/* https://bardly.seandstewart.io/:splat 301!
