@@ -71,7 +71,7 @@ description = "Data extraction and rendering library for Shakespearean text."
 name = "iambic"
 optional = false
 python-versions = ">=3.7,<4.0"
-version = "2.1.1"
+version = "2.2.1"
 
 [package.dependencies]
 html2text = ">=2020.1.16,<2021.0.0"
@@ -554,8 +554,8 @@ html2text = [
     {file = "html2text-2020.1.16.tar.gz", hash = "sha256:e296318e16b059ddb97f7a8a1d6a5c1d7af4544049a01e261731d2d5cc277bbb"},
 ]
 iambic = [
-    {file = "iambic-2.1.1-py3-none-any.whl", hash = "sha256:cff3e94ceb87fed56881df7a2a6d1cecb4ffeb5b6b6451fda29d87f06e4e6b67"},
-    {file = "iambic-2.1.1.tar.gz", hash = "sha256:5f6a6bc6f3344673eefdc2d43fbf7ec4f42b9da19dc95c8b63cdc24718080912"},
+    {file = "iambic-2.2.1-py3-none-any.whl", hash = "sha256:1ef6854c1c73f63c322354a33f9c090327f6a8118e68499a9ed59ba3c27263a9"},
+    {file = "iambic-2.2.1.tar.gz", hash = "sha256:e977654b4eaeb28279d64ace651611004639efca4f205866d79262234ffbb66c"},
 ]
 identify = [
     {file = "identify-1.4.25-py2.py3-none-any.whl", hash = "sha256:ccd88716b890ecbe10920659450a635d2d25de499b9a638525a48b48261d989b"},
