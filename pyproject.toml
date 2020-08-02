@@ -10,12 +10,12 @@ bardly = 'bardly.plugin:IambicPlugin'
 
 [tool.poetry.dependencies]
 python = "^3.7"
-iambic = "^2.0"
+iambic = "^2.2"
 mkdocs = "^1.1"
 mkdocs-material = "^5.5"
 mkdocs-awesome-pages-plugin = "^2.2.1"
-fontawesome-markdown = "^0.2.6"
 tablib = {extras = ["cli"], version = "^2.0.0"}
+fontawesome-markdown = "^0.2.6"
 
 [tool.poetry.dev-dependencies]
 pre-commit = "^2.3.0"
