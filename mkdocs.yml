@@ -1,7 +1,7 @@
 site_name: Bardly
 site_author: Sean D Stewart
 copyright: "Copyright &copy; 2019 - 2020 Sean Stewart"
-site_url: https://bardly.com
+site_url: https://bardly.org
 repo_url: https://github.com/seandstewart/bardly
 repo_name: seandstewart/bardly
 docs_dir: bardly
