@@ -1,3 +1,5 @@
+# Measure for Measure - 11 Players
+
 ## ACT I
 
 ### SCENE I. An apartment in the DUKE'S palace.
@@ -5,13 +7,13 @@
 *Enter DUKE VINCENTIO, ESCALUS, Lords and Attendants*
 
 **DUKE VINCENTIO**  
-Escalus. ...
+Escalus.
 
 **ESCALUS**  
-... My lord. ...
+My lord.
 
 **DUKE VINCENTIO**  
-... There is our commission,  
+There is our commission,  
 From which we would not have you warp. Call hither,  
 I say, bid come before us Angelo.
 
@@ -1110,12 +1112,12 @@ To fine the faults whose fine stands in record,
 And let go by the actor.
 
 **ISABELLA**  
-O just but severe law!  
-I had a brother, then. Heaven keep your honour!
-Must he needs die?
+... O just but severe law!  
+I had a brother, then. Heaven keep your honour!  
+Must he needs die? ...
 
 **ANGELO**  
-Maiden, no remedy.
+... Maiden, no remedy.
 
 **ISABELLA**  
 Yes; I do think that you might pardon him,  
@@ -1419,11 +1421,11 @@ By which he should revive: and even so
 The general, subject to a well-wish'd king,  
 Quit their own part, and in obsequious fondness  
 Crowd to his presence, where their untaught love  
-Must needs appear offence.
+Must needs appear offence. ...
 
 *Enter ISABELLA*
 
-How now, fair maid?
+... How now, fair maid?
 
 **ISABELLA**  
 I am come to know your pleasure.
@@ -1436,8 +1438,7 @@ Than to demand what 'tis. Your brother cannot live.
 Even so. Heaven keep your honour!
 
 **ANGELO**  
-Yet may he live awhile; and, it may be,
-
+Yet may he live awhile; and, it may be,  
 As long as you or I yet he must die.
 
 **ISABELLA**  
@@ -2326,7 +2327,7 @@ continency; sparrows must not build in his
 house-eaves, because they are lecherous. The duke  
 yet would have dark deeds darkly answered; he would  
 never bring them to light: would he were returned!  
-Marry, this Claudio is condemned for untrussing.  a
+Marry, this Claudio is condemned for untrussing.  
 Farewell, good friar: I prithee, pray for me. The  
 duke, I say to thee again, would eat mutton on  
 Fridays. He's not past it yet, and I say to thee,  
@@ -2557,10 +2558,10 @@ If you advise it. ...
 
 **DUKE VINCENTIO**  
 ... It is not my consent,  
-But my entreaty too.
+But my entreaty too. ...
 
 **ISABELLA**  
-Little have you to say  
+... Little have you to say  
 When you depart from him, but, soft and low,  
 'Remember now my brother.' ...
 
@@ -3177,8 +3178,7 @@ Not within, sir.
 
 **LUCIO**  
 O pretty Isabella, I am pale at mine heart to see  
-thine eyes so red: thou must be patient.
-
+thine eyes so red: thou must be patient.  
 By my troth, Isabel, I loved thy brother:  
 if the old fantastical duke of dark corners had been  
 at home, he had lived.
@@ -3424,10 +3424,10 @@ As then the messenger--
 That's I, an't like your grace:  
 I came to her from Claudio, and desired her  
 To try her gracious fortune with Lord Angelo  
-For her poor brother's pardon.
+For her poor brother's pardon. ...
 
 **DUKE VINCENTIO**  
-I wish you now, then;  
+... I wish you now, then;  
 Pray you, take note of it: and when you have  
 A business for yourself, pray heaven you then  
 Be perfect.
@@ -3454,7 +3454,10 @@ Release my brother; and, after much debatement,
 My sisterly remorse confutes mine honour,  
 And I did yield to him: but the next morn betimes,  
 His purpose surfeiting, he sends a warrant  
-For my poor brother's head.
+For my poor brother's head. ...
+
+**DUKE VINCENTIO**  
+... This is most likely!
 
 **DUKE VINCENTIO**  
 By heaven, fond wretch, thou knowist not what thou speak'st,  
@@ -3855,7 +3858,7 @@ Will't not off?
 *Pulls off the friar 's hood, and discovers DUKE VINCENTIO*
 
 **DUKE VINCENTIO**  
-Thou art the first knave that e'er mad'st a duke.  
+Thou art the first knave that e'er made'st a duke.  
 First, provost, let me bail these gentle three.
 
 *\[To LUCIO]*  
@@ -3969,11 +3972,17 @@ To buy you a better husband. ...
 
 **MARIANA**  
 ... O my dear lord,  
-I crave no other, nor no better man.  
-*\[Kneeling]*
+I crave no other, nor no better man.
 
 **DUKE VINCENTIO**  
-You do but lose your labour.  
+Never crave him; we are definitive.
+
+**MARIANA**  
+*\[Kneeling]*  
+Gentle my liege-- ...
+
+**DUKE VINCENTIO**  
+... You do but lose your labour.  
 Away with him to death! ...
 
 *\[To LUCIO]*  
@@ -4016,7 +4025,10 @@ For Angelo,
 His act did not o'ertake his bad intent,  
 And must be buried but as an intent  
 That perish'd by the way: thoughts are no subjects;  
-Intents but merely thoughts.
+Intents but merely thoughts. ...
+
+**MARIANA**  
+... Merely, my lord.
 
 **DUKE VINCENTIO**  
 Provost, how came it Claudio was beheaded  
