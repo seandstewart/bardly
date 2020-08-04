@@ -1,3 +1,5 @@
+# The Taming of the Shrew - 11 Players
+
 ## PROLOGUE
 
 ### SCENE I. Before an alehouse on a heath.
@@ -106,18 +108,18 @@ Travelling some journey, to repose him here.
 
 *Re-enter Servant*
 
-How now! who is it?
+How now! who is't? ...
 
 **Servant**  
-An't please your honor, players  
+... An't please your honor, players  
 That offer service to your lordship.
 
 **Lord**  
-Bid them come near.
+Bid them come near. ...
 
 *Enter Players*
 
-Now, fellows, you are welcome.
+... Now, fellows, you are welcome.
 
 **Players**  
 We thank your honor.
@@ -462,8 +464,7 @@ Leave shall you have to court her at your pleasure.
 
 **GREMIO**  
 *\[Aside]*  
-To cart her rather: she's too rough for me.
-
+To cart her rather: she's too rough for me.  
 There, There, Hortensio, will you any wife?
 
 **KATHARINA**  
@@ -1312,7 +1313,7 @@ In the preferment of the eldest sister.
 This liberty is all that I request,  
 That, upon knowledge of my parentage,  
 I may have welcome 'mongst the rest that woo  
-And free access and favour as the rest:  
+And free access and favor as the rest:  
 And, toward the education of your daughters,  
 I here bestow a simple instrument,  
 And this small packet of Greek and Latin books:  
@@ -1706,7 +1707,7 @@ I will be sure my Katharina shall be fine.
 I know not what to say: but give me your hands;  
 God send you joy, Petruchio! 'tis a match.
 
-**GREMIO** **TRANIO**  
+**GREMIO & TRANIO**  
 Amen, say we: we will be witnesses.
 
 **PETRUCHIO**  
@@ -1849,10 +1850,10 @@ You'll leave his lecture when I am in tune?
 That will be never: tune your instrument.
 
 **BIANCA**  
-Where left we last?
+Where left we last? ...
 
 **LUCENTIO**  
-Here, madam:  
+... Here, madam:  
 'Hic ibat Simois; hic est Sigeia tellus;  
 Hic steterat Priami regia celsa senis.'
 
@@ -1950,7 +1951,7 @@ To change true rules for old inventions.
 **Servant**  
 Mistress, your father prays you leave your books  
 And help to dress your sister's chamber up:  
-You know to-morrow is the wedding-day.
+You know tomorrow is the wedding-day.
 
 **BIANCA**  
 Farewell, sweet masters both; I must be gone.
@@ -2096,6 +2097,7 @@ No, sir, I say his horse comes, with him on his back.
 Why, that's all one.
 
 **BIONDELLO**  
+*\[Singing]*  
 Nay, by Saint Jamy,  
 I hold you a penny,  
 A horse and a man  
@@ -2108,16 +2110,16 @@ And yet not many.
 Come, where be these gallants? who's at home?
 
 **BAPTISTA**  
-You are welcome, sir.
+You are welcome, sir. ...
 
 **PETRUCHIO**  
-And yet I come not well.
+... And yet I come not well.
 
 **BAPTISTA**  
-And yet you halt not.
+And yet you halt not. ...
 
 **TRANIO**  
-Not so well apparell'd  
+... Not so well apparell'd  
 As I wish you were.
 
 **PETRUCHIO**  
@@ -2526,7 +2528,7 @@ For it engenders choler, planteth anger;
 And better 'twere that both of us did fast,  
 Since, of ourselves, ourselves are choleric,  
 Than feed it with such over-roasted flesh.  
-Be patient; to-morrow 't shall be mended,  
+Be patient; tomorrow 't shall be mended,  
 And, for this night, we'll fast for company:  
 Come, I will bring thee to thy bridal chamber.
 
@@ -2566,8 +2568,8 @@ Another way I have to man my haggard,
 To make her come and know her keeper's call,  
 That is, to watch her, as we watch these kites  
 That bate and beat and will not be obedient.  
-She eat no meat to-day, nor none shall eat;  
-Last night she slept not, nor to-night she shall not;  
+She eat no meat today, nor none shall eat;  
+Last night she slept not, nor tonight she shall not;  
 As with the meat, some undeserved fault  
 I'll find about the making of the bed;  
 And here I'll fling the pillow, there the bolster,  
@@ -2578,7 +2580,7 @@ And in conclusion she shall watch all night:
 And if she chance to nod I'll rail and brawl  
 And with the clamour keep her still awake.  
 This is a way to kill a wife with kindness;  
-And thus I'll curb her mad and headstrong humour.  
+And thus I'll curb her mad and headstrong humor.  
 He that knows better how to tame a shrew,  
 Now let him speak: 'tis charity to show.
 
@@ -2641,7 +2643,7 @@ Forswear Bianca and her love for ever.
 See, how they kiss and court! Signior Lucentio,  
 Here is my hand, and here I firmly vow  
 Never to woo her no more, but do forswear her,  
-As one unworthy all the former favours  
+As one unworthy all the former favors  
 That I have fondly flatter'd her withal.
 
 **TRANIO**  
@@ -2796,7 +2798,7 @@ As much as an apple doth an oyster, and all one.
 
 **TRANIO**  
 To save your life in this extremity,  
-This favour will I do you for his sake;  
+This favor will I do you for his sake;  
 And think it not the worst of an your fortunes  
 That you are like to Sir Vincentio.  
 His name and credit shall you undertake,  
@@ -2876,7 +2878,7 @@ Nay then, I will not: you shall have the mustard,
 Or else you get no beef of Grumio.
 
 **KATHARINA**  
-Then both, or one, or any thing thou wilt.
+Then both, or one, or anything thou wilt.
 
 **GRUMIO**  
 Why then, the mustard without the beef.
@@ -2926,7 +2928,7 @@ Signior Petruchio, fie! you are to blame.
 Come, mistress Kate, I'll bear you company.
 
 **PETRUCHIO**  
-*\[Aside]*
+*\[Aside]*  
 Eat it up all, Hortensio, if thou lovest me.  
 Much good do it unto thy gentle heart!  
 Kate, eat apace: and now, my honey love,  
@@ -2967,7 +2969,7 @@ When you are gentle, you shall have one too,
 And not till then. ...
 
 **HORTENSIO**  
-*\[Aside]*
+*\[Aside]*  
 ... That will not be in haste.
 
 **KATHARINA**  
@@ -3000,7 +3002,7 @@ Like to a censer in a barber's shop:
 Why, what, i' devil's name, tailor, call'st thou this?
 
 **HORTENSIO**  
-*\[Aside]*
+*\[Aside]*  
 I see she's like to have neither cap nor gown.
 
 **Tailor**  
@@ -3070,7 +3072,7 @@ And 'twill be supper-time ere you come there.
 It shall be seven ere I go to horse:  
 Look, what I speak, or do, or think to do,  
 You are still crossing it. Sirs, let't alone:  
-I will not go to-day; and ere I do,  
+I will not go today; and ere I do,  
 It shall be what o'clock I say it is.
 
 **HORTENSIO**  
@@ -3097,11 +3099,11 @@ Where we were lodgers at the Pegasus.
 With such austerity as 'longeth to a father.
 
 **Pedant**  
-I warrant you.
+I warrant you. ...
 
 *Enter BIONDELLO*
 
-But, sir, here comes your boy;  
+... But, sir, here comes your boy;  
 'Twere good he were school'd.
 
 **TRANIO**  
@@ -3341,7 +3343,7 @@ A' will make the man mad, to make a woman of him.
 Young budding virgin, fair and fresh and sweet,  
 Whither away, or where is thy abode?  
 Happy the parents of so fair a child;  
-Happier the man, whom favourable stars  
+Happier the man, whom favorable stars  
 Allot thee for his lovely bed-fellow!
 
 **PETRUCHIO**  
@@ -3483,7 +3485,7 @@ Art thou his father?
 Ay, sir; so his mother says, if I may believe her.
 
 **PETRUCHIO**  
-*\[To VINCENTIO]*
+*\[To VINCENTIO]*  
 Why, how now, gentleman! why, this  
 is flat knavery, to take upon you another man's name.
 
@@ -3521,9 +3523,8 @@ What, my old worshipful old master? yes, marry, sir:
 see where he looks out of the window.
 
 **VINCENTIO**  
-Is't so, indeed.
-
-*Beats BIONDELLO*
+Is't so, indeed.  
+*\[Beats BIONDELLO]*
 
 **BIONDELLO**  
 Help, help, help! here's a madman will murder me.
@@ -4093,7 +4094,7 @@ Will deign to sip or touch one drop of it.
 Thy husband is thy lord, thy life, thy keeper,  
 Thy head, thy sovereign; one that cares for thee,  
 And for thy maintenance commits his body  
-To painful labour both by sea and land,  
+To painful labor both by sea and land,  
 To watch the night in storms, the day in cold,  
 Whilst thou liest warm at home, secure and safe;  
 And craves no other tribute at thy hands  
