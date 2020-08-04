@@ -1,3 +1,5 @@
+# Troilus and Cressida - 11 Players
+
 ## ACT I
 
 ### SCENE I. Troy. Before Priam's palace.
@@ -41,8 +43,8 @@ stay the cooling too, or you may chance to burn your lips.
 Patience herself, what goddess e'er she be,  
 Doth lesser blench at sufferance than I do.  
 At Priam's royal table do I sit;  
-And when fair Cressid comes into my thoughts,--  
-O Pandarus! I tell thee, Pandarus,--  
+And when fair Cressid comes into my thoughts--  
+O Pandarus! I tell thee, Pandarus--  
 When I do tell thee, there my hopes lie drown'd,  
 Reply not in how many fathoms deep  
 They lie indrench'd. I tell thee I am mad  
@@ -89,13 +91,13 @@ I'll tell her the next time I see her: for my part,
 I'll meddle nor make no more i' the matter.
 
 **TROILUS**  
-Pandarus,-- ...
+Pandarus-- ...
 
 **PANDARUS**  
 ... Not I. ...
 
 **TROILUS**  
-... Sweet Pandarus,--
+... Sweet Pandarus--
 
 **PANDARUS**  
 Pray you, speak no more to me: I will leave  
@@ -330,8 +332,8 @@ Nor his beauty.
 **PANDARUS**  
 You have no judgment, niece: Helen  
 herself swore th' other day, that Troilus, for  
-a brown favour--for so 'tis, I must confess,--  
-not brown neither,--
+a brown favour--for so 'tis, I must confess--  
+not brown neither--
 
 **CRESSIDA**  
 No, but brown.
@@ -361,8 +363,8 @@ Then she's a merry Greek indeed.
 
 **PANDARUS**  
 Nay, I am sure she does. She came to him th' other  
-day into the compassed window,--and, you know, he  
-has not past three or four hairs on his chin,--
+day into the compassed window--and, you know, he  
+has not past three or four hairs on his chin--
 
 **CRESSIDA**  
 Indeed, a tapster's arithmetic may soon bring his  
@@ -397,7 +399,7 @@ O yes, an 'twere a cloud in autumn.
 
 **PANDARUS**  
 Why, go to, then: but to prove to you that Helen  
-loves Troilus,--
+loves Troilus--
 
 **CRESSIDA**  
 Troilus will stand to the proof, if you'll  
@@ -414,7 +416,7 @@ head, you would eat chickens i' the shell.
 **PANDARUS**  
 I cannot choose but laugh, to think how she tickled  
 his chin: indeed, she has a marvellous white hand, I  
-must needs confess,--
+must needs confess--
 
 **CRESSIDA**  
 Without the rack.
@@ -766,12 +768,12 @@ Call Agamemnon head and general.
 
 **AENEAS**  
 We have, great Agamemnon, here in Troy  
-A prince call'd Hector,--Priam is his father,--  
+A prince call'd Hector--Priam is his father--  
 If there be one among the fair'st of Greece  
 That loves his mistress more than in confession,  
 With truant vows to her own lips he loves,  
 And dare avow her beauty and her worth  
-In other arms than hers,--to him this challenge.  
+In other arms than hers--to him this challenge.  
 Hector, in view of Trojans and of Greeks,  
 Shall make it good, or do his best to do it,  
 He hath a lady, wiser, fairer, truer,  
@@ -815,8 +817,8 @@ Relates in purpose only to Achilles.
 
 **NESTOR**  
 And that Achilles, were his brain as barren  
-As banks of Libya,--though, Apollo knows,  
-'Tis dry enough,--will, with great speed of judgment,  
+As banks of Libya--though, Apollo knows,  
+'Tis dry enough--will, with great speed of judgment,  
 Ay, with celerity, find Hector's purpose  
 Pointing on him.
 
@@ -1555,14 +1557,14 @@ sing, certainly.
 **PANDARUS**  
 Well, sweet queen. You are pleasant with me. But,  
 marry, thus, my lord: my dear lord and most esteemed  
-friend, your brother Troilus,--
+friend, your brother Troilus--
 
 **HELEN**  
-My Lord Pandarus; honey-sweet lord,--
+My Lord Pandarus; honey-sweet lord--
 
 **PANDARUS**  
 Go to, sweet queen, to go:--commends himself most  
-affectionately to you,--
+affectionately to you--
 
 **HELEN**  
 You shall not bob us out of our melody: if you do,  
@@ -1581,7 +1583,7 @@ no. And, my lord, he desires you, that if the king
 call for him at supper, you will make his excuse.
 
 **HELEN**  
-My Lord Pandarus,--
+My Lord Pandarus--
 
 **PANDARUS**  
 What says my sweet queen, my very very sweet queen?
@@ -1590,7 +1592,7 @@ What says my sweet queen, my very very sweet queen?
 What exploit's in hand? where sups he tonight?
 
 **HELEN**  
-Nay, but, my lord,--
+Nay, but, my lord--
 
 **PANDARUS**  
 What says my sweet queen? My cousin will fall out  
@@ -1680,7 +1682,7 @@ To help unarm our Hector: his stubborn buckles,
 With these your white enchanting fingers touch'd,  
 Shall more obey than to the edge of steel  
 Or force of Greekish sinews; you shall do more  
-Than all the island kings,--disarm great Hector.
+Than all the island kings--disarm great Hector.
 
 **HELEN**  
 'Twill make us proud to be his servant, Paris;  
@@ -1745,7 +1747,7 @@ Will you walk in, my lord?
 O Cressida, how often have I wished me thus!
 
 **CRESSIDA**  
-Wished, my lord! The gods grant,--O my lord!
+Wished, my lord! The gods grant--O my lord!
 
 **TROILUS**  
 What should they grant? what makes this pretty  
@@ -1867,7 +1869,7 @@ For this time will I take my leave, my lord.
 Your leave, sweet Cressid!
 
 **PANDARUS**  
-Leave! an you take leave till tomorrow morning,--
+Leave! an you take leave till tomorrow morning--
 
 **CRESSIDA**  
 Pray you, content you.
@@ -2122,8 +2124,8 @@ Till it hath travell'd and is mirror'd there
 Where it may see itself. This is not strange at all.
 
 **ULYSSES**  
-I do not strain at the position,--  
-It is familiar,--but at the author's drift;  
+I do not strain at the position--  
+It is familiar--but at the author's drift;  
 Who, in his circumstance, expressly proves  
 That no man is the lord of anything,  
 Till he communicate his parts to others:  
@@ -2253,7 +2255,7 @@ raves in saying nothing.
 How can that be?
 
 **THERSITES**  
-Why, he stalks up and down like a peacock,--a stride  
+Why, he stalks up and down like a peacock--a stride  
 and a stand: ruminates like an hostess that hath no  
 arithmetic but her brain to set down her reckoning:  
 bites his lip with a politic regard, as who should  
@@ -2287,13 +2289,13 @@ Jove bless great Ajax!
 Hum!
 
 **PATROCLUS**  
-I come from the worthy Achilles,--
+I come from the worthy Achilles--
 
 **THERSITES**  
 Ha!
 
 **PATROCLUS**  
-Who most humbly desires you to invite Hector to his tent,--
+Who most humbly desires you to invite Hector to his tent--
 
 **THERSITES**  
 Hum!
@@ -2411,10 +2413,10 @@ there's one up.
 
 **PANDARUS**  
 *\[Within]*  
-What, 's all the doors open here?
+What, 's all the doors open here? ...
 
 **TROILUS**  
-It is your uncle.
+... It is your uncle.
 
 **CRESSIDA**  
 A pestilence on him! now will he be mocking:  
@@ -2585,7 +2587,7 @@ If ever she leave Troilus! Time, force, and death,
 Do to this body what extremes you can;  
 But the strong base and building of my love  
 Is as the very centre of the earth,  
-Drawing all things to it. I'll go in and weep,--
+Drawing all things to it. I'll go in and weep--
 
 **PANDARUS**  
 Do, do.
@@ -2716,7 +2718,7 @@ A woful Cressid 'mongst the merry Greeks!
 When shall we see again?
 
 **TROILUS**  
-Hear me, my love: be thou but true of heart,--
+Hear me, my love: be thou but true of heart--
 
 **CRESSIDA**  
 I true! how now! what wicked deem is this?
@@ -2785,7 +2787,7 @@ Presuming on their changeful potency.
 
 **AENEAS**  
 *\[Within]*  
-Nay, good my lord,-- ...
+Nay, good my lord-- ...
 
 **TROILUS**  
 ... Come, kiss; and let us part.
@@ -3468,10 +3470,10 @@ Sweet honey Greek, tempt me no more to folly.
 Roguery! ...
 
 **DIOMEDES**  
-... Nay, then,-- ...
+... Nay, then-- ...
 
 **CRESSIDA**  
-... I'll tell you what,--
+... I'll tell you what--
 
 **DIOMEDES**  
 Foh, foh! come, tell a pin: you are forsworn.
@@ -3480,7 +3482,7 @@ Foh, foh! come, tell a pin: you are forsworn.
 In faith, I cannot: what would you have me do?
 
 **THERSITES**  
-A juggling trick,--to be secretly open.
+A juggling trick--to be secretly open.
 
 **DIOMEDES**  
 What did you swear you would bestow on me?
@@ -3499,7 +3501,7 @@ Good night. ...
 ... How now, Trojan! ...
 
 **CRESSIDA**  
-... Diomed,--
+... Diomed--
 
 **DIOMEDES**  
 No, no, good night: I'll be your fool no more.
@@ -3615,7 +3617,7 @@ Here, Diomed, keep this sleeve.
 O beauty! where is thy faith?
 
 **ULYSSES**  
-My lord,--
+My lord--
 
 **TROILUS**  
 I will be patient; outwardly I will.

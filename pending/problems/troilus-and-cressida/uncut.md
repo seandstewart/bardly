@@ -1,8 +1,11 @@
+# Troilus and Cressida - Uncut
+
 ## ACT I
 
 ### PROLOGUE
 
-**Prologue** In Troy, there lies the scene. From isles of Greece  
+**Prologue**  
+In Troy, there lies the scene. From isles of Greece  
 The princes orgulous, their high blood chafed,  
 Have to the port of Athens sent their ships,  
 Fraught with the ministers and instruments  
@@ -3588,7 +3591,8 @@ tick in a sheep than such a valiant ignorance.
 
 ### SCENE I. Troy. A street.
 
-*Enter, from one side, AENEAS, and Servant with a torch; from the other, PARIS, DEIPHOBUS, ANTENOR, DIOMEDES, and others, with torches*
+*Enter, from one side, AENEAS, and Servant with a torch; from the other,
+PARIS, DEIPHOBUS, ANTENOR, DIOMEDES, and others, with torches*
 
 **PARIS**  
 See, ho! who is that there?
@@ -4160,7 +4164,8 @@ That tempts most cunningly: but be not tempted.
 Do you think I will?
 
 **TROILUS**  
-No. But something may be done that we will not:  
+No.
+But something may be done that we will not:  
 And sometimes we are devils to ourselves,  
 When we will tempt the frailty of our powers,  
 Presuming on their changeful potency.
@@ -4264,7 +4269,8 @@ On his fair worth and single chivalry.
 
 ### SCENE V. The Grecian camp. Lists set out.
 
-*Enter AJAX, armed; AGAMEMNON, ACHILLES, PATROCLUS, MENELAUS, ULYSSES, NESTOR, and others*
+*Enter AJAX, armed; AGAMEMNON, ACHILLES, PATROCLUS, MENELAUS, ULYSSES,
+NESTOR, and others*
 
 **AGAMEMNON**  
 Here art thou in appointment fresh and fair,  
@@ -4954,7 +4960,8 @@ were not Thersites; for I care not to be the louse
 of a lazar, so I were not Menelaus! Hey-day!  
 spirits and fires!
 
-*Enter HECTOR, TROILUS, AJAX, AGAMEMNON, ULYSSES, NESTOR, MENELAUS, and DIOMEDES, with lights*
+*Enter HECTOR, TROILUS, AJAX, AGAMEMNON, ULYSSES, NESTOR, MENELAUS, and
+DIOMEDES, with lights*
 
 **AGAMEMNON**  
 We go wrong, we go wrong.
@@ -6125,7 +6132,8 @@ Along the field I will the Trojan trail.
 
 ### SCENE IX. Another part of the plains.
 
-*Enter AGAMEMNON, AJAX, MENELAUS, NESTOR, DIOMEDES, and others, marching. Shouts within*
+*Enter AGAMEMNON, AJAX, MENELAUS, NESTOR, DIOMEDES, and others, marching.
+Shouts within*
 
 **AGAMEMNON**  
 Hark! hark! what shout is that?
@@ -6240,4 +6248,3 @@ Till then I'll sweat and seek about for eases,
 And at that time bequeathe you my diseases.
 
 *Exit*
-
