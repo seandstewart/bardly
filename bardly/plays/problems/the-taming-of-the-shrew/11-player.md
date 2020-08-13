@@ -1,3 +1,5 @@
+# The Taming of the Shrew - 11 Players
+
 ## PROLOGUE
 
 ### SCENE I. Before an alehouse on a heath.
@@ -19,12 +21,11 @@ Therefore paucas pallabris; let the world slide: sessa!
 You will not pay for the glasses you have burst?
 
 **SLY**  
-No, not a denier. Go by, Jeronimy: go to thy cold  
-bed, and warm thee.
+No, not a denier.
 
 **Hostess**  
 I know my remedy; I must go fetch the  
-third--borough.
+third-borough.
 
 *Exit*
 
@@ -39,8 +40,6 @@ and kindly.
 
 **Lord**  
 Huntsman, I charge thee, tender well my hounds:  
-Brach Merriman, the poor cur is emboss'd;  
-And couple Clowder with the deep--mouth'd brach.  
 Saw'st thou not, boy, how Silver made it good  
 At the hedge-corner, in the coldest fault?  
 I would not lose the dog for twenty pound.
@@ -48,19 +47,12 @@ I would not lose the dog for twenty pound.
 **First Huntsman**  
 Why, Belman is as good as he, my lord;  
 He cried upon it at the merest loss  
-And twice to-day pick'd out the dullest scent:  
+And twice today pick'd out the dullest scent:  
 Trust me, I take him for the better dog.
 
 **Lord**  
 Thou art a fool: if Echo were as fleet,  
 I would esteem him worth a dozen such.  
-But sup them well and look unto them all:  
-To-morrow I intend to hunt again.
-
-**First Huntsman**  
-I will, my lord.
-
-**Lord**  
 What's here? one dead, or drunk? See, doth he breathe?
 
 **Second Huntsman**  
@@ -68,8 +60,6 @@ He breathes, my lord. Were he not warm'd with ale,
 This were a bed but cold to sleep so soundly.
 
 **Lord**  
-O monstrous beast! how like a swine he lies!  
-Grim death, how foul and loathsome is thine image!  
 Sirs, I will practise on this drunken man.  
 What think you, if he were convey'd to bed,  
 Wrapp'd in sweet clothes, rings put upon his fingers,  
@@ -90,25 +80,13 @@ Carry him gently to my fairest chamber
 And hang it round with all my wanton pictures:  
 Balm his foul head in warm distilled waters  
 And burn sweet wood to make the lodging sweet:  
-Procure me music ready when he wakes,  
-To make a dulcet and a heavenly sound;  
-And if he chance to speak, be ready straight  
-And with a low submissive reverence  
-Say 'What is it your honour will command?'  
-Let one attend him with a silver basin  
-Full of rose-water and bestrew'd with flowers,  
-Another bear the ewer, the third a diaper,  
-And say 'Will't please your lordship cool your hands?'  
-Some one be ready with a costly suit  
+Someone be ready with a costly suit  
 And ask him what apparel he will wear;  
 Another tell him of his hounds and horse,  
 And that his lady mourns at his disease:  
 Persuade him that he hath been lunatic;  
 And when he says he is, say that he dreams,  
-For he is nothing but a mighty lord.  
-This do and do it kindly, gentle sirs:  
-It will be pastime passing excellent,  
-If it be husbanded with modesty.
+For he is nothing but a mighty lord.
 
 **First Huntsman**  
 My lord, I warrant you we will play our part,  
@@ -119,37 +97,37 @@ He is no less than what we say he is.
 Take him up gently and to bed with him;  
 And each one to his office when he wakes.
 
-*Some bear out SLY. A trumpet sounds*
+*First Huntsman bears out SLY. A trumpet sounds*
 
 Sirrah, go see what trumpet 'tis that sounds:
 
-*Exit Servingman*
+*Exit Servant*
 
 Belike, some noble gentleman that means,  
 Travelling some journey, to repose him here.
 
-*Re-enter Servingman*
+*Re-enter Servant*
 
-How now! who is it?
+How now! who is't? ...
 
 **Servant**  
-An't please your honour, players  
+... An't please your honor, players  
 That offer service to your lordship.
 
 **Lord**  
-Bid them come near.
+Bid them come near. ...
 
 *Enter Players*
 
-Now, fellows, you are welcome.
+... Now, fellows, you are welcome.
 
 **Players**  
-We thank your honour.
+We thank your honor.
 
 **Lord**  
 Do you intend to stay with me tonight?
 
-**A Player**  
+**First Player**  
 So please your lordship to accept our duty.
 
 **Lord**  
@@ -159,48 +137,41 @@ Since once he play'd a farmer's eldest son:
 I have forgot your name; but, sure, that part  
 Was aptly fitted and naturally perform'd.
 
-**A Player**  
-I think 'twas Soto that your honour means.
+**First Player**  
+I think 'twas Soto that your honor means.
 
 **Lord**  
 'Tis very true: thou didst it excellent.  
 Well, you are come to me in a happy time;  
 The rather for I have some sport in hand  
 Wherein your cunning can assist me much.  
-There is a lord will hear you play to-night:  
+There is a lord will hear you play tonight:  
 But I am doubtful of your modesties;  
 Lest over-eyeing of his odd behavior,--  
-For yet his honour never heard a play--  
+For yet his honor never heard a play--  
 You break into some merry passion  
 And so offend him; for I tell you, sirs,  
 If you should smile he grows impatient.
 
-**A Player**  
+**Second Player**  
 Fear not, my lord: we can contain ourselves,  
 Were he the veriest antic in the world.
 
 **Lord**  
 Go, sirrah, take them to the buttery,  
-And give them friendly welcome every one:  
+And give them friendly welcome everyone:  
 Let them want nothing that my house affords.
 
-*Exit one with the Players*
+*Exit Second Huntsman with the Players*
 
 Sirrah, go you to Barthol'mew my page,  
 And see him dress'd in all suits like a lady:  
 That done, conduct him to the drunkard's chamber;  
 And call him 'madam,' do him obeisance.  
 Tell him from me, as he will win my love,  
-He bear himself with honourable action,  
+He bear himself with honorable action,  
 Such as he hath observed in noble ladies  
 Unto their lords, by them accomplished:  
-Such duty to the drunkard let him do  
-With soft low tongue and lowly courtesy,  
-And say 'What is't your honour will command,  
-Wherein your lady and your humble wife  
-May show her duty and make known her love?'  
-And then with kind embracements, tempting kisses,  
-And with declining head into his bosom,  
 Bid him shed tears, as being overjoy'd  
 To see her noble lord restored to health,  
 Who for this seven years hath esteem'd him  
@@ -213,7 +184,7 @@ Shall in despite enforce a watery eye.
 See this dispatch'd with all the haste thou canst:  
 Anon I'll give thee more instructions.
 
-*Exit a Servingman*
+*Exit a Servant*
 
 I know the boy will well usurp the grace,  
 Voice, gait and action of a gentlewoman:  
@@ -238,13 +209,13 @@ For God's sake, a pot of small ale.
 Will't please your lordship drink a cup of sack?
 
 **Second Servant**  
-Will't please your honour taste of these conserves?
+Will't please your honor taste of these conserves?
 
 **Third Servant**  
-What raiment will your honour wear to-day?
+What raiment will your honor wear today?
 
 **SLY**  
-I am Christophero Sly; call not me 'honour' nor  
+I am Christophero Sly; call not me 'honor' nor  
 'lordship:' I ne'er drank sack in my life; and if  
 you give me any conserves, give me conserves of  
 beef: ne'er ask me what raiment I'll wear; for I  
@@ -254,7 +225,7 @@ sometimes more feet than shoes, or such shoes as my
 toes look through the over-leather.
 
 **Lord**  
-Heaven cease this idle humour in your honour!  
+Heaven cease this idle humor in your honor!  
 O, that a mighty man of such descent,  
 Of such possessions and so high esteem,  
 Should be infused with so foul a spirit!
@@ -283,22 +254,7 @@ O noble lord, bethink thee of thy birth,
 Call home thy ancient thoughts from banishment  
 And banish hence these abject lowly dreams.  
 Look how thy servants do attend on thee,  
-Each in his office ready at thy beck.  
-Wilt thou have music? hark! Apollo plays,
-
-*Music*
-
-And twenty caged nightingales do sing:  
-Or wilt thou sleep? we'll have thee to a couch  
-Softer and sweeter than the lustful bed  
-On purpose trimm'd up for Semiramis.  
-Say thou wilt walk; we will bestrew the ground:  
-Or wilt thou ride? thy horses shall be trapp'd,  
-Their harness studded all with gold and pearl.  
-Dost thou love hawking? thou hast hawks will soar  
-Above the morning lark or wilt thou hunt?  
-Thy hounds shall make the welkin answer them  
-And fetch shrill echoes from the hollow earth.
+Each in his office ready at thy beck.
 
 **First Servant**  
 Say thou wilt course; thy greyhounds are as swift  
@@ -306,21 +262,7 @@ As breathed stags, ay, fleeter than the roe.
 
 **Second Servant**  
 Dost thou love pictures? we will fetch thee straight  
-Adonis painted by a running brook,  
-And Cytherea all in sedges hid,  
-Which seem to move and wanton with her breath,  
-Even as the waving sedges play with wind.
-
-**Lord**  
-We'll show thee Io as she was a maid,  
-And how she was beguiled and surprised,  
-As lively painted as the deed was done.
-
-**Third Servant**  
-Or Daphne roaming through a thorny wood,  
-Scratching her legs that one shall swear she bleeds,  
-And at that sight shall sad Apollo weep,  
-So workmanly the blood and tears are drawn.
+Adonis painted by a running brook,
 
 **Lord**  
 Thou art a lord, and nothing but a lord:  
@@ -344,9 +286,7 @@ Well, bring our lady hither to our sight;
 And once again, a pot o' the smallest ale.
 
 **Second Servant**  
-Will't please your mightiness to wash your hands?  
 O, how we joy to see your wit restored!  
-O, that once more you knew but what you are!  
 These fifteen years you have been in a dream;  
 Or when you waked, so waked as if you slept.
 
@@ -367,12 +307,7 @@ Sometimes you would call out for Cicely Hacket.
 Ay, the woman's maid of the house.
 
 **Third Servant**  
-Why, sir, you know no house nor no such maid,  
-Nor no such men as you have reckon'd up,  
-As Stephen Sly and did John Naps of Greece  
-And Peter Turph and Henry Pimpernell  
-And twenty more such names and men as these  
-Which never were nor no man ever saw.
+Why, sir, you know no house nor no such maid!
 
 **SLY**  
 Now Lord be thanked for my good amends!
@@ -413,8 +348,7 @@ Madam.
 Al'ce madam, or Joan madam?
 
 **Lord**  
-'Madam,' and nothing else: so lords  
-call ladies.
+'Madam,' and nothing else: so lords call ladies.
 
 **SLY**  
 Madam wife, they say that I have dream'd  
@@ -446,7 +380,7 @@ despite of the flesh and the blood.
 *Enter a Messenger*
 
 **Messenger**  
-Your honour's players, heating your amendment,  
+Your honor's players, heating your amendment,  
 Are come to play a pleasant comedy;  
 For so your doctors hold it very meet,  
 Seeing too much sadness hath congeal'd your blood,  
@@ -481,13 +415,6 @@ and let the world slip: we shall ne'er be younger.
 *Enter LUCENTIO and his man TRANIO*
 
 **LUCENTIO**  
-Tranio, since for the great desire I had  
-To see fair Padua, nursery of arts,  
-I am arrived for fruitful Lombardy,  
-The pleasant garden of great Italy;  
-And by my father's love and leave am arm'd  
-With his good will and thy good company,  
-My trusty servant, well approved in all,  
 Here let us breathe and haply institute  
 A course of learning and ingenious studies.  
 Pisa renown'd for grave citizens  
@@ -514,26 +441,14 @@ To suck the sweets of sweet philosophy.
 Only, good master, while we do admire  
 This virtue and this moral discipline,  
 Let's be no stoics nor no stocks, I pray;  
-Or so devote to Aristotle's cheques  
-As Ovid be an outcast quite abjured:  
 Balk logic with acquaintance that you have  
 And practise rhetoric in your common talk;  
-Music and poesy use to quicken you;  
-The mathematics and the metaphysics,  
-Fall to them as you find your stomach serves you;  
 No profit grows where is no pleasure ta'en:  
 In brief, sir, study what you most affect.
 
 **LUCENTIO**  
 Gramercies, Tranio, well dost thou advise.  
-If, Biondello, thou wert come ashore,  
-We could at once put us in readiness,  
-And take a lodging fit to entertain  
-Such friends as time in Padua shall beget.  
 But stay a while: what company is this?
-
-**TRANIO**  
-Master, some show to welcome us to town.
 
 *Enter BAPTISTA, KATHARINA, BIANCA, GREMIO, and HORTENSIO. LUCENTIO and
 TRANIO stand by*
@@ -558,7 +473,7 @@ To make a stale of me amongst these mates?
 
 **HORTENSIO**  
 Mates, maid! how mean you that? no mates for you,  
-Unless you were of gentler, milder mould.
+Unless you were of gentler, milder mold.
 
 **KATHARINA**  
 I'faith, sir, you shall never need to fear:  
@@ -567,23 +482,13 @@ But if it were, doubt not her care should be
 To comb your noddle with a three-legg'd stool  
 And paint your face and use you like a fool.
 
-**HORTENSIA**  
-From all such devils, good Lord deliver us!
-
-**GREMIO**  
-And me too, good Lord!
-
 **TRANIO**  
 Hush, master! here's some good pastime toward:  
 That wench is stark mad or wonderful froward.
 
 **LUCENTIO**  
 But in the other's silence do I see  
-Maid's mild behavior and sobriety.  
-Peace, Tranio!
-
-**TRANIO**  
-Well said, master; mum! and gaze your fill.
+Maid's mild behavior and sobriety.
 
 **BAPTISTA**  
 Gentlemen, that I may soon make good  
@@ -607,10 +512,10 @@ Hark, Tranio! thou may'st hear Minerva speak.
 **HORTENSIO**  
 Signior Baptista, will you be so strange?  
 Sorry am I that our good will effects  
-Bianca's grief.
+Bianca's grief. ...
 
 **GREMIO**  
-Why will you mew her up,  
+... Why will you mew her up,  
 Signior Baptista, for this fiend of hell,  
 And make her bear the penance of her tongue?
 
@@ -656,7 +561,7 @@ Though the nature of our quarrel yet never brooked
 parle, know now, upon advice, it toucheth us both,  
 that we may yet again have access to our fair  
 mistress and be happy rivals in Bianco's love, to  
-labour and effect one thing specially.
+labor and effect one thing specially.
 
 **GREMIO**  
 What's that, I pray?
@@ -713,23 +618,10 @@ O Tranio, till I found it to be true,
 I never thought it possible or likely;  
 But see, while idly I stood looking on,  
 I found the effect of love in idleness:  
-And now in plainness do confess to thee,  
-That art to me as secret and as dear  
-As Anna to the queen of Carthage was,  
 Tranio, I burn, I pine, I perish, Tranio,  
 If I achieve not this young modest girl.  
 Counsel me, Tranio, for I know thou canst;  
 Assist me, Tranio, for I know thou wilt.
-
-**TRANIO**  
-Master, it is no time to chide you now;  
-Affection is not rated from the heart:  
-If love have touch'd you, nought remains but so,  
-'Redime te captum quam queas minimo.'
-
-**LUCENTIO**  
-Gramercies, lad, go forward; this contents:  
-The rest will comfort, for thy counsel's sound.
 
 **TRANIO**  
 Master, you look'd so longly on the maid,  
@@ -770,22 +662,22 @@ To get her cunning schoolmasters to instruct her?
 Ay, marry, am I, sir; and now 'tis plotted.
 
 **LUCENTIO**  
-I have it, Tranio.
+I have it, Tranio. ...
 
 **TRANIO**  
-Master, for my hand,  
+... Master, for my hand,  
 Both our inventions meet and jump in one.
 
 **LUCENTIO**  
-Tell me thine first.
+Tell me thine first. ...
 
 **TRANIO**  
-You will be schoolmaster  
+... You will be schoolmaster  
 And undertake the teaching of the maid:  
-That's your device.
+That's your device. ...
 
 **LUCENTIO**  
-It is: may it be done?
+... It is: may it be done?
 
 **TRANIO**  
 Not possible; for who shall bear your part,  
@@ -809,94 +701,19 @@ But I will charm him first to keep his tongue.
 
 **TRANIO**  
 So had you need.  
-In brief, sir, sith it your pleasure is,  
-And I am tied to be obedient;  
-For so your father charged me at our parting,  
-'Be serviceable to my son,' quoth he,  
-Although I think 'twas in another sense;  
 I am content to be Lucentio,  
 Because so well I love Lucentio.
 
 **LUCENTIO**  
 Tranio, be so, because Lucentio loves:  
 And let me be a slave, to achieve that maid  
-Whose sudden sight hath thrall'd my wounded eye.  
-Here comes the rogue.
-
-*Enter BIONDELLO*
-
-Sirrah, where have you been?
-
-**BIONDELLO**  
-Where have I been! Nay, how now! where are you?  
-Master, has my fellow Tranio stolen your clothes? Or  
-you stolen his? or both? pray, what's the news?
-
-**LUCENTIO**  
-Sirrah, come hither: 'tis no time to jest,  
-And therefore frame your manners to the time.  
-Your fellow Tranio here, to save my life,  
-Puts my apparel and my countenance on,  
-And I for my escape have put on his;  
-For in a quarrel since I came ashore  
-I kill'd a man and fear I was descried:  
-Wait you on him, I charge you, as becomes,  
-While I make way from hence to save my life:  
-You understand me?
-
-**BIONDELLO**  
-I, sir! ne'er a whit.
-
-**LUCENTIO**  
-And not a jot of Tranio in your mouth:  
-Tranio is changed into Lucentio.
-
-**BIONDELLO**  
-The better for him: would I were so too!
-
-**TRANIO**  
-So could I, faith, boy, to have the next wish after,  
-That Lucentio indeed had Baptista's youngest daughter.  
-But, sirrah, not for my sake, but your master's, I advise  
-You use your manners discreetly in all kind of companies:  
-When I am alone, why, then I am Tranio;  
-But in all places else your master Lucentio.
-
-**LUCENTIO**  
-Tranio, let's go: one thing more rests, that  
-thyself execute, to make one among these wooers: if  
-thou ask me why, sufficeth, my reasons are both good  
-and weighty.
-
-*Exeunt*
-
-*The presenters above speak*
-
-**First Servant**  
-My lord, you nod; you do not mind the play.
-
-**SLY**  
-Yes, by Saint Anne, do I. A good matter, surely:  
-comes there any more of it?
-
-**Page**  
-My lord, 'tis but begun.
-
-**SLY**  
-'Tis a very excellent piece of work, madam lady:  
-would 'twere done!
-
-*They sit and mark*
+Whose sudden sight hath thrall'd my wounded eye.
 
 ### SCENE II. Padua. Before HORTENSIO'S house.
 
 *Enter PETRUCHIO and his man GRUMIO*
 
 **PETRUCHIO**  
-Verona, for a while I take my leave,  
-To see my friends in Padua, but of all  
-My best beloved and approved friend,  
-Hortensio; and I trow this is his house.  
 Here, sirrah Grumio; knock, I say.
 
 **GRUMIO**  
@@ -915,8 +732,7 @@ Villain, I say, knock me at this gate
 And rap me well, or I'll knock your knave's pate.
 
 **GRUMIO**  
-My master is grown quarrelsome. I should knock  
-you first,  
+My master is grown quarrelsome. I should knock you first,  
 And then I know after who comes by the worst.
 
 **PETRUCHIO**  
@@ -939,38 +755,10 @@ How now! what's the matter? My old friend Grumio!
 and my good friend Petruchio! How do you all at Verona?
 
 **PETRUCHIO**  
-Signior Hortensio, come you to part the fray?  
-'Con tutto il cuore, ben trovato,' may I say.
+Signior Hortensio, come you to part the fray?
 
 **HORTENSIO**  
-'Alla nostra casa ben venuto, molto honorato signor  
-mio Petruchio.' Rise, Grumio, rise: we will compound  
-this quarrel.
-
-**GRUMIO**  
-Nay, 'tis no matter, sir, what he 'leges in Latin.  
-if this be not a lawful case for me to leave his  
-service, look you, sir, he bid me knock him and rap  
-him soundly, sir: well, was it fit for a servant to  
-use his master so, being perhaps, for aught I see,  
-two and thirty, a pip out? Whom would to God I had  
-well knock'd at first, Then had not Grumio come by the worst.
-
-**PETRUCHIO**  
-A senseless villain! Good Hortensio,  
-I bade the rascal knock upon your gate  
-And could not get him for my heart to do it.
-
-**GRUMIO**  
-Knock at the gate! O heavens! Spake you not these  
-words plain, 'Sirrah, knock me here, rap me here,  
-knock me well, and knock me soundly'? And come you  
-now with, 'knocking at the gate'?
-
-**PETRUCHIO**  
-Sirrah, be gone, or talk not, I advise you.
-
-**HORTENSIO**  
+Rise, Grumio, rise: we will compound this quarrel.  
 Petruchio, patience; I am Grumio's pledge:  
 Why, this's a heavy chance 'twixt him and you,  
 Your ancient, trusty, pleasant servant Grumio.  
@@ -978,10 +766,6 @@ And tell me now, sweet friend, what happy gale
 Blows you to Padua here from old Verona?
 
 **PETRUCHIO**  
-Such wind as scatters young men through the world,  
-To seek their fortunes farther than at home  
-Where small experience grows. But in a few,  
-Signior Hortensio, thus it stands with me:  
 Antonio, my father, is deceased;  
 And I have thrust myself into this maze,  
 Haply to wive and thrive as best I may:  
@@ -990,7 +774,7 @@ And so am come abroad to see the world.
 
 **HORTENSIO**  
 Petruchio, shall I then come roundly to thee  
-And wish thee to a shrewd ill-favour'd wife?  
+And wish thee to a shrewd ill-favor'd wife?  
 Thou'ldst thank me but a little for my counsel:  
 And yet I'll promise thee she shall be rich  
 And very rich: but thou'rt too much my friend,  
@@ -1002,8 +786,7 @@ Few words suffice; and therefore, if thou know
 One rich enough to be Petruchio's wife,  
 As wealth is burden of my wooing dance,  
 Be she as foul as was Florentius' love,  
-As old as Sibyl and as curst and shrewd  
-As Socrates' Xanthippe, or a worse,  
+As old as Sibyl and as curst and shrewd,
 She moves me not, or not removes, at least,  
 Affection's edge in me, were she as rough  
 As are the swelling Adriatic seas:  
@@ -1051,7 +834,7 @@ To give you over at this first encounter,
 Unless you will accompany me thither.
 
 **GRUMIO**  
-I pray you, sir, let him go while the humour lasts.  
+I pray you, sir, let him go while the humor lasts.  
 O' my word, an she knew him as well as I do, she  
 would think scolding would do little good upon him:  
 she may perhaps call him half a score knaves or so:  
@@ -1187,10 +970,10 @@ And I do hope good days and long to see.
 O sir, such a life, with such a wife, were strange!  
 But if you have a stomach, to't i' God's name:  
 You shall have me assisting you in all.  
-But will you woo this wild-cat?
+But will you woo this wild-cat? ...
 
 **PETRUCHIO**  
-Will I live?
+... Will I live?
 
 **GRUMIO**  
 Will he woo her? ay, or I'll hang her.
@@ -1208,10 +991,10 @@ Loud 'larums, neighing steeds, and trumpets' clang?
 And do you tell me of a woman's tongue,  
 That gives not half so great a blow to hear  
 As will a chestnut in a farmer's fire?  
-Tush, tush! fear boys with bugs.
+Tush, tush! fear boys with bugs. ...
 
 **GRUMIO**  
-For he fears none.
+... For he fears none.
 
 **GREMIO**  
 Hortensio, hark:  
@@ -1228,20 +1011,15 @@ And so we will, provided that he win her.
 **GRUMIO**  
 I would I were as sure of a good dinner.
 
-*Enter TRANIO brave, and BIONDELLO*
+*Enter TRANIO, brave*
 
 **TRANIO**  
 Gentlemen, God save you. If I may be bold,  
 Tell me, I beseech you, which is the readiest way  
 To the house of Signior Baptista Minola?
 
-**BIONDELLO**  
-He that has the two fair daughters: is't he you mean?
-
-**TRANIO**  
-Even he, Biondello.
-
 **GREMIO**  
+He that has the two fair daughters: is't he you mean?  
 Hark you, sir; you mean not her to--
 
 **TRANIO**  
@@ -1251,13 +1029,14 @@ Perhaps, him and her, sir: what have you to do?
 Not her that chides, sir, at any hand, I pray.
 
 **TRANIO**  
-I love no chiders, sir. Biondello, let's away.
+I love no chiders, sir. And so, I'll away.
 
 **LUCENTIO**  
-Well begun, Tranio.
+*\[Aside]*
+Well begun, Tranio. ...
 
 **HORTENSIO**  
-Sir, a word ere you go;  
+... Sir, a word ere you go;  
 Are you a suitor to the maid you talk of, yea or no?
 
 **TRANIO**  
@@ -1268,10 +1047,10 @@ No; if without more words you will get you hence.
 
 **TRANIO**  
 Why, sir, I pray, are not the streets as free  
-For me as for you?
+For me as for you? ...
 
 **GREMIO**  
-But so is not she.
+... But so is not she.
 
 **TRANIO**  
 For what reason, I beseech you?
@@ -1317,12 +1096,12 @@ As is the other for beauteous modesty.
 Sir, sir, the first's for me; let her go by.
 
 **GREMIO**  
-Yea, leave that labour to great Hercules;  
+Yea, leave that labor to great Hercules;  
 And let it be more than Alcides' twelve.
 
 **PETRUCHIO**  
 Sir, understand you this of me in sooth:  
-The younges t daughter whom you hearken for  
+The youngest daughter whom you hearken for  
 Her father keeps from all access of suitors,  
 And will not promise her to any man  
 Until the elder sister first be wed:  
@@ -1330,11 +1109,7 @@ The younger then is free and not before.
 
 **TRANIO**  
 If it be so, sir, that you are the man  
-Must stead us all and me amongst the rest,  
-And if you break the ice and do this feat,  
-Achieve the elder, set the younger free  
-For our access, whose hap shall be to have her  
-Will not so graceless be to be ingrate.
+Must stead us all and me amongst the rest.
 
 **HORTENSIO**  
 Sir, you say well and well you do conceive;  
@@ -1349,7 +1124,7 @@ And quaff carouses to our mistress' health,
 And do as adversaries do in law,  
 Strive mightily, but eat and drink as friends.
 
-**GRUMIO** **BIONDELLO**  
+**GRUMIO**  
 O excellent motion! Fellows, let's be gone.
 
 **HORTENSIO**  
@@ -1410,7 +1185,6 @@ If that be jest, then all the rest was so.
 **BAPTISTA**  
 Why, how now, dame! whence grows this insolence?  
 Bianca, stand aside. Poor girl! she weeps.  
-Go ply thy needle; meddle not with her.  
 For shame, thou helding of a devilish spirit,  
 Why dost thou wrong her that did ne'er wrong thee?  
 When did she cross thee with a bitter word?
@@ -1443,10 +1217,10 @@ But who comes here?
 HORTENSIO as a musician; and TRANIO, with BIONDELLO bearing a lute and books*
 
 **GREMIO**  
-Good morrow, neighbour Baptista.
+Good morrow, neighbor Baptista.
 
 **BAPTISTA**  
-Good morrow, neighbour Gremio.  
+Good morrow, neighbor Gremio.  
 God save you, gentlemen!
 
 **PETRUCHIO**  
@@ -1539,7 +1313,7 @@ In the preferment of the eldest sister.
 This liberty is all that I request,  
 That, upon knowledge of my parentage,  
 I may have welcome 'mongst the rest that woo  
-And free access and favour as the rest:  
+And free access and favor as the rest:  
 And, toward the education of your daughters,  
 I here bestow a simple instrument,  
 And this small packet of Greek and Latin books:  
@@ -1555,16 +1329,9 @@ Of Pisa, sir; son to Vincentio.
 A mighty man of Pisa; by report  
 I know him well: you are very welcome, sir,  
 Take you the lute, and you the set of books;  
-You shall go see your pupils presently.  
-Holla, within!
+You shall go see your pupils presently.
 
-*Enter a Servant*
-
-Sirrah, lead these gentlemen  
-To my daughters; and tell them both,  
-These are their tutors: bid them use them well.
-
-*Exit Servant, with LUCENTIO and HORTENSIO, BIONDELLO following*
+*Exit LUCENTIO and HORTENSIO, BIONDELLO following*
 
 We will go walk a little in the orchard,  
 And then to dinner. You are passing welcome,  
@@ -1598,19 +1365,11 @@ That is, her love; for that is all in all.
 Why, that is nothing: for I tell you, father,  
 I am as peremptory as she proud-minded;  
 And where two raging fires meet together  
-They do consume the thing that feeds their fury:  
-Though little fire grows great with little wind,  
-Yet extreme gusts will blow out fire and all:  
-So I to her and so she yields to me;  
-For I am rough and woo not like a babe.
+They do consume the thing that feeds their fury.
 
 **BAPTISTA**  
 Well mayst thou woo, and happy be thy speed!  
 But be thou arm'd for some unhappy words.
-
-**PETRUCHIO**  
-Ay, to the proof; as mountains are for winds,  
-That shake not, though they blow perpetually.
 
 *Re-enter HORTENSIO, with his head broke*
 
@@ -1635,15 +1394,9 @@ Why, no; for she hath broke the lute to me.
 I did but tell her she mistook her frets,  
 And bow'd her hand to teach her fingering;  
 When, with a most impatient devilish spirit,  
-'Frets, call you these?' quoth she; 'I'll fume  
-with them:'  
+'Frets, call you these?' quoth she; 'I'll fume with them:'  
 And, with that word, she struck me on the head,  
-And through the instrument my pate made way;  
-And there I stood amazed for a while,  
-As on a pillory, looking through the lute;  
-While she did call me rascal fiddler  
-And twangling Jack; with twenty such vile terms,  
-As had she studied to misuse me so.
+And through the instrument my pate made way.
 
 **PETRUCHIO**  
 Now, by the world, it is a lusty wench;  
@@ -1658,11 +1411,11 @@ Signior Petruchio, will you go with us,
 Or shall I send my daughter Kate to you?
 
 **PETRUCHIO**  
-I pray you do.
+I pray you do. ...
 
 *Exeunt all but PETRUCHIO*
 
-I will attend her here,  
+... I will attend her here,  
 And woo her with some spirit when she comes.  
 Say that she rail; why then I'll tell her plain  
 She sings as sweetly as a nightingale:  
@@ -1700,16 +1453,16 @@ Myself am moved to woo thee for my wife.
 **KATHARINA**  
 Moved! in good time: let him that moved you hither  
 Remove you hence: I knew you at the first  
-You were a moveable.
+You were a moveable. ...
 
 **PETRUCHIO**  
-Why, what's a moveable?
+... Why, what's a moveable?
 
 **KATHARINA**  
-A join'd-stool.
+A join'd-stool. ...
 
 **PETRUCHIO**  
-Thou hast hit it: come, sit on me.
+... Thou hast hit it: come, sit on me.
 
 **KATHARINA**  
 Asses are made to bear, and so are you.
@@ -1729,10 +1482,10 @@ Too light for such a swain as you to catch;
 And yet as heavy as my weight should be.
 
 **PETRUCHIO**  
-Should be! should--buzz!
+Should be! should--buzz! ...
 
 **KATHARINA**  
-Well ta'en, and like a buzzard.
+... Well ta'en, and like a buzzard.
 
 **PETRUCHIO**  
 O slow-wing'd turtle! shall a buzzard take thee?
@@ -1767,10 +1520,10 @@ Yours, if you talk of tails: and so farewell.
 
 **PETRUCHIO**  
 What, with my tongue in your tail? nay, come again,  
-Good Kate; I am a gentleman.
+Good Kate; I am a gentleman. ...
 
 **KATHARINA**  
-That I'll try.
+... That I'll try.
 
 *She strikes him*
 
@@ -1804,16 +1557,16 @@ It is my fashion, when I see a crab.
 Why, here's no crab; and therefore look not sour.
 
 **KATHARINA**  
-There is, there is.
+There is, there is. ...
 
 **PETRUCHIO**  
-Then show it me.
+... Then show it me.
 
 **KATHARINA**  
-Had I a glass, I would.
+Had I a glass, I would. ...
 
 **PETRUCHIO**  
-What, you mean my face?
+... What, you mean my face?
 
 **KATHARINA**  
 Well aim'd of such a young one.
@@ -1822,13 +1575,13 @@ Well aim'd of such a young one.
 Now, by Saint George, I am too young for you.
 
 **KATHARINA**  
-Yet you are wither'd.
+Yet you are wither'd. ...
 
 **PETRUCHIO**  
-'Tis with cares.
+... 'Tis with cares. ...
 
 **KATHARINA**  
-I care not.
+... I care not.
 
 **PETRUCHIO**  
 Nay, hear you, Kate: in sooth you scape not so.
@@ -1872,10 +1625,10 @@ It is extempore, from my mother-wit.
 A witty mother! witless else her son.
 
 **PETRUCHIO**  
-Am I not wise?
+Am I not wise? ...
 
 **KATHARINA**  
-Yes; keep you warm.
+... Yes; keep you warm.
 
 **PETRUCHIO**  
 Marry, so I mean, sweet Katharina, in thy bed:  
@@ -1927,8 +1680,7 @@ That upon Sunday is the wedding-day.
 I'll see thee hang'd on Sunday first.
 
 **GREMIO**  
-Hark, Petruchio; she says she'll see thee  
-hang'd first.
+Hark, Petruchio; she says she'll see thee hang'd first.
 
 **TRANIO**  
 Is this your speeding? nay, then, good night our part!
@@ -1955,7 +1707,7 @@ I will be sure my Katharina shall be fine.
 I know not what to say: but give me your hands;  
 God send you joy, Petruchio! 'tis a match.
 
-**GREMIO** **TRANIO**  
+**GREMIO & TRANIO**  
 Amen, say we: we will be witnesses.
 
 **PETRUCHIO**  
@@ -1967,24 +1719,11 @@ And kiss me, Kate, we will be married o'Sunday.
 *Exeunt PETRUCHIO and KATHARINA severally*
 
 **GREMIO**  
-Was ever match clapp'd up so suddenly?
-
-**BAPTISTA**  
-Faith, gentlemen, now I play a merchant's part,  
-And venture madly on a desperate mart.
-
-**TRANIO**  
-'Twas a commodity lay fretting by you:  
-'Twill bring you gain, or perish on the seas.
-
-**BAPTISTA**  
-The gain I seek is, quiet in the match.
-
-**GREMIO**  
+Was ever match clapp'd up so suddenly?  
 No doubt but he hath got a quiet catch.  
 But now, Baptists, to your younger daughter:  
 Now is the day we long have looked for:  
-I am your neighbour, and was suitor first.
+I am your neighbor, and was suitor first.
 
 **TRANIO**  
 And I am one that love Bianca more  
@@ -1992,16 +1731,6 @@ Than words can witness, or your thoughts can guess.
 
 **GREMIO**  
 Youngling, thou canst not love so dear as I.
-
-**TRANIO**  
-Graybeard, thy love doth freeze.
-
-**GREMIO**  
-But thine doth fry.  
-Skipper, stand back: 'tis age that nourisheth.
-
-**TRANIO**  
-But youth in ladies' eyes that flourisheth.
 
 **BAPTISTA**  
 Content you, gentlemen: I will compound this strife:  
@@ -2015,18 +1744,8 @@ First, as you know, my house within the city
 Is richly furnished with plate and gold;  
 Basins and ewers to lave her dainty hands;  
 My hangings all of Tyrian tapestry;  
-In ivory coffers I have stuff'd my crowns;  
-In cypress chests my arras counterpoints,  
-Costly apparel, tents, and canopies,  
-Fine linen, Turkey cushions boss'd with pearl,  
-Valance of Venice gold in needlework,  
-Pewter and brass and all things that belong  
-To house or housekeeping: then, at my farm  
-I have a hundred milch-kine to the pail,  
-Sixscore fat oxen standing in my stalls,  
-And all things answerable to this portion.  
 Myself am struck in years, I must confess;  
-And if I die to-morrow, this is hers,  
+And if I die tomorrow, this is hers,  
 If whilst I live she will be only mine.
 
 **TRANIO**  
@@ -2063,19 +1782,7 @@ Why, then the maid is mine from all the world,
 By your firm promise: Gremio is out-vied.
 
 **BAPTISTA**  
-I must confess your offer is the best;  
-And, let your father make her the assurance,  
-She is your own; else, you must pardon me,  
-if you should die before him, where's her dower?
-
-**TRANIO**  
-That's but a cavil: he is old, I young.
-
-**GREMIO**  
-And may not young men die, as well as old?
-
-**BAPTISTA**  
-Well, gentlemen,  
+I must confess your offer is the best.  
 I am thus resolved: on Sunday next you know  
 My daughter Katharina is to be married:  
 Now, on the Sunday following, shall Bianca  
@@ -2084,11 +1791,11 @@ If not, Signior Gremio:
 And so, I take my leave, and thank you both.
 
 **GREMIO**  
-Adieu, good neighbour.
+Adieu, good neighbor. ...
 
 *Exit BAPTISTA*
 
-Now I fear thee not:  
+... Now I fear thee not:  
 Sirrah young gamester, your father were a fool  
 To give thee all, and in his waning age  
 Set foot under thy table: tut, a toy!  
@@ -2126,17 +1833,6 @@ Then give me leave to have prerogative;
 And when in music we have spent an hour,  
 Your lecture shall have leisure for as much.
 
-**LUCENTIO**  
-Preposterous ass, that never read so far  
-To know the cause why music was ordain'd!  
-Was it not to refresh the mind of man  
-After his studies or his usual pain?  
-Then give me leave to read philosophy,  
-And while I pause, serve in your harmony.
-
-**HORTENSIO**  
-Sirrah, I will not bear these braves of thine.
-
 **BIANCA**  
 Why, gentlemen, you do me double wrong,  
 To strive for that which resteth in my choice:  
@@ -2154,10 +1850,10 @@ You'll leave his lecture when I am in tune?
 That will be never: tune your instrument.
 
 **BIANCA**  
-Where left we last?
+Where left we last? ...
 
 **LUCENTIO**  
-Here, madam:  
+... Here, madam:  
 'Hic ibat Simois; hic est Sigeia tellus;  
 Hic steterat Priami regia celsa senis.'
 
@@ -2190,24 +1886,19 @@ he hear us not, 'regia,' presume not, 'celsa senis,'
 despair not.
 
 **HORTENSIO**  
-Madam, 'tis now in tune.
+Madam, 'tis now in tune. ...
 
 **LUCENTIO**  
-All but the base.
+... All but the base.
 
 **HORTENSIO**  
 The base is right; 'tis the base knave that jars.
-
-*\[Aside]*  
-How fiery and forward our pedant is!  
-Now, for my life, the knave doth court my love:  
-Pedascule, I'll watch you better yet.
 
 **BIANCA**  
 In time I may believe, yet I mistrust.
 
 **LUCENTIO**  
-Mistrust it not: for, sure, AEacides  
+Mistrust it not: for, sure, Aeacides  
 Was Ajax, call'd so from his grandfather.
 
 **BIANCA**  
@@ -2260,7 +1951,7 @@ To change true rules for old inventions.
 **Servant**  
 Mistress, your father prays you leave your books  
 And help to dress your sister's chamber up:  
-You know to-morrow is the wedding-day.
+You know tomorrow is the wedding-day.
 
 **BIANCA**  
 Farewell, sweet masters both; I must be gone.
@@ -2289,8 +1980,7 @@ attendants*
 
 **BAPTISTA**  
 *\[To TRANIO]*  
-Signior Lucentio, this is the  
-'pointed day.  
+Signior Lucentio, this is the 'pointed day.  
 That Katharina and Petruchio should be married,  
 And yet we hear not of our son-in-law.  
 What will be said? what mockery will it be,  
@@ -2314,7 +2004,6 @@ And say, 'Lo, there is mad Petruchio's wife,
 If it would please him come and marry her!'
 
 **TRANIO**  
-Patience, good Katharina, and Baptista too.  
 Upon my life, Petruchio means but well,  
 Whatever fortune stays him from his word:  
 Though he be blunt, I know him passing wise;  
@@ -2328,7 +2017,7 @@ Would Katharina had never seen him though!
 **BAPTISTA**  
 Go, girl; I cannot blame thee now to weep;  
 For such an injury would vex a very saint,  
-Much more a shrew of thy impatient humour.
+Much more a shrew of thy impatient humor.
 
 *Enter BIONDELLO*
 
@@ -2368,22 +2057,7 @@ Why, Petruchio is coming in a new hat and an old
 jerkin, a pair of old breeches thrice turned, a pair  
 of boots that have been candle-cases, one buckled,  
 another laced, an old rusty sword ta'en out of the  
-town-armory, with a broken hilt, and chapeless;  
-with two broken points: his horse hipped with an  
-old mothy saddle and stirrups of no kindred;  
-besides, possessed with the glanders and like to mose  
-in the chine; troubled with the lampass, infected  
-with the fashions, full of wingdalls, sped with  
-spavins, rayed with yellows, past cure of the fives,  
-stark spoiled with the staggers, begnawn with the  
-bots, swayed in the back and shoulder-shotten;  
-near-legged before and with, a half-chequed bit  
-and a head-stall of sheeps leather which, being  
-restrained to keep him from stumbling, hath been  
-often burst and now repaired with knots; one girth  
-six time pieced and a woman's crupper of velure,  
-which hath two letters for her name fairly set down  
-in studs, and here and there pieced with packthread.
+town-armory, with a broken hilt, and chapeless!
 
 **BAPTISTA**  
 Who comes with him?
@@ -2392,13 +2066,13 @@ Who comes with him?
 O, sir, his lackey, for all the world caparisoned  
 like the horse; with a linen stock on one leg and a  
 kersey boot-hose on the other, gartered with a red  
-and blue list; an old hat and 'the humour of forty  
+and blue list; an old hat and 'the humor of forty  
 fancies' pricked in't for a feather: a monster, a  
 very monster in apparel, and not like a Christian  
 footboy or a gentleman's lackey.
 
 **TRANIO**  
-'Tis some odd humour pricks him to this fashion;  
+'Tis some odd humor pricks him to this fashion;  
 Yet oftentimes he goes but mean-apparell'd.
 
 **BAPTISTA**  
@@ -2423,6 +2097,7 @@ No, sir, I say his horse comes, with him on his back.
 Why, that's all one.
 
 **BIONDELLO**  
+*\[Singing]*  
 Nay, by Saint Jamy,  
 I hold you a penny,  
 A horse and a man  
@@ -2435,16 +2110,16 @@ And yet not many.
 Come, where be these gallants? who's at home?
 
 **BAPTISTA**  
-You are welcome, sir.
+You are welcome, sir. ...
 
 **PETRUCHIO**  
-And yet I come not well.
+... And yet I come not well.
 
 **BAPTISTA**  
-And yet you halt not.
+And yet you halt not. ...
 
 **TRANIO**  
-Not so well apparell'd  
+... Not so well apparell'd  
 As I wish you were.
 
 **PETRUCHIO**  
@@ -2527,16 +2202,9 @@ Doth watch Bianca's steps so narrowly,
 Which once perform'd, let all the world say no,  
 I'll keep mine own, despite of all the world.
 
-**TRANIO**  
-That by degrees we mean to look into,  
-And watch our vantage in this business:  
-We'll over-reach the greybeard, Gremio,  
-The narrow-prying father, Minola,  
-The quaint musician, amorous Licio;  
-All for my master's sake, Lucentio.
-
 *Re-enter GREMIO*
 
+**TRANIO**  
 Signior Gremio, came you from the church?
 
 **GREMIO**  
@@ -2586,50 +2254,42 @@ And seem'd to ask him sops as he was drinking.
 This done, he took the bride about the neck  
 And kiss'd her lips with such a clamorous smack  
 That at the parting all the church did echo:  
-And I seeing this came thence for very shame;  
-And after me, I know, the rout is coming.  
 Such a mad marriage never was before:  
 Hark, hark! I hear the minstrels play.
 
 *Music*
 
-*Re-enter PETRUCHIO, KATHARINA, BIANCA, BAPTISTA, HORTENSIO, GRUMIO, and
-Train*
+*Re-enter PETRUCHIO, KATHARINA, BIANCA, BAPTISTA, HORTENSIO, and GRUMIO*
 
 **PETRUCHIO**  
 Gentlemen and friends, I thank you for your pains:  
-I know you think to dine with me to-day,  
+I know you think to dine with me today,  
 And have prepared great store of wedding cheer;  
 But so it is, my haste doth call me hence,  
 And therefore here I mean to take my leave.
 
 **BAPTISTA**  
-Is't possible you will away to-night?
+Is't possible you will away tonight?
 
 **PETRUCHIO**  
-I must away to-day, before night come:  
+I must away today, before night come:  
 Make it no wonder; if you knew my business,  
-You would entreat me rather go than stay.  
-And, honest company, I thank you all,  
-That have beheld me give away myself  
-To this most patient, sweet and virtuous wife:  
-Dine with my father, drink a health to me;  
-For I must hence; and farewell to you all.
+You would entreat me rather go than stay.
 
 **TRANIO**  
 Let us entreat you stay till after dinner.
 
 **PETRUCHIO**  
-It may not be.
+It may not be. ...
 
 **GREMIO**  
-Let me entreat you.
+... Let me entreat you.
 
 **PETRUCHIO**  
-It cannot be.
+It cannot be. ...
 
 **KATHARINA**  
-Let me entreat you.
+... Let me entreat you.
 
 **PETRUCHIO**  
 I am content.
@@ -2642,18 +2302,18 @@ I am content you shall entreat me stay;
 But yet not stay, entreat me how you can.
 
 **KATHARINA**  
-Now, if you love me, stay.
+Now, if you love me, stay. ...
 
 **PETRUCHIO**  
-Grumio, my horse.
+... Grumio, my horse.
 
 **GRUMIO**  
 Ay, sir, they be ready: the oats have eaten the horses.
 
 **KATHARINA**  
 Nay, then,  
-Do what thou canst, I will not go to-day;  
-No, nor to-morrow, not till I please myself.  
+Do what thou canst, I will not go today;  
+No, nor tomorrow, not till I please myself.  
 The door is open, sir; there lies your way;  
 You may be jogging whiles your boots are green;  
 For me, I'll not be gone till I please myself:  
@@ -2686,26 +2346,10 @@ Nay, look not big, nor stamp, nor stare, nor fret;
 I will be master of what is mine own:  
 She is my goods, my chattels; she is my house,  
 My household stuff, my field, my barn,  
-My horse, my ox, my ass, my any thing;  
-And here she stands, touch her whoever dare;  
-I'll bring mine action on the proudest he  
-That stops my way in Padua. Grumio,  
-Draw forth thy weapon, we are beset with thieves;  
-Rescue thy mistress, if thou be a man.  
-Fear not, sweet wench, they shall not touch  
-thee, Kate:  
-I'll buckler thee against a million.
+My horse, my ox, my ass, my anything;  
+And here she stands, touch her whoever dare!
 
 *Exeunt PETRUCHIO, KATHARINA, and GRUMIO*
-
-**BAPTISTA**  
-Nay, let them go, a couple of quiet ones.
-
-**GREMIO**  
-Went they not quickly, I should die with laughing.
-
-**TRANIO**  
-Of all mad matches never was the like.
 
 **LUCENTIO**  
 Mistress, what's your opinion of your sister?
@@ -2717,8 +2361,7 @@ That, being mad herself, she's madly mated.
 I warrant him, Petruchio is Kated.
 
 **BAPTISTA**  
-Neighbours and friends, though bride and  
-bridegroom wants  
+Neighbors and friends, though bride and bridegroom wants  
 For to supply the places at the table,  
 You know there wants no junkets at the feast.  
 Lucentio, you shall supply the bridegroom's place:  
@@ -2732,6 +2375,8 @@ She shall, Lucentio. Come, gentlemen, let's go.
 
 *Exeunt*
 
+## INTERMISSION
+
 ## ACT IV
 
 ### SCENE I. PETRUCHIO'S country house.
@@ -2741,15 +2386,7 @@ She shall, Lucentio. Come, gentlemen, let's go.
 **GRUMIO**  
 Fie, fie on all tired jades, on all mad masters, and  
 all foul ways! Was ever man so beaten? was ever  
-man so rayed? was ever man so weary? I am sent  
-before to make a fire, and they are coming after to  
-warm them. Now, were not I a little pot and soon  
-hot, my very lips might freeze to my teeth, my  
-tongue to the roof of my mouth, my heart in my  
-belly, ere I should come by a fire to thaw me: but  
-I, with blowing the fire, shall warm myself; for,  
-considering the weather, a taller man than I will  
-take cold. Holla, ho! Curtis.
+man so rayed? was ever man so weary? Holla, ho! Curtis.
 
 *Enter CURTIS*
 
@@ -2757,9 +2394,7 @@ take cold. Holla, ho! Curtis.
 Who is that calls so coldly?
 
 **GRUMIO**  
-A piece of ice: if thou doubt it, thou mayst slide  
-from my shoulder to my heel with no greater a run  
-but my head and my neck. A fire good Curtis.
+A fire good Curtis.
 
 **CURTIS**  
 Is my master and his wife coming, Grumio?
@@ -2775,80 +2410,7 @@ Is she so hot a shrew as she's reported?
 She was, good Curtis, before this frost: but, thou  
 knowest, winter tames man, woman and beast; for it  
 hath tamed my old master and my new mistress and  
-myself, fellow Curtis.
-
-**CURTIS**  
-Away, you three-inch fool! I am no beast.
-
-**GRUMIO**  
-Am I but three inches? why, thy horn is a foot; and  
-so long am I at the least. But wilt thou make a  
-fire, or shall I complain on thee to our mistress,  
-whose hand, she being now at hand, thou shalt soon  
-feel, to thy cold comfort, for being slow in thy hot office?
-
-**CURTIS**  
-I prithee, good Grumio, tell me, how goes the world?
-
-**GRUMIO**  
-A cold world, Curtis, in every office but thine; and  
-therefore fire: do thy duty, and have thy duty; for  
-my master and mistress are almost frozen to death.
-
-**CURTIS**  
-There's fire ready; and therefore, good Grumio, the news.
-
-**GRUMIO**  
-Why, 'Jack, boy! ho! boy!' and as much news as  
-will thaw.
-
-**CURTIS**  
-Come, you are so full of cony-catching!
-
-**GRUMIO**  
-Why, therefore fire; for I have caught extreme cold.  
-Where's the cook? is supper ready, the house  
-trimmed, rushes strewed, cobwebs swept; the  
-serving-men in their new fustian, their white  
-stockings, and every officer his wedding-garment on?  
-Be the jacks fair within, the jills fair without,  
-the carpets laid, and every thing in order?
-
-**CURTIS**  
-All ready; and therefore, I pray thee, news.
-
-**GRUMIO**  
-First, know, my horse is tired; my master and  
-mistress fallen out.
-
-**CURTIS**  
-How?
-
-**GRUMIO**  
-Out of their saddles into the dirt; and thereby  
-hangs a tale.
-
-**CURTIS**  
-Let's ha't, good Grumio.
-
-**GRUMIO**  
-Lend thine ear.
-
-**CURTIS**  
-Here.
-
-**GRUMIO**  
-There.
-
-*Strikes him*
-
-**CURTIS**  
-This is to feel a tale, not to hear a tale.
-
-**GRUMIO**  
-And therefore 'tis called a sensible tale: and this  
-cuff was but to knock at your ear, and beseech  
-listening. Now I begin: Imprimis, we came down a  
+myself, fellow Curtis. Now I begin: Imprimis, we came down a  
 foul hill, my master riding behind my mistress,--
 
 **CURTIS**  
@@ -2879,138 +2441,51 @@ By this reckoning he is more shrew than she.
 
 **GRUMIO**  
 Ay; and that thou and the proudest of you all shall  
-find when he comes home. But what talk I of this?  
-Call forth Nathaniel, Joseph, Nicholas, Philip,  
-Walter, Sugarsop and the rest: let their heads be  
-sleekly combed their blue coats brushed and their  
-garters of an indifferent knit: let them curtsy  
-with their left legs and not presume to touch a hair  
-of my master's horse-tail till they kiss their  
-hands. Are they all ready?
-
-**CURTIS**  
-They are.
-
-**GRUMIO**  
-Call them forth.
-
-**CURTIS**  
-Do you hear, ho? you must meet my master to  
-countenance my mistress.
-
-**GRUMIO**  
-Why, she hath a face of her own.
-
-**CURTIS**  
-Who knows not that?
-
-**GRUMIO**  
-Thou, it seems, that calls for company to  
-countenance her.
-
-**CURTIS**  
-I call them forth to credit her.
-
-**GRUMIO**  
-Why, she comes to borrow nothing of them.
-
-*Enter four or five Serving-men*
-
-**NATHANIEL**  
-Welcome home, Grumio!
-
-**PHILIP**  
-How now, Grumio!
-
-**JOSEPH**  
-What, Grumio!
-
-**NICHOLAS**  
-Fellow Grumio!
-
-**NATHANIEL**  
-How now, old lad?
-
-**GRUMIO**  
-Welcome, you;--how now, you;-- what, you;--fellow,  
-you;--and thus much for greeting. Now, my spruce  
-companions, is all ready, and all things neat?
-
-**NATHANIEL**  
-All things is ready. How near is our master?
-
-**GRUMIO**  
-E'en at hand, alighted by this; and therefore be  
-not--Cock's passion, silence! I hear my master.
+find when he comes home.
 
 *Enter PETRUCHIO and KATHARINA*
 
 **PETRUCHIO**  
 Where be these knaves? What, no man at door  
 To hold my stirrup nor to take my horse!  
-Where is Nathaniel, Gregory, Philip?  
-ALL SERVING-MEN Here, here, sir; here, sir.
-
-**PETRUCHIO**  
-Here, sir! here, sir! here, sir! here, sir!  
-You logger-headed and unpolish'd grooms!  
-What, no attendance? no regard? no duty?  
 Where is the foolish knave I sent before?
 
 **GRUMIO**  
 Here, sir; as foolish as I was before.
 
 **PETRUCHIO**  
-You peasant swain! you whoreson malt-horse drudge!  
-Did I not bid thee meet me in the park,  
-And bring along these rascal knaves with thee?
+Go, rascal, go, and fetch my supper in.
 
-**GRUMIO**  
-Nathaniel's coat, sir, was not fully made,  
-And Gabriel's pumps were all unpink'd i' the heel;  
-There was no link to colour Peter's hat,  
-And Walter's dagger was not come from sheathing:  
-There were none fine but Adam, Ralph, and Gregory;  
-The rest were ragged, old, and beggarly;  
-Yet, as they are, here are they come to meet you.
+*Exeunt Grumio*
 
-**PETRUCHIO**  
-Go, rascals, go, and fetch my supper in.
-
-*Exeunt Servants*
-
-*Singing*
-
+*\[Singing]*  
 Where is the life that late I led--  
-Where are those--Sit down, Kate, and welcome.--  
-Sound, sound, sound, sound!
+Where are those--
 
-*Re-enter Servants with supper*
+*\[To KATHARINA]*  
+Sit down, Kate, and welcome.--  
+Sound, sound, sound, sound!  
+Why, when, I say? Nay, good sweet Kate, be merry.
 
-Why, when, I say? Nay, good sweet Kate, be merry.  
-Off with my boots, you rogues! you villains, when?
+*\[Sings]*  
+It was the friar of orders gray,  
+As he forth walked on his way:--
 
-*Sings*
-
-It was the friar of orders grey,  
-As he forth walked on his way:--  
-Out, you rogue! you pluck my foot awry:  
-Take that, and mend the plucking off the other.
-
-*Strikes him*
-
+*\[To KATHARINA]*  
 Be merry, Kate. Some water, here; what, ho!  
 Where's my spaniel Troilus? Sirrah, get you hence,  
-And bid my cousin Ferdinand come hither:  
+And bid my cousin Ferdinand come hither:
+
+*Exeunt Curtis*
+
 One, Kate, that you must kiss, and be acquainted with.  
 Where are my slippers? Shall I have some water?
 
-*Enter one with water*
+*Enter Peter with water*
 
 Come, Kate, and wash, and welcome heartily.  
-You whoreson villain! will you let it fall?
-
-*Strikes him*
+You whoreson villain! will you let it fall?  
+*\[Strikes him]*
 
 **KATHARINA**  
 Patience, I pray you; 'twas a fault unwilling.
@@ -3019,27 +2494,27 @@ Patience, I pray you; 'twas a fault unwilling.
 A whoreson beetle-headed, flap-ear'd knave!  
 Come, Kate, sit down; I know you have a stomach.  
 Will you give thanks, sweet Kate; or else shall I?  
-What's this? mutton?
-
-**First Servant**  
-Ay.
-
-**PETRUCHIO**  
-Who brought it?
+What's this? mutton? ...
 
 **PETER**  
-I.
+... Ay. ...
+
+**PETRUCHIO**  
+... Who brought it? ...
+
+**PETER**  
+... I.
 
 **PETRUCHIO**  
 'Tis burnt; and so is all the meat.  
 What dogs are these! Where is the rascal cook?  
-How durst you, villains, bring it from the dresser,  
+How durst you, villain, bring it from the dresser,  
 And serve it thus to me that love it not?  
 Theretake it to you, trenchers, cups, and all;
 
 *Throws the meat, & c. about the stage*
 
-You heedless joltheads and unmanner'd slaves!  
+You heedless jolthead and unmanner'd slave!  
 What, do you grumble? I'll be with you straight.
 
 **KATHARINA**  
@@ -3053,19 +2528,19 @@ For it engenders choler, planteth anger;
 And better 'twere that both of us did fast,  
 Since, of ourselves, ourselves are choleric,  
 Than feed it with such over-roasted flesh.  
-Be patient; to-morrow 't shall be mended,  
+Be patient; tomorrow 't shall be mended,  
 And, for this night, we'll fast for company:  
 Come, I will bring thee to thy bridal chamber.
 
 *Exeunt*
 
-*Re-enter Servants severally*
+*Re-enter Grumio and Peter, severally*
 
-**NATHANIEL**  
+**GRUMIO**  
 Peter, didst ever see the like?
 
 **PETER**  
-He kills her in her own humour.
+He kills her in her own humor.
 
 *Re-enter CURTIS*
 
@@ -3093,8 +2568,8 @@ Another way I have to man my haggard,
 To make her come and know her keeper's call,  
 That is, to watch her, as we watch these kites  
 That bate and beat and will not be obedient.  
-She eat no meat to-day, nor none shall eat;  
-Last night she slept not, nor to-night she shall not;  
+She eat no meat today, nor none shall eat;  
+Last night she slept not, nor tonight she shall not;  
 As with the meat, some undeserved fault  
 I'll find about the making of the bed;  
 And here I'll fling the pillow, there the bolster,  
@@ -3105,7 +2580,7 @@ And in conclusion she shall watch all night:
 And if she chance to nod I'll rail and brawl  
 And with the clamour keep her still awake.  
 This is a way to kill a wife with kindness;  
-And thus I'll curb her mad and headstrong humour.  
+And thus I'll curb her mad and headstrong humor.  
 He that knows better how to tame a shrew,  
 Now let him speak: 'tis charity to show.
 
@@ -3113,12 +2588,11 @@ Now let him speak: 'tis charity to show.
 
 ### SCENE II. Padua. Before BAPTISTA'S house.
 
-*Enter TRANIO and HORTENSIO*
+*Enter TRANIO (as Lucentio) and HORTENSIO (as Licio)*
 
 **TRANIO**  
 Is't possible, friend Licio, that Mistress Bianca  
-Doth fancy any other but Lucentio?  
-I tell you, sir, she bears me fair in hand.
+Doth fancy any other but Lucentio?
 
 **HORTENSIO**  
 Sir, to satisfy you in what I have said,  
@@ -3169,7 +2643,7 @@ Forswear Bianca and her love for ever.
 See, how they kiss and court! Signior Lucentio,  
 Here is my hand, and here I firmly vow  
 Never to woo her no more, but do forswear her,  
-As one unworthy all the former favours  
+As one unworthy all the former favors  
 That I have fondly flatter'd her withal.
 
 **TRANIO**  
@@ -3200,10 +2674,10 @@ And have forsworn you with Hortensio.
 Tranio, you jest: but have you both forsworn me?
 
 **TRANIO**  
-Mistress, we have.
+Mistress, we have. ...
 
 **LUCENTIO**  
-Then we are rid of Licio.
+... Then we are rid of Licio.
 
 **TRANIO**  
 I' faith, he'll have a lusty widow now,  
@@ -3213,10 +2687,10 @@ That shall be wood and wedded in a day.
 God give him joy!
 
 **TRANIO**  
-Ay, and he'll tame her.
+Ay, and he'll tame her. ...
 
 **BIANCA**  
-He says so, Tranio.
+... He says so, Tranio.
 
 **TRANIO**  
 Faith, he is gone unto the taming-school.
@@ -3235,10 +2709,10 @@ To tame a shrew and charm her chattering tongue.
 O master, master, I have watch'd so long  
 That I am dog-weary: but at last I spied  
 An ancient angel coming down the hill,  
-Will serve the turn.
+Will serve the turn. ...
 
 **TRANIO**  
-What is he, Biondello?
+... What is he, Biondello?
 
 **BIONDELLO**  
 Master, a mercatante, or a pedant,  
@@ -3260,10 +2734,10 @@ Take in your love, and then let me alone.
 *Enter a Pedant*
 
 **Pedant**  
-God save you, sir!
+God save you, sir! ...
 
 **TRANIO**  
-And you, sir! you are welcome.  
+... And you, sir! you are welcome.  
 Travel you far on, or are you at the farthest?
 
 **Pedant**  
@@ -3272,10 +2746,10 @@ But then up farther, and as for as Rome;
 And so to Tripoli, if God lend me life.
 
 **TRANIO**  
-What countryman, I pray?
+What countryman, I pray? ...
 
 **Pedant**  
-Of Mantua.
+... Of Mantua.
 
 **TRANIO**  
 Of Mantua, sir? marry, God forbid!  
@@ -3320,12 +2794,11 @@ In countenance somewhat doth resemble you.
 
 **BIONDELLO**  
 *\[Aside]*  
-As much as an apple doth an oyster,  
-and all one.
+As much as an apple doth an oyster, and all one.
 
 **TRANIO**  
 To save your life in this extremity,  
-This favour will I do you for his sake;  
+This favor will I do you for his sake;  
 And think it not the worst of an your fortunes  
 That you are like to Sir Vincentio.  
 His name and credit shall you undertake,  
@@ -3405,7 +2878,7 @@ Nay then, I will not: you shall have the mustard,
 Or else you get no beef of Grumio.
 
 **KATHARINA**  
-Then both, or one, or any thing thou wilt.
+Then both, or one, or anything thou wilt.
 
 **GRUMIO**  
 Why then, the mustard without the beef.
@@ -3426,10 +2899,10 @@ Go, get thee gone, I say.
 How fares my Kate? What, sweeting, all amort?
 
 **HORTENSIO**  
-Mistress, what cheer?
+Mistress, what cheer? ...
 
 **KATHARINA**  
-Faith, as cold as can be.
+... Faith, as cold as can be.
 
 **PETRUCHIO**  
 Pluck up thy spirits; look cheerfully upon me.  
@@ -3438,10 +2911,10 @@ To dress thy meat myself and bring it thee:
 I am sure, sweet Kate, this kindness merits thanks.  
 What, not a word? Nay, then thou lovest it not;  
 And all my pains is sorted to no proof.  
-Here, take away this dish.
+Here, take away this dish. ...
 
 **KATHARINA**  
-I pray you, let it stand.
+... I pray you, let it stand.
 
 **PETRUCHIO**  
 The poorest service is repaid with thanks;  
@@ -3471,17 +2944,17 @@ To deck thy body with his ruffling treasure.
 *Enter Tailor*
 
 Come, tailor, let us see these ornaments;  
-Lay forth the gown.
+Lay forth the gown. ...
 
 *Enter Haberdasher*
 
-What news with you, sir?
+... What news with you, sir?
 
 **Haberdasher**  
 Here is the cap your worship did bespeak.
 
 **PETRUCHIO**  
-Why, this was moulded on a porringer;  
+Why, this was molded on a porringer;  
 A velvet dish: fie, fie! 'tis lewd and filthy:  
 Why, 'tis a cockle or a walnut-shell,  
 A knack, a toy, a trick, a baby's cap:  
@@ -3493,11 +2966,11 @@ And gentlewomen wear such caps as these
 
 **PETRUCHIO**  
 When you are gentle, you shall have one too,  
-And not till then.
+And not till then. ...
 
 **HORTENSIO**  
 *\[Aside]*  
-That will not be in haste.
+... That will not be in haste.
 
 **KATHARINA**  
 Why, sir, I trust I may have leave to speak;  
@@ -3511,7 +2984,6 @@ Even to the uttermost, as I please, in words.
 
 **PETRUCHIO**  
 Why, thou say'st true; it is a paltry cap,  
-A custard-coffin, a bauble, a silken pie:  
 I love thee well, in that thou likest it not.
 
 **KATHARINA**  
@@ -3522,7 +2994,7 @@ And it I will have, or I will have none.
 
 **PETRUCHIO**  
 Thy gown? why, ay: come, tailor, let us see't.  
-O mercy, God! what masquing stuff is here?  
+O mercy, God! what masking stuff is here?  
 What's this? a sleeve? 'tis like a demi-cannon:  
 What, up and down, carved like an apple-tart?  
 Here's snip and nip and cut and slish and slash,  
@@ -3553,132 +3025,14 @@ Belike you mean to make a puppet of me.
 Why, true; he means to make a puppet of thee.
 
 **Tailor**  
-She says your worship means to make  
-a puppet of her.
+She says your worship means to make a puppet of her.
 
 **PETRUCHIO**  
-O monstrous arrogance! Thou liest, thou thread,  
-thou thimble,  
-Thou yard, three-quarters, half-yard, quarter, nail!  
-Thou flea, thou nit, thou winter-cricket thou!  
-Braved in mine own house with a skein of thread?  
+O monstrous arr'gance! Thou liest, thou thread, thou thimble!  
 Away, thou rag, thou quantity, thou remnant;  
 Or I shall so be-mete thee with thy yard  
 As thou shalt think on prating whilst thou livest!  
-I tell thee, I, that thou hast marr'd her gown.
-
-**Tailor**  
-Your worship is deceived; the gown is made  
-Just as my master had direction:  
-Grumio gave order how it should be done.
-
-**GRUMIO**  
-I gave him no order; I gave him the stuff.
-
-**Tailor**  
-But how did you desire it should be made?
-
-**GRUMIO**  
-Marry, sir, with needle and thread.
-
-**Tailor**  
-But did you not request to have it cut?
-
-**GRUMIO**  
-Thou hast faced many things.
-
-**Tailor**  
-I have.
-
-**GRUMIO**  
-Face not me: thou hast braved many men; brave not  
-me; I will neither be faced nor braved. I say unto  
-thee, I bid thy master cut out the gown; but I did  
-not bid him cut it to pieces: ergo, thou liest.
-
-**Tailor**  
-Why, here is the note of the fashion to testify
-
-**PETRUCHIO**  
-Read it.
-
-**GRUMIO**  
-The note lies in's throat, if he say I said so.
-
-**Tailor**  
-*\[Reads]*  
-'Imprimis, a loose-bodied gown:'
-
-**GRUMIO**  
-Master, if ever I said loose-bodied gown, sew me in  
-the skirts of it, and beat me to death with a bottom  
-of brown thread: I said a gown.
-
-**PETRUCHIO**  
-Proceed.
-
-**Tailor**  
-*\[Reads]*  
-'With a small compassed cape:'
-
-**GRUMIO**  
-I confess the cape.
-
-**Tailor**  
-*\[Reads]*
-'With a trunk sleeve:'
-
-**GRUMIO**  
-I confess two sleeves.
-
-**Tailor**  
-*\[Reads]*
-'The sleeves curiously cut.'
-
-**PETRUCHIO**  
-Ay, there's the villany.
-
-**GRUMIO**  
-Error i' the bill, sir; error i' the bill.  
-I commanded the sleeves should be cut out and  
-sewed up again; and that I'll prove upon thee,  
-though thy little finger be armed in a thimble.
-
-**Tailor**  
-This is true that I say: an I had thee  
-in place where, thou shouldst know it.
-
-**GRUMIO**  
-I am for thee straight: take thou the  
-bill, give me thy mete-yard, and spare not me.
-
-**HORTENSIO**  
-God-a-mercy, Grumio! then he shall have no odds.
-
-**PETRUCHIO**  
-Well, sir, in brief, the gown is not for me.
-
-**GRUMIO**  
-You are i' the right, sir: 'tis for my mistress.
-
-**PETRUCHIO**  
-Go, take it up unto thy master's use.
-
-**GRUMIO**  
-Villain, not for thy life: take up my mistress'  
-gown for thy master's use!
-
-**PETRUCHIO**  
-Why, sir, what's your conceit in that?
-
-**GRUMIO**  
-O, sir, the conceit is deeper than you think for:  
-Take up my mistress' gown to his master's use!  
-O, fie, fie, fie!
-
-**PETRUCHIO**  
-*\[Aside]*
-Hortensio, say thou wilt see the tailor paid.  
+I tell thee, I, that thou hast marr'd her gown.  
 Go take it hence; be gone, and say no more.
 
 **HORTENSIO**  
@@ -3694,7 +3048,7 @@ Even in these honest mean habiliments:
 Our purses shall be proud, our garments poor;  
 For 'tis the mind that makes the body rich;  
 And as the sun breaks through the darkest clouds,  
-So honour peereth in the meanest habit.  
+So honor peereth in the meanest habit.  
 What is the jay more precious than the lark,  
 Because his fathers are more beautiful?  
 Or is the adder better than the eel,  
@@ -3718,7 +3072,7 @@ And 'twill be supper-time ere you come there.
 It shall be seven ere I go to horse:  
 Look, what I speak, or do, or think to do,  
 You are still crossing it. Sirs, let't alone:  
-I will not go to-day; and ere I do,  
+I will not go today; and ere I do,  
 It shall be what o'clock I say it is.
 
 **HORTENSIO**  
@@ -3745,11 +3099,11 @@ Where we were lodgers at the Pegasus.
 With such austerity as 'longeth to a father.
 
 **Pedant**  
-I warrant you.
+I warrant you. ...
 
 *Enter BIONDELLO*
 
-But, sir, here comes your boy;  
+... But, sir, here comes your boy;  
 'Twere good he were school'd.
 
 **TRANIO**  
@@ -3778,10 +3132,10 @@ Signior Baptista, you are happily met.
 *\[To the Pedant]*  
 Sir, this is the gentleman I told you of:  
 I pray you stand good father to me now,  
-Give me Bianca for my patrimony.
+Give me Bianca for my patrimony. ...
 
 **Pedant**  
-Soft son!
+... Soft son!
 Sir, by your leave: having come to Padua  
 To gather in some debts, my son Lucentio  
 Made me acquainted with a weighty cause  
@@ -3808,17 +3162,6 @@ That like a father you will deal with him
 And pass my daughter a sufficient dower,  
 The match is made, and all is done:  
 Your son shall have my daughter with consent.
-
-**TRANIO**  
-I thank you, sir. Where then do you know best  
-We be affied and such assurance ta'en  
-As shall with either part's agreement stand?
-
-**BAPTISTA**  
-Not in my house, Lucentio; for, you know,  
-Pitchers have ears, and I have many servants:  
-Besides, old Gremio is hearkening still;  
-And happily we might be interrupted.
 
 **TRANIO**  
 Then at my lodging, an it like you:  
@@ -3958,10 +3301,10 @@ An if you please to call it a rush-candle,
 Henceforth I vow it shall be so for me.
 
 **PETRUCHIO**  
-I say it is the moon.
+I say it is the moon. ...
 
 **KATHARINA**  
-I know it is the moon.
+... I know it is the moon.
 
 **PETRUCHIO**  
 Nay, then you lie: it is the blessed sun.
@@ -4000,7 +3343,7 @@ A' will make the man mad, to make a woman of him.
 Young budding virgin, fair and fresh and sweet,  
 Whither away, or where is thy abode?  
 Happy the parents of so fair a child;  
-Happier the man, whom favourable stars  
+Happier the man, whom favorable stars  
 Allot thee for his lovely bed-fellow!
 
 **PETRUCHIO**  
@@ -4028,10 +3371,10 @@ And bound I am to Padua; there to visit
 A son of mine, which long I have not seen.
 
 **PETRUCHIO**  
-What is his name?
+What is his name? ...
 
 **VINCENTIO**  
-Lucentio, gentle sir.
+... Lucentio, gentle sir.
 
 **PETRUCHIO**  
 Happily we met; the happier for thy son.  
@@ -4100,9 +3443,8 @@ Thither must I, and here I leave you, sir.
 **VINCENTIO**  
 You shall not choose but drink before you go:  
 I think I shall command your welcome here,  
-And, by all likelihood, some cheer is toward.
-
-*Knocks*
+And, by all likelihood, some cheer is toward.  
+*\[Knocks]*
 
 **GREMIO**  
 They're busy within; you were best knock louder.
@@ -4181,9 +3523,8 @@ What, my old worshipful old master? yes, marry, sir:
 see where he looks out of the window.
 
 **VINCENTIO**  
-Is't so, indeed.
-
-*Beats BIONDELLO*
+Is't so, indeed.  
+*\[Beats BIONDELLO]*
 
 **BIONDELLO**  
 Help, help, help! here's a madman will murder me.
@@ -4252,11 +3593,11 @@ Call forth an officer.
 
 *Enter one with an Officer*
 
-Carry this mad knave to the gaol. Father Baptista,  
+Carry this mad knave to the jail. Father Baptista,  
 I charge you see that he be forthcoming.
 
 **VINCENTIO**  
-Carry me to the gaol!
+Carry me to the jail!
 
 **GREMIO**  
 Stay, officer: he shall not go to prison.
@@ -4282,7 +3623,7 @@ Then thou wert best say that I am not Lucentio.
 Yes, I know thee to be Signior Lucentio.
 
 **BAPTISTA**  
-Away with the dotard! to the gaol with him!
+Away with the dotard! to the jail with him!
 
 **VINCENTIO**  
 Thus strangers may be hailed and abused: O  
@@ -4296,22 +3637,22 @@ forswear him, or else we are all undone.
 
 **LUCENTIO**  
 *\[Kneeling]*
-Pardon, sweet father.
+Pardon, sweet father. ...
 
 **VINCENTIO**  
-Lives my sweet son?
+... Lives my sweet son?
 
 *Exeunt BIONDELLO, TRANIO, and Pedant, as fast as may be*
 
 **BIANCA**  
-Pardon, dear father.
+Pardon, dear father. ...
 
 **BAPTISTA**  
-How hast thou offended?  
-Where is Lucentio?
+... How hast thou offended?  
+Where is Lucentio? ...
 
 **LUCENTIO**  
-Here's Lucentio,
+... Here's Lucentio,  
 Right son to the right Vincentio;  
 That have by marriage made thy daughter mine,  
 While counterfeit supposes bleared thine eyne.
@@ -4340,7 +3681,7 @@ Then pardon him, sweet father, for my sake.
 
 **VINCENTIO**  
 I'll slit the villain's nose, that would have sent  
-me to the gaol.
+me to the jail.
 
 **BAPTISTA**  
 But do you hear, sir? have you married my daughter  
@@ -4397,9 +3738,8 @@ Better once than never, for never too late.
 
 ### SCENE II. Padua. LUCENTIO'S house.
 
-*Enter BAPTISTA, VINCENTIO, GREMIO, the Pedant, LUCENTIO, BIANCA, PETRUCHIO,
-KATHARINA, HORTENSIO, and Widow, TRANIO, BIONDELLO, and GRUMIO the Serving-men
-with Tranio bringing in a banquet*
+*Enter BAPTISTA, VINCENTIO, GREMIO, LUCENTIO, BIANCA, PETRUCHIO,
+KATHARINA, HORTENSIO, and Widow; TRANIO and BIONDELLO bringing in a banquet*
 
 **LUCENTIO**  
 At last, though long, our jarring notes agree:  
@@ -4440,10 +3780,10 @@ I mean, Hortensio is afeard of you.
 He that is giddy thinks the world turns round.
 
 **PETRUCHIO**  
-Roundly replied.
+Roundly replied. ...
 
 **KATHARINA**  
-Mistress, how mean you that?
+... Mistress, how mean you that?
 
 **Widow**  
 Thus I conceive by him.
@@ -4467,10 +3807,10 @@ Measures my husband's sorrow by his woe:
 And now you know my meaning,
 
 **KATHARINA**  
-A very mean meaning.
+A very mean meaning. ...
 
 **Widow**  
-Right, I mean you.
+... Right, I mean you.
 
 **KATHARINA**  
 And I am mean indeed, respecting you.
@@ -4488,9 +3828,8 @@ A hundred marks, my Kate does put her down.
 That's my office.
 
 **PETRUCHIO**  
-Spoke like an officer; ha' to thee, lad!
-
-*Drinks to HORTENSIO*
+Spoke like an officer; ha' to thee, lad!  
+*\[Drinks to HORTENSIO]*
 
 **BAPTISTA**  
 How likes Gremio these quick-witted folks?
@@ -4561,10 +3900,10 @@ To come at first when he doth send for her,
 Shall win the wager which we will propose.
 
 **HORTENSIO**  
-Content. What is the wager?
+Content. What is the wager? ...
 
 **LUCENTIO**  
-Twenty crowns.
+... Twenty crowns.
 
 **PETRUCHIO**  
 Twenty crowns!
@@ -4572,19 +3911,19 @@ I'll venture so much of my hawk or hound,
 But twenty times so much upon my wife.
 
 **LUCENTIO**  
-A hundred then.
+A hundred then. ...
 
 **HORTENSIO**  
-Content.
+... Content. ...
 
 **PETRUCHIO**  
-A match! 'tis done.
+... A match! 'tis done.
 
 **HORTENSIO**  
-Who shall begin?
+Who shall begin? ...
 
 **LUCENTIO**  
-That will I.
+... That will I.
 Go, Biondello, bid your mistress come to me.
 
 **BIONDELLO**  
@@ -4600,18 +3939,18 @@ I'll have no halves; I'll bear it all myself.
 
 *Re-enter BIONDELLO*
 
-How now! what news?
+How now! what news? ...
 
 **BIONDELLO**  
-Sir, my mistress sends you word  
+... Sir, my mistress sends you word  
 That she is busy and she cannot come.
 
 **PETRUCHIO**  
 How! she is busy and she cannot come!  
-Is that an answer?
+Is that an answer? ...
 
 **GREMIO**  
-Ay, and a kind one too:  
+... Ay, and a kind one too:  
 Pray God, sir, your wife send you not a worse.
 
 **PETRUCHIO**  
@@ -4619,16 +3958,16 @@ I hope better.
 
 **HORTENSIO**  
 Sirrah Biondello, go and entreat my wife  
-To come to me forthwith.
+To come to me forthwith. ...
 
 *Exit BIONDELLO*
 
 **PETRUCHIO**  
-O, ho! entreat her!  
-Nay, then she must needs come.
+... O, ho! entreat her!  
+Nay, then she must needs come. ...
 
 **HORTENSIO**  
-I am afraid, sir,
+... I am afraid, sir,  
 Do what you can, yours will not be entreated.
 
 *Re-enter BIONDELLO*
@@ -4648,13 +3987,13 @@ Say, I command her to come to me.
 *Exit GRUMIO*
 
 **HORTENSIO**  
-I know her answer.
+I know her answer. ...
 
 **PETRUCHIO**  
-What?
+... What? ...
 
 **HORTENSIO**  
-She will not.
+... She will not.
 
 **PETRUCHIO**  
 The fouler fortune mine, and there an end.
@@ -4755,7 +4094,7 @@ Will deign to sip or touch one drop of it.
 Thy husband is thy lord, thy life, thy keeper,  
 Thy head, thy sovereign; one that cares for thee,  
 And for thy maintenance commits his body  
-To painful labour both by sea and land,  
+To painful labor both by sea and land,  
 To watch the night in storms, the day in cold,  
 Whilst thou liest warm at home, secure and safe;  
 And craves no other tribute at thy hands  
