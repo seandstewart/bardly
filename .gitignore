@@ -38,3 +38,4 @@ Temporary Items
 # Builds
 /site/*
 *.egg-info/
+/dev/site/

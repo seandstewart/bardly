@@ -1,7 +1,7 @@
 {
     "name": "Bardly",
     "short_name": "Bardly",
-    "icons": \[
+    "icons": [
         {
             "src": "img/android-chrome-192x192.png",
             "sizes": "192x192",
