@@ -55,4 +55,8 @@ extra:
       link: "https://twitter.com/MrSeanStewart"
     - icon: "fontawesome/brands/linkedin"
       link: "https://linkedin.com/in/seandstewart"
-#  manifest: "img/img/site.webmanifest"
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - static/javascripts/tables.js
+extra_css:
+  - static/stylesheets/extra.css
