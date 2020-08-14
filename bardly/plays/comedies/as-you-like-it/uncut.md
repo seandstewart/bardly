@@ -691,28 +691,28 @@ My father loved Sir Rowland as his soul,
 And all the world was of my father's mind:  
 Had I before known this young man his son,  
 I should have given him tears unto entreaties,  
-Ere he should thus have ventured. ...
+Ere he should thus have ventured. /
 
 **CELIA**  
-... Gentle cousin,  
+/ Gentle cousin,  
 Let us go thank him and encourage him:  
 My father's rough and envious disposition  
 Sticks me at heart. Sir, you have well deserved:  
 If you do keep your promises in love  
 But justly, as you have exceeded all promise,  
-Your mistress shall be happy. ...
+Your mistress shall be happy. /
 
 **ROSALIND**  
-... Gentleman,
+/ Gentleman,
 
 *\[Giving him a chain from her neck]*
 
 Wear this for me, one out of suits with fortune,  
 That could give more, but that her hand lacks means.  
-Shall we go, coz? ...
+Shall we go, coz? /
 
 **CELIA**  
-... Ay. Fare you well, fair gentleman.
+/ Ay. Fare you well, fair gentleman.
 
 **ORLANDO**  
 Can I not say, I thank you? My better parts  
@@ -723,10 +723,10 @@ Is but a quintain, a mere lifeless block.
 He calls us back: my pride fell with my fortunes;  
 I'll ask him what he would. Did you call, sir?  
 Sir, you have wrestled well and overthrown  
-More than your enemies. ...
+More than your enemies. /
 
 **CELIA**  
-... Will you go, coz?
+/ Will you go, coz?
 
 **ROSALIND**  
 Have with you. Fare you well.
@@ -862,29 +862,29 @@ With his eyes full of anger.
 
 **DUKE FREDERICK**  
 Mistress, dispatch you with your safest haste  
-And get you from our court. ...
+And get you from our court. /
 
 **ROSALIND**  
-... Me, uncle? ...
+/ Me, uncle? /
 
 **DUKE FREDERICK**  
-... You, cous'n  
+/ You, cous'n  
 Within these ten days if that thou be'st found  
 So near our public court as twenty miles,  
-Thou diest for it. ...
+Thou diest for it. /
 
 **ROSALIND**  
-... I do beseech your grace,  
+/ I do beseech your grace,  
 Let me the knowledge of my fault bear with me:  
 If with myself I hold intelligence  
 Or have acquaintance with mine own desires,  
 If that I do not dream or be not frantic,–  
 As I do trust I am not–then, dear uncle,  
 Never so much as in a thought unborn  
-Did I offend your highness. ...
+Did I offend your highness. /
 
 **DUKE FREDERICK**  
-... Thus do all traitors:  
+/ Thus do all traitors:  
 If their purgation did consist in words,  
 They are as innocent as grace itself:  
 Let it suffice thee that I trust thee not.
@@ -949,15 +949,15 @@ Wilt thou change fathers? I will give thee mine.
 I charge thee, be not thou more grieved than I am.
 
 **ROSALIND**  
-I have more cause. ...
+I have more cause. /
 
 **CELIA**  
-... Thou hast not, cousin;  
+/ Thou hast not, cousin;  
 Prithee be cheerful: know'st thou not, the duke  
-Hath banish'd me, his daughter? ...
+Hath banish'd me, his daughter? /
 
 **ROSALIND**  
-... That he hath not.
+/ That he hath not.
 
 **CELIA**  
 No, hath not? Rosalind lacks then the love  
@@ -986,10 +986,10 @@ Beauty provoketh thieves sooner than gold.
 I'll put myself in poor and mean attire  
 And with a kind of umber smirch my face;  
 The like do you: so shall we pass along  
-And never stir assailants. ...
+And never stir assailants. /
 
 **ROSALIND**  
-... Were it not better,  
+/ Were it not better,  
 Because that I am more than common tall,  
 That I did suit me all points like a man?  
 A gallant curtle-axe upon my thigh,  
@@ -1063,10 +1063,10 @@ Come, shall we go and kill us venison?
 And yet it irks me the poor dappled fools,  
 Being native burghers of this desert city,  
 Should in their own confines with forked heads  
-Have their round haunches gored. ...
+Have their round haunches gored. /
 
 **AMIENS**  
-... Indeed, my lord,  
+/ Indeed, my lord,  
 The melancholy Jaques grieves at that,  
 And, in that kind, swears you do more usurp  
 Than doth your brother that hath banish'd you.  
@@ -1084,10 +1084,10 @@ Coursed one another down his innocent nose
 In piteous chase; and thus the hairy fool  
 Much marked of the melancholy Jaques,  
 Stood on the extremest verge of the swift brook,  
-Augmenting it with tears. ...
+Augmenting it with tears. /
 
 **DUKE SENIOR**  
-... But what said Jaques?  
+/ But what said Jaques?  
 Did he not moralize this spectacle?
 
 **First Lord**  
@@ -1376,22 +1376,22 @@ And mine; but it grows something stale with me.
 **CELIA**  
 I pray you, one of you question yond man  
 If he for gold will give us any food:  
-I faint almost to death. ...
+I faint almost to death. /
 
 **TOUCHSTONE**  
-... Holla, you clown!
+/ Holla, you clown!
 
 **ROSALIND**  
-Peace, fool: he's not thy kinsman. ...
+Peace, fool: he's not thy kinsman. /
 
 **CORIN**  
-... Who calls?
+/ Who calls?
 
 **TOUCHSTONE**  
-Your betters, sir. ...
+Your betters, sir. /
 
 **CORIN**  
-... Else are they very wretched.
+/ Else are they very wretched.
 
 **ROSALIND**  
 Peace, I say. Good even to you, friend.
@@ -1404,10 +1404,10 @@ I prithee, shepherd, if that love or gold
 Can in this desert place buy entertainment,  
 Bring us where we may rest ourselves and feed:  
 Here's a young maid with travel much oppress'd  
-And faints for succor. ...
+And faints for succor. /
 
 **CORIN**  
-... Fair sir, I pity her  
+/ Fair sir, I pity her  
 And wish, for her sake more than for mine own,  
 My fortunes were more able to relieve her;  
 But I am shepherd to another man  
@@ -1643,10 +1643,10 @@ In mangled forms. O that I were a fool!
 I am ambitious for a motley coat.
 
 **DUKE SENIOR**  
-Thou shalt have one. ...
+Thou shalt have one. /
 
 **JAQUES**  
-... It is my only suit;  
+/ It is my only suit;  
 Provided that you weed your better judgments  
 Of all opinion that grows rank in them  
 That I am wise. I must have liberty  
@@ -1786,10 +1786,10 @@ I thank ye; and be blest for your good comfort!
 Thou seest we are not all alone unhappy:  
 This wide and universal theatre  
 Presents more woeful pageants than the scene  
-Wherein we play in. ...
+Wherein we play in. /
 
 **JAQUES**  
-... All the world's a stage,  
+/ All the world's a stage,  
 And all the men and women merely players:  
 They have their exits and their entrances;  
 And one man in his time plays many parts,  
@@ -1825,10 +1825,10 @@ Welcome. Set down your venerable burthen,
 And let him feed.
 
 **ORLANDO**  
-I thank you most for him. ...
+I thank you most for him. /
 
 **ADAM**  
-... So had you need:  
+/ So had you need:  
 I scarce can speak to thank you for myself.
 
 **DUKE SENIOR**  
@@ -3022,10 +3022,10 @@ Dead Shepherd, now I find thy saw of might,
 'Who ever loved that loved not at first sight?'
 
 **SILVIUS**  
-Sweet Phebe,— ...
+Sweet Phebe,— /
 
 **PHEBE**  
-... Ha, what say'st thou, Silvius?
+/ Ha, what say'st thou, Silvius?
 
 **SILVIUS**  
 Sweet Phebe, pity me.
@@ -3627,10 +3627,10 @@ Or else by him my love deny,
 And then I'll study how to die.
 
 **SILVIUS**  
-Call you this chiding? ...
+Call you this chiding? /
 
 **CELIA**  
-... Alas, poor shepherd!
+/ Alas, poor shepherd!
 
 **ROSALIND**  
 Do you pity him? no, he deserves no pity. Wilt  
@@ -3682,10 +3682,10 @@ I am: what must we understand by this?
 **OLIVER**  
 Some of my shame; if you will know of me  
 What man I am, and how, and why, and where  
-This handkercher was stain'd. ...
+This handkercher was stain'd. /
 
 **CELIA**  
-... I pray you, tell it.
+/ I pray you, tell it.
 
 **OLIVER**  
 When last the young Orlando parted from you  
@@ -3715,10 +3715,10 @@ And found it was his brother, his elder brother.
 **CELIA**  
 O, I have heard him speak of that same brother;  
 And he did render him the most unnatural  
-That lived amongst men. ...
+That lived amongst men. /
 
 **OLIVER**  
-... And well he might so do,  
+/ And well he might so do,  
 For well I know he was unnatural.
 
 **ROSALIND**  
@@ -3734,10 +3734,10 @@ Who quickly fell before him: in which hurtling
 From miserable slumber I awaked.
 
 **CELIA**  
-Are you his brother? ...
+Are you his brother? /
 
 **ROSALIND**  
-... Wast you he rescued?
+/ Wast you he rescued?
 
 **CELIA**  
 Was't you that did so oft contrive to kill him?
@@ -4094,29 +4094,29 @@ Good shepherd, tell this youth what 'tis to love.
 
 **SILVIUS**  
 It is to be all made of sighs and tears;  
-And so am I for Phebe. ...
+And so am I for Phebe. /
 
 **PHEBE**  
-... And I for Ganymede.
+/ And I for Ganymede.
 
 **ORLANDO**  
-And I for Rosalind. ...
+And I for Rosalind. /
 
 **ROSALIND**  
-... And I for no woman.
+/ And I for no woman.
 
 **SILVIUS**  
 It is to be all made of faith and service;  
-And so am I for Phebe. ...
+And so am I for Phebe. /
 
 **PHEBE**  
-... And I for Ganymede.
+/ And I for Ganymede.
 
 **ORLANDO**  
-And I for Rosalind. ...
+And I for Rosalind. /
 
 **ROSALIND**  
-... And I for no woman.
+/ And I for no woman.
 
 **SILVIUS**  
 It is to be all made of fantasy,  
@@ -4523,10 +4523,10 @@ Both from his enterprise and from the world,
 His crown bequeathing to his banish'd brother,  
 And all their lands restored to them again  
 That were with him exiled. This to be true,  
-I do engage my life. ...
+I do engage my life. /
 
 **DUKE SENIOR**  
-... Welcome, young man;  
+/ Welcome, young man;  
 Thou offer'st fairly to thy brothers' wedding:  
 To one his lands withheld, and to the other  
 A land itself at large, a potent dukedom.  

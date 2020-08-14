@@ -260,10 +260,10 @@ Titus, thou shalt obtain and ask the empery.
 Proud and ambitious tribune, canst thou tell?
 
 **TITUS ANDRONICUS**  
-Patience, Prince Saturninus. ...
+Patience, Prince Saturninus. /
 
 **SATURNINUS**  
-... Romans, do me right:  
+/ Romans, do me right:  
 Patricians, draw your swords: and sheathe them not  
 Till Saturninus be Rome's emperor.  
 Andronicus, would thou wert shipp'd to hell,  
@@ -383,10 +383,10 @@ Traitors, avaunt! Where is the emperor's guard?
 Treason, my lord! Lavinia is surprised!
 
 **SATURNINUS**  
-Surprised! by whom? ...
+Surprised! by whom? /
 
 **BASSIANUS**  
-... By him that justly may  
+/ By him that justly may  
 Bear his betroth'd from all the world away.
 
 *Exeunt BASSIANUS and MARTIUS with LAVINIA*
@@ -667,10 +667,10 @@ I would not for a million of gold
 The cause were known to them it most concerns;  
 Nor would your noble mother for much more  
 Be so dishonour'd in the court of Rome.  
-For shame, put up. ...
+For shame, put up. /
 
 **DEMETRIUS**  
-... Not I, till I have sheathed  
+/ Not I, till I have sheathed  
 My rapier in his bosom and withal  
 Thrust these reproachful speeches down his throat  
 That he hath breathed in my dishonour here.
@@ -678,10 +678,10 @@ That he hath breathed in my dishonour here.
 **CHIRON**  
 For that I am prepared and full resolved.  
 Foul-spoken coward, that thunder'st with thy tongue,  
-And with thy weapon nothing darest perform! ...
+And with thy weapon nothing darest perform! /
 
 **AARON**  
-... Away, I say!  
+/ Away, I say!  
 Now, by the gods that warlike Goths adore,  
 This petty brabble will undo us all.  
 Why, lords, and think you not how dangerous  
@@ -706,17 +706,17 @@ Why, are ye mad? or know ye not, in Rome
 How furious and impatient they be,  
 And cannot brook competitors in love?  
 I tell you, lords, you do but plot your deaths  
-By this device. ...
+By this device. /
 
 **CHIRON**  
-... Aaron, a thousand deaths  
+/ Aaron, a thousand deaths  
 Would I propose to achieve her whom I love.
 
 **AARON**  
-To achieve her! how? ...
+To achieve her! how? /
 
 **DEMETRIUS**  
-... Why makest thou it so strange?  
+/ Why makest thou it so strange?  
 She is a woman, therefore may be woo'd;  
 She is a woman, therefore may be won;  
 She is Lavinia, therefore must be loved.  
@@ -738,16 +738,16 @@ And borne her cleanly by the keeper's nose?
 
 **AARON**  
 Why, then, it seems, some certain snatch or so  
-Would serve your turns. ...
+Would serve your turns. /
 
 **CHIRON**  
-... Ay, so the turn were served.
+/ Ay, so the turn were served.
 
 **DEMETRIUS**  
-Aaron, thou hast hit it. ...
+Aaron, thou hast hit it. /
 
 **AARON**  
-... Would you had hit it too!  
+/ Would you had hit it too!  
 Then should not we be tired with this ado.  
 Why, hark ye, hark ye! and are you such fools  
 To square for this? would it offend you, then  
@@ -826,22 +826,22 @@ And you have rung it lustily, my lord;
 Somewhat too early for new-married ladies.
 
 **BASSIANUS**  
-Lavinia, how say you? ...
+Lavinia, how say you? /
 
 **LAVINIA**  
-... I say, no;  
+/ I say, no;  
 I have been broad awake two hours and more.
 
 **SATURNINUS**  
 Come on, then; horse and chariots let us have,  
-And to our sport. ...
+And to our sport. /
 
 *\[To TAMORA]*  
-... Madam, now shall ye see  
-Our Roman hunting. ...
+/ Madam, now shall ye see  
+Our Roman hunting. /
 
 **MARCUS ANDRONICUS**  
-... I have dogs, my lord,  
+/ I have dogs, my lord,  
 Will rouse the proudest panther in the chase,  
 And climb the highest promontory top.
 
@@ -1491,10 +1491,10 @@ I bring consuming sorrow to thine age.
 Will it consume me? let me see it, then.
 
 **MARCUS ANDRONICUS**  
-This was thy daughter. ...
+This was thy daughter. /
 
 **TITUS ANDRONICUS**  
-... Why, Marcus, so she is.
+/ Why, Marcus, so she is.
 
 **LUCIUS**  
 Ay me, this object kills me!
@@ -2124,9 +2124,9 @@ Gramercy, lovely Lucius: what's the news?
 **Young LUCIUS**  
 *\[Aside]*
 That you are both decipher'd, that's the news,  
-For villains mark'd with rape. ...
+For villains mark'd with rape. /
 
-... May it please you,
+/ May it please you,
 My grandsire, well advised, hath sent by me  
 The goodliest weapons of his armoury  
 To gratify your honourable youth,  
@@ -2134,19 +2134,19 @@ The hope of Rome; for so he bade me say;
 And so I do, and with his gifts present  
 Your lordships, that, whenever you have need,  
 You may be armed and appointed well:  
-And so I leave you both: ...
+And so I leave you both: /
 
 *\[Aside]*
-... like bloody villains.
+/ like bloody villains.
 
 *Exeunt Young LUCIUS*
 
 **DEMETRIUS**  
 What's here? A scroll; and written round about?  
-Let's see; ...
+Let's see; /
 
 *\[Reads]*
-... 'Integer vitae, scelerisque purus,  
+/ 'Integer vitae, scelerisque purus,  
 Non eget Mauri jaculis, nec arcu.'
 
 **CHIRON**  
@@ -2209,12 +2209,12 @@ Why do the emperor's trumpets flourish thus?
 Belike, for joy the emperor hath a son.
 
 **DEMETRIUS**  
-Soft! who comes here? ...
+Soft! who comes here? /
 
 *Enter a Nurse, with a blackamoor Child in her arms*
 
 **Nurse**  
-... Good morrow, lords:
+/ Good morrow, lords:
 O, tell me, did you see Aaron the Moor?
 
 **AARON**  
@@ -2235,10 +2235,10 @@ Our empress' shame, and stately Rome's disgrace!
 She is deliver'd, lords; she is deliver'd.
 
 **AARON**  
-To whom? ...
+To whom? /
 
 **Nurse**  
-... I mean, she is brought a-bed.
+/ I mean, she is brought a-bed.
 
 **AARON**  
 Well, God give her good rest! What hath he sent her?
@@ -2278,10 +2278,10 @@ Woe to her chance, and damn'd her loathed choice!
 Accursed the offspring of so foul a fiend!
 
 **CHIRON**  
-It shall not live. ...
+It shall not live. /
 
 **AARON**  
-... It shall not die.
+/ It shall not die.
 
 **Nurse**  
 Aaron, it must; the mother wills it so.
@@ -2409,10 +2409,10 @@ Then let the ladies tattle what they please.
 
 **CHIRON**  
 Aaron, I see thou wilt not trust the air  
-With secrets. ...
+With secrets. /
 
 **DEMETRIUS**  
-... For this care of Tamora,
+/ For this care of Tamora,
 Herself and hers are highly bound to thee.
 
 *Exeunt DEMETRIUS and CHIRON bearing off the Nurse's body*
@@ -2515,19 +2515,19 @@ Kinsmen, shoot all your shafts into the court:
 We will afflict the emperor in his pride.
 
 **TITUS ANDRONICUS**  
-Now, masters, draw. ...
+Now, masters, draw. /
 
 *They shoot*
 
-... O, well said, Lucius!
+/ O, well said, Lucius!
 Good boy, in Virgo's lap; give it Pallas.
 
 **MARCUS ANDRONICUS**  
 My lord, I aim a mile beyond the moon;  
-Your letter is with Jupiter by this. ...
+Your letter is with Jupiter by this. /
 
 **TITUS ANDRONICUS**  
-... Ha, ha!
+/ Ha, ha!
 Publius, Publius, what hast thou done?  
 See, see, thou hast shot off one of Taurus' horns.
 
@@ -3285,10 +3285,10 @@ Publius, come hither, Caius!
 *Enter PUBLIUS and CAIUS*
 
 **PUBLIUS**  
-What is your will? ...
+What is your will? /
 
 **TITUS ANDRONICUS**  
-... Know you these two?
+/ Know you these two?
 
 **PUBLIUS**  
 The empress' sons, I take them, Chiron and Demetrius.
@@ -3441,10 +3441,10 @@ To slay his daughter with his own right hand,
 Because she was enforced, stain'd, and deflower'd?
 
 **SATURNINUS**  
-It was, Andronicus. ...
+It was, Andronicus. /
 
 **TITUS ANDRONICUS**  
-... Your reason, mighty lord?
+/ Your reason, mighty lord?
 
 **SATURNINUS**  
 Because the girl should not survive her shame,  

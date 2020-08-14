@@ -569,10 +569,10 @@ For flattery fear thou not to be convicted.
 Begin; I will to contemplate the while:  
 Forget not to set down, how passionate,  
 How heart sick, and how full of languishment,  
-Her beauty makes me. ...
+Her beauty makes me. /
 
 **LODOWICK**  
-... Write I to a woman?
+/ Write I to a woman?
 
 **KING EDWARD**  
 What beauty else could triumph over me,  
@@ -646,11 +646,11 @@ And, being unmasked, outshine the golden sun.
 What is the other fault, my sovereign Lord?
 
 **KING EDWARD**  
-Read o'er the line again. ...
+Read o'er the line again. /
 
 **LODOWICK**  
 *\[Reads.]*  
-... More fair and chaste—
+/ More fair and chaste—
 
 **KING EDWARD**  
 I did not bid thee talk of chastity,  
@@ -669,10 +669,10 @@ Let's see what follows that same moonlight line.
 **LODOWICK**  
 *\[Reads.]*  
 More fair and chaste than is the queen of shades,  
-More bold in constance— ...
+More bold in constance— /
 
 **KING EDWARD**  
-... In constance! Than who?
+/ In constance! Than who?
 
 **LODOWICK**  
 *\[Reads.]*  
@@ -746,10 +746,10 @@ Engage thy power to redeem my Joys,
 And I am joyful, Countess; else I die.
 
 **COUNTESS**  
-I will, my Liege. ...
+I will, my Liege. /
 
 **KING EDWARD**  
-... Swear, Countess, that thou wilt.
+/ Swear, Countess, that thou wilt.
 
 **COUNTESS**  
 By heaven, I will.
@@ -1132,12 +1132,12 @@ Befall my sovereign all my sovereign's wish!
 Ah, that thou wert a witch to make it so!
 
 **DERBY**  
-The Emperor greeteth you. ...  
+The Emperor greeteth you. /  
 *\[Presenting Letters.]*
 
 **KING EDWARD**  
 *\[Aside.]*  
-... Would it were the Countess!
+/ Would it were the Countess!
 
 **DERBY**  
 And hath accorded to your highness suite.
@@ -1169,10 +1169,10 @@ The Countess' mind, my liege?
 I mean the Emperor — leave me alone.
 
 **AUDLEY**  
-What is his mind? ...
+What is his mind? /
 
 **DERBY**  
-... Let's leave him to his humor.
+/ Let's leave him to his humor.
 
 *Exeunt.*
 
@@ -1186,10 +1186,10 @@ The pleasure or displeasure of her eye.
 *Enter Lodowick.*
 
 What says the more than Cleopatra's match  
-To Caesar now? ...
+To Caesar now? /
 
 **LODOWICK**  
-... That yet, my liege, ere night  
+/ That yet, my liege, ere night  
 She will resolve your majesty.
 
 *Drum within.*
@@ -1247,10 +1247,10 @@ Who, looking wistely on me, make me blush:
 For faults against themselves give evidence  
 Away, loose silks of wavering vanity!  
 Shall the large limit of fair Britain be  
-By me o'erthrown— ...
+By me o'erthrown— /
 
 *\[To Prince Edward]*  
-... Come, boy, forward, advance!  
+/ Come, boy, forward, advance!  
 Let's with our colors sweet the air of France.
 
 *Enter Lodowick.*
@@ -1319,10 +1319,10 @@ It is their lives that stand between our love,
 That I would have choked up, my sovereign.
 
 **KING EDWARD**  
-Whose lives, my Lady? ...
+Whose lives, my Lady? /
 
 **COUNTESS**  
-... My thrice loving liege,  
+/ My thrice loving liege,  
 Your Queen and Sal'sb'ry, my wedded husband,  
 Who living have that title in our love,  
 That we cannot bestow but by their death.
@@ -2104,10 +2104,10 @@ Myself and Derby will to Calice straight,
 And there be begirt that haven town with siege.  
 Now lies it on an upshot; therefore strike,  
 And wistly follow, whiles the game's on foot.  
-What picture's this? ...
+What picture's this? /
 
 **PRINCE EDWARD**  
-... A pelican, my Lord,  
+/ A pelican, my Lord,  
 Wounding her bosom with her crooked beak,  
 That so her nest of young ones may be fed  
 With drops of blood that issue from her heart;  
@@ -2682,10 +2682,10 @@ Dark, deadly, silent, and uncomfortable.
 Hark, what a deadly outcry do I hear?
 
 **CHARLES**  
-Here comes my brother Philip. ...
+Here comes my brother Philip. /
 
 **KING JOHN**  
-... All dismayed:
+/ All dismayed:
 
 *Enter Philip.*
 
@@ -2698,10 +2698,10 @@ A flight, a flight!
 Awake thy craven powers, and tell on  
 The substance of that very fear indeed,  
 Which is so ghastly printed in thy face:  
-What is the matter? ...
+What is the matter? /
 
 **PHILIP**  
-... A flight of ugly ravens  
+/ A flight of ugly ravens  
 Do croak and hover o'er our soldiers' heads,  
 And keep in triangles and cornered squares,  
 Right as our forces are embattled;  
@@ -2899,10 +2899,10 @@ The feeble handful on the adverse part.
 
 **CHARLES**  
 Then charge again: if heaven be not opposed,  
-We cannot lose the day. ...
+We cannot lose the day. /
 
 **KING JOHN**  
-... On, away!
+/ On, away!
 
 *Exeunt.*
 

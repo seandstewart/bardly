@@ -78,10 +78,10 @@ delivered to the king her father'-
 *\[Lets the paper fall]*
 
 **KING HENRY VI**  
-Uncle, how now! ...
+Uncle, how now! /
 
 **GLOUCESTER**  
-... Pardon me, gracious lord;  
+/ Pardon me, gracious lord;  
 Some sudden qualm hath struck me at the heart  
 And dimm'd mine eyes, that I can read no further.
 
@@ -482,11 +482,11 @@ protector.
 'To my Lord Protector!'
 
 Is your supplication to his lordship?  
-Let me see't: what's thine? ...
+Let me see't: what's thine? /
 
 **PETER**  
 *\[Giving his petition]*  
-... Against my master,
+/ Against my master,
 Thomas Horner, for saying that the
 Duke of York was rightful heir to the crown.
 
@@ -1001,10 +1001,10 @@ No malice, sir; no more than well becomes
 So good a quarrel and so bad a peer.
 
 **GLOUCESTER**  
-As who, my lord? ...
+As who, my lord? /
 
 **SUFFOLK**  
-... Why, as you, my lord,  
+/ Why, as you, my lord,  
 An't like your lordly lord-protectorship.
 
 **GLOUCESTER**  
@@ -1041,27 +1041,27 @@ Ay, where thou darest not peep: an if thou darest,
 This evening, on the east side of the grove.
 
 **KING HENRY VI**  
-How now, my lords! ...
+How now, my lords! /
 
 **CARDINAL**  
-... Believe me, cousin Gloucester,  
+/ Believe me, cousin Gloucester,  
 Had not your man put up the fowl so suddenly,  
-We had had more sport. ...
+We had had more sport. /
 
 *\[Aside to GLOUCESTER]*  
-... Come with thy two-hand sword.
+/ Come with thy two-hand sword.
 
 **GLOUCESTER**  
-True, uncle. ...
+True, uncle. /
 
 **CARDINAL**  
 *\[Aside to GLOUCESTER]*  
-... Are ye advised?  
-The east side of the grove? ...
+/ Are ye advised?  
+The east side of the grove? /
 
 **GLOUCESTER**  
 *\[Aside to CARDINAL]*  
-... Cardinal, I am with you.
+/ Cardinal, I am with you.
 
 **KING HENRY VI**  
 The winds grow high; so do your stomachs, lords.  
@@ -1193,10 +1193,10 @@ This Edmund, in the reign of Bolingbroke,
 As I have read, laid claim unto the crown;  
 And, but for Owen Glendower, had been king,  
 Who kept him in captivity till he died.  
-But to the rest. ...
+But to the rest. /
 
 **YORK**  
-... His eldest sister, Anne,  
+/ His eldest sister, Anne,  
 My mother, being heir unto the crown  
 Married Richard Earl of Cambridge; who was son  
 To Edmund Langley, Edward the Third's fifth son.  
@@ -2509,19 +2509,19 @@ For wheresoe'er thou art in this world's globe,
 I'll have an Iris that shall find thee out.
 
 **SUFFOLK**  
-I go. ...
+I go. /
 
 **QUEEN MARGARET**  
-... And take my heart with thee.
+/ And take my heart with thee.
 
 **SUFFOLK**  
 A jewel, lock'd into the wofull'st cask  
 That ever did contain a thing of worth.  
 Even as a splitted bark, so sunder we  
-This way fall I to death. ...
+This way fall I to death. /
 
 **QUEEN MARGARET**  
-... This way for me.
+/ This way for me.
 
 *Exeunt severally*
 
@@ -2668,19 +2668,19 @@ Base slave, thy words are blunt and so art thou.
 
 **Captain**  
 Convey him hence and on our longboat's side  
-Strike off his head. ...
+Strike off his head. /
 
 **SUFFOLK**  
-... Thou darest not, for thy own.
+/ Thou darest not, for thy own.
 
 **Captain**  
-Yes, Pole. ...
+Yes, Pole. /
 
 **SUFFOLK**  
-... Pole! ...
+/ Pole! /
 
 **Captain**  
-... Pool! Sir Pool! lord!  
+/ Pool! Sir Pool! lord!  
 Ay, kennel, puddle, sink; whose filth and dirt  
 Troubles the silver spring where England drinks.  
 Now will I dam up this thy yawning mouth  
@@ -3696,10 +3696,10 @@ So please it you, my lord, 'twere not amiss
 He were created knight for his good service.
 
 **KING HENRY VI**  
-Iden, kneel down. ...
+Iden, kneel down. /
 
 *\[He kneels]*  
-... Rise up a knight.  
+/ Rise up a knight.  
 We give thee for reward a thousand marks,  
 And will that thou henceforth attend on us.
 

@@ -8,10 +8,10 @@
 
 **RODERICK**  
 My gracious father, this unwonted strain  
-Visits my heart with sadness. ...
+Visits my heart with sadness. /
 
 **DUKE ANGELO**  
-... Why, my son?  
+/ Why, my son?  
 Making my death familiar to my tongue  
 Digs not my grave one jot before the date.  
 I've worn the garland of my honors long,  
@@ -32,10 +32,10 @@ While fond Henriquez, thy irregular brother,
 Sets the large credit of his name at stake,  
 A truant to my wishes, and his birth.  
 His taints of wildness hurt our nicer honor,  
-And call for swift reclaim. ...
+And call for swift reclaim. /
 
 **RODERICK**  
-... I trust, my brother  
+/ I trust, my brother  
 Will, by the vantage of his cooler wisdom,  
 E'er-while redeem the hot escapes of youth,  
 And court opinion with a golden conduct.
@@ -209,16 +209,16 @@ O, add the music of thy charming tongue,
 Sweet as the lark that wakens up the morn,  
 And make me think it paradise indeed.  
 I was about to seek thee, Leonora,  
-And chide thy coldness, love. ...
+And chide thy coldness, love. /
 
 **LEONORA**  
-... What says your father?
+/ What says your father?
 
 **JULIO**  
-I have not mov'd him yet. ...
+I have not mov'd him yet. /
 
 **LEONORA**  
-... Then do not, Julio.
+/ Then do not, Julio.
 
 **JULIO**  
 Not move him? Was it not your own command,  
@@ -244,10 +244,10 @@ That have a face would make a frozen hermit
 Leap from his cell, and burn his beads to kiss it;  
 Eyes, that are nothing but continual births  
 Of new desires in those that view their beams.  
-You cannot have a cause to doubt. ...
+You cannot have a cause to doubt. /
 
 **LEONORA**  
-... Why, Julio?  
+/ Why, Julio?  
 When you that dare not choose without your father,  
 And, where you love, you dare not vouch it; must not,  
 Though you have eyes, see with 'em;--can I, think you,  
@@ -267,10 +267,10 @@ But rather whet our loves. Be patient, sweet.
 Patient! What else? My flames are in the flint.  
 Haply, to lose a husband I may weep;  
 Never, to get one: when I cry for bondage,  
-Let freedom quit me. ...
+Let freedom quit me. /
 
 **JULIO**  
-... From what a spirit comes this?  
+/ From what a spirit comes this?  
 I now perceive too plain, you care not for me.  
 Duke, I obey thy summons, be its tenor  
 Whate'er it will: if war, I come thy soldier:  
@@ -298,16 +298,16 @@ Repair to court? Ay, there you shall, perhaps,
 Rich in her charms, train'd to the arts of soothing,  
 Shall prompt you to a spirit of hardiness,  
 To say, "So please you, father, I have chosen  
-This mistress for my own." ...
+This mistress for my own." /
 
 **JULIO**  
-... Still you mistake me:  
+/ Still you mistake me:  
 Ever your servant I profess myself;  
 And will not blot me with a change, for all  
-That sea and land inherit. ...
+That sea and land inherit. /
 
 **LEONORA**  
-... But when go you?
+/ But when go you?
 
 **JULIO**  
 Tomorrow, love; so runs the Duke's command;  
@@ -317,10 +317,10 @@ Of thousand precious vows, with haste too rude.
 Lovers have things of moment to debate,  
 More than a prince, or dreaming statesman, know:  
 Such ceremonies wait on cupid's throne.  
-Why heav'd that sigh? ...
+Why heav'd that sigh? /
 
 **LEONORA**  
-... O Julio, let me whisper  
+/ O Julio, let me whisper  
 What, but for parting, I should blush to tell thee:  
 My heart beats thick with fears, lest the gay scene,  
 The splendors of a court, should from thy breast  
@@ -476,10 +476,10 @@ O taper, graced by that midnight hand!
 Who is't, that woos at this late hour? What are you?
 
 **HENRIQUEZ**  
-One, who for your dear sake-- ...
+One, who for your dear sake-- /
 
 **VIOLANTE**  
-... Watches the starless night!  
+/ Watches the starless night!  
 My lord Henriquez, or my ear deceives me.  
 You've had my answer, and 'tis more than strange  
 You'll combat these repulses. Good my lord!  
@@ -487,10 +487,10 @@ Be friend to your own health; and give me leave,
 Securing my poor fame, nothing to pity  
 What pangs you swear you suffer. 'Tis impossible  
 To plant your choice affections in my shade,  
-At least, for them to grow there. ...
+At least, for them to grow there. /
 
 **HENRIQUEZ**  
-... Why, Violante?
+/ Why, Violante?
 
 **VIOLANTE**  
 Alas! Sir, there are reasons numberless  
@@ -501,15 +501,15 @@ Have thus besung mean windows, rhymed their suff'rings
 Ev'n to th' abuse of things divine, set up  
 Plain girls, like me, the idols of their worship,  
 Then left them to bewail their easie faith,  
-And stand the world's contempt. ...
+And stand the world's contempt. /
 
 **HENRIQUEZ**  
-... Your memory,  
+/ Your memory,  
 Too faithful to the wrongs of few lost maids,  
-Makes fear too general. ...
+Makes fear too general. /
 
 **VIOLANTE**  
-... Let us be homely,  
+/ Let us be homely,  
 And let us too be chaste, doing you lords no wrong;  
 But crediting your oaths with such a spirit,  
 As you profess them: so no party trusted  
@@ -517,23 +517,23 @@ Shall make a losing bargain. Home, my lord!
 What you can say, is most unseasonable; what sing,  
 Most absonant and harsh: nay, your perfume,  
 Which I smell hither, cheers not my sense  
-Like our field-violet's breath. ...
+Like our field-violet's breath. /
 
 **HENRIQUEZ**  
-... Why this dismission  
-Does more invite my staying. ...
+/ Why this dismission  
+Does more invite my staying. /
 
 **VIOLANTE**  
-... Men of your temper  
+/ Men of your temper  
 Make ev'ry thing their bramble. But I wrong  
 That which I am preserving, my maid's name,  
 To hold so long discourse. Your virtues guide you  
-T' effect some nobler purpose! ...
+T' effect some nobler purpose! /
 
 *Exit Violante.*
 
 **HENRIQUEZ**  
-... Stay, bright maid!  
+/ Stay, bright maid!  
 Come back, and leave me with a fairer hope.  
 She's gone. Who am I, that am thus contemn'd?  
 The second son to a prince? Yes, well, what then?  
@@ -680,10 +680,10 @@ His business now steers him some other course.
 Whither, I pray you? How my fears torment me!
 
 **GERALD**  
-Some two months progress. ...
+Some two months progress. /
 
 **VIOLANTE**  
-... Whither, whither, sir,  
+/ Whither, whither, sir,  
 I do beseech you? Good heav'ns, I lose all patience.  
 Did he deliberate this? Or was the business  
 But then conceiv'd, when it was born?
@@ -773,10 +773,10 @@ Which you refus'd to love? And shall Henriquez
 Owe all his happiness to good Bernardo?  
 Ah! No; I read my ruin in your eyes:  
 That sorrow, louder than a thousand tongues,  
-Pronounces my despair. ...
+Pronounces my despair. /
 
 **DON BERNARD**  
-... Come, Leonora,  
+/ Come, Leonora,  
 You are not now to learn, this noble lord,  
 --Whom but to name, restores my failing age,--  
 Has with a lover's eye beheld your beauty;  
@@ -1078,12 +1078,12 @@ Convey this paper to him: and believe me,
 You do heav'n service in't, and shall have cause  
 Not to repent your pains. I know not what  
 Your fortune is;--pardon me, gentle sir,  
-That I am bold to offer this. ...  
+That I am bold to offer this. /  
 *\[Throws down a purse with money.]*
 
 **DON BERNARD**  
 *\[Within.]*  
-... Leonora.--
+/ Leonora.--
 
 **LEONORA**  
 I trust to you; heav'n put it in your heart  
@@ -1130,10 +1130,10 @@ Lower, she tells me here, that this affair
 Shall yield a testimony of her love:  
 And prays, her letter may come safe and sudden.  
 This pray'r the heav'ns have heard, and I beseech 'em,  
-To hear all pray'rs she makes. ...
+To hear all pray'rs she makes. /
 
 **Citizen**  
-... Have patience, sir.
+/ Have patience, sir.
 
 **JULIO**  
 O my good friend, methinks, I am too patient.  
@@ -1147,25 +1147,25 @@ It stood not in mean place: things of fierce nature
 Hold amity and concordance. Such a villainy  
 A writer could not put down in his scene,  
 Without taxation of his auditory  
-For fiction most enormous. ...
+For fiction most enormous. /
 
 **Citizen**  
-... These upbraidings  
-Cool time, while they are vented. ...
+/ These upbraidings  
+Cool time, while they are vented. /
 
 **JULIO**  
-... I am counsel'd.  
+/ I am counsel'd.  
 For you, evermore, thanks. You've done much for us;  
 So gently press'd to 't, that I may persuade me  
-You'll do a little more. ...
+You'll do a little more. /
 
 **Citizen**  
-... Put me t' employment  
+/ Put me t' employment  
 That's honest, though not safe, with my best spirits  
-I'll give't accomplishment. ...
+I'll give't accomplishment. /
 
 **JULIO**  
-... No more but this;  
+/ No more but this;  
 For I must see Leonora: and to appear  
 Like Julio, as I am, might haply spoil  
 Some good event ensuing. Let me crave  
@@ -1174,10 +1174,10 @@ May bear me to my love, unmark'd, and secret.
 
 **Citizen**  
 You shall not want. Yonder's the house before us:  
-Make haste to reach it. ...
+Make haste to reach it. /
 
 **JULIO**  
-... Still I thank you, sir.  
+/ Still I thank you, sir.  
 O Leonora! Stand but this rude shock;  
 Hold out thy faith against the dread assault  
 Of this base lord, the service of my life  
@@ -1218,10 +1218,10 @@ Gross-dawbing 'twixt them both. But I'm o'erheard.
 
 **JULIO**  
 Stay, Leonora; has this outward veil  
-Quite lost me to thy knowledge? ...
+Quite lost me to thy knowledge? /
 
 **LEONORA**  
-... O my Julio!  
+/ O my Julio!  
 Thy presence ends the stern debate of doubt,  
 And cures me of a thousand heartsick fears,  
 Sprung from thy absence: yet awakes a train  
@@ -1231,17 +1231,17 @@ Of other sleeping terrors. Do you weep?
 No, Leonora; when I weep, it must be  
 The substance of mine eye. Would I could weep;  
 For then mine eye would drop upon my heart,  
-And 'suage the fire there. ...
+And 'suage the fire there. /
 
 **LEONORA**  
-... You are full possess'd  
+/ You are full possess'd  
 How things go here. First, welcome heartily;  
 Welcome to th' ending of my last good hour:  
 Now summer bliss and gawdy days are gone,  
-My lease in 'em 's expir'd. ...
+My lease in 'em 's expir'd. /
 
 **JULIO**  
-... Not so, Leonora.
+/ Not so, Leonora.
 
 **LEONORA**  
 Yes, Julio, yes; an everlasting storm  
@@ -1249,21 +1249,21 @@ Is come upon me, which I can't bear out.
 I cannot stay much talk; we have lost leisure;  
 And thus it is: your absence hath giv'n breeding  
 To what my letter hath declar'd, and is  
-This instant on th' effecting, hark! ...
+This instant on th' effecting, hark! /
 
 *Flourish within.*
 
-... The music  
+/ The music  
 Is now on tuning, which must celebrate  
 This bus'ness so discordant. Tell me then,  
-What you will do. ...
+What you will do. /
 
 **JULIO**  
-... I know not what: advise me.  
-I'll kill the traitor. ...
+/ I know not what: advise me.  
+I'll kill the traitor. /
 
 **LEONORA**  
-... O! Take heed: his death  
+/ O! Take heed: his death  
 Betters our cause no whit. No killing, Julio.
 
 **JULIO**  
@@ -1286,16 +1286,16 @@ The traitor play his part; if I not do
 Manhood and justice, honor; let me be deem'd  
 A tame, pale, coward, whom the night owl's hoot  
 May turn to aspen leaf: some man take this,  
-Give me a distaff for it. ...
+Give me a distaff for it. /
 
 **LEONORA**  
-... Patience, Julio;  
+/ Patience, Julio;  
 And trust to me: I have fore-thought the means  
-To disappoint these nuptials. ...
+To disappoint these nuptials. /
 
 *Music within.*
 
-... Hark! Again;  
+/ Hark! Again;  
 These are the bells knoll for us. See, the lights  
 Move this way, Julio. Quick, behind yon arras,  
 And take thy secret stand. Dispute it not;  
@@ -1331,14 +1331,14 @@ Where love should sit enthron'd? Behold your slave;
 Nay, frown not; for each hour of growing time  
 Shall task me to thy service, 'till by merit  
 Of dearest love I blot the low-born Julio  
-From thy fair mind. ...
+From thy fair mind. /
 
 **LEONORA**  
-... So I shall make it foul;  
-This counsel is corrupt. ...
+/ So I shall make it foul;  
+This counsel is corrupt. /
 
 **HENRIQUEZ**  
-... Come, you will change.
+/ Come, you will change.
 
 **LEONORA**  
 Why would you make a wife of such a one,  
@@ -1371,47 +1371,47 @@ Have you an ear for this harsh sound?
 No shot of reason can come near the place,  
 Where my love's fortified. The day shall come,  
 Wherein you'll chide this backwardness, and bless  
-Our fervor in this course. ...
+Our fervor in this course. /
 
 **LEONORA**  
-... No, no, Henriquez,  
+/ No, no, Henriquez,  
 When you shall find what prophet you are prov'd,  
-You'll prophesie no more. ...
+You'll prophesie no more. /
 
 **DON BERNARD**  
-... Have done this talking,  
+/ Have done this talking,  
 If you will cleave to your obedience, do't;  
 If not, unbolt the portal, and be gone;  
-My blessing stay behind you. ...
+My blessing stay behind you. /
 
 **LEONORA**  
-... Sir, your pardon:  
+/ Sir, your pardon:  
 I will not swerve a hair's breadth from my duty;  
-It shall first cost me dear. ...
+It shall first cost me dear. /
 
 **DON BERNARD**  
-... Well then, to th' point:  
+/ Well then, to th' point:  
 Give me your hand. My honor'd lord, receive  
 My daughter of me,--nay, no dragging back,  
 But with my curses; whom I frankly give you,  
-And wish you joy and honor. ...
+And wish you joy and honor. /
 
 *As Don Bernard goes to give Leonora to Henriquez, Julio
 advances from the arras, and steps between.*
 
 **JULIO**  
-... Hold, Don Bernard,  
-Mine is the elder claim. ...
+/ Hold, Don Bernard,  
+Mine is the elder claim. /
 
 **DON BERNARD**  
-... What are you, sir?
+/ What are you, sir?
 
 **JULIO**  
 A wretch, that's almost lost to his own knowledge,  
-Struck through with injuries.-- ...
+Struck through with injuries.-- /
 
 **HENRIQUEZ**  
-... Ha! Julio? Hear you,  
+/ Ha! Julio? Hear you,  
 Were you not sent on our commands to court?  
 Order'd to wait your fair dismission thence?  
 And have you dared, knowing you are our vassal,  
@@ -1440,10 +1440,10 @@ Then, if your courage hold to claim it of me,
 I may have leisure to chastise this boldness.
 
 **JULIO**  
-Nay, then I'll seize my right. ...
+Nay, then I'll seize my right. /
 
 **HENRIQUEZ**  
-... What, here, a brawl?  
+/ What, here, a brawl?  
 My servants,--turn this boist'rous sworder forth;  
 And see he come not to disturb our joys.
 
@@ -1453,21 +1453,21 @@ Hold, dogs!--Leonora,--coward, base, Henriquez!
 *Julio is seized, and dragged out by the servants.*
 
 **HENRIQUEZ**  
-She dies upon me; help! ...
+She dies upon me; help! /
 
 *Leonora swoons; as they endeavor to recover her, a paper
 drops from her.*
 
 **DON BERNARD**  
-... Throng not about her;  
-But give her air. ...
+/ Throng not about her;  
+But give her air. /
 
 **HENRIQUEZ**  
-... What paper's that? Let's see it.  
-It is her own handwriting. ...
+/ What paper's that? Let's see it.  
+It is her own handwriting. /
 
 **DON BERNARD**  
-... Bow her head:  
+/ Bow her head:  
 'Tis but her fright; she will recover soon.  
 What learn you by that paper, good my lord?
 
@@ -1478,10 +1478,10 @@ What dagger means she? Search her well, I pray you.
 
 **DON BERNARD**  
 Here is the dagger.--Oh, the stubborn sex,  
-Rash ev'n to madness! ...
+Rash ev'n to madness! /
 
 **HENRIQUEZ**  
-... Bear her to her chamber:  
+/ Bear her to her chamber:  
 Life flows in her again.--Pray, bear her hence:  
 And tend her, as you would the world's best treasure.
 
@@ -1510,24 +1510,24 @@ Nor taste those recreations health demands:
 But, like a whirlwind, hither have they snatch'd me,  
 Perforce, to be resolv'd. I know my brother  
 Had Julio's father for his host: from him  
-Enquiry may befriend me. ...
+Enquiry may befriend me. /
 
 *Enter Camillo.*
 
-... Old sir, I'm glad  
-To've met you thus. What ails the man? Camillo,-- ...
+/ Old sir, I'm glad  
+To've met you thus. What ails the man? Camillo,-- /
 
 **CAMILLO**  
-... Ha?
+/ Ha?
 
 **RODERICK**  
 Is't possible, you should forget your friends?
 
 **CAMILLO**  
-Friends! What are those? ...
+Friends! What are those? /
 
 **RODERICK**  
-... Why, those that love you, sir.
+/ Why, those that love you, sir.
 
 **CAMILLO**  
 You're none of those, sure, if you be lord Roderick.
@@ -1542,9 +1542,9 @@ One, that believ'd too suddenly his court-creed.
 
 **RODERICK**  
 *\[Aside.]*  
-All is not well. ...
+All is not well. /
 
-... --Good old man, do not rail.
+/ --Good old man, do not rail.
 
 **CAMILLO**  
 My lord, my lord, you've dealt dishonorably.
@@ -1561,27 +1561,27 @@ Rots upon such dissemblers!-- under color
 Of buying coursers, and I know not what,  
 Bought my poor boy out of possession  
 Ev'n of his plighted faith. Was not this honor?  
-And this a constant friend? ...
+And this a constant friend? /
 
 **RODERICK**  
-... I dare not say so.
+/ I dare not say so.
 
 **CAMILLO**  
 Now you have robb'd him of his love, take all;  
 Make up your malice, and dispatch his life too.
 
 **RODERICK**  
-If you would hear me, sir,-- ...
+If you would hear me, sir,-- /
 
 **CAMILLO**  
-... Your brave old father  
+/ Your brave old father  
 Would have been torn in pieces with wild horses,  
 E'er he had done this treachery. On my conscience,  
 Had he but dreamt you two durst have committed  
-This base, unmanly crime,-- ...
+This base, unmanly crime,-- /
 
 **RODERICK**  
-... Why, this is madness.--
+/ Why, this is madness.--
 
 **CAMILLO**  
 I've done; I've eas'd my heart; now you may talk.
@@ -1601,12 +1601,12 @@ To know the truth of you.
 My servant loiters; sure, he means me well.  
 Camillo, and a stranger? These may give me  
 Some comfort from their talk. I'll step aside:  
-And hear what fame is stirring. ...
+And hear what fame is stirring. /
 
 *Violante retires.*
 
 **RODERICK**  
-... Why this wond'ring?
+/ Why this wond'ring?
 
 **CAMILLO**  
 Can there be one so near in blood as you are  
@@ -1616,14 +1616,14 @@ To that Henriquez, and an honest man?
 While he was good, I do confess my nearness;  
 But, since his fall from honor, he's to me  
 As a strange face I saw but yesterday,  
-And as soon lost. ...
+And as soon lost. /
 
 **CAMILLO**  
-... I ask your pardon, lord;  
-I was too rash and bold. ...
+/ I ask your pardon, lord;  
+I was too rash and bold. /
 
 **RODERICK**  
-... No harm done, sir.
+/ No harm done, sir.
 
 **CAMILLO**  
 But is it possible, you should not hear  
@@ -1639,16 +1639,16 @@ How now?
 
 **Citizen**  
 I bear you tidings, sir, which I could wish  
-Some other tongue deliver'd. ...
+Some other tongue deliver'd. /
 
 **CAMILLO**  
-... Whence, I pray you?
+/ Whence, I pray you?
 
 **Citizen**  
-From your son, sir. ...
+From your son, sir. /
 
 **CAMILLO**  
-... Prithee, where is he?
+/ Prithee, where is he?
 
 **Citizen**  
 That's more than I know now, sir.  
@@ -1660,16 +1660,16 @@ He came to that curst marriage--the fiends take it!
 Prithee, be gone, and bid the bell knoll for me:  
 I have had one foot in the grave some time.  
 Nay, go, good friend; thy news deserve no thanks.  
-How does your lordship? ...
+How does your lordship? /
 
 *Exit Citizen.*
 
 **RODERICK**  
-... That's well said, old man.  
-I hope, all shall be well yet. ...
+/ That's well said, old man.  
+I hope, all shall be well yet. /
 
 **CAMILLO**  
-... It had need;  
+/ It had need;  
 For 'tis a crooked world. Farewell, poor boy!
 
 *Enter Don Bernard.*
@@ -1681,20 +1681,20 @@ Now I am like an aged oak, alone,
 Left for all tempests. I would cry, but cannot:  
 I'm dried to death almost with these vexations.  
 Lord! What a heavy load I have within me!  
-My heart,--my heart,--my heart-- ...
+My heart,--my heart,--my heart-- /
 
 **CAMILLO**  
-... Has this ill weather  
-Met with thee too? ...
+/ Has this ill weather  
+Met with thee too? /
 
 **DON BERNARD**  
-... O wench, that I were with thee!
+/ O wench, that I were with thee!
 
 **CAMILLO**  
-You do not come to mock at me now? ...
+You do not come to mock at me now? /
 
 **DON BERNARD**  
-... Ha?
+/ Ha?
 
 **CAMILLO**  
 Do not dissemble; thou may'st find a knave  
@@ -1715,11 +1715,11 @@ I was too poor a brother for your greatness;
 You must be grafted into noble stocks,  
 And have your titles rais'd. My state was laugh'd at:  
 And my alliance scorn'd. I've lost a son too;  
-Which must not be put up so. ...  
+Which must not be put up so. /  
 *\[Offers to draw.]*
 
 **RODERICK**  
-... Hold; be counsel'd.  
+/ Hold; be counsel'd.  
 You've equal losses; urge no farther anger.  
 Heav'n, pleas'd now at your love, may bring again,  
 And, no doubt, will, your children to your comforts:  
@@ -1727,10 +1727,10 @@ In which adventure my foot shall be foremost.
 And one more will I add, my honor'd father;  
 Who has a son to grieve for too, though tainted.  
 Let your joint sorrow be as balm to heal  
-These wounds of adverse fortune. ...
+These wounds of adverse fortune. /
 
 **DON BERNARD**  
-... Come, Camillo,  
+/ Come, Camillo,  
 Do not deny your love, for charity;  
 I ask it of you. Let this noble lord  
 Make brothers of us, whom our own cross fates  
@@ -1739,10 +1739,10 @@ What I intend to be, believe and nourish:
 I do confess my wrongs; give me your hand.
 
 **CAMILLO**  
-Heav'n make thee honest--there. ...
+Heav'n make thee honest--there. /
 
 **RODERICK**  
-... 'Tis done like good men.  
+/ 'Tis done like good men.  
 Now there rests nought, but that we part, and each  
 Take sev'ral ways in quest of our lost friends:  
 Some of my train o'er the wild rocks shall wait you.  
@@ -1775,13 +1775,13 @@ None, but the worst. Your father makes mighty offers
 yonder by a cryer, to any one can bring you home again.
 
 **VIOLANTE**  
-Art thou corrupted? ...
+Art thou corrupted? /
 
 **Servant to Violante**  
-... No. ...
+/ No. /
 
 **VIOLANTE**  
-... Wilt thou be honest?
+/ Wilt thou be honest?
 
 **Servant to Violante**  
 I hope, you do not fear me.
@@ -1789,45 +1789,45 @@ I hope, you do not fear me.
 **VIOLANTE**  
 Indeed, I do not. Thou hast an honest face;  
 And such a face, when it deceives, take heed,  
-Is curst of all heav'n's creatures. ...
+Is curst of all heav'n's creatures. /
 
 **Servant to Violante**  
-... I'll hang first.
+/ I'll hang first.
 
 **VIOLANTE**  
 Heav'n bless thee from that end! I've heard a man  
 Say more than this; and yet that man was false.  
-Thou'lt not be so, I hope. ...
+Thou'lt not be so, I hope. /
 
 **Servant to Violante**  
-... By my life, mistress,--
+/ By my life, mistress,--
 
 **VIOLANTE**  
 Swear not; I credit thee. But prithee though,  
 Take heed, thou dost not fail: I do not doubt thee:  
 Yet I have trusted such a serious face,  
-And been abused too. ...
+And been abused too. /
 
 **Servant to Violante**  
-... If I fail your trust,--
+/ If I fail your trust,--
 
 **VIOLANTE**  
 I do thee wrong to hold thy honesty  
 At distance thus: thou shalt know all my fortunes.  
-Get me a shepherd's habit. ...
+Get me a shepherd's habit. /
 
 **Servant to Violante**  
-... Well; what else?
+/ Well; what else?
 
 **VIOLANTE**  
 And wait me in the evening, where I told thee;  
 There thou shalt know my farther ends. Take heed--
 
 **Servant to Violante**  
-D'ye fear me still? ...
+D'ye fear me still? /
 
 **VIOLANTE**  
-... No; this is only counsel:  
+/ No; this is only counsel:  
 My life and death I have put equally  
 Into thy hand: let not rewards, nor hopes,  
 Be cast into the scale to turn thy faith.  
@@ -1922,10 +1922,10 @@ Play'd out the game of treach'ry.--Hold; come hither;
 You have an aspect, sir, of wond'rous wisdom,  
 And, as it seems, are travel'd deep in knowledge;  
 Have you e'er seen the Phoenix of the Earth,  
-The Bird of Paradise? ...
+The Bird of Paradise? /
 
 **Second Shepherd**  
-... In troth, not I, sir.
+/ In troth, not I, sir.
 
 **JULIO**  
 I have; and known her haunts, and where she built  
@@ -1949,10 +1949,10 @@ See, he grows cool, and pensive.
 Go towards him, boy, but do not look that way.
 
 **VIOLANTE**  
-Alas! I tremble-- ...
+Alas! I tremble-- /
 
 **JULIO**  
-... Oh, my pretty youth!  
+/ Oh, my pretty youth!  
 Come hither, child; did not your song imply  
 Something of love?
 
@@ -1968,18 +1968,18 @@ Sit here then: come, shake not, good pretty soul,
 Nor do not fear me; I'll not do thee wrong.
 
 **VIOLANTE**  
-Why do you look so on me? ...
+Why do you look so on me? /
 
 **JULIO**  
-... I have reasons.  
+/ I have reasons.  
 It puzzles my philosophy, to think  
 That the rude blast, hot sun, and dashing rains  
 Have made no fiercer war upon thy youth;  
 Nor hurt the bloom of that vermilion cheek.  
-You weep too, do you not? ...
+You weep too, do you not? /
 
 **VIOLANTE**  
-... Sometimes, I do.
+/ Sometimes, I do.
 
 **JULIO**  
 I weep sometimes too. You're extremely young.
@@ -1993,10 +1993,10 @@ You have a strong heart, and you are the happier.
 I warrant, you're a very loving woman.
 
 **VIOLANTE**  
-A woman, sir? ...
+A woman, sir? /
 
 *\[Aside.]*  
-... I fear, h'as found me out.
+/ I fear, h'as found me out.
 
 **Second Shepherd**  
 He takes the boy for a woman. Mad, again!
@@ -2006,10 +2006,10 @@ You've met some disappointment; some foul play
 Has cross'd your love. I read it in your face.
 
 **VIOLANTE**  
-You read a truth then. ...
+You read a truth then. /
 
 **JULIO**  
-... Where can lie the fault?  
+/ Where can lie the fault?  
 Is't in the man, or some dissembling knave,  
 He put in trust? Ho! Have I hit the cause?
 
@@ -2020,22 +2020,22 @@ You're not far off.
 This world is full of coz'ners, very full;  
 Young virgins must be wary in their ways.  
 I've known a Duke's son do as great a knavery.  
-Will you be rul'd by me? ...
+Will you be rul'd by me? /
 
 **VIOLANTE**  
-... Yes. ...
+/ Yes. /
 
 **JULIO**  
-... Kill yourself.  
+/ Kill yourself.  
 'Twill be a terror to the villain's conscience,  
-The longest day he lives. ...
+The longest day he lives. /
 
 **VIOLANTE**  
-... By no means. What?  
-Commit self-murder! ...
+/ By no means. What?  
+Commit self-murder! /
 
 **JULIO**  
-... Yes; I'll have it so.
+/ Yes; I'll have it so.
 
 **First Shepherd**  
 I fear, his fit is returning. Take heed of all hands.
@@ -2044,10 +2044,10 @@ I fear, his fit is returning. Take heed of all hands.
 **JULIO**  
 Thou liest; thou can'st not hurt me: I am proof  
 'Gainst farther wrongs. Steal close behind me, lady.  
-I will avenge thee. ...
+I will avenge thee. /
 
 **VIOLANTE**  
-... Thank the heav'ns, I'm free.
+/ Thank the heav'ns, I'm free.
 
 **JULIO**  
 O treach'rous, base Henriquez! Have I caught thee?
@@ -2102,10 +2102,10 @@ second course will be much more against our stomachs.
 **Master of the Flocks**  
 Walk you afore; I will but give my boy  
 Some short instructions, and I'll follow straight.  
-We'll crash a cup together. ...
+We'll crash a cup together. /
 
 **First Shepherd**  
-... Pray, do not linger.
+/ Pray, do not linger.
 
 *They Exit*
 
@@ -2142,9 +2142,9 @@ My will is able, but my knowledge weak, sir.
 That's a good child: why dost thou blush, my boy?
 
 *\[Aside.]*  
-'Tis certainly a woman. ...
+'Tis certainly a woman. /
 
-... Speak, my boy.
+/ Speak, my boy.
 
 **VIOLANTE**  
 Heav'n! How I tremble.--'Tis unusual to me  
@@ -2155,11 +2155,11 @@ Besides, I've often heard old people say,
 Too much indulgence makes boys rude and saucy.
 
 **Master of the Flocks**  
-Are you so cunning! ...
+Are you so cunning! /
 
 **VIOLANTE**  
 *\[Aside.]*  
-... How his eyes shake fire,  
+/ How his eyes shake fire,  
 And measure ev'ry piece of youth about me!
 
 *\[To the Master.]*  
@@ -2179,10 +2179,10 @@ You understand me,--and a woman's hand.
 You're strangely out: yet if I were a woman,  
 I know, you are so honest and so good,  
 That though I wore disguises for some ends,  
-You would not wrong me. ...
+You would not wrong me. /
 
 **Master of the Flocks**  
-... Come, you're made for love;  
+/ Come, you're made for love;  
 Will you comply? I'm madder with this talk.  
 There's nothing you can say, can take my edge off.
 
@@ -2195,10 +2195,10 @@ Of humane in you, or a soul that's gentle,
 You cannot choose but pity my lost youth.
 
 **Master of the Flocks**  
-No stories now. ...
+No stories now. /
 
 **VIOLANTE**  
-... Kill me directly, sir;  
+/ Kill me directly, sir;  
 As you have any goodness, take my life.
 
 **RODERICK**  
@@ -2229,16 +2229,16 @@ I thank you, sir.
 I pray, be cover'd; 'tis not so much worth, sir.
 
 **RODERICK**  
-Was that thy boy ran crying? ...
+Was that thy boy ran crying? /
 
 **Master of the Flocks**  
-... Yes; what then?
+/ Yes; what then?
 
 **RODERICK**  
-Why dost thou beat him so? ...
+Why dost thou beat him so? /
 
 **Master of the Flocks**  
-... To make him grow.
+/ To make him grow.
 
 **RODERICK**  
 A pretty med'cine! Thou can'st not tell me the way to the
@@ -2273,10 +2273,10 @@ My letter told you, sir.
 'Tis true, it tells me, that you've lost a mistress  
 Whom your heart bleeds for; but the means to win her  
 From her close life, I take it, is not mention'd.  
-You're ever in these troubles. ...
+You're ever in these troubles. /
 
 **HENRIQUEZ**  
-... Noble brother,  
+/ Noble brother,  
 I own, I have too freely giv'n a scope  
 To youth's intemp'rate heat, and rash desires:  
 But think not, that I would engage your virtues  
@@ -2291,14 +2291,14 @@ If I possess not her: so much I love.
 The means? She's in a cloister, is she not?  
 Within whose walls to enter as we are,  
 Will never be: few men, but friars, come there;  
-Which we shall never make. ...
+Which we shall never make. /
 
 **HENRIQUEZ**  
-... If that would do it,  
-I would make anything. ...
+/ If that would do it,  
+I would make anything. /
 
 **RODERICK**  
-... Are you so hot?
+/ Are you so hot?
 
 *\[Aside.]*  
 I'll serve him, be it but to save his honor.  
@@ -2324,18 +2324,18 @@ But, brother, know my terms. If that your mistress
 Will to the world come back, and she appear  
 An object worthy in our father's eye,  
 Woo her, and win her; but if his consent  
-Keep not pace with your purpose-- ...
+Keep not pace with your purpose-- /
 
 **HENRIQUEZ**  
-... Doubt it not.  
+/ Doubt it not.  
 I've look'd not with a common eye; but chose  
 A noble virgin, who to make her so,  
 Has all the gifts of heav'n and earth upon her.  
 If ever woman yet could be an angel,  
-She is the nearest. ...
+She is the nearest. /
 
 **RODERICK**  
-... Well; a lover's praise  
+/ Well; a lover's praise  
 Feasts not a common ear.--Now to our plot;  
 We shall bring night in with us.
 
@@ -2346,15 +2346,15 @@ We shall bring night in with us.
 *Enter Julio, and two Gentlemen.*
 
 **First Gentleman**  
-Good sir, compose yourself. ...
+Good sir, compose yourself. /
 
 **JULIO**  
-... O Leonora,  
+/ O Leonora,  
 That heav'n had made thee stronger than a woman,  
-How happy had I been! ...
+How happy had I been! /
 
 **Second Gentleman**  
-... He's calm again:  
+/ He's calm again:  
 I'll take this interval to work upon him.  
 These wild and solitary places, sir,  
 But feed your pain; let better reason guide you;  
@@ -2367,10 +2367,10 @@ Ha! Hark, a sound from heav'n! Do you hear nothing?
 
 **First Gentleman**  
 Yes, sir; the touch of some sweet instrument:  
-Here's no inhabitant. ...
+Here's no inhabitant. /
 
 **JULIO**  
-... No, no, the better.
+/ No, no, the better.
 
 **Second Gentleman**  
 This is a strange place to hear music in.
@@ -2394,17 +2394,17 @@ Or death will make pity too slow.
 
 **Second Gentleman**  
 See, how his soul strives in him! This sad strain  
-Has search'd him to the heart. ...
+Has search'd him to the heart. /
 
 **JULIO**  
-... Excellent sorrow!  
+/ Excellent sorrow!  
 You never lov'd?
 
 **First Gentleman**  
-No. ...
+No. /
 
 **JULIO**  
-... Peace; and learn to grieve then.
+/ Peace; and learn to grieve then.
 
 **VIOLANTE**  
 *\[Singing within.]*  
@@ -2414,10 +2414,10 @@ See, yet if his heart feel my woe:
 Or death will make pity too slow.
 
 **JULIO**  
-Is not this heav'nly? ...
+Is not this heav'nly? /
 
 **First Gentleman**  
-... I never heard th'like, sir.
+/ I never heard th'like, sir.
 
 **JULIO**  
 I'll tell you, my good friends; but pray, say nothing;  
@@ -2478,20 +2478,20 @@ Do not you weep now? I could drop myself
 Into a fountain for her.
 
 **Second Gentleman**  
-She weeps extremely. ...
+She weeps extremely. /
 
 **JULIO**  
-... Let her weep; 'tis well:  
+/ Let her weep; 'tis well:  
 Her heart will break else. Great sorrows live in tears.
 
 **VIOLANTE**  
-O false Henriquez!-- ...
+O false Henriquez!-- /
 
 **JULIO**  
-... Ha! ...
+/ Ha! /
 
 **VIOLANTE**  
-... And oh, thou fool,  
+/ And oh, thou fool,  
 Forsaken Violante! Whose belief  
 And childish love have made thee so--go, die;  
 For there is nothing left thee now to look for,  
@@ -2505,30 +2505,30 @@ And cheer my wand'ring spirit with those lov'd obsequies.
 
 **JULIO**  
 Stay, lady, stay: can it be possible,  
-That you are Violante? ...
+That you are Violante? /
 
 **VIOLANTE**  
-... That lost name,  
+/ That lost name,  
 Spoken by one, that needs must know my fortunes,  
 Has taken much fear from me. Who are you, sir?  
 For, sure, I am that hopeless Violante.
 
 **JULIO**  
 And I, as far from any earthly comfort  
-That I know yet, the much-wrong'd Julio! ...
+That I know yet, the much-wrong'd Julio! /
 
 **VIOLANTE**  
-... Julio!
+/ Julio!
 
 **JULIO**  
 I once was thought so. If the curst Henriquez  
 Had pow'r to change you to a boy, why, lady,  
 Should not that mischief make me any thing,  
 That have an equal share in all the miseries  
-His crimes have flung upon us? ...
+His crimes have flung upon us? /
 
 **VIOLANTE**  
-... Well I know it:  
+/ Well I know it:  
 And pardon me, I could not know your virtues,  
 Before your griefs. Methought, when last we met,  
 The accent of your voice struck on my ear  
@@ -2566,10 +2566,10 @@ Rest certain, lady, nothing shall betide you,
 But fair, and noble usage. Pardon me,  
 That hitherto a course of violence  
 Has snatch'd you from that seat of contemplation  
-To which you gave your afterlife. ...
+To which you gave your afterlife. /
 
 **LEONORA**  
-... Where am I?
+/ Where am I?
 
 **RODERICK**  
 Not in the nunnery; never blush, nor tremble;  
@@ -2580,10 +2580,10 @@ Has this use, to preserve the life of one
 Dying for love of you: my brother, and your friend:  
 Under which color we desir'd to rest  
 Our herse one night within your hallow'd walls,  
-Where we surpriz'd you. ...
+Where we surpriz'd you. /
 
 **LEONORA**  
-... Are you that lord Roderick,  
+/ Are you that lord Roderick,  
 So spoken of for virtue, and fair life,  
 And dare you lose these to be advocate  
 For such a brother, such a sinful brother,  
@@ -2591,17 +2591,17 @@ Such an unfaithful, treacherous, brutal brother?
 
 **RODERICK**  
 *\[Looks at Henriquez.]*  
-This is a fearful charge. ...
+This is a fearful charge. /
 
 **LEONORA**  
-... If you would have me  
+/ If you would have me  
 Think, you still bear respect for virtue's name;  
 As you would wish, your daughters, thus distress'd,  
 Might find a guard, protect me from Henriquez;  
-And I am happy. ...
+And I am happy. /
 
 **RODERICK**  
-... Come, sir, make your answer;  
+/ Come, sir, make your answer;  
 For as I have a soul, I am asham'd on't.
 
 **HENRIQUEZ**  
@@ -2623,10 +2623,10 @@ Has gain'd you nothing but a deeper hate.
 Should I imagine, he can truly love me,  
 That, like a villain, murders my desires?  
 Or should I drink that wine, and think it cordial,  
-When I see poison in't? ...
+When I see poison in't? /
 
 **RODERICK**  
-... Draw this way, lady;  
+/ Draw this way, lady;  
 I am not perfect in your story yet;  
 But see you've had some wrongs, that want redress.  
 Only you must have patience to go with us  
@@ -2653,15 +2653,15 @@ What ails this boy? Why dost thou single me?
 **VIOLANTE**  
 The due observance of your noble virtue,  
 Vow'd to this mourning virgin, makes me bold  
-To give it more employment. ...
+To give it more employment. /
 
 **RODERICK**  
-... Art not thou  
+/ Art not thou  
 The surly Shepherd's boy, that, when I call'd  
-To know the way, ran crying by me? ...
+To know the way, ran crying by me? /
 
 **VIOLANTE**  
-... Yes, sir.  
+/ Yes, sir.  
 And I thank heav'n and you for helping me.
 
 **RODERICK**  
@@ -2681,10 +2681,10 @@ That, as we pass, an't please you, I'll discover.
 I will assure you, sir, these barren mountains  
 Hold many wonders of your brother's making.  
 Here wanders hapless Julio, worthy man!  
-Besides himself with wrongs-- ...
+Besides himself with wrongs-- /
 
 **RODERICK**  
-... That once again--
+/ That once again--
 
 **VIOLANTE**  
 Sir, I said, Julio.--Sleep weigh'd down his eyelids,  
@@ -2727,10 +2727,10 @@ Why, he mourns like a man. Don Bernard, you
 Are still like April, full of show'rs and dews:  
 And yet I blame you not: for I myself  
 Feel the self-same affections.--Let them go;  
-They're disobedient children. ...
+They're disobedient children. /
 
 **DON BERNARD**  
-... Ay, my lord;  
+/ Ay, my lord;  
 Yet they may turn again.
 
 **CAMILLO**  
@@ -2756,16 +2756,16 @@ You say, that Rod'rick charg'd you here should wait him:
 He has o'erslip'd the time, at which his letters  
 Of speed request that I should also meet him.  
 I fear, some bad event is usher'd in  
-By this delay:--How now? ...
+By this delay:--How now? /
 
 *Enter Attendant.*
 
 **Attendant**  
-... So please your grace,--  
-Lord Roderick makes approach. ...
+/ So please your grace,--  
+Lord Roderick makes approach. /
 
 **DUKE ANGELO**  
-... I thank thee, fellow,  
+/ I thank thee, fellow,  
 For thy so timely news: comes he alone?
 
 **Attendant**  
@@ -2775,10 +2775,10 @@ Follows a herse with all due rites of mourning.
 *Exit Attendant.*
 
 **DUKE ANGELO**  
-Heav'n send, Henriquez live! ...
+Heav'n send, Henriquez live! /
 
 **CAMILLO**  
-... 'Tis my poor Julio.--
+/ 'Tis my poor Julio.--
 
 *Enter Roderick, hastily.*
 
@@ -2815,24 +2815,24 @@ On this good task. Don Bernard finds beneath
 This veil his daughter: you, my royal father,  
 Behind that lady find a wand'ring son.  
 How I met with them, and how brought them hither,  
-More leisure must unfold. ...
+More leisure must unfold. /
 
 **HENRIQUEZ**  
-... My father here!  
+/ My father here!  
 And Julio's! O confusion! Low as earth
 
 *\[To the Duke.]*  
-I bow me for your pardon. ...
+I bow me for your pardon. /
 
 **DON BERNARD**  
-... O my girl!  
-Thou bring'st new life.-- ...
+/ O my girl!  
+Thou bring'st new life.-- /
 
 *Embraces Leonora.*
 
 **DUKE ANGELO**  
 *\[To Roderick.]*  
-... And you, my son, restore me  
+/ And you, my son, restore me  
 One comfort here that has been missing long.
 
 *\[To Henriquez.]*  
@@ -2845,10 +2845,10 @@ comfort.
 
 **RODERICK**  
 Be patient, signior; time may guide my hand  
-To work you comfort too. ...
+To work you comfort too. /
 
 **CAMILLO**  
-... I thank your lordship;  
+/ I thank your lordship;  
 Would Grandsire Time had been so kind to've done it;  
 We might have joy'd together like good fellows.  
 But he's so full of business, good old man,  
@@ -2858,10 +2858,10 @@ But he's so full of business, good old man,
 Nay, child, be comforted. These tears distract me.
 
 **DUKE ANGELO**  
-Hear your good father, lady. ...
+Hear your good father, lady. /
 
 **LEONORA**  
-... Willingly.
+/ Willingly.
 
 **DUKE ANGELO**  
 The voice of parents is the voice of gods:  
@@ -2875,10 +2875,10 @@ The moral line of life, they bend so often.
 For these are we made fathers; and for these,  
 May challenge duty on our children's part.  
 Obedience is the sacrifice of angels,  
-Whose form you carry. ...
+Whose form you carry. /
 
 **DON BERNARD**  
-... Hear the Duke, good wench.
+/ Hear the Duke, good wench.
 
 **LEONORA**  
 *\[To the Duke.]*  
@@ -2887,14 +2887,14 @@ Let me be so unmanner'd to request,
 He would not farther press me with persuasions  
 O' th' instant hour: but have the gentle patience  
 To bury this keen suit, 'till I shake hands  
-With my old sorrows,-- ...
+With my old sorrows,-- /
 
 **CAMILLO**  
-... Why dost look at me?  
-Alas! I cannot help thee. ...
+/ Why dost look at me?  
+Alas! I cannot help thee. /
 
 **LEONORA**  
-... And but weep  
+/ And but weep  
 A farewell to my murder'd Julio,--
 
 **CAMILLO**  
@@ -2914,10 +2914,10 @@ But time, or death, can cure.
 You make your own conditions, and I seal them
 
 *\[Aside.]*  
-Thus on your virtuous hand. ...
+Thus on your virtuous hand. /
 
 **CAMILLO**  
-... Well, wench, thy equal  
+/ Well, wench, thy equal  
 Shall not be found in haste; I give thee that:  
 Thou art a right one, ev'ry inch. Thy father  
 --For, without doubt, that snuff never begot thee,--  
@@ -2925,50 +2925,50 @@ Was some choice fellow, some true gentleman;
 I give thy mother thanks for't--there's no harm done.  
 Would I were young again, and had but thee,  
 A good horse under me, and a good sword,  
-And thus much for inher'tance. ...
+And thus much for inher'tance. /
 
 *Violante offers, once or twice, to show herself, but goes
 back.*
 
 **DUKE ANGELO**  
-... What boy's that,  
+/ What boy's that,  
 Has offer'd twice or thrice to break upon us?  
 I've noted him, and still he falls back fearful.
 
 **RODERICK**  
-A little boy, sir, like a shepherd? ...
+A little boy, sir, like a shepherd? /
 
 **DUKE ANGELO**  
-... Yes.
+/ Yes.
 
 **RODERICK**  
 'Tis your page, brother; one that was so, late.
 
 **HENRIQUEZ**  
-My page! What page? ...
+My page! What page? /
 
 **RODERICK**  
-... Ev'n so he says, your page;  
+/ Ev'n so he says, your page;  
 And more, and worse, you stole him from his friends,  
-And promis'd him preferment. ...
+And promis'd him preferment. /
 
 **HENRIQUEZ**  
-... I, preferment!
+/ I, preferment!
 
 **RODERICK**  
 And on some slight occasion let him slip  
 Here on these mountains, where he had been starv'd,  
 Had not my people found him, as we travel'd.  
-This was not handsome, brother. ...
+This was not handsome, brother. /
 
 **HENRIQUEZ**  
-... You are merry.
+/ You are merry.
 
 **RODERICK**  
-You'll find it sober truth. ...
+You'll find it sober truth. /
 
 **DUKE ANGELO**  
-... If so, 'tis ill.
+/ If so, 'tis ill.
 
 **HENRIQUEZ**  
 'Tis fiction all, sir;--brother, you must please  
@@ -2982,26 +2982,26 @@ Know me no more. Brother, pray do not wrong me.
 
 **RODERICK**  
 Here is the boy. If he deny this to you,  
-Then I have wrong'd you. ...
+Then I have wrong'd you. /
 
 **DUKE ANGELO**  
-... Hear me; what's thy name, boy?
+/ Hear me; what's thy name, boy?
 
 **VIOLANTE**  
-Florio, an't like your grace. ...
+Florio, an't like your grace. /
 
 **DUKE ANGELO**  
-... A pretty child.  
-Where wast thou born? ...
+/ A pretty child.  
+Where wast thou born? /
 
 **VIOLANTE**  
-... On t'other side the mountains.
+/ On t'other side the mountains.
 
 **DUKE ANGELO**  
-What are thy friends? ...
+What are thy friends? /
 
 **VIOLANTE**  
-... A father, sir; but poor.
+/ A father, sir; but poor.
 
 **DUKE ANGELO**  
 How camest thou hither? How, to leave thy father?
@@ -3014,24 +3014,24 @@ That with his promises he won my youth,
 And duty, from my father: him I follow'd.
 
 **RODERICK**  
-How say you now, brother? ...
+How say you now, brother? /
 
 **CAMILLO**  
-... Ay, my lord, how say you?
+/ Ay, my lord, how say you?
 
 **HENRIQUEZ**  
 As I have life and soul, 'tis all a trick, sir.  
-I never saw the boy before. ...
+I never saw the boy before. /
 
 **VIOLANTE**  
-... O sir,  
+/ O sir,  
 Call not your soul to witness in a wrong:  
 And 'tis not noble in you, to despise  
 What you have made thus. If I lie, let justice  
-Turn all her rods upon me. ...
+Turn all her rods upon me. /
 
 **DUKE ANGELO**  
-... Fie, Henriquez;  
+/ Fie, Henriquez;  
 There is no trace of cunning in this boy.
 
 **CAMILLO**  
@@ -3040,20 +3040,20 @@ Nature, sure, meant thou should'st have been a wench;
 And then't had been no marvel he had bobb'd thee.
 
 **DUKE ANGELO**  
-Why did he put thee from him? ...
+Why did he put thee from him? /
 
 **VIOLANTE**  
-... That to me  
+/ That to me  
 Is yet unknown, sir; for my faith, he could not;  
 I never did deceive him: for my service,  
 He had no just cause; what my youth was able,  
 My will still put in act, to please my master:  
 I cannot steal; therefore that can be nothing  
 To my undoing: no, nor lie; my breeding,  
-Though it be plain, is honest. ...
+Though it be plain, is honest. /
 
 **DUKE ANGELO**  
-... Weep not, child.
+/ Weep not, child.
 
 **CAMILLO**  
 This lord has abused men, women, and children already:
@@ -3064,24 +3064,24 @@ If thou can'st bring a witness of thy wrong,
 --Else it would be injustice to believe thee,  
 He having sworn against it-- thou shalt have,  
 I bind it with my honor, satisfaction  
-To thine own wishes. ...
+To thine own wishes. /
 
 **VIOLANTE**  
-... I desire no more, sir.  
+/ I desire no more, sir.  
 I have a witness, and a noble one,  
-For truth and honesty. ...
+For truth and honesty. /
 
 **RODERICK**  
-... Go, bring him hither.
+/ Go, bring him hither.
 
 *Exit Violante.*
 
 **HENRIQUEZ**  
 This lying boy will take him to his heels,  
-And leave me slander'd. ...
+And leave me slander'd. /
 
 **RODERICK**  
-... No; I'll be his voucher.
+/ No; I'll be his voucher.
 
 **HENRIQUEZ**  
 Nay then 'tis plain, this is confederacy.
@@ -3091,17 +3091,17 @@ That he has been an agent in your service,
 Appears from this. Here is a letter, brother,  
 --Produc'd, perforce, to give him credit with me--  
 The writing, yours; the matter, love; for so,  
-He says, he can explain it. ...
+He says, he can explain it. /
 
 **CAMILLO**  
-... Then, belike,  
+/ Then, belike,  
 A young he-bawd.
 
 **HENRIQUEZ**  
-This forg'ry confounds me! ...
+This forg'ry confounds me! /
 
 **DUKE ANGELO**  
-... Read it, Rod'rick.
+/ Read it, Rod'rick.
 
 **RODERICK**  
 *\[Reads.]*  
@@ -3114,10 +3114,10 @@ towards this wisdom--
 Hold, sir.--My very words to Violante!
 
 **DUKE ANGELO**  
-Go on. ...
+Go on. /
 
 **HENRIQUEZ**  
-... My gracious father, give me pardon;  
+/ My gracious father, give me pardon;  
 I do confess, I some such letter wrote  
 --The purport all too trivial for your ear,--  
 But how it reach'd this young dissembler's hands,  
@@ -3127,10 +3127,10 @@ The minion's face 'till now I never saw.
 
 **RODERICK**  
 Run not too far in debt on protestation.  
-Why should you do a child this wrong? ...
+Why should you do a child this wrong? /
 
 **HENRIQUEZ**  
-... Go to;  
+/ Go to;  
 Your friendships past warrant not this abuse:  
 If you provoke me thus, I shall forget  
 What you are to me. This is a mere practice,  
@@ -3143,28 +3143,28 @@ Shall prove you so: no more.
 *Enter Julio, disguis'd; and Violante, as a woman.*
 
 **HENRIQUEZ**  
-Another rascal! ...
+Another rascal! /
 
 **DUKE ANGELO**  
-... Hold-- ...
+/ Hold-- /
 
 **HENRIQUEZ**  
 *\[Seeing Violante.]*  
-... Ha! ...
+/ Ha! /
 
 **DUKE ANGELO**  
-... What's here?
+/ What's here?
 
 **HENRIQUEZ**  
 *\[Aside.]*  
 By all my sins, the injur'd Violante.
 
 **RODERICK**  
-Now, sir, whose practice breaks? ...
+Now, sir, whose practice breaks? /
 
 **CAMILLO**  
 *\[To Henriquez.]*  
-... Is this a page?
+/ Is this a page?
 
 **RODERICK**  
 One that has done him service,  
@@ -3210,30 +3210,30 @@ This almost melts me:--but my poor lost boy--
 
 **RODERICK**  
 I'll stop that voyage, brother.--Gentle lady,  
-What think you of this honest man? ...
+What think you of this honest man? /
 
 **LEONORA**  
-... Alas!  
+/ Alas!  
 My thoughts, my lord, were all employ'd within!  
 He has a face makes me remember something  
 I have thought well of; how he looks upon me!  
 Poor man, he weeps.--Ha! Stay; it cannot be--  
 He has his eye, his features, shape, and gesture.--  
-Would, he would speak. ...
+Would, he would speak. /
 
 **JULIO**  
 *\[Throws off his disguise.]*  
-... Leonora,-- ...
+/ Leonora,-- /
 
 **LEONORA**  
-... Yes, 'tis he.
+/ Yes, 'tis he.
 
 *They embrace.*
 
-O ecstasy of joy!-- ...
+O ecstasy of joy!-- /
 
 **CAMILLO**  
-... Now, what's the matter?
+/ Now, what's the matter?
 
 **RODERICK**  
 Let 'em alone; they're almost starv'd for kisses.
@@ -3244,10 +3244,10 @@ Much good may't do your hearts!--What is he, lord,
 What is he?
 
 **RODERICK**  
-A certain son of yours. ...
+A certain son of yours. /
 
 **CAMILLO**  
-... The devil he is.
+/ The devil he is.
 
 **RODERICK**  
 If he be the devil, that devil must call you father.
@@ -3280,21 +3280,21 @@ E'en as you are, we'll join your hands together.
 A providence above our pow'r rules all.
 
 *\[To Henriquez.]*  
-Ask him forgiveness, boy. ...
+Ask him forgiveness, boy. /
 
 **JULIO**  
-... He has it, sir:  
-The fault was love's, not his. ...
+/ He has it, sir:  
+The fault was love's, not his. /
 
 **HENRIQUEZ**  
-... Brave, gen'rous Julio!  
+/ Brave, gen'rous Julio!  
 I knew thy nobleness of old, and priz'd it,  
 'Till passion made me blind--once more, my friend,  
 Share in a heart, that ne'er shall wrong thee more.  
-And, brother,-- ...
+And, brother,-- /
 
 **RODERICK**  
-... This embrace cuts off excuses.
+/ This embrace cuts off excuses.
 
 **DUKE ANGELO**  
 I must, in part, repair my son's offense:  
@@ -3309,16 +3309,16 @@ Is pedigree enough. Are you all pleas'd?
 *\[Gives her to Henriquez.]*
 
 **CAMILLO**  
-All. ...
+All. /
 
 **HENRIQUEZ**  
-... All, sir,-- ...
+/ All, sir,-- /
 
 **DON BERNARD**  
-... All, sir,-- ...
+/ All, sir,-- /
 
 **JULIO**  
-... All.
+/ All.
 
 **DUKE ANGELO**  
 And I not least. We'll now return to court:  

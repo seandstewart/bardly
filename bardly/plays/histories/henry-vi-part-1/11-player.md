@@ -727,10 +727,10 @@ Traitors have never other company.
 But what's that Pucelle whom they term so pure?
 
 **TALBOT**  
-A maid, they say. ...
+A maid, they say. /
 
 **BEDFORD**  
-...  A maid! and be so martial!
+/  A maid! and be so martial!
 
 **BURGUNDY**  
 Pray God she prove not masculine ere long,  
@@ -752,10 +752,10 @@ That, if it chance the one of us do fail,
 The other yet may rise against their force.
 
 **BEDFORD**  
-Agreed: I'll to yond corner. ...
+Agreed: I'll to yond corner. /
 
 **BURGUNDY**  
-...  And I to this.
+/  And I to this.
 
 **TALBOT**  
 And here will Talbot mount, or make his grave.  
@@ -813,10 +813,10 @@ Improvident soldiers! had your watch been good,
 This sudden mischief never could have fall'n.
 
 **BASTARD OF ORLEANS**  
-Mine was secure. ...
+Mine was secure. /
 
 **REIGNIER**  
-...  And so was mine, my lord.
+/  And so was mine, my lord.
 
 **CHARLES**  
 And, for myself, most part of all this night,  
@@ -917,10 +917,10 @@ Are often welcomest when they are gone.
 **TALBOT**  
 Well then, alone, since there's no remedy,  
 I mean to prove this lady's courtesy.  
-Come hither, captain. ...
+Come hither, captain. /
 
 *\[Whispers]*  
-... You perceive my mind?
+/ You perceive my mind?
 
 **Captain**  
 I do, my lord, and mean accordingly.
@@ -996,10 +996,10 @@ I go to certify her Talbot's here.
 If thou be he, then art thou prisoner.
 
 **TALBOT**  
-Prisoner! to whom? ...
+Prisoner! to whom? /
 
 **COUNTESS OF AUVERGNE**  
-... To me, blood-thirsty lord;  
+/ To me, blood-thirsty lord;  
 And for that cause I trained thee to my house.  
 Long time thy shadow hath been thrall to me,  
 For in my gallery thy picture hangs:  
@@ -1021,10 +1021,10 @@ To think that you have aught but Talbot's shadow
 Whereon to practise your severity.
 
 **COUNTESS OF AUVERGNE**  
-Why, art not thou the man? ...
+Why, art not thou the man? /
 
 **TALBOT**  
-... I am indeed.
+/ I am indeed.
 
 **COUNTESS OF AUVERGNE**  
 Then have I substance too.
@@ -1180,10 +1180,10 @@ Shall dye your white rose in a bloody red.
 **RICHARD PLANTAGENET**  
 Meantime your cheeks do counterfeit our roses;  
 For pale they look with fear, as witnessing  
-The truth on our side. ...
+The truth on our side. /
 
 **SOMERSET**  
-... No, Plantagenet,  
+/ No, Plantagenet,  
 'Tis not for fear but anger that thy cheeks  
 Blush for pure shame to counterfeit our roses,  
 And yet thy tongue will not confess thy error.
@@ -1489,10 +1489,10 @@ It is, because no one should sway but he;
 No one but he should be about the king;  
 And that engenders thunder in his breast  
 And makes him roar these accusations forth.  
-But he shall know I am as good-- ...
+But he shall know I am as good-- /
 
 **GLOUCESTER**  
-... As good!  
+/ As good!  
 Thou bastard of my grandfather!
 
 **BISHOP OF WINCHESTER**  
@@ -1510,17 +1510,17 @@ Yes, as an outlaw in a castle keeps
 And useth it to patronage his theft.
 
 **BISHOP OF WINCHESTER**  
-Unreverent Gloucester! ...
+Unreverent Gloucester! /
 
 **GLOUCESTER**  
-... Thou art reverent  
+/ Thou art reverent  
 Touching thy spiritual function, not thy life.
 
 **BISHOP OF WINCHESTER**  
-Rome shall remedy this. ...
+Rome shall remedy this. /
 
 **WARWICK**  
-... Roam thither, then.
+/ Roam thither, then.
 
 **SOMERSET**  
 My lord, it were your duty to forbear.
@@ -1715,10 +1715,10 @@ Therefore we'll knock.
 
 **Watch**  
 *\[Within]*  
-Qui est la? ...
+Qui est la? /
 
 **JOAN LA PUCELLE**  
-... Paysans, pauvres gens de France;  
+/ Paysans, pauvres gens de France;  
 Poor market folks that come to sell their corn.
 
 **Watch**  
@@ -2149,10 +2149,10 @@ No more but, plain and bluntly, 'To the king!'
 Hath he forgot he is his sovereign?  
 Or doth this churlish superscription  
 Pretend some alteration in good will?  
-What's here? ...
+What's here? /
 
 *\[Reads]*  
-... 'I have, upon especial cause,  
+/ 'I have, upon especial cause,  
 Moved with compassion of my country's wreck,  
 Together with the pitiful complaints  
 Of such as your oppression feeds upon,  
@@ -3087,10 +3087,10 @@ Your bondage happy, to be made a queen?
 **MARGARET**  
 To be a queen in bondage is more vile  
 Than is a slave in base servility;  
-For princes should be free. ...
+For princes should be free. /
 
 **SUFFOLK**  
-... And so shall you,  
+/ And so shall you,  
 If happy England's royal king be free.
 
 **MARGARET**  
@@ -3100,13 +3100,13 @@ Why, what concerns his freedom unto me?
 I'll undertake to make thee Henry's queen,  
 To put a golden sceptre in thy hand  
 And set a precious crown upon thy head,  
-If thou wilt condescend to be my-- ...
+If thou wilt condescend to be my-- /
 
 **MARGARET**  
-... What? ...
+/ What? /
 
 **SUFFOLK**  
-... His love.
+/ His love.
 
 **MARGARET**  
 I am unworthy to be Henry's wife.
@@ -3130,13 +3130,13 @@ We'll crave a parley, to confer with him.
 See, Reignier, see, thy daughter prisoner!
 
 **REIGNIER**  
-To whom? ...
+To whom? /
 
 **SUFFOLK**  
-... To me. ...
+/ To me. /
 
 **REIGNIER**  
-... Suffolk, what remedy?  
+/ Suffolk, what remedy?  
 I am a soldier, and unapt to weep,  
 Or to exclaim on fortune's fickleness.
 
@@ -3149,10 +3149,10 @@ And this her easy-held imprisonment
 Hath gained thy daughter princely liberty.
 
 **REIGNIER**  
-Speaks Suffolk as he thinks? ...
+Speaks Suffolk as he thinks? /
 
 **SUFFOLK**  
-... Fair Margaret knows  
+/ Fair Margaret knows  
 That Suffolk doth not flatter, face, or feign.
 
 **REIGNIER**  

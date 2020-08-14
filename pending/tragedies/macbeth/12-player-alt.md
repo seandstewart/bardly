@@ -86,14 +86,14 @@ No sooner justice had with valour arm'd
 Compell'd these skipping kerns to trust their heels,  
 But the Norweyan lord surveying vantage,  
 With furbish'd arms and new supplies of men  
-Began a fresh assault. ...
+Began a fresh assault. /
 
 **KING DUNCAN**  
-... Dismay'd not this  
-Our captains, Macbeth and Banquo? ...
+/ Dismay'd not this  
+Our captains, Macbeth and Banquo? /
 
 **SERGEANT**  
-... Yes;  
+/ Yes;  
 As sparrows eagles, or the hare the lion.  
 If I say sooth, I must report they were  
 As cannons overcharged with double cracks, so they  
@@ -109,12 +109,12 @@ They smack of honor both. Go get him surgeons.
 
 *Exit Sergeant, attended*
 
-Who comes here? ...
+Who comes here? /
 
 *Enter MACDUFF*
 
 **MALCOLM**  
-... The worthy thane MacDuff.
+/ The worthy thane MacDuff.
 
 **DONALBAIN**  
 What a haste looks through his eyes! So should he look  

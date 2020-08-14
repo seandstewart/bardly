@@ -8,33 +8,33 @@
 
 **BUCKINGHAM**  
 Good morrow, and well met. How have ye done  
-Since last we saw in France? ...
+Since last we saw in France? /
 
 **NORFOLK**  
-... I thank your grace,  
+/ I thank your grace,  
 Healthful; and ever since a fresh admirer  
-Of what I saw there. ...
+Of what I saw there. /
 
 **BUCKINGHAM**  
-... An untimely ague  
+/ An untimely ague  
 Stay'd me a prisoner in my chamber when  
 Those suns of glory, those two lights of men,  
-Met in the vale of Andren. ...
+Met in the vale of Andren. /
 
 **NORFOLK**  
-... 'Twixt Guynes and Arde:  
+/ 'Twixt Guynes and Arde:  
 I was then present, saw them salute on horseback;  
 Beheld them, when they lighted, how they clung  
 In their embracement, as they grew together;  
 Which had they, what four throned ones could have weigh'd  
-Such a compounded one? ...
+Such a compounded one? /
 
 **BUCKINGHAM**  
-... All the whole time  
-I was my chamber's prisoner. ...
+/ All the whole time  
+I was my chamber's prisoner. /
 
 **NORFOLK**  
-... Then you lost  
+/ Then you lost  
 The view of earthly glory: men might say,  
 Till this time pomp was single, but now married  
 To one above itself. Each of these two kings,  
@@ -47,10 +47,10 @@ For so they phrase 'em--by their heralds challenged
 The noble spirits to arms, they did perform  
 Beyond thought's compass; that former fabulous story,  
 Being now seen possible enough, got credit,  
-That Bevis was believed. ...
+That Bevis was believed. /
 
 **BUCKINGHAM**  
-... O, you go far.
+/ O, you go far.
 
 **NORFOLK**  
 As I belong to worship and affect  
@@ -59,19 +59,19 @@ Would by a good discourser lose some life,
 Which action's self was tongue to. All was royal;  
 To the disposing of it nought rebell'd.  
 Order gave each thing view; the office did  
-Distinctly his full function. ...
+Distinctly his full function. /
 
 **BUCKINGHAM**  
-... Who did guide,  
+/ Who did guide,  
 I mean, who set the body and the limbs  
 Of this great sport together, as you guess?
 
 **NORFOLK**  
 One, certes, that promises no element  
-In such a business. ...
+In such a business. /
 
 **BUCKINGHAM**  
-... I pray you, who, my lord?
+/ I pray you, who, my lord?
 
 **NORFOLK**  
 All this was order'd by the good discretion  
@@ -83,10 +83,10 @@ From his ambitious finger. What had he
 To do in these fierce vanities? I wonder  
 That such a keech can with his very bulk  
 Take up the rays o' the beneficial sun  
-And keep it from the earth. ...
+And keep it from the earth. /
 
 **NORFOLK**  
-... Surely, sir,  
+/ Surely, sir,  
 There's in him stuff that puts him to these ends;  
 For, being not propp'd by ancestry, whose grace  
 Chalks successors their way, nor call'd upon  
@@ -95,10 +95,10 @@ For eminent assistants; but, spider-like,
 Out of his self-drawing web, he gives us note,  
 The force of his own merit makes his way  
 A gift that heaven gives for him, which buys  
-A place next to the king. ...
+A place next to the king. /
 
 **BUCKINGHAM**  
-... I cannot tell  
+/ I cannot tell  
 What heaven hath given him,--let some graver eye  
 Pierce into that; but I can see his pride  
 Peep through each part of him: whence has he that,  
@@ -111,10 +111,10 @@ They shall abound as formerly. O, many
 Have broke their backs with laying manors on 'em  
 For this great journey. What did this vanity  
 But minister communication of  
-A most poor issue? ...
+A most poor issue? /
 
 **NORFOLK**  
-... Grievingly I think,  
+/ Grievingly I think,  
 The peace between the French and us not values  
 The cost that did conclude it. Every man,  
 After the hideous storm that follow'd, was  
@@ -123,22 +123,22 @@ Into a general prophecy; ha't this tempest,
 Dashing the garment of this peace, aboded  
 The sudden breach on't. Which is budded out;  
 For France hath flaw'd the league, and hath attach'd  
-Our merchants' goods at Bourdeaux. ...
+Our merchants' goods at Bourdeaux. /
 
 **BUCKINGHAM**  
-... Is it therefore  
-The ambassador is silenced? ...
+/ Is it therefore  
+The ambassador is silenced? /
 
 **NORFOLK**  
-... Marry, is't.
+/ Marry, is't.
 
 **BUCKINGHAM**  
 A proper title of a peace; and purchased  
 At a superfluous rate! Why, all this business  
-Our reverend cardinal carried. ...
+Our reverend cardinal carried. /
 
 **NORFOLK**  
-... Like it your grace,  
+/ Like it your grace,  
 The state takes notice of the private difference  
 Betwixt you and the cardinal. I advise you--  
 And take it from a heart that wishes towards you  
@@ -161,16 +161,16 @@ on him, both full of disdain*
 
 **CARDINAL WOLSEY**  
 The Duke of Buckingham's surveyor, ha?  
-Where's his examination? ...
+Where's his examination? /
 
 **GARDINER**  
-... Here, so please you.
+/ Here, so please you.
 
 **CARDINAL WOLSEY**  
-Is he in person ready? ...
+Is he in person ready? /
 
 **GARDINER**  
-... Ay, please your grace.
+/ Ay, please your grace.
 
 **CARDINAL WOLSEY**  
 Well, we shall then know more; and Buckingham  
@@ -182,38 +182,38 @@ Shall lessen this big look.
 This butcher's cur is venom-mouth'd, and I  
 Have not the power to muzzle him; therefore best  
 Not wake him in his slumber. A beggar's book  
-Outworths a noble's blood. ...
+Outworths a noble's blood. /
 
 **NORFOLK**  
-... What, are you chafed?  
+/ What, are you chafed?  
 Ask God for temperance; that's the appliance only  
-Which your disease requires. ...
+Which your disease requires. /
 
 **BUCKINGHAM**  
-... I read in's looks  
+/ I read in's looks  
 Matter against me; and his eye reviled  
 Me, as his abject object: at this instant  
 He bores me with some trick: he's gone to the king;  
-I'll follow and outstare him. ...
+I'll follow and outstare him. /
 
 **NORFOLK**  
-... Stay, my lord,  
+/ Stay, my lord,  
 And let your reason with your choler question  
 What 'tis you go about: to climb steep hills  
 Requires slow pace at first: anger is like  
 A full-hot horse, who being allow'd his way,  
 Self-mettle tires him. Not a man in England  
 Can advise me like you: be to yourself  
-As you would to your friend. ...
+As you would to your friend. /
 
 **BUCKINGHAM**  
-... I'll to the king;  
+/ I'll to the king;  
 And from a mouth of honour quite cry down  
 This Ipswich fellow's insolence; or proclaim  
-There's difference in no persons. ...
+There's difference in no persons. /
 
 **NORFOLK**  
-... Be advised;  
+/ Be advised;  
 Heat not a furnace for your foe so hot  
 That it do singe yourself: we may outrun,  
 By violent swiftness, that which we run at,  
@@ -223,20 +223,20 @@ In seeming to augment it wastes it? Be advised:
 I say again, there is no English soul  
 More stronger to direct you than yourself,  
 If with the sap of reason you would quench,  
-Or but allay, the fire of passion. ...
+Or but allay, the fire of passion. /
 
 **BUCKINGHAM**  
-... Sir,  
+/ Sir,  
 I am thankful to you; and I'll go along  
 By your prescription: but this top-proud fellow,  
 Whom from the flow of gall I name not but  
 From sincere motions, by intelligence,  
 And proofs as clear as founts in July when  
 We see each grain of gravel, I do know  
-To be corrupt and treasonous. ...
+To be corrupt and treasonous. /
 
 **NORFOLK**  
-... Say not 'treasonous.'
+/ Say not 'treasonous.'
 
 **BUCKINGHAM**  
 To the king I'll say't; and make my vouch as strong  
@@ -249,10 +249,10 @@ Only to show his pomp as well in France
 As here at home, suggests the king our master  
 To this last costly treaty, the interview,  
 That swallow'd so much treasure, and like a glass  
-Did break i' the rinsing. ...
+Did break i' the rinsing. /
 
 **NORFOLK**  
-... Faith, and so it did.
+/ Faith, and so it did.
 
 **BUCKINGHAM**  
 Pray, give me favour, sir. This cunning cardinal  
@@ -280,15 +280,15 @@ That he would please to alter the king's course,
 And break the foresaid peace. Let the king know,  
 As soon he shall by me, that thus the cardinal  
 Does buy and sell his honour as he pleases,  
-And for his own advantage. ...
+And for his own advantage. /
 
 **NORFOLK**  
-... I am sorry  
+/ I am sorry  
 To hear this of him; and could wish he were  
-Something mistaken in't. ...
+Something mistaken in't. /
 
 **BUCKINGHAM**  
-... No, not a syllable:  
+/ No, not a syllable:  
 I do pronounce him in that very shape  
 He shall appear in proof.
 
@@ -298,21 +298,21 @@ He shall appear in proof.
 My lord the Duke of Buckingham, and Earl  
 Of Hereford, Stafford, and Northampton, I  
 Arrest thee of high treason, in the name  
-Of our most sovereign king. ...
+Of our most sovereign king. /
 
 **BUCKINGHAM**  
-... Lo, you, my lord,  
+/ Lo, you, my lord,  
 The net has fall'n upon me! I shall perish  
-Under device and practise. ...
+Under device and practise. /
 
 **Sergeant**  
-... I am sorry  
+/ I am sorry  
 To see you ta'en from liberty, to look on  
 The business present: 'tis his highness' pleasure  
-You shall to the Tower. ...
+You shall to the Tower. /
 
 **BUCKINGHAM**  
-... It will help me nothing  
+/ It will help me nothing  
 To plead mine innocence; for that dye is on me  
 Which makes my whitest part black. The will of heaven  
 Be done in this and all things! I obey.  
@@ -351,17 +351,17 @@ Nay, we must longer kneel: I am a suitor.
 Arise, and take place by us: half your suit  
 Never name to us; you have half our power:  
 The other moiety, ere you ask, is given;  
-Repeat your will and take it. ...
+Repeat your will and take it. /
 
 **QUEEN KATHARINE**  
-... Thank your majesty.  
+/ Thank your majesty.  
 That you would love yourself, and in that love  
 Not unconsider'd leave your honour, nor  
 The dignity of your office, is the point  
-Of my petition. ...
+Of my petition. /
 
 **KING HENRY VIII**  
-... Lady mine, proceed.
+/ Lady mine, proceed.
 
 **QUEEN KATHARINE**  
 I am solicited, not by a few,  
@@ -375,10 +375,10 @@ Of these exactions, yet the king our master--
 Whose honour heaven shield from soil!--even he escapes not  
 Language unmannerly, yea, such which breaks  
 The sides of loyalty, and almost appears  
-In loud rebellion. ...
+In loud rebellion. /
 
 **NORFOLK**  
-... Not almost appears,  
+/ Not almost appears,  
 It doth appear; for, upon these taxations,  
 The clothiers all, not able to maintain  
 The many to them longing, have put off  
@@ -386,22 +386,22 @@ The spinsters, carders, fullers, weavers, who,
 Unfit for other life, compell'd by hunger  
 And lack of other means, in desperate manner  
 Daring the event to the teeth, are all in uproar,  
-And danger serves among then! ...
+And danger serves among then! /
 
 **KING HENRY VIII**  
-... Taxation!  
+/ Taxation!  
 Wherein? and what taxation? My lord cardinal,  
 You that are blamed for it alike with us,  
-Know you of this taxation? ...
+Know you of this taxation? /
 
 **CARDINAL WOLSEY**  
-... Please you, sir,  
+/ Please you, sir,  
 I know but of a single part, in aught  
 Pertains to the state; and front but in that file  
-Where others tell steps with me. ...
+Where others tell steps with me. /
 
 **QUEEN KATHARINE**  
-... No, my lord,  
+/ No, my lord,  
 You know no more than others; but you frame  
 Things that are known alike; which are not wholesome  
 To those which would not know them, and yet must  
@@ -410,15 +410,15 @@ Whereof my sovereign would have note, they are
 Most pestilent to the bearing; and, to bear 'em,  
 The back is sacrifice to the load. They say  
 They are devised by you; or else you suffer  
-Too hard an exclamation. ...
+Too hard an exclamation. /
 
 **KING HENRY VIII**  
-... Still exaction!  
+/ Still exaction!  
 The nature of it? in what kind, let's know,  
-Is this exaction? ...
+Is this exaction? /
 
 **QUEEN KATHARINE**  
-... I am much too venturous  
+/ I am much too venturous  
 In tempting of your patience; but am bolden'd  
 Under your promised pardon. The subjects' grief  
 Comes through commissions, which compel from each  
@@ -431,14 +431,14 @@ Live where their prayers did: and it's come to pass,
 This tractable obedience is a slave  
 To each incensed will. I would your highness  
 Would give it quick consideration, for  
-There is no primer business. ...
+There is no primer business. /
 
 **KING HENRY VIII**  
-... By my life,  
-This is against our pleasure. ...
+/ By my life,  
+This is against our pleasure. /
 
 **CARDINAL WOLSEY**  
-... And for me,  
+/ And for me,  
 I have no further gone in this than by  
 A single voice; and that not pass'd me but  
 By learned approbation of the judges. If I am  
@@ -446,10 +446,10 @@ Traduced by ignorant tongues, which neither know
 My faculties nor person, yet will be  
 The chronicles of my doing, let me say  
 'Tis but the fate of place, and the rough brake  
-That virtue must go through. ...
+That virtue must go through. /
 
 **KING HENRY VIII**  
-... Have you prec'dent  
+/ Have you prec'dent  
 Of this commission? I believe, not any.  
 We must not rend our subjects from our laws,  
 And stick them in our will. Sixth part of each?  
@@ -460,10 +460,10 @@ The air will drink the sap. To every county
 Where this is question'd send our letters, with  
 Free pardon to each man that has denied  
 The force of this commission: pray, look to't;  
-I put it to your care. ...
+I put it to your care. /
 
 **CARDINAL WOLSEY**  
-... A word with you.
+/ A word with you.
 
 *\[To GARDINER]*  
 Let there be letters writ to every shire,  
@@ -479,10 +479,10 @@ Further in the proceeding.
 
 **QUEEN KATHARINE**  
 I am sorry that the Duke of Buckingham  
-Is run in your displeasure. ...
+Is run in your displeasure. /
 
 **KING HENRY VIII**  
-... It grieves many:  
+/ It grieves many:  
 The gentleman is learn'd, and a most rare speaker;  
 To nature none more bound; he, my lady,  
 Hath into monstrous habits put the graces  
@@ -496,10 +496,10 @@ We cannot feel too little, hear too much.
 **CARDINAL WOLSEY**  
 Stand forth, and with bold spirit relate what you,  
 Most like a careful subject, have collected  
-Out of the Duke of Buckingham. ...
+Out of the Duke of Buckingham. /
 
 **KING HENRY VIII**  
-... Speak freely.
+/ Speak freely.
 
 **Surveyor**  
 First, it was usual with him, every day  
@@ -519,28 +519,28 @@ Beyond you, to your friends.
 
 **QUEEN KATHARINE**  
 My learn'd lord cardinal,  
-Deliver all with charity. ...
+Deliver all with charity. /
 
 **KING HENRY VIII**  
-... Speak on:  
+/ Speak on:  
 How grounded he his title to the crown,  
 Upon our fail? to this point hast thou heard him  
-At any time speak aught? ...
+At any time speak aught? /
 
 **Surveyor**  
-... He was brought to this  
+/ He was brought to this  
 By a vain prophecy of Nicholas Hopkins.
 
 **KING HENRY VIII**  
-What was that Hopkins? ...
+What was that Hopkins? /
 
 **Surveyor**  
-... Sir, a Chartreux friar,  
+/ Sir, a Chartreux friar,  
 His confessor, who fed him every minute  
-With words of sovereignty. ...
+With words of sovereignty. /
 
 **KING HENRY VIII**  
-... How know'st thou this?
+/ How know'st thou this?
 
 **Surveyor**  
 Not long before your highness sped to France,  
@@ -563,22 +563,22 @@ To me, should utter, with demure confidence
 This pausingly ensued: neither the king nor's heirs,  
 Tell you the duke, shall prosper: bid him strive  
 To gain the love o' the commonalty: the duke  
-Shall govern England.' ...
+Shall govern England.' /
 
 **QUEEN KATHARINE**  
-... If I know you well,  
+/ If I know you well,  
 You were the duke's surveyor, and lost your office  
 On the complaint o' the tenants: take good heed  
 You charge not in your spleen a noble person  
 And spoil your nobler soul: I say, take heed;  
-Yes, heartily beseech you. ...
+Yes, heartily beseech you. /
 
 **KING HENRY VIII**  
-... Let him on.  
-Go forward. ...
+/ Let him on.  
+Go forward. /
 
 **Surveyor**  
-... On my soul, I'll speak but truth.  
+/ On my soul, I'll speak but truth.  
 I told my lord the duke, by the devil's illusions  
 The monk might be deceived; and that 'twas dangerous for him  
 To ruminate on this so far, until  
@@ -587,20 +587,20 @@ It was much like to do: he answer'd, 'Tush,
 It can do me no damage;' adding further,  
 That, had the king in his last sickness fail'd,  
 The cardinal's and the Lady Lovell's heads  
-Should have gone off. ...
+Should have gone off. /
 
 **KING HENRY VIII**  
-... Ha! what, so rank? Ah ha!  
+/ Ha! what, so rank? Ah ha!  
 There's mischief in this man: canst thou say further?
 
 **Surveyor**  
-I can, my liege. ...
+I can, my liege. /
 
 **KING HENRY VIII**  
-... Proceed. ...
+/ Proceed. /
 
 **Surveyor**  
-... Being at Greenwich,  
+/ Being at Greenwich,  
 After your highness had reproved the duke  
 About Sir William Blomer,--
 
@@ -616,10 +616,10 @@ The part my father meant to act upon
 The usurper Richard; who, being at Salisbury,  
 Made suit to come in's presence; which if granted,  
 As he made semblance of his duty, would  
-Have put his knife to him.' ...
+Have put his knife to him.' /
 
 **KING HENRY VIII**  
-... A giant traitor!
+/ A giant traitor!
 
 **CARDINAL WOLSEY**  
 Now, madam, may his highness live in freedom,  
@@ -638,10 +638,10 @@ Another spread on's breast, mounting his eyes
 He did discharge a horrible oath; whose tenor  
 Was,--were he evil used, he would outgo  
 His father by as much as a performance  
-Does an irresolute purpose. ...
+Does an irresolute purpose. /
 
 **KING HENRY VIII**  
-... There's his period,  
+/ There's his period,  
 To sheathe his knife in us. He is attach'd;  
 Call him to present trial: if he may  
 Find mercy in the law, 'tis his: if none,  
@@ -656,15 +656,15 @@ He's traitor to the height.
 another.*
 
 **Chamberlain**  
-What news, my lord Lovell? ...
+What news, my lord Lovell? /
 
 **LOVELL**  
-... Faith, my lord,  
+/ Faith, my lord,  
 I hear of none, but the new proclamation  
-That's clapp'd upon the court-gate. ...
+That's clapp'd upon the court-gate. /
 
 **Chamberlain**  
-... What is't for?
+/ What is't for?
 
 **LOVELL**  
 The reformation of our travell'd gallants,  
@@ -673,10 +673,10 @@ That fill the court with quarrels, talk, and tailors.
 **Chamberlain**  
 I'm glad 'tis there: now I would pray our monsieurs  
 To think an English courtier may be wise,  
-And never see the Louvre. ...
+And never see the Louvre. /
 
 **LOVELL**  
-... They must either,  
+/ They must either,  
 For so run the conditions, leave those remnants  
 Of fool and feather that they got in France,  
 With all their honourable point of ignorance  
@@ -692,14 +692,14 @@ The lag end of their lewdness and be laugh'd at.
 
 **SANDS**  
 'Tis time to give 'em physic, their diseases  
-Are grown so catching. ...
+Are grown so catching. /
 
 **Chamberlain**  
-... What a loss our ladies  
-Will have of these trim vanities! ...
+/ What a loss our ladies  
+Will have of these trim vanities! /
 
 **LOVELL**  
-... Ay, marry,  
+/ Ay, marry,  
 There will be woe indeed, lords: the sly whoresons  
 Have got a speeding trick to lay down ladies;  
 A French song and a fiddle has no fellow.
@@ -710,26 +710,26 @@ For, sure, there's no converting of 'em: now
 An honest country lord, as I am, beaten  
 A long time out of play, may bring his plainsong  
 And have an hour of hearing; and, by'r lady,  
-Held current music too. ...
+Held current music too. /
 
 **Chamberlain**  
-... Well said, Lord Sands;  
-Your colt's tooth is not cast yet. ...
+/ Well said, Lord Sands;  
+Your colt's tooth is not cast yet. /
 
 **SANDS**  
-... No, my lord;  
-Nor shall not, while I have a stump. ...
+/ No, my lord;  
+Nor shall not, while I have a stump. /
 
 **Chamberlain**  
-... My lord,  
-Whither were you a-going? ...
+/ My lord,  
+Whither were you a-going? /
 
 **LOVELL**  
-... To the cardinal's:  
-Your lordship is a guest too. ...
+/ To the cardinal's:  
+Your lordship is a guest too. /
 
 **Chamberlain**  
-... O, 'tis true:  
+/ O, 'tis true:  
 This night he makes a supper, and a great one,  
 To many lords and ladies; there will be  
 The beauty of this kingdom, I'll assure you.
@@ -737,10 +737,10 @@ The beauty of this kingdom, I'll assure you.
 **LOVELL**  
 That churchman bears a bounteous mind indeed,  
 A hand as fruitful as the land that feeds us;  
-His dews fall everywhere. ...
+His dews fall everywhere. /
 
 **Chamberlain**  
-... No doubt he's noble;  
+/ No doubt he's noble;  
 He had a black mouth that said other of him.
 
 **SANDS**  
@@ -755,10 +755,10 @@ But few now give so great ones. My barge stays;
 Your lordship shall along. Come, good my lady,  
 We shall be late else; which I would not be,  
 For I was spoke to, with Sir Henry Guildford  
-This night to be comptrollers. ...
+This night to be comptrollers. /
 
 **LOVELL**  
-... I am your lordship's.
+/ I am your lordship's.
 
 *Exeunt*
 
@@ -778,14 +778,14 @@ They are a sweet society of fair ones.
 
 **LOVELL**  
 O, that your lordship were but now confessor  
-To one or two of these! ...
+To one or two of these! /
 
 **SANDS**  
-... I would I were;  
-They should find easy penance. ...
+/ I would I were;  
+They should find easy penance. /
 
 **LOVELL**  
-... Faith, how easy?
+/ Faith, how easy?
 
 **SANDS**  
 As easy as a down-bed would afford it.
@@ -796,16 +796,16 @@ Place you that side; I'll take the charge of this:
 His grace is entering. Nay, you must not freeze;  
 Two women placed together makes cold weather:  
 My Lord Sands, you are one will keep 'em waking;  
-Pray, sit between these ladies. ...
+Pray, sit between these ladies. /
 
 **SANDS**  
-... By my faith,  
+/ By my faith,  
 And thank your lordship. By your leave, sweet ladies:  
 If I chance to talk a little wild, forgive me;  
-I had it from my father. ...
+I had it from my father. /
 
 **ANNE**  
-... Was he mad, sir?
+/ Was he mad, sir?
 
 **SANDS**  
 O, very mad, exceeding mad, in love too:  
@@ -818,10 +818,10 @@ He would kiss you twenty with a breath.
 Well said, my lord.  
 So, now you're fairly seated. Gentlemen,  
 The penance lies on you, if these fair ladies  
-Pass away frowning. ...
+Pass away frowning. /
 
 **SANDS**  
-... For my little cure,  
+/ For my little cure,  
 Let me alone.
 
 *Enter CARDINAL WOLSEY, and takes his state*
@@ -830,32 +830,32 @@ Let me alone.
 You're welcome, my fair guests: that noble lady,  
 Or gentleman, that is not freely merry,  
 Is not my friend: this, to confirm my welcome;  
-And to you all, good health. ...
+And to you all, good health. /
 
 *Drinks*
 
 **SANDS**  
-... Your grace is noble:  
+/ Your grace is noble:  
 Let me have such a bowl may hold my thanks,  
-And save me so much talking. ...
+And save me so much talking. /
 
 **CARDINAL WOLSEY**  
-... My Lord Sands,  
+/ My Lord Sands,  
 I am beholding to you: cheer your neighbours.  
 Ladies, you are not merry: gentlemen,  
-Whose fault is this? ...
+Whose fault is this? /
 
 **SANDS**  
-... The red wine first must rise  
+/ The red wine first must rise  
 In their fair cheeks, my lord; then we shall have 'em  
-Talk us to silence. ...
+Talk us to silence. /
 
 **ANNE**  
-... You are a merry gamester,  
-My Lord Sands. ...
+/ You are a merry gamester,  
+My Lord Sands. /
 
 **SANDS**  
-... Yes, if I make my play.  
+/ Yes, if I make my play.  
 Here's to your ladyship: and pledge it, madam,  
 For 'tis to such a thing,--
 
@@ -868,10 +868,10 @@ I told your grace they would talk anon.
 *Drum and trumpet, chambers discharged*
 
 **CARDINAL WOLSEY**  
-What's that? ...
+What's that? /
 
 **Chamberlain**  
-... Look out there, some of ye.
+/ Look out there, some of ye.
 
 *Exit Servant*
 
@@ -883,16 +883,16 @@ By all the laws of war you're privileged.
 *Re-enter Servant*
 
 **Chamberlain**  
-How now! what is't? ...
+How now! what is't? /
 
 **Servant**  
-... A noble troop of strangers;  
+/ A noble troop of strangers;  
 For so they seem: they've left their barge and landed;  
 And hither make, as great ambassadors  
-From foreign princes. ...
+From foreign princes. /
 
 **CARDINAL WOLSEY**  
-... Good lord chamberlain,  
+/ Good lord chamberlain,  
 Go, give 'em welcome; you can speak the French tongue;  
 And, pray, receive 'em nobly, and conduct 'em  
 Into our presence, where this heaven of beauty  
@@ -919,10 +919,10 @@ This night to meet here, they could do no less
 Out of the great respect they bear to beauty,  
 But leave their flocks; and, under your fair conduct,  
 Crave leave to view these ladies and entreat  
-An hour of revels with 'em. ...
+An hour of revels with 'em. /
 
 **CARDINAL WOLSEY**  
-... Say, lord chamberlain,  
+/ Say, lord chamberlain,  
 They have done my poor house grace; for which I pay 'em  
 A thousand thanks, and pray 'em take their pleasures.
 
@@ -936,50 +936,50 @@ Till now I never knew thee!
 *Music. Dance*
 
 **CARDINAL WOLSEY**  
-My lord! ...
+My lord! /
 
 **Chamberlain**  
-... Your grace? ...
+/ Your grace? /
 
 **CARDINAL WOLSEY**  
-... Pray, tell 'em thus much from me:  
+/ Pray, tell 'em thus much from me:  
 There should be one amongst 'em, by his person,  
 More worthy this place than myself; to whom,  
 If I but knew him, with my love and duty  
-I would surrender it. ...
+I would surrender it. /
 
 **Chamberlain**  
-... I will, my lord.
+/ I will, my lord.
 
 *Whispers the Masquers*
 
 **CARDINAL WOLSEY**  
-What say they? ...
+What say they? /
 
 **Chamberlain**  
-... Such a one, they all confess,  
+/ Such a one, they all confess,  
 There is indeed; which they would have your grace  
-Find out, and he will take it. ...
+Find out, and he will take it. /
 
 **CARDINAL WOLSEY**  
-... Let me see, then.  
+/ Let me see, then.  
 By all your good leaves, gentlemen; here I'll make  
-My royal choice. ...
+My royal choice. /
 
 **KING HENRY VIII**  
-... Ye have found him, cardinal:
+/ Ye have found him, cardinal:
 
 *\[Unmasking]*  
 You hold a fair assembly; you do well, lord:  
 You are a churchman, or, I'll tell you, cardinal,  
-I should judge now unhappily. ...
+I should judge now unhappily. /
 
 **CARDINAL WOLSEY**  
-... I am glad  
-Your grace is grown so pleasant. ...
+/ I am glad  
+Your grace is grown so pleasant. /
 
 **KING HENRY VIII**  
-... My lord chamberlain,  
+/ My lord chamberlain,  
 Prithee, come hither: what fair lady's that?
 
 **Chamberlain**  
@@ -994,20 +994,20 @@ Let it go round.
 
 **CARDINAL WOLSEY**  
 My lord Lovell, is the banquet ready  
-I' the privy chamber? ...
+I' the privy chamber? /
 
 **LOVELL**  
-... Yes, my lord. ...
+/ Yes, my lord. /
 
 **CARDINAL WOLSEY**  
-... Your grace,  
+/ Your grace,  
 I fear, with dancing is a little heated.
 
 **KING HENRY VIII**  
-I fear, too much. ...
+I fear, too much. /
 
 **CARDINAL WOLSEY**  
-... There's fresher air, my lord,  
+/ There's fresher air, my lord,  
 In the next chamber.
 
 **KING HENRY VIII**  
@@ -1116,25 +1116,25 @@ Well met, my lord chamberlain.
 Good day to both your graces.
 
 **SUFFOLK**  
-How is the king employ'd? ...
+How is the king employ'd? /
 
 **Chamberlain**  
-... I left him private,  
-Full of sad thoughts and troubles. ...
+/ I left him private,  
+Full of sad thoughts and troubles. /
 
 **NORFOLK**  
-... What's the cause?
+/ What's the cause?
 
 **Chamberlain**  
 It seems the marriage with his brother's wife  
-Has crept too near his conscience. ...
+Has crept too near his conscience. /
 
 **SUFFOLK**  
-... No, his conscience  
-Has crept too near another lady. ...
+/ No, his conscience  
+Has crept too near another lady. /
 
 **NORFOLK**  
-... 'Tis so:  
+/ 'Tis so:  
 This is the cardinal's doing, the king-cardinal:  
 That blind priest, like the eldest son of fortune,  
 Turns what he list. The king will know him one day.
@@ -1159,22 +1159,22 @@ As I am made without him, so I'll stand,
 If the king please; his curses and his blessings  
 Touch me alike, they're breath I not believe in.  
 I knew him, and I know him; so I leave him  
-To him that made him proud, the pope. ...
+To him that made him proud, the pope. /
 
 **NORFOLK**  
-... Let's in;  
+/ Let's in;  
 And with some other business put the king  
 From these sad thoughts, that work too much upon him:  
-My lord, you'll bear us company? ...
+My lord, you'll bear us company? /
 
 **Chamberlain**  
-... Excuse me;  
+/ Excuse me;  
 The king has sent me otherwhere: besides,  
 You'll find a most unfit time to disturb him:  
-Health to your lordships. ...
+Health to your lordships. /
 
 **NORFOLK**  
-... Thanks, my good lord chamberlain.
+/ Thanks, my good lord chamberlain.
 
 *Exit Chamberlain; and KING HENRY VIII draws the curtain,
 and sits reading pensively*
@@ -1183,10 +1183,10 @@ and sits reading pensively*
 How sad he looks! sure, he is much afflicted.
 
 **KING HENRY VIII**  
-Who's there, ha? ...
+Who's there, ha? /
 
 **NORFOLK**  
-... Pray God he be not angry.
+/ Pray God he be not angry.
 
 **KING HENRY VIII**  
 Who's there, I say? How dare you thrust yourselves  
@@ -1196,10 +1196,10 @@ Into my private meditations? Who am I? ha?
 A gracious king that pardons all offences  
 Malice ne'er meant: our breach of duty this way  
 Is business of estate; in which we come  
-To know your royal pleasure. ...
+To know your royal pleasure. /
 
 **KING HENRY VIII**  
-... Ye are too bold:  
+/ Ye are too bold:  
 Go to; I'll make ye know your times of business:  
 Is this an hour for temporal affairs, ha?
 
@@ -1207,25 +1207,25 @@ Is this an hour for temporal affairs, ha?
 
 Who's there? my good lord cardinal? O my Wolsey,  
 The quiet of my wounded conscience;  
-Thou art a cure fit for a king. ...
+Thou art a cure fit for a king. /
 
 *\[To CARDINAL CAMPEIUS]*  
-... You're welcome,  
+/ You're welcome,  
 Most learned reverend sir, into our kingdom:  
-Use us and it. ...
+Use us and it. /
 
 *\[To CARDINAL WOLSEY]*  
-... My good lord, have great care  
-I be not found a talker. ...
+/ My good lord, have great care  
+I be not found a talker. /
 
 **CARDINAL WOLSEY**  
-... Sir, you cannot.  
+/ Sir, you cannot.  
 I would your grace would give us but an hour  
-Of private conference. ...
+Of private conference. /
 
 **KING HENRY VIII**  
 *\[To NORFOLK and SUFFOLK]*  
-... We are busy; go.
+/ We are busy; go.
 
 *Exeunt NORFOLK and SUFFOLK*
 
@@ -1275,11 +1275,11 @@ I find him a fit fellow.
 **CARDINAL WOLSEY**  
 *\[Aside to GARDINER]*  
 Give me your hand. Much joy and favour to you;  
-You are the king's now. ...
+You are the king's now. /
 
 **GARDINER**  
 *\[Aside to CARDINAL WOLSEY]*  
-... But to be commanded  
+/ But to be commanded  
 Forever by your grace, whose hand has raised me.
 
 **KING HENRY VIII**  
@@ -1315,41 +1315,41 @@ Still growing in a majesty and pomp, the which
 To leave a thousand-fold more bitter than  
 'Tis sweet at first to acquire,--after this process,  
 To give her the avaunt! it is a pity  
-Would move a monster. ...
+Would move a monster. /
 
 **Old Lady**  
-... Hearts of most hard temper  
-Melt and lament for her. ...
+/ Hearts of most hard temper  
+Melt and lament for her. /
 
 **ANNE**  
-... O, God's will! much better  
+/ O, God's will! much better  
 She ne'er had known pomp: though't be temporal,  
 Yet, if that quarrel, fortune, do divorce  
 It from the bearer, 'tis a sufferance panging  
-As soul and body's severing. ...
+As soul and body's severing. /
 
 **Old Lady**  
-... Alas, poor lady!  
-She's a stranger now again. ...
+/ Alas, poor lady!  
+She's a stranger now again. /
 
 **ANNE**  
-... So much the more  
+/ So much the more  
 Must pity drop upon her. Verily,  
 I swear, 'tis better to be lowly born,  
 And range with humble livers in content,  
 Than to be perk'd up in a glistering grief,  
-And wear a golden sorrow. ...
+And wear a golden sorrow. /
 
 **Old Lady**  
-... Our content  
-Is our best having. ...
+/ Our content  
+Is our best having. /
 
 **ANNE**  
-... By my troth and maidenhead,  
-I would not be a queen. ...
+/ By my troth and maidenhead,  
+I would not be a queen. /
 
 **Old Lady**  
-... Beshrew me, I would,  
+/ Beshrew me, I would,  
 And venture maidenhead for't; and so would you,  
 For all this spice of your hypocrisy:  
 You, that have so fair parts of woman on you,  
@@ -1358,10 +1358,10 @@ Affected eminence, wealth, sovereignty;
 Which, to say sooth, are blessings; and which gifts,  
 Saving your mincing, the capacity  
 Of your soft cheveril conscience would receive,  
-If you might please to stretch it. ...
+If you might please to stretch it. /
 
 **ANNE**  
-... Nay, good troth.
+/ Nay, good troth.
 
 **Old Lady**  
 Yes, troth, and troth; you would not be a queen?
@@ -1373,25 +1373,25 @@ No, not for all the riches under heaven.
 'Tis strange: a three-pence bow'd would hire me,  
 Old as I am, to queen it: but, I pray you,  
 What think you of a duchess? have you limbs  
-To bear that load of title? ...
+To bear that load of title? /
 
 **ANNE**  
-... No, in truth.
+/ No, in truth.
 
 **Old Lady**  
 Then you are weakly made: pluck off a little;  
 I would not be a young count in your way,  
 For more than blushing comes to: if your back  
 Cannot vouchsafe this burthen,'tis too weak  
-Ever to get a boy. ...
+Ever to get a boy. /
 
 **ANNE**  
-... How you do talk!  
+/ How you do talk!  
 I swear again, I would not be a queen  
-For all the world. ...
+For all the world. /
 
 **Old Lady**  
-... In faith, for little England  
+/ In faith, for little England  
 You'ld venture an emballing: I myself  
 Would for Carnarvonshire, although there long'd  
 No more to the crown but that. Lo, who comes here?
@@ -1400,20 +1400,20 @@ No more to the crown but that. Lo, who comes here?
 
 **Chamberlain**  
 Good morrow, ladies. What were't worth to know  
-The secret of your conference? ...
+The secret of your conference? /
 
 **ANNE**  
-... My good lord,  
+/ My good lord,  
 Not your demand; it values not your asking:  
 Our mistress' sorrows we were pitying.
 
 **Chamberlain**  
 It was a gentle business, and becoming  
 The action of good women: there is hope  
-All will be well. ...
+All will be well. /
 
 **ANNE**  
-... Now, I pray God, amen!
+/ Now, I pray God, amen!
 
 **Chamberlain**  
 You bear a gentle mind, and heavenly blessings  
@@ -1424,10 +1424,10 @@ Commends his good opinion of you, and
 Does purpose honour to you no less flowing  
 Than Marchioness of Pembroke: to which title  
 A thousand pound a year, annual support,  
-Out of his grace he adds. ...
+Out of his grace he adds. /
 
 **ANNE**  
-... I do not know  
+/ I do not know  
 What kind of my obedience I should tender;  
 More than my all is nothing: nor my prayers  
 Are not words duly hallow'd, nor my wishes  
@@ -1435,15 +1435,15 @@ More worth than empty vanities; yet prayers and wishes
 Are all I can return. Beseech your lordship,  
 Vouchsafe to speak my thanks and my obedience,  
 As from a blushing handmaid, to his highness;  
-Whose health and royalty I pray for. ...
+Whose health and royalty I pray for. /
 
 **Chamberlain**  
-... Lady,  
+/ Lady,  
 I shall not fail to approve the fair conceit  
-The king hath of you. ...
+The king hath of you. /
 
 *\[Aside]*  
-... I have perused her well;  
+/ I have perused her well;  
 Beauty and honour in her are so mingled  
 That they have caught the king: and who knows yet  
 But from this lady may proceed a gem  
@@ -1453,20 +1453,20 @@ And say I spoke with you.
 *Exit Chamberlain*
 
 **ANNE**  
-My honour'd lord. ...
+My honour'd lord. /
 
 **Old Lady**  
-... Why, this it is; see, see!  
+/ Why, this it is; see, see!  
 I have been begging sixteen years in court,  
 Am yet a courtier beggarly, nor could  
 Come pat betwixt too early and too late  
 For any suit of pounds; and you, O fate!  
 A very fresh-fish here--fie, fie, fie upon  
 This compell'd fortune!--have your mouth fill'd up  
-Before you open it. ...
+Before you open it. /
 
 **ANNE**  
-... This is strange to me.
+/ This is strange to me.
 
 **Old Lady**  
 How tastes it? is it bitter? forty pence, no.  
@@ -1475,30 +1475,30 @@ That would not be a queen, that would she not,
 For all the mud in Egypt: have you heard it?
 
 **ANNE**  
-Come, you are pleasant. ...
+Come, you are pleasant. /
 
 **Old Lady**  
-... With your theme, I could  
+/ With your theme, I could  
 O'ermount the lark. The Marchioness of Pembroke!  
 A thousand pounds a year for pure respect!  
 No other obligation! By my life,  
 That promises moe thousands: honour's train  
 Is longer than his foreskirt. By this time  
 I know your back will bear a duchess: say,  
-Are you not stronger than you were? ...
+Are you not stronger than you were? /
 
 **ANNE**  
-... Good lady,  
+/ Good lady,  
 Make yourself mirth with your particular fancy,  
 And leave me out on't. Would I had no being,  
 If this salute my blood a jot: it faints me,  
 To think what follows.  
 The queen is comfortless, and we forgetful  
 In our long absence: pray, do not deliver  
-What here you've heard to her. ...
+What here you've heard to her. /
 
 **Old Lady**  
-... What do you think me?
+/ What do you think me?
 
 *Exeunt*
 
@@ -1559,41 +1559,41 @@ Who deem'd our marriage lawful: wherefore I humbly
 Beseech you, sir, to spare me, till I may  
 Be by my friends in Spain advised; whose counsel  
 I will implore: if not, i' the name of God,  
-Your pleasure be fulfill'd! ...
+Your pleasure be fulfill'd! /
 
 **CARDINAL WOLSEY**  
-... You have here, lady,  
+/ You have here, lady,  
 And of your choice, these reverend fathers; men  
 Of singular integrity and learning,  
 Yea, the elect o' the land, who are assembled  
 To plead your cause: it shall be therefore bootless  
 That longer you desire the court; as well  
 For your own quiet, as to rectify  
-What is unsettled in the king. ...
+What is unsettled in the king. /
 
 **CARDINAL CAMPEIUS**  
-... His grace  
+/ His grace  
 Hath spoken well and justly: therefore, madam,  
 It's fit this royal session do proceed;  
 And that, without delay, their arguments  
-Be now produced and heard. ...
+Be now produced and heard. /
 
 **QUEEN KATHARINE**  
-... Lord cardinal,  
-To you I speak. ...
+/ Lord cardinal,  
+To you I speak. /
 
 **CARDINAL WOLSEY**  
-... Your pleasure, madam? ...
+/ Your pleasure, madam? /
 
 **QUEEN KATHARINE**  
-... Sir,  
+/ Sir,  
 I am about to weep; but, thinking that  
 We are a queen, or long have dream'd so, certain  
 The daughter of a king, my drops of tears  
-I'll turn to sparks of fire. ...
+I'll turn to sparks of fire. /
 
 **CARDINAL WOLSEY**  
-... Be patient yet.
+/ Be patient yet.
 
 **QUEEN KATHARINE**  
 I will, when you are humble; nay, before,  
@@ -1606,10 +1606,10 @@ Which God's dew quench! Therefore I say again,
 I utterly abhor, yea, from my soul  
 Refuse you for my judge; whom, yet once more,  
 I hold my most malicious foe, and think not  
-At all a friend to truth. ...
+At all a friend to truth. /
 
 **CARDINAL WOLSEY**  
-... I do profess  
+/ I do profess  
 You speak not like yourself; whoever yet  
 Have stood to charity, and display'd the effects  
 Of disposition gentle, and of wisdom  
@@ -1625,10 +1625,10 @@ It lies to cure me: and the cure is, to
 Remove these thoughts from you: the which before  
 His highness shall speak in, I do beseech  
 You, gracious madam, to unthink your speaking  
-And to say so no more. ...
+And to say so no more. /
 
 **QUEEN KATHARINE**  
-... My lord, my lord,  
+/ My lord, my lord,  
 I am a simple woman, much too weak  
 To oppose your cunning. You're meek and humble-mouth'd;  
 You sign your place and calling, in full seeming,  
@@ -1644,18 +1644,18 @@ Your high profession spiritual: that again
 I do refuse you for my judge; and here,  
 Before you all, appeal unto the pope,  
 To bring my whole cause 'fore his holiness,  
-And to be judged by him. ...
+And to be judged by him. /
 
 *She curtsies to KING HENRY VIII, and offers to depart*
 
 **CARDINAL CAMPEIUS**  
-... The queen is obstinate,  
+/ The queen is obstinate,  
 Stubborn to justice, apt to accuse it, and  
 Disdainful to be tried by't: 'tis not well.  
-She's going away. ...
+She's going away. /
 
 **KING HENRY VIII**  
-... Call her again.
+/ Call her again.
 
 **GRIFFITH**  
 Madam, you are call'd back.
@@ -1666,12 +1666,12 @@ When you are call'd, return. Now, the Lord help,
 They vex me past my patience! Pray you, pass on:  
 I will not tarry; no, nor ever more  
 Upon this business my appearance make  
-In any of their courts. ...
+In any of their courts. /
 
 *Exeunt QUEEN KATHARINE*
 
 **KING HENRY VIII**  
-... Go thy ways, Kate:  
+/ Go thy ways, Kate:  
 That man i'the world who shall report he has  
 A better wife, let him in nought be trusted,  
 For speaking false in that: thou art, alone,  
@@ -1681,20 +1681,20 @@ Obeying in commanding, and thy parts
 Sovereign and pious else, could speak thee out,  
 The queen of earthly queens: she's noble born;  
 And, like her true nobility, she has  
-Carried herself towards me. ...
+Carried herself towards me. /
 
 **CARDINAL WOLSEY**  
-... Most gracious sir,  
+/ Most gracious sir,  
 In humblest manner I require your highness,  
 That it shall please you to declare, in hearing  
 Of all these ears whether ever I  
 Have to you, but with thanks to God for such  
 A royal lady, spake one the least word that might  
 Be to the prejudice of her present state,  
-Or touch of her good person? ...
+Or touch of her good person? /
 
 **KING HENRY VIII**  
-... My lord cardinal,  
+/ My lord cardinal,  
 I do excuse you; you are not to be taught  
 That you have many enemies, that know not  
 Why they are so, but, like to village-curs,  
@@ -1741,26 +1741,26 @@ By all the reverend fathers of the land
 And doctors learn'd: first I began in private  
 With you, my good lord Griffith; you remember  
 How under my oppression I did reek,  
-When I first moved you. ...
+When I first moved you. /
 
 **GRIFFITH**  
-... Very well, my liege.
+/ Very well, my liege.
 
 **KING HENRY VIII**  
 I have spoke long: be pleased yourself to say  
-How far you satisfied me. ...
+How far you satisfied me. /
 
 **GRIFFITH**  
-... So please your highness,  
+/ So please your highness,  
 The question did at first so stagger me,  
 Bearing a state of mighty moment in't  
 And consequence of dread, that I committed  
 The daring'st counsel which I had to doubt;  
 And did entreat your highness to this course  
-Which you are running here. ...
+Which you are running here. /
 
 **CARDINAL CAMPEIUS**  
-... So please your highness,  
+/ So please your highness,  
 The queen being absent, 'tis a needful fitness  
 That we adjourn this court till further day:  
 Meanwhile must be an earnest motion  
@@ -1782,30 +1782,30 @@ How now!
 
 **GRIFFITH**  
 An't please your grace, the two great cardinals  
-Wait in the presence. ...
+Wait in the presence. /
 
 **QUEEN KATHARINE**  
-... Would they speak with me?
+/ Would they speak with me?
 
 **GRIFFITH**  
-They will'd me say so, madam. ...
+They will'd me say so, madam. /
 
 **QUEEN KATHARINE**  
-... Pray their graces  
-To come near. ...
+/ Pray their graces  
+To come near. /
 
 *Exit GRIFFITH*
 
-... What can be their business  
+/ What can be their business  
 With me, a poor weak woman, fall'n from favour?  
 I do not like their coming. Now I think on't,  
 They should be good men; their affairs as righteous:  
-But all hoods make not monks. ...
+But all hoods make not monks. /
 
 *Enter CARDINAL WOLSEY and CARDINAL CAMPEIUS*
 
 **CARDINAL WOLSEY**  
-... Peace to your highness!
+/ Peace to your highness!
 
 **QUEEN KATHARINE**  
 Your graces find me here part of a housewife,  
@@ -1820,20 +1820,20 @@ You have too much, good lady; but to know
 How you stand minded in the weighty difference  
 Between the king and you; and to deliver,  
 Like free and honest men, our just opinions  
-And comforts to your cause. ...
+And comforts to your cause. /
 
 **CARDINAL CAMPEIUS**  
-... Most honour'd madam,  
+/ Most honour'd madam,  
 My Lord of York, out of his noble nature,  
 Zeal and obedience he still bore your grace,  
 Forgetting, like a good man your late censure  
 Both of his truth and him, which was too far,  
 Offers, as I do, in a sign of peace,  
-His service and his counsel. ...
+His service and his counsel. /
 
 **QUEEN KATHARINE**  
 *\[Aside]*  
-... To betray me.--
+/ To betray me.--
 
 My lords, I thank you both for your good wills;  
 Ye speak like honest men; pray God, ye prove so!  
@@ -1855,33 +1855,33 @@ And live a subject? Nay, forsooth, my friends,
 They that must weigh out my afflictions,  
 They that my trust must grow to, live not here:  
 They are, as all my other comforts, far hence  
-In mine own country, lords. ...
+In mine own country, lords. /
 
 **CARDINAL CAMPEIUS**  
-... I would your grace  
-Would leave your griefs, and take my counsel. ...
+/ I would your grace  
+Would leave your griefs, and take my counsel. /
 
 **QUEEN KATHARINE**  
-... How, sir?
+/ How, sir?
 
 **CARDINAL CAMPEIUS**  
 Put your main cause into the king's protection;  
 He's loving and most gracious: 'twill be much  
 Both for your honour better and your cause;  
 For if the trial of the law o'ertake ye,  
-You'll part away disgraced. ...
+You'll part away disgraced. /
 
 **CARDINAL WOLSEY**  
-... He tells you rightly.
+/ He tells you rightly.
 
 **QUEEN KATHARINE**  
 Ye tell me what ye wish for both,--my ruin:  
 Is this your Christian counsel? out upon ye!  
 Heaven is above all yet; there sits a judge  
-That no king can corrupt. ...
+That no king can corrupt. /
 
 **CARDINAL CAMPEIUS**  
-... Your rage mistakes us.
+/ Your rage mistakes us.
 
 **QUEEN KATHARINE**  
 The more shame for ye: holy men I thought ye,  
@@ -1910,10 +1910,10 @@ His love, too long ago! I am old, my lords,
 And all the fellowship I hold now with him  
 Is only my obedience. What can happen  
 To me above this wretchedness? all your studies  
-Make me a curse like this. ...
+Make me a curse like this. /
 
 **CARDINAL CAMPEIUS**  
-... Your fears are worse.
+/ Your fears are worse.
 
 **QUEEN KATHARINE**  
 Have I lived thus long--let me speak myself,  
@@ -1937,10 +1937,10 @@ Madam, you wander from the good we aim at.
 My lord, I dare not make myself so guilty,  
 To give up willingly that noble title  
 Your master wed me to: nothing but death  
-Shall e'er divorce my dignities. ...
+Shall e'er divorce my dignities. /
 
 **CARDINAL WOLSEY**  
-... Pray, hear me.
+/ Pray, hear me.
 
 **QUEEN KATHARINE**  
 Would I had never trod this English earth,  
@@ -1948,10 +1948,10 @@ Or felt the flatteries that grow upon it!
 Ye have angels' faces, but heaven knows your hearts.  
 What will become of me now, wretched lady!  
 I am the most unhappy woman living.  
-I'll hang my head and perish. ...
+I'll hang my head and perish. /
 
 **CARDINAL WOLSEY**  
-... If your grace  
+/ If your grace  
 Could but be brought to know our ends are honest,  
 You'ld feel more comfort: why should we, good lady,  
 Upon what cause, wrong you? alas, our places,  
@@ -1995,31 +1995,31 @@ The cardinal!
 *Enter CARDINAL WOLSEY and CROMWELL*
 
 **NORFOLK**  
-Observe, observe, he's moody. ...
+Observe, observe, he's moody. /
 
 **CARDINAL WOLSEY**  
-... The packet, Cromwell.  
-Gave't you the king? ...
+/ The packet, Cromwell.  
+Gave't you the king? /
 
 **CROMWELL**  
-... To his own hand, in's bedchamber.
+/ To his own hand, in's bedchamber.
 
 **CARDINAL WOLSEY**  
-Look'd he o' the inside of the paper? ...
+Look'd he o' the inside of the paper? /
 
 **CROMWELL**  
-... Presently  
+/ Presently  
 He did unseal them: and the first he view'd,  
 He did it with a serious mind; a heed  
 Was in his countenance. You he bade  
-Attend him here this morning. ...
+Attend him here this morning. /
 
 **CARDINAL WOLSEY**  
-... Is he ready  
-To come abroad? ...
+/ Is he ready  
+To come abroad? /
 
 **CROMWELL**  
-... I think, by this he is.
+/ I think, by this he is.
 
 **CARDINAL WOLSEY**  
 Leave me awhile.
@@ -2036,28 +2036,28 @@ To hear from Rome. The Marchioness of Pembroke!
 The late queen's gentlewoman, a knight's daughter,  
 To be her mistress' mistress! the queen's queen!  
 This candle burns not clear: 'tis I must snuff it;  
-Then out it goes. ...
+Then out it goes. /
 
 **NORFOLK**  
-... He is vex'd at something.
+/ He is vex'd at something.
 
 **SUFFOLK**  
 I would 'twere something that would fret the string,  
-The master-cord on's heart! ...
+The master-cord on's heart! /
 
 *Enter KING HENRY VIII, reading of a schedule, and LOVELL*
 
-... The king, the king!
+/ The king, the king!
 
 **KING HENRY VIII**  
 What piles of wealth hath he accumulated  
 To his own portion! and what expense by the hour  
 Seems to flow from him! How, i' the name of thrift,  
 Does he rake this together! Now, my lords,  
-Saw you the cardinal? ...
+Saw you the cardinal? /
 
 **NORFOLK**  
-... My lord, we have  
+/ My lord, we have  
 Stood here observing him: some strange commotion  
 Is in his brain: he bites his lip, and starts;  
 Stops on a sudden, looks upon the ground,  
@@ -2065,10 +2065,10 @@ Then lays his finger on his temple, straight
 Springs out into fast gait; then stops again,  
 Strikes his breast hard, and anon he casts  
 His eye against the moon: in most strange postures  
-We have seen him set himself. ...
+We have seen him set himself. /
 
 **KING HENRY VIII**  
-... It may well be;  
+/ It may well be;  
 There is a mutiny in's mind. This morning  
 Papers of state he sent me to peruse,  
 As I required: and wot you what I found  
@@ -2077,57 +2077,57 @@ Forsooth, an inventory, thus importing;
 The several parcels of his plate, his treasure,  
 Rich stuffs, and ornaments of household; which  
 I find at such proud rate, that it out-speaks  
-Possession of a subject. ...
+Possession of a subject. /
 
 **NORFOLK**  
-... It's heaven's will:  
+/ It's heaven's will:  
 Some spirit put this paper in the packet,  
-To bless your eye withal. ...
+To bless your eye withal. /
 
 **KING HENRY VIII**  
-... If we did think  
+/ If we did think  
 His contemplation were above the earth,  
 And fix'd on spiritual object, he should still  
 Dwell in his musings: but I am afraid  
 His thinkings are below the moon, not worth  
-His serious considering. ...
+His serious considering. /
 
 *King HENRY VIII takes his seat; whispers LOVELL, who goes
 to CARDINAL WOLSEY*
 
 **CARDINAL WOLSEY**  
-... Heaven forgive me!  
-Ever God bless your highness! ...
+/ Heaven forgive me!  
+Ever God bless your highness! /
 
 **KING HENRY VIII**  
-... Good my lord,  
+/ Good my lord,  
 You are full of heavenly stuff, and bear the inventory  
 Of your best graces in your mind; the which  
 You were now running o'er: you have scarce time  
 To steal from spiritual leisure a brief span  
 To keep your earthly audit: sure, in that  
 I deem you an ill husband, and am glad  
-To have you therein my companion. ...
+To have you therein my companion. /
 
 **CARDINAL WOLSEY**  
-... Sir,  
+/ Sir,  
 For holy offices I have a time; a time  
 To think upon the part of business which  
 I bear i' the state; and nature does require  
 Her times of preservation, which perforce  
 I, her frail son, amongst my brethren mortal,  
-Must give my tendence to. ...
+Must give my tendence to. /
 
 **KING HENRY VIII**  
-... You have said well.
+/ You have said well.
 
 **CARDINAL WOLSEY**  
 And ever may your highness yoke together,  
 As I will lend you cause, my doing well  
-With my well saying! ...
+With my well saying! /
 
 **KING HENRY VIII**  
-... 'Tis well said again;  
+/ 'Tis well said again;  
 And 'tis a kind of good deed to say well:  
 And yet words are no deeds. My father loved you:  
 His said he did; and with his deed did crown  
@@ -2135,18 +2135,18 @@ His word upon you. Since I had my office,
 I have kept you next my heart; have not alone  
 Employ'd you where high profits might come home,  
 But pared my present havings, to bestow  
-My bounties upon you. ...
+My bounties upon you. /
 
 **CARDINAL WOLSEY**  
 *\[Aside]*  
-... What should this mean?
+/ What should this mean?
 
 **SUFFOLK**  
 *\[Aside]*  
-The Lord increase this business! ...
+The Lord increase this business! /
 
 **KING HENRY VIII**  
-... Have I not made you,  
+/ Have I not made you,  
 The prime man of the state? I pray you, tell me,  
 If what I now pronounce you have found true:  
 And, if you may confess it, say withal,  
@@ -2156,16 +2156,16 @@ If you are bound to us or no. What say you?
 My sovereign, I confess your royal graces,  
 Shower'd on me daily, have been more than could  
 My studied purposes requite; which went  
-Beyond all man's endeavours. ...
+Beyond all man's endeavours. /
 
 **KING HENRY VIII**  
-... Fairly answer'd;  
+/ Fairly answer'd;  
 A loyal and obedient subject is  
 Therein illustrated: the honour of it  
-Does pay the act of it. ...
+Does pay the act of it. /
 
 **CARDINAL WOLSEY**  
-... I do profess  
+/ I do profess  
 That for your highness' good I ever labour'd  
 More than mine own; that am, have, and will be.
 
@@ -2175,13 +2175,13 @@ For you have seen him open't. Read o'er this;
 
 *\[Giving him papers]*  
 And after, this: and then to breakfast with  
-What appetite you have. ...
+What appetite you have. /
 
 *Exit KING HENRY VIII, frowning upon CARDINAL WOLSEY: the
 Nobles throng after him, smiling and whispering*
 
 **CARDINAL WOLSEY**  
-... What should this mean?  
+/ What should this mean?  
 What sudden anger's this? how have I reap'd it?  
 He parted frowning from me, as if ruin  
 Leap'd from his eyes: so looks the chafed lion  
@@ -2227,27 +2227,27 @@ There is, betwixt that smile we would aspire to,
 That sweet aspect of princes, and their ruin,  
 More pangs and fears than wars or women have:  
 And when he falls, he falls like Lucifer,  
-Never to hope again. ...
+Never to hope again. /
 
 *Enter CROMWELL*
 
 *\[Stands amazed]*  
-... Why, how now, Cromwell!
+/ Why, how now, Cromwell!
 
 **CROMWELL**  
-I have no power to speak, sir. ...
+I have no power to speak, sir. /
 
 **CARDINAL WOLSEY**  
-... What, amazed  
+/ What, amazed  
 At my misfortunes? can thy spirit wonder  
 A great man should decline? Nay, an you weep,  
 I am fall'n indeed.
 
 **CROMWELL**  
-How does your grace? ...
+How does your grace? /
 
 **CARDINAL WOLSEY**  
-... Why, well;  
+/ Why, well;  
 Never so truly happy, my good Cromwell.  
 I know myself now; and I feel within me  
 A peace above all earthly dignities,  
@@ -2266,21 +2266,21 @@ I hope I have: I am able now, methinks,
 Out of a fortitude of soul I feel,  
 To endure more miseries and greater far  
 Than my weak-hearted enemies dare offer.  
-What news abroad? ...
+What news abroad? /
 
 **CROMWELL**  
-... The heaviest and the worst  
-Is your displeasure with the king. ...
+/ The heaviest and the worst  
+Is your displeasure with the king. /
 
 **CARDINAL WOLSEY**  
-... God bless him!
+/ God bless him!
 
 **CROMWELL**  
 The next is, that Sir Thomas More is chosen  
-Lord chancellor in your place. ...
+Lord chancellor in your place. /
 
 **CARDINAL WOLSEY**  
-... That's somewhat sudden:  
+/ That's somewhat sudden:  
 But he's a learned man. May he continue  
 Long in his highness' favour, and do justice  
 For truth's sake and his conscience; that his bones,  
@@ -2292,10 +2292,10 @@ That Cranmer is return'd with welcome,
 Install'd lord archbishop of Canterbury.
 
 **CARDINAL WOLSEY**  
-That's news indeed. ...
+That's news indeed. /
 
 **CROMWELL**  
-... Last, that the Lady Anne,  
+/ Last, that the Lady Anne,  
 Whom the king hath in secrecy long married,  
 This day was view'd in open as his queen,  
 Going to chapel; and the voice is now  
@@ -2316,10 +2316,10 @@ Some little memory of me will stir him--
 I know his noble nature--not to let  
 Thy hopeful service perish too: good Cromwell,  
 Neglect him not; make use now, and provide  
-For thine own future safety. ...
+For thine own future safety. /
 
 **CROMWELL**  
-... O my lord,  
+/ O my lord,  
 Must I, then, leave you? must I needs forego  
 So good, so noble and so true a master?  
 Bear witness, all that have not hearts of iron,  
@@ -2351,10 +2351,10 @@ I served my king, he would not in mine age
 Have left me naked to mine enemies.
 
 **CROMWELL**  
-Good sir, have patience. ...
+Good sir, have patience. /
 
 **CARDINAL WOLSEY**  
-... So I have. Farewell  
+/ So I have. Farewell  
 The hopes of court! my hopes in heaven do dwell.
 
 *Exeunt*
@@ -2367,36 +2367,36 @@ The hopes of court! my hopes in heaven do dwell.
 gentleman usher*
 
 **GRIFFITH**  
-How does your grace? ...
+How does your grace? /
 
 **KATHARINE**  
-... O Griffith, sick to death!  
+/ O Griffith, sick to death!  
 My legs, like loaden branches, bow to the earth,  
 Willing to leave their burthen. Reach a chair:  
 So; now, methinks, I feel a little ease.  
 Didst thou not tell me, Griffith, as thou led'st me,  
 That the great child of honour, Cardinal Wolsey,  
-Was dead? ...
+Was dead? /
 
 **GRIFFITH**  
-... Yes, madam; but I think your grace,  
+/ Yes, madam; but I think your grace,  
 Out of the pain you suffer'd, gave no ear to't.
 
 **KATHARINE**  
 Prithee, good Griffith, tell me how he died:  
 If well, he stepp'd before me, happily  
-For my example. ...
+For my example. /
 
 **GRIFFITH**  
-... Well, the voice goes, madam:  
+/ Well, the voice goes, madam:  
 For after the stout Earl Northumberland  
 Arrested him at York, and brought him forward,  
 As a man sorely tainted, to his answer,  
 He fell sick suddenly, and grew so ill  
-He could not sit his mule. ...
+He could not sit his mule. /
 
 **KATHARINE**  
-... Alas, poor man!
+/ Alas, poor man!
 
 **GRIFFITH**  
 At last, with easy roads, he came to Leicester,  
@@ -2428,20 +2428,20 @@ But where he meant to ruin, pitiful:
 His promises were, as he then was, mighty;  
 But his performance, as he is now, nothing:  
 Of his own body he was ill, and gave  
-The clergy in example. ...
+The clergy in example. /
 
 **GRIFFITH**  
-... Noble madam,  
+/ Noble madam,  
 Men's evil manners live in brass; their virtues  
 We write in water. May it please your highness  
-To hear me speak his good now? ...
+To hear me speak his good now? /
 
 **KATHARINE**  
-... Yes, good Griffith;  
-I were malicious else. ...
+/ Yes, good Griffith;  
+I were malicious else. /
 
 **GRIFFITH**  
-... This cardinal,  
+/ This cardinal,  
 Though from an humble stock, undoubtedly  
 Was fashion'd to much honour from his cradle.  
 He was a scholar, and a ripe and good one;  
@@ -2490,14 +2490,14 @@ Spirits of peace, where are ye? are ye all gone,
 And leave me here in wretchedness behind ye?
 
 **GRIFFITH**  
-Madam, we are here. ...
+Madam, we are here. /
 
 **KATHARINE**  
-... It is not you I call for:  
-Saw ye none enter since I slept? ...
+/ It is not you I call for:  
+Saw ye none enter since I slept? /
 
 **GRIFFITH**  
-... None, madam.
+/ None, madam.
 
 **KATHARINE**  
 No? Saw you not, even now, a blessed troop  
@@ -2509,32 +2509,32 @@ I am not worthy yet to wear: I shall, assuredly.
 
 **GRIFFITH**  
 I am most joyful, madam, such good dreams  
-Possess your fancy. ...
+Possess your fancy. /
 
 **KATHARINE**  
-... Bid the music leave,  
-They are harsh and heavy to me. ...
+/ Bid the music leave,  
+They are harsh and heavy to me. /
 
 *Music ceases*
 
 *Enter CAPUCIUS*
 
 **KATHARINE**  
-... If my sight fail not,  
+/ If my sight fail not,  
 You should be lord ambassador from the emperor,  
 My royal nephew, and your name Capucius.
 
 **CAPUCIUS**  
-Madam, the same; your servant. ...
+Madam, the same; your servant. /
 
 **KATHARINE**  
-... O, my lord,  
+/ O, my lord,  
 The times and titles now are alter'd strangely  
 With me since first you knew me. But, I pray you,  
-What is your pleasure with me? ...
+What is your pleasure with me? /
 
 **CAPUCIUS**  
-... Noble lady,  
+/ Noble lady,  
 First mine own service to your grace; the next,  
 The king's request that I would visit you;  
 Who grieves much for your weakness, and by me  
@@ -2546,10 +2546,10 @@ O my good lord, that comfort comes too late;
 'Tis like a pardon after execution:  
 That gentle physic, given in time, had cured me;  
 But now I am past all comforts here, but prayers.  
-How does his highness? ...
+How does his highness? /
 
 **CAPUCIUS**  
-... Madam, in good health.
+/ Madam, in good health.
 
 **KATHARINE**  
 So may he ever do! and ever flourish,  
@@ -2557,10 +2557,10 @@ When I shall l dwell with worms, and my poor name
 Banish'd the kingdom! Pray you to deliver
 
 *\[Producing a Letter]*  
-This to my lord the king. ...
+This to my lord the king. /
 
 **CAPUCIUS**  
-... Most willing, madam.
+/ Most willing, madam.
 
 **KATHARINE**  
 In which I have commended to his goodness  
@@ -2590,10 +2590,10 @@ These are the whole contents: and, good my lord,
 By that you love the dearest in this world,  
 As you wish Christian peace to souls departed,  
 Stand these poor people's friend, and urge the king  
-To do me this last right. ...
+To do me this last right. /
 
 **CAPUCIUS**  
-... By heaven, I will,  
+/ By heaven, I will,  
 Or let me lose the fashion of a man!
 
 **KATHARINE**  
@@ -2625,17 +2625,17 @@ These should be hours for necessities,
 Not for delights; times to repair our nature  
 With comforting repose, and not for us  
 To waste these times. Good hour of night, my lord!  
-Whither so late? ...
+Whither so late? /
 
 **LOVELL**  
-... Came you from the king, my lord.
+/ Came you from the king, my lord.
 
 **GARDINER**  
 I did, my lord: and left him at primero  
-With the Duke of Suffolk. ...
+With the Duke of Suffolk. /
 
 **LOVELL**  
-... I must to him too,  
+/ I must to him too,  
 Before he go to bed. I'll take my leave.
 
 **GARDINER**  
@@ -2645,48 +2645,48 @@ No great offence belongs to't, give your friend
 Some touch of your late business: affairs, that walk,  
 As they say spirits do, at midnight, have  
 In them a wilder nature than the business  
-That seeks dispatch by day. ...
+That seeks dispatch by day. /
 
 **LOVELL**  
-... My lord, I love you;  
+/ My lord, I love you;  
 And durst commend a secret to your ear  
 Much weightier than this work. The queen's in labour,  
 They say, in great extremity; and fear'd  
-She'll with the labour end. ...
+She'll with the labour end. /
 
 **GARDINER**  
-... The fruit she goes with  
+/ The fruit she goes with  
 I pray for heartily, that it may find  
 Good time, and live: but for the stock, my lord,  
-I wish it grubb'd up now. ...
+I wish it grubb'd up now. /
 
 **LOVELL**  
-... Methinks I could  
+/ Methinks I could  
 Cry the amen; and yet my conscience says  
 She's a good creature, and, sweet lady, does  
-Deserve our better wishes. ...
+Deserve our better wishes. /
 
 **GARDINER**  
-... But, good sir,  
+/ But, good sir,  
 Hear me, my lord: you're a gentle soul  
 Of mine own way; I know you wise, religious;  
 And, let me tell you, it will ne'er be well,  
 'Twill not, my lord Lovell, take't of me,  
 Till Cranmer, Cromwell, her two hands, and she,  
-Sleep in their graves. ...
+Sleep in their graves. /
 
 **LOVELL**  
-... Now, sir, you speak of two  
+/ Now, sir, you speak of two  
 The most remark'd i' the kingdom. As for Cromwell,  
 Beside that of the jewel house, is made master  
 O' the rolls, and the king's secretary; further, sir,  
 Stands in the gap and trade of moe preferments,  
 With which the time will load him. The archbishop  
 Is the king's hand and tongue; and who dare speak  
-One syllable against him? ...
+One syllable against him? /
 
 **GARDINER**  
-... Yes, yes, my lord,  
+/ Yes, yes, my lord,  
 There are that dare; and I myself have ventured  
 To speak my mind of him: and indeed this day,  
 as I may tell it you, I think I have  
@@ -2727,49 +2727,49 @@ I could not personally deliver to her
 What you commanded me, but by her woman  
 I sent your message; who return'd her thanks  
 In the great'st humbleness, and desired your highness  
-Most heartily to pray for her. ...
+Most heartily to pray for her. /
 
 **KING HENRY VIII**  
-... What say'st thou, ha?  
+/ What say'st thou, ha?  
 To pray for her? what, is she crying out?
 
 **LOVELL**  
 So said her woman; and that her sufferance made  
-Almost each pang a death. ...
+Almost each pang a death. /
 
 **KING HENRY VIII**  
-... Alas, good lady!
+/ Alas, good lady!
 
 **SUFFOLK**  
 God safely quit her of her burthen, and  
 With gentle travail, to the gladding of  
-Your highness with an heir! ...
+Your highness with an heir! /
 
 **KING HENRY VIII**  
-... 'Tis midnight, Charles;  
+/ 'Tis midnight, Charles;  
 Prithee, to bed; and in thy prayers remember  
 The estate of my poor queen. Leave me alone;  
 For I must think of that which company  
-Would not be friendly to. ...
+Would not be friendly to. /
 
 **SUFFOLK**  
-... I wish your highness  
+/ I wish your highness  
 A quiet night; and my good mistress will  
-Remember in my prayers. ...
+Remember in my prayers. /
 
 **KING HENRY VIII**  
-... Charles, good night.
+/ Charles, good night.
 
 *Exit SUFFOLK*
 
 *Enter CRANMER*
 
 **KING HENRY VIII**  
-Avoid the gallery. ...
+Avoid the gallery. /
 
 *LOVELL seems to stay*
 
-... Ha! I have said. Be gone. What!
+/ Ha! I have said. Be gone. What!
 
 *Exeunt LOVELL*
 
@@ -2780,15 +2780,15 @@ I am fearful: wherefore frowns he thus?
 
 **KING HENRY VIII**  
 How now, my lord! you desire to know  
-Wherefore I sent for you. ...
+Wherefore I sent for you. /
 
 **CRANMER**  
 *\[Kneeling]*  
-... It is my duty  
-To attend your highness' pleasure. ...
+/ It is my duty  
+To attend your highness' pleasure. /
 
 **KING HENRY VIII**  
-... Pray you, arise,  
+/ Pray you, arise,  
 My good and gracious Lord of Canterbury.  
 Come, you and I must walk a turn together;  
 I have news to tell you: come, come, give me your hand.  
@@ -2805,19 +2805,19 @@ Which will require your answer, you must take
 Your patience to you, and be well contented  
 To make your house our Tower: you a brother of us,  
 It fits we thus proceed, or else no witness  
-Would come against you. ...
+Would come against you. /
 
 **CRANMER**  
 *\[Kneeling]*  
-... I humbly thank your highness;  
+/ I humbly thank your highness;  
 And am right glad to catch this good occasion  
 Most throughly to be winnow'd, where my chaff  
 And corn shall fly asunder: for, I know,  
 There's none stands under more calumnious tongues  
-Than I myself, poor man. ...
+Than I myself, poor man. /
 
 **KING HENRY VIII**  
-... Stand up, good Canterbury:  
+/ Stand up, good Canterbury:  
 Thy truth and thy integrity is rooted  
 In us, thy friend: give me thy hand, stand up:  
 Prithee, let's walk. Now, by my holidame.  
@@ -2825,20 +2825,20 @@ What manner of man are you? My lord, I look'd
 You would have given me your petition, that  
 I should have ta'en some pains to bring together  
 Yourself and your accusers; and to have heard you,  
-Without indurance, further. ...
+Without indurance, further. /
 
 **CRANMER**  
-... Most dread liege,  
+/ Most dread liege,  
 The good I stand on is my truth and honesty:  
 If they shall fail, I, with mine enemies,  
 Will triumph o'er my person; which I weigh not,  
 Being of those virtues vacant. I fear nothing  
 What can be said. God and your majesty  
 Protect mine innocence, or I fall into  
-The trap is laid for me! ...
+The trap is laid for me! /
 
 **KING HENRY VIII**  
-... Be of good cheer;  
+/ Be of good cheer;  
 They shall no more prevail than we give way to.  
 Keep comfort to you; and this morning see  
 You do appear before them: if they shall chance,  
@@ -2852,44 +2852,44 @@ There make before them. Look, the good man weeps!
 He's honest, on mine honour. God's blest mother!  
 I swear he is true--hearted; and a soul  
 None better in my kingdom. Get you gone,  
-And do as I have bid you. ...
+And do as I have bid you. /
 
 *Exit CRANMER*
 
-... He has strangled  
-His language in his tears. ...
+/ He has strangled  
+His language in his tears. /
 
 *Enter Old Lady, LOVELL following*
 
 **LOVELL**  
 *\[Within]*  
-... Come back: what mean you?
+/ Come back: what mean you?
 
 **Old Lady**  
 I'll not come back; the tidings that I bring  
 Will make my boldness manners. Now, good angels  
 Fly o'er thy royal head, and shade thy person  
-Under their blessed wings! ...
+Under their blessed wings! /
 
 **KING HENRY VIII**  
-... Now, by thy looks  
+/ Now, by thy looks  
 I guess thy message. Is the queen deliver'd?  
-Say, ay; and of a boy. ...
+Say, ay; and of a boy. /
 
 **Old Lady**  
-... Ay, ay, my liege;  
+/ Ay, ay, my liege;  
 And of a lovely boy: the God of heaven  
 Both now and ever bless her! 'tis a girl,  
 Promises boys hereafter. Sir, your queen  
 Desires your visitation, and to be  
 Acquainted with this stranger 'tis as like you  
-As cherry is to cherry. ...
+As cherry is to cherry. /
 
 **KING HENRY VIII**  
-... Lovell! ...
+/ Lovell! /
 
 **LOVELL**  
-... Sir?
+/ Sir?
 
 **KING HENRY VIII**  
 Give her an hundred marks. I'll to the queen.
@@ -2916,36 +2916,36 @@ at lower end, as secretary. The Keeper at the door.*
 
 **Chancellor**  
 Speak to the business, master-secretary:  
-Why are we met in council? ...
+Why are we met in council? /
 
 **CROMWELL**  
-... Please your honours,  
+/ Please your honours,  
 The chief cause concerns his grace of Canterbury.
 
 **GARDINER**  
-Has he had knowledge of it? ...
+Has he had knowledge of it? /
 
 **CROMWELL**  
-... Yes. ...
+/ Yes. /
 
 **NORFOLK**  
-... Who waits there?
+/ Who waits there?
 
 **Keeper**  
-Without, my noble lords? ...
+Without, my noble lords? /
 
 **GARDINER**  
-... Yes. ...
+/ Yes. /
 
 **Keeper**  
-... My lord archbishop;  
+/ My lord archbishop;  
 And has done half an hour, to know your pleasures.
 
 **Chancellor**  
-Let him come in. ...
+Let him come in. /
 
 **Keeper**  
-... Your grace may enter now.
+/ Your grace may enter now.
 
 *CRANMER enters and approaches the council-table*
 
@@ -2994,10 +2994,10 @@ Envy and crooked malice nourishment
 Dare bite the best. I do beseech your lordships,  
 That, in this case of justice, my accusers,  
 Be what they will, may stand forth face to face,  
-And freely urge against me. ...
+And freely urge against me. /
 
 **SUFFOLK**  
-... Nay, my lord,  
+/ Nay, my lord,  
 That cannot be: you are a counsellor,  
 And, by that virtue, no man dare accuse you.
 
@@ -3034,46 +3034,46 @@ My Lord of Winchester, you are a little,
 By your good favour, too sharp; men so noble,  
 However faulty, yet should find respect  
 For what they have been: 'tis a cruelty  
-To load a falling man. ...
+To load a falling man. /
 
 **GARDINER**  
-... Good master secretary,  
+/ Good master secretary,  
 I cry your honour mercy; you may, worst  
-Of all this table, say so. ...
+Of all this table, say so. /
 
 **CROMWELL**  
-... Why, my lord?
+/ Why, my lord?
 
 **GARDINER**  
 Do not I know you for a favourer  
-Of this new sect? ye are not sound. ...
+Of this new sect? ye are not sound. /
 
 **CROMWELL**  
-... Not sound?
+/ Not sound?
 
 **GARDINER**  
-Not sound, I say. ...
+Not sound, I say. /
 
 **CROMWELL**  
-... Would you were half so honest!  
+/ Would you were half so honest!  
 Men's prayers then would seek you, not their fears.
 
 **GARDINER**  
-I shall remember this bold language. ...
+I shall remember this bold language. /
 
 **CROMWELL**  
-... Do.
-Remember your bold life too. ...
+/ Do.
+Remember your bold life too. /
 
 **Chancellor**  
-... This is too much;  
-Forbear, for shame, my lords. ...
+/ This is too much;  
+Forbear, for shame, my lords. /
 
 **GARDINER**  
-... I have done. ...
+/ I have done. /
 
 **CROMWELL**  
-... And I.
+/ And I.
 
 **Chancellor**  
 Then thus for you, my lord: it stands agreed,  
@@ -3083,57 +3083,57 @@ There to remain till the king's further pleasure
 Be known unto us: are you all agreed, lords?
 
 **All**  
-We are. ...
+We are. /
 
 **CRANMER**  
-... Is there no other way of mercy,  
-But I must needs t' th' Tower, my lords? ...
+/ Is there no other way of mercy,  
+But I must needs t' th' Tower, my lords? /
 
 **GARDINER**  
-... What other
+/ What other
 Would you expect? you are strangely troublesome.  
-Let one o' the guard be ready there. ...
+Let one o' the guard be ready there. /
 
 *Enter Guard*
 
 **CRANMER**  
-... For me?
-Must I go like a traitor thither? ...
+/ For me?
+Must I go like a traitor thither? /
 
 **GARDINER**  
-... Receive him,
-And see him safe i' the Tower. ...
+/ Receive him,
+And see him safe i' the Tower. /
 
 **CRANMER**  
-... Stay, good my lords,  
+/ Stay, good my lords,  
 I have a little yet to say. Look there, my lords;  
 By virtue of that ring, I take my cause  
 Out of the gripes of cruel men, and give it  
 To a most noble judge, the king my master.
 
 **Chamberlain**  
-This is the king's ring. ...
+This is the king's ring. /
 
 **NORFOLK**  
-... 'Tis no counterfeit.
+/ 'Tis no counterfeit.
 
 **SUFFOLK**  
 'Tis the right ring, by heaven: I told ye all,  
 When ye first put this dangerous stone a-rolling,  
-'Twould fall upon ourselves. ...
+'Twould fall upon ourselves. /
 
 **NORFOLK**  
-... Do you think, my lords,  
+/ Do you think, my lords,  
 The king will suffer but the little finger  
-Of this man to be vex'd? ...
+Of this man to be vex'd? /
 
 **Chancellor**  
-... 'Tis now too certain:  
+/ 'Tis now too certain:  
 How much more is his life in value with him?  
-Would I were fairly out on't! ...
+Would I were fairly out on't! /
 
 **CROMWELL**  
-... My mind gave me,  
+/ My mind gave me,  
 In seeking tales and informations  
 Against this man, whose honesty the devil  
 And his disciples only envy at,  
@@ -3168,10 +3168,10 @@ By all that's holy, he had better starve
 Than but once think this place becomes thee not.
 
 **GARDINER**  
-May 't please your grace,-- ...
+May 't please your grace,-- /
 
 **KING HENRY VIII**  
-... No, sir, it does not please me.  
+/ No, sir, it does not please me.  
 I had thought I had had men of some understanding  
 And wisdom of my council; but I find none.  
 Was it discretion, lords, to let this man,  
@@ -3184,19 +3184,19 @@ Power as he was a counsellor to try him,
 Not as a groom: there's some of ye, I see,  
 More out of malice than integrity,  
 Would try him to the utmost, had ye mean;  
-Which ye shall never have while I live. ...
+Which ye shall never have while I live. /
 
 **Chancellor**  
-... Thus far,
+/ Thus far,
 My most dread sovereign, may it like your grace  
 To let my tongue excuse all. What was purposed  
 Concerning his imprisonment, was rather,  
 If there be faith in men, meant for his trial,  
 And fair purgation to the world, than malice,  
-I'm sure, in me. ...
+I'm sure, in me. /
 
 **KING HENRY VIII**  
-... Well, well, my lords, respect him;  
+/ Well, well, my lords, respect him;  
 Take him, and use him well, he's worthy of it.  
 I will say thus much for him, if a prince  
 May be beholding to a subject, I  
@@ -3217,14 +3217,14 @@ Come, come, my lord, you'd spare your spoons. You shall have
 Two noble partners with you, the old Duchess of Norfolk  
 And Lady Marquess Dorset. Will these please you?  
 Once more, my Lord of Winchester, I charge you,  
-Embrace and love this man. ...
+Embrace and love this man. /
 
 **GARDINER**  
-... With a true heart  
-And brother-love I do it. ...
+/ With a true heart  
+And brother-love I do it. /
 
 **CRANMER**  
-... And let heaven  
+/ And let heaven  
 Witness, how dear I hold this confirmation.
 
 **KING HENRY VIII**  
@@ -3274,10 +3274,10 @@ How got they in, and be hang'd?
 Alas, I know not; how gets the tide in?  
 As much as one sound cudgel of four foot--  
 You see the poor remainder--could distribute,  
-I made no spare, sir. ...
+I made no spare, sir. /
 
 **Porter**  
-... You did nothing, sir.
+/ You did nothing, sir.
 
 **Man**  
 I am not Samson, nor Sir Guy, nor Colbrand,  
@@ -3356,10 +3356,10 @@ When they pass back from the christening.
 An't please your honour,  
 We are but men; and what so many may do,  
 Not being torn a-pieces, we have done:  
-An army cannot rule 'em. ...
+An army cannot rule 'em. /
 
 **Chamberlain**  
-... As I live,
+/ As I live,
 If the king blame me for't, I'll lay ye all  
 By the heels, and suddenly; and on your heads  
 Clap round fines for neglect: ye are lazy knaves;  
@@ -3371,10 +3371,10 @@ To let the troop pass fairly; or I'll find
 A Marshalsea shall hold ye play these two months.
 
 **Porter**  
-Make way there for the princess. ...
+Make way there for the princess. /
 
 **Man**  
-... You great fellow,  
+/ You great fellow,  
 Stand close up, or I'll make your head ache.
 
 **Porter**  
@@ -3403,33 +3403,33 @@ And to your royal grace, and the good queen,
 My noble partners, and myself, thus pray:  
 All comfort, joy, in this most gracious lady,  
 Heaven ever laid up to make parents happy,  
-May hourly fall upon ye! ...
+May hourly fall upon ye! /
 
 **KING HENRY VIII**  
-... Thank you, good lord archbishop:  
-What is her name? ...
+/ Thank you, good lord archbishop:  
+What is her name? /
 
 **CRANMER**  
-... Elizabeth. ...
+/ Elizabeth. /
 
 **KING HENRY VIII**  
-... Stand up, lord.
+/ Stand up, lord.
 
 *KING HENRY VIII kisses the child*
 
 With this kiss take my blessing: God protect thee!  
-Into whose hand I give thy life. ...
+Into whose hand I give thy life. /
 
 **CRANMER**  
-... Amen.
+/ Amen.
 
 **KING HENRY VIII**  
 My noble gossips, ye have been too prodigal:  
 I thank ye heartily; so shall this lady,  
-When she has so much English. ...
+When she has so much English. /
 
 **CRANMER**  
-... Let me speak, sir,  
+/ Let me speak, sir,  
 For heaven now bids me; and the words I utter  
 Let none think flattery, for they'll find 'em truth.  
 This royal infant--heaven still move about her!--  
@@ -3470,10 +3470,10 @@ His honour and the greatness of his name
 Shall be, and make new nations: he shall flourish,  
 And, like a mountain cedar, reach his branches  
 To all the plains about him: our children's children  
-Shall see this, and bless heaven. ...
+Shall see this, and bless heaven. /
 
 **KING HENRY VIII**  
-... Thou speakest wonders.
+/ Thou speakest wonders.
 
 **CRANMER**  
 She shall be, to the happiness of England,  

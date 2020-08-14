@@ -24,10 +24,10 @@ Even in a minute; so full of shapes is fancy
 That it alone is high fantastical.
 
 **CURIO**  
-Will you go hunt, my lord? ...
+Will you go hunt, my lord? /
 
 **DUKE ORSINO**  
-... What, Curio?
+/ What, Curio?
 
 **CURIO**  
 The hart.
@@ -95,10 +95,10 @@ Courage and hope both teaching him the practice,--
 To a strong mast that lived upon the sea;  
 Where, like Arion on the dolphin's back,  
 I saw him hold acquaintance with the waves  
-So long as I could see. ...
+So long as I could see. /
 
 **VIOLA**  
-... For saying so, there's gold!  
+/ For saying so, there's gold!  
 Mine own escape unfoldeth to my hope,  
 Whereto thy speech serves for authority,  
 The like of him. Know'st thou this country?
@@ -108,32 +108,32 @@ Ay, madam, well; for I was bred and born
 Not three hours' travel from this very place.
 
 **VIOLA**  
-Who governs here? ...
+Who governs here? /
 
 **Captain**  
-... A noble duke, in nature  
-As in name. ...
+/ A noble duke, in nature  
+As in name. /
 
 **VIOLA**  
-... What is his name? ...
+/ What is his name? /
 
 **Captain**  
-... Orsino.
+/ Orsino.
 
 **VIOLA**  
 Orsino! I have heard my father name him.  
-He was a bachelor then. ...
+He was a bachelor then. /
 
 **Captain**  
-... And so is now,  
+/ And so is now,  
 Or was so very late; for but a month  
 Ago I went from hence; and then 'twas fresh  
 In murmur,--as, you know, what great ones do,  
 The less will prattle of,--that he did seek  
-The love of fair Olivia. ...
+The love of fair Olivia. /
 
 **VIOLA**  
-... What's she?
+/ What's she?
 
 **Captain**  
 A virtuous maid, the daughter of a count  
@@ -141,16 +141,16 @@ That died some twelvemonth since; then leaving her
 In the protection of his son, her brother,  
 Who shortly also died; for whose dear love,  
 They say, she hath abjured the company  
-And sight of men. ...
+And sight of men. /
 
 **VIOLA**  
-... O that I served that lady!  
+/ O that I served that lady!  
 And might not be delivered to the world,  
 Till I had made mine own occasion mellow,  
-What my estate is. ...
+What my estate is. /
 
 **Captain**  
-... That were hard to compass:  
+/ That were hard to compass:  
 Because she will admit no kind of suit,  
 No, not the duke's.
 
@@ -456,10 +456,10 @@ To thee the book even of my secret soul:
 Therefore, good youth, address thy gait unto her;  
 Be not denied access, stand at her doors,  
 And tell them there thy fixed foot shall grow  
-Till thou have audience. ...
+Till thou have audience. /
 
 **VIOLA**  
-... Sure, my noble lord,  
+/ Sure, my noble lord,  
 If she be so abandon'd to her sorrow  
 As it is spoke, she never will admit me.
 
@@ -478,24 +478,24 @@ She will attend it better in thy youth
 Than in a nuncio of more grave aspect.
 
 **VIOLA**  
-I think not so, my lord. ...
+I think not so, my lord. /
 
 **DUKE ORSINO**  
-... Dear lad, believe it,  
+/ Dear lad, believe it,  
 For they shall yet belie thy happy years  
 That say thou art a man: Diana's lip  
 Is not more smooth and rubious; thy small pipe  
 Is as the maiden's organ, shrill and sound,  
 And all is semblative a woman's part.  
 I know thy constellation is right apt  
-For this affair. ...
+For this affair. /
 
 **VIOLA**  
-... I'll do my best  
-To woo your lady. ...
+/ I'll do my best  
+To woo your lady. /
 
 *\[Aside]*  
-... Yet, a barful strife!  
+/ Yet, a barful strife!  
 Whoe'er I woo, myself would be his wife.
 
 *Exeunt*
@@ -921,10 +921,10 @@ I see you what you are, you are too proud;
 But, if you were the devil, you are fair.  
 My lord and master loves you; O, such love  
 Could be but recompens'd, though you were crown'd  
-The nonpareil of beauty! ...
+The nonpareil of beauty! /
 
 **OLIVIA**  
-... How does he love me?
+/ How does he love me?
 
 **VIOLA**  
 With adorations, fertile tears,  
@@ -952,18 +952,18 @@ Halloo your name to the reverberate hills
 And make the babbling gossip of the air  
 Cry out 'Olivia!' O, You should not rest  
 Between the elements of air and earth,  
-But you should pity me! ...
+But you should pity me! /
 
 **OLIVIA**  
-... You might do much.  
+/ You might do much.  
 What is your parentage?
 
 **VIOLA**  
 Above my fortunes, yet my state is well:  
-I am a gentleman. ...
+I am a gentleman. /
 
 **OLIVIA**  
-... Get you to your lord;  
+/ Get you to your lord;  
 I cannot love him: let him send no more;  
 Unless, perchance, you come to me again,  
 To tell me how he takes it. Fare you well:  
@@ -1518,22 +1518,22 @@ That is beloved. How dost thou like this tune?
 
 **VIOLA**  
 It gives a very echo to the seat  
-Where Love is throned. ...
+Where Love is throned. /
 
 **DUKE ORSINO**  
-... Thou dost speak masterly;  
+/ Thou dost speak masterly;  
 My life upon't, young though thou art, thine eye  
 Hath stay'd upon some favor that it loves;  
-Hath it not, boy? ...
+Hath it not, boy? /
 
 **VIOLA**  
-... A little, by your favor.
+/ A little, by your favor.
 
 **DUKE ORSINO**  
-What kind of woman is't? ...
+What kind of woman is't? /
 
 **VIOLA**  
-... Of your complexion.
+/ Of your complexion.
 
 **DUKE ORSINO**  
 She is not worth thee, then. What years, i' faith?
@@ -1548,10 +1548,10 @@ So sways she level in her husband's heart.
 For, boy, however we do praise ourselves,  
 Our fancies are more giddy and unfirm,  
 More longing, wavering, sooner lost and worn,  
-Than women's are. ...
+Than women's are. /
 
 **VIOLA**  
-... I think it well, my lord.
+/ I think it well, my lord.
 
 **DUKE ORSINO**  
 Then let thy love be younger than thyself,  
@@ -1614,11 +1614,11 @@ it that always makes a good voyage of nothing. Farewell.
 *Exit Clown.*
 
 **DUKE ORSINO**  
-Let all the rest give place.-- ...
+Let all the rest give place.-- /
 
 *Exeunt CURIO.*
 
-... Once more, Cesario,  
+/ Once more, Cesario,  
 Get thee to yond same sovereign cruelty;  
 Tell her, my love, more noble than the world,  
 Prizes not quantity of dirty lands;  
@@ -1631,10 +1631,10 @@ That Nature pranks her in attracts my soul.
 But if she cannot love you, sir?
 
 **DUKE ORSINO**  
-I cannot be so answer'd. ...
+I cannot be so answer'd. /
 
 **VIOLA**  
-... 'Sooth, but you must.  
+/ 'Sooth, but you must.  
 Say that some lady, as perhaps there is,  
 Hath for your love a great a pang of heart  
 As you have for Olivia; you cannot love her;  
@@ -1652,20 +1652,20 @@ Between that love a woman can bear me
 And that I owe Olivia.
 
 **VIOLA**  
-Ay, but I know,-- ...
+Ay, but I know,-- /
 
 **DUKE ORSINO**  
-... What dost thou know?
+/ What dost thou know?
 
 **VIOLA**  
 Too well what love women to men may owe;  
 In faith, they are as true of heart as we.  
 My father had a daughter loved a man,  
 As it might be, perhaps, were I a woman,  
-I should your lordship. ...
+I should your lordship. /
 
 **DUKE ORSINO**  
-... And what's her history?
+/ And what's her history?
 
 **VIOLA**  
 A blank, my lord. She never told her love,  
@@ -1684,10 +1684,10 @@ But died thy sister of her love, my boy?
 **VIOLA**  
 I am all the daughters of my father's house,  
 And all the brothers too; and yet I know not.  
-Sir, shall I to this lady? ...
+Sir, shall I to this lady? /
 
 **DUKE ORSINO**  
-... Ay, that's the theme.  
+/ Ay, that's the theme.  
 To her in haste: give her this jewel; say  
 My love can give no place, bide no denay.
 
@@ -1733,10 +1733,10 @@ O, peace! Contemplation makes a rare turkey-cock
 of him; how he jets under his advanced plumes!
 
 **SIR ANDREW AGUE-CHEEK**  
-'Slight, I could so beat the rogue:-- ...
+'Slight, I could so beat the rogue:-- /
 
 **SIR TOBY BELCH**  
-... Peace, I say.
+/ Peace, I say.
 
 **MALVOLIO**  
 To be Count Malvolio;--
@@ -2160,17 +2160,17 @@ Would they were blanks, rather than fill'd with me!
 
 **VIOLA**  
 Madam, I come to whet your gentle thoughts  
-On his behalf. ...
+On his behalf. /
 
 **OLIVIA**  
-... O, by your leave, I pray you:  
+/ O, by your leave, I pray you:  
 I bade you never speak again of him:  
 But, would you undertake another suit,  
 I had rather hear you to solicit that  
-Than music from the spheres. ...
+Than music from the spheres. /
 
 **VIOLA**  
-... Dear lady,--
+/ Dear lady,--
 
 **OLIVIA**  
 Give me leave, beseech you. I did send,  
@@ -2182,10 +2182,10 @@ Enough is shown; a cypress, not a bosom,
 Hides my heart. So, let me hear you speak.
 
 **VIOLA**  
-I pity you. ...
+I pity you. /
 
 **OLIVIA**  
-... That's a degree to love.
+/ That's a degree to love.
 
 **VIOLA**  
 No, not a grise; for 'tis a vulgar proof  
@@ -2193,10 +2193,10 @@ That very oft we pity enemies.
 
 **OLIVIA**  
 Why, then, methinks 'tis time to smile again.  
-There lies your way, due west. ...
+There lies your way, due west. /
 
 **VIOLA**  
-... Then westward-ho:  
+/ Then westward-ho:  
 Grace and good disposition 'tend your ladyship!  
 You'll nothing, madam, to my lord by me?
 
@@ -2339,10 +2339,10 @@ Being skilless in these parts; which to a stranger,
 Unguided and unfriended, often prove  
 Rough and unhospitable; my willing love,  
 The rather by these arguments of fear,  
-Set forth in your pursuit. ...
+Set forth in your pursuit. /
 
 **SEBASTIAN**  
-... My kind Antonio,
+/ My kind Antonio,
 I can no other answer make but thanks,  
 And thanks; and ever oft good turns  
 Are shuffled off with such uncurrent pay;  
@@ -2379,10 +2379,10 @@ In the south suburbs, at the Elephant,
 Is best to lodge; I will bespeak our diet,  
 Whiles you beguile the time and feed your knowledge  
 With viewing of the town; there shall you have me.  
-To the Elephant.-- ...
+To the Elephant.-- /
 
 **SEBASTIAN**  
-... I do remember.
+/ I do remember.
 
 *Exeunt.*
 
@@ -2397,10 +2397,10 @@ For youth is bought more oft than begg'd or borrow'd.
 I speak too loud.
 Where is Malvolio? he is sad and civil,  
 And suits well for a servant with my fortunes;  
-Where is Malvolio? ...
+Where is Malvolio? /
 
 **MARIA**  
-... He's coming, madam;  
+/ He's coming, madam;  
 But in very strange manner. He is sure possessed.
 
 **OLIVIA**  
@@ -2412,11 +2412,11 @@ ladyship were best to have some guard about you, if
 he come; for, sure, the man is tainted in's wits.
 
 **OLIVIA**  
-Go call him hither. ...
+Go call him hither. /
 
 *Exit MARIA*
 
-... I am as mad as he,  
+/ I am as mad as he,  
 If sad and merry madness equal be.
 
 *Re-enter MARIA, with MALVOLIO*
@@ -2425,10 +2425,10 @@ How now, Malvolio!
 
 **MALVOLIO**  
 *\[Smiles fantastically.]*  
-Sweet lady, ho, ho. ...
+Sweet lady, ho, ho. /
 
 **OLIVIA**  
-... Smil'st thou?
+/ Smil'st thou?
 I sent for thee upon a sad occasion.
 
 **MALVOLIO**  
@@ -2729,10 +2729,10 @@ Nothing but this; your true love for my master.
 
 **OLIVIA**  
 How with mine honor may I give him that  
-Which I have given to you? ...
+Which I have given to you? /
 
 **VIOLA**  
-... I will acquit you.
+/ I will acquit you.
 
 **OLIVIA**  
 Well, come again tomorrow; fare thee well;  
@@ -2919,10 +2919,10 @@ You do mistake me, sir.
 No, sir, no jot; I know your favor well.
 
 **ANTONIO**  
-I must obey. ...
+I must obey. /
 
 *\[To VIOLA]*  
-... This comes with seeking you;
+/ This comes with seeking you;
 But there's no remedy; I shall answer it.  
 What will you do, now my necessity
 Makes me to ask you for my purse?
@@ -2940,25 +2940,25 @@ And, part, being prompted by your present trouble,
 Out of my lean and low ability
 I'll lend you something; my having is not much;  
 I'll make division of my present with you;  
-Hold, there's half my coffer. ...
+Hold, there's half my coffer. /
 
 **ANTONIO**  
-... Will you deny me now?  
+/ Will you deny me now?  
 Is't possible that my deserts to you  
 Can lack persuasion? Do not tempt my misery,  
 Lest that it make me so unsound a man  
 As to upbraid you with those kindnesses  
-That I have done for you. ...
+That I have done for you. /
 
 **VIOLA**  
-... I know of none,
+/ I know of none,
 Nor know I you by voice or any feature.
 
 **ANTONIO**  
-O heavens themselves! ...
+O heavens themselves! /
 
 **Officer**  
-... Come, sir, I pray you, go.
+/ Come, sir, I pray you, go.
 
 **ANTONIO**  
 Let me speak a little. This youth that you see here  
@@ -3478,10 +3478,10 @@ My lord would speak; my duty hushes me.
 **OLIVIA**  
 If it be aught to the old tune, my lord,  
 It is as fat and fulsome to mine ear  
-As howling after music. ...
+As howling after music. /
 
 **DUKE ORSINO**  
-... Still so cruel?
+/ Still so cruel?
 
 **OLIVIA**  
 Still so constant, lord.
@@ -3512,10 +3512,10 @@ And I, most jocund, apt, and willingly,
 To do you rest, a thousand deaths would die.
 
 **OLIVIA**  
-Where goes Cesario? ...
+Where goes Cesario? /
 
 **VIOLA**  
-... After him I love
+/ After him I love
 More than I love these eyes, more than my life,  
 More, by all mores, than e'er I shall love wife;  
 If I do feign, you witnesses above
@@ -3538,16 +3538,16 @@ Come, away!
 Whither, my lord? Cesario, husband, stay.
 
 **DUKE ORSINO**  
-Husband! ...
+Husband! /
 
 **OLIVIA**  
-... Ay, husband, can he that deny?
+/ Ay, husband, can he that deny?
 
 **DUKE ORSINO**  
-Her husband, sirrah? ...
+Her husband, sirrah? /
 
 **VIOLA**  
-... No, my lord, not I.
+/ No, my lord, not I.
 
 **DUKE ORSINO**  
 O thou dissembling cub! what wilt thou be  
@@ -3560,10 +3560,10 @@ Where thou and I henceforth may never meet.
 *Exit the DUKE.*
 
 **VIOLA**  
-My lord, I do protest,-- ...
+My lord, I do protest,-- /
 
 **OLIVIA**  
-... O, do not swear;
+/ O, do not swear;
 Hold little faith, though thou has too much fear.
 
 *Enter ANTONIO*
@@ -3590,10 +3590,10 @@ Taught him to face me out of his acquaintance,
 And grew a twenty-years-removed thing  
 While one would wink; denied me mine own purse,  
 Which I had recommended to his use
-Not half an hour before. ...
+Not half an hour before. /
 
 **VIOLA**  
-... How can this be?
+/ How can this be?
 
 **OLIVIA**  
 When came he to this town?
@@ -3680,10 +3680,10 @@ A natural perspective, that is and is not!
 **SEBASTIAN**  
 Antonio, O my dear Antonio!  
 How have the hours rack'd and tortured me,  
-Since I have lost thee! ...
+Since I have lost thee! /
 
 **ANTONIO**  
-... Sebastian are you?
+/ Sebastian are you?
 
 **SEBASTIAN**  
 Fear'st thou that, Antonio?
@@ -3710,7 +3710,7 @@ Of Messaline; Sebastian was my father;
 Such a Sebastian was my brother too,  
 So went he suited to his watery tomb;  
 If spirits can assume both form and suit  
-You come to fright us. ...
+You come to fright us. /
 
 **SEBASTIAN**  
 A spirit I am indeed;  
@@ -3763,10 +3763,10 @@ Thou never shouldst love woman like to me.
 And all those sayings will I over-swear;  
 And all those swearings keep as true in soul  
 As doth that orbed continent the fire  
-That severs day from night. ...
+That severs day from night. /
 
 **DUKE ORSINO**  
-... Give me thy hand;
+/ Give me thy hand;
 And let me see thee in thy woman's weeds.
 
 **VIOLA**  
@@ -3859,26 +3859,26 @@ So much against the mettle of your sex,
 So far beneath your soft and tender breeding,  
 And since you call'd me master for so long,  
 Here is my hand; you shall from this time be  
-Your master's mistress. ...
+Your master's mistress. /
 
 **OLIVIA**  
-... A sister?--you are she.
+/ A sister?--you are she.
 
 *Enter MALVOLIO.*
 
 **DUKE ORSINO**  
-Is this the madman? ...
+Is this the madman? /
 
 **OLIVIA**  
-... Ay, my lord, this same;
+/ Ay, my lord, this same;
 How now, Malvolio?
 
 **MALVOLIO**  
 Madam, you have done me wrong,  
-Notorious wrong. ...
+Notorious wrong. /
 
 **OLIVIA**  
-... Have I, Malvolio? no.
+/ Have I, Malvolio? no.
 
 **MALVOLIO**  
 Lady, you have. Pray you, peruse that letter.  
@@ -3903,10 +3903,10 @@ Though, I confess, much like the character.
 This practice hath most shrewdly pass'd upon thee;  
 But, when we know the grounds and authors of it,  
 Thou shalt be both the plaintiff and the judge  
-Of thine own cause. ...
+Of thine own cause. /
 
 **MARIA**  
-... Good madam, hear me speak;  
+/ Good madam, hear me speak;  
 Most freely I confess, myself and Toby  
 Set this device against Malvolio here,  
 Upon some stubborn and uncourteous parts  

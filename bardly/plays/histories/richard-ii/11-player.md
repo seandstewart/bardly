@@ -202,10 +202,10 @@ To be a make-peace shall become my age:
 Throw down, my son, the Duke of Norfolk's gage.
 
 **KING RICHARD II**  
-And, Norfolk, throw down his. ...
+And, Norfolk, throw down his. /
 
 **JOHN OF GAUNT**  
-... When, Harry, when?  
+/ When, Harry, when?  
 Obedience bids I should not bid again.
 
 **KING RICHARD II**  
@@ -220,10 +220,10 @@ To dark dishonour's use thou shalt not have.
 I am disgraced, impeach'd and baffled here,  
 Pierced to the soul with slander's venom'd spear,  
 The which no balm can cure but his heart-blood  
-Which breathed this poison. ...
+Which breathed this poison. /
 
 **KING RICHARD II**  
-... Rage must be withstood:  
+/ Rage must be withstood:  
 Give me his gage: lions make leopards tame.
 
 **THOMAS MOWBRAY**  
@@ -546,10 +546,10 @@ To plot, contrive, or complot any ill
 'Gainst us, our state, our subjects, or our land.
 
 **HENRY BOLINGBROKE**  
-I swear. ...
+I swear. /
 
 **THOMAS MOWBRAY**  
-... And I, to keep all this.
+/ And I, to keep all this.
 
 **HENRY BOLINGBROKE**  
 Norfolk, so far as to mine enemy:--  
@@ -576,10 +576,10 @@ Save back to England, all the world's my way.
 Uncle, even in the glasses of thine eyes  
 I see thy grieved heart: thy sad aspect  
 Hath from the number of his banish'd years  
-Pluck'd four away. ...
+Pluck'd four away. /
 
 *\[To HENRY BOLINGBROKE]*  
-... Six frozen winter spent,  
+/ Six frozen winter spent,  
 Return with welcome home from banishment.
 
 **JOHN OF GAUNT**  
@@ -754,10 +754,10 @@ Suddenly taken; and hath sent post haste
 To entreat your majesty to visit him.
 
 **KING RICHARD II**  
-Where lies he? ...
+Where lies he? /
 
 **BUSHY**  
-... At Ely House.
+/ At Ely House.
 
 **KING RICHARD II**  
 Now put it, God, in the physician's mind  
@@ -923,10 +923,10 @@ But for thy world enjoying but this land,
 Is it not more than shame to shame it so?  
 Landlord of England art thou now, not king:  
 Thy state of law is bondslave to the law;  
-And thou-- ...
+And thou-- /
 
 **KING RICHARD II**  
-... A lunatic lean-witted fool,  
+/ A lunatic lean-witted fool,  
 Presuming on an ague's privilege,  
 Darest with thy frozen admonition  
 Make pale our cheek, chasing the royal blood  
@@ -975,10 +975,10 @@ As theirs, so mine; and all be as it is.
 My liege, old Gaunt commends him to your majesty.
 
 **KING RICHARD II**  
-What says he? ...
+What says he? /
 
 **NORTHUMBERLAND**  
-... Nay, nothing; all is said  
+/ Nay, nothing; all is said  
 His tongue is now a stringless instrument;  
 Words, life and all, old Lancaster hath spent.
 
@@ -1018,10 +1018,10 @@ O Richard! York is too far gone with grief,
 Or else he never would compare between.
 
 **KING RICHARD II**  
-Why, uncle, what's the matter? ...
+Why, uncle, what's the matter? /
 
 **DUKE OF YORK**  
-... O my liege,  
+/ O my liege,  
 Pardon me, if you please; if not, I, pleased  
 Not to be pardon'd, am content withal.  
 Seek you to seize and gripe into your hands  
@@ -1238,10 +1238,10 @@ And driven into despair an enemy's hope,
 Who strongly hath set footing in this land:  
 The banish'd Bolingbroke repeals himself,  
 And with uplifted arms is safe arrived  
-At Ravenspurgh. ...
+At Ravenspurgh. /
 
 **QUEEN**  
-... Now God in heaven forbid!
+/ Now God in heaven forbid!
 
 **GREEN**  
 Ah, madam, 'tis too true: and that is worse,  
@@ -1267,10 +1267,10 @@ And I, a gasping new-deliver'd mother,
 Have woe to woe, sorrow to sorrow join'd.
 
 **BUSHY**  
-Despair not, madam. ...
+Despair not, madam. /
 
 **QUEEN**  
-... Who shall hinder me?  
+/ Who shall hinder me?  
 I will despair, and be at enmity  
 With cozening hope: he is a flatterer,  
 A parasite, a keeper back of death,  
@@ -1391,10 +1391,10 @@ Farewell: if heart's presages be not vain,
 We three here art that ne'er shall meet again.
 
 **BUSHY**  
-Well, we may meet again. ...
+Well, we may meet again. /
 
 **BAGOT**  
-... I fear me, never.
+/ I fear me, never.
 
 *Exeunt*
 
@@ -1444,10 +1444,10 @@ Why, is he not with the queen?
 **HENRY PERCY**  
 No, my good Lord; he hath forsook the court,  
 Broken his staff of office and dispersed  
-The household of the king. ...
+The household of the king. /
 
 **NORTHUMBERLAND**  
-... What was his reason?  
+/ What was his reason?  
 He was not so resolved when last we spake together.
 
 **HENRY PERCY**  
@@ -1509,10 +1509,10 @@ Stands for my bounty. But who comes here?
 *Enter DUCHESS OF YORK*
 
 **HENRY BOLINGBROKE**  
-My gracious uncle-- ...
+My gracious uncle-- /
 
 **DUKE OF YORK**  
-... Tut, tut!  
+/ Tut, tut!  
 Grace me no grace, nor uncle me no uncle:  
 I am no traitor's uncle; and that word 'grace.'  
 In an ungracious mouth is but profane.  
@@ -1939,10 +1939,10 @@ For I have none: let no man speak again
 To alter this, for counsel is but vain.
 
 **DUKE OF AUMERLE**  
-My liege, one word. ...
+My liege, one word. /
 
 **KING RICHARD II**  
-... He does me double wrong  
+/ He does me double wrong  
 That wounds me with the flatteries of his tongue.  
 Discharge my followers: let them hence away,  
 From Richard's night to Bolingbroke's fair day.
@@ -1973,10 +1973,10 @@ When such a sacred king should hide his head.
 
 **NORTHUMBERLAND**  
 Your grace mistakes; only to be brief  
-Left I his title out. ...
+Left I his title out. /
 
 **DUKE OF YORK**  
-... The time hath been,  
+/ The time hath been,  
 Would you have been so brief with him, he would  
 Have been so brief with you, to shorten you,  
 For taking so the head, your whole head's length.
@@ -1998,14 +1998,14 @@ Welcome, Harry: what, will not this castle yield?
 
 **HENRY PERCY**  
 The castle royally is mann'd, my lord,  
-Against thy entrance. ...
+Against thy entrance. /
 
 **HENRY BOLINGBROKE**  
-... Royally!  
-Why, it contains no king? ...
+/ Royally!  
+Why, it contains no king? /
 
 **HENRY PERCY**  
-... Yes, my good lord,  
+/ Yes, my good lord,  
 It doth contain a king; King Richard lies  
 Within the limits of yon lime and stone:  
 And with him are the Lord Aumerle, Lord Salisbury,  
@@ -2188,17 +2188,17 @@ For night-owls shriek where mounting larks should sing.
 *Exeunt from above*
 
 **HENRY BOLINGBROKE**  
-What says his majesty? ...
+What says his majesty? /
 
 **NORTHUMBERLAND**  
-... Sorrow and grief of heart  
+/ Sorrow and grief of heart  
 Makes him speak fondly, like a frantic man  
-Yet he is come. ...
+Yet he is come. /
 
 *Enter KING RICHARD and his attendants below*
 
 **HENRY BOLINGBROKE**  
-... Stand all apart,  
+/ Stand all apart,  
 And show fair duty to his majesty.
 
 *\[He kneels down]*  
@@ -2227,10 +2227,10 @@ For do we must what force will have us do.
 Set on towards London, cousin, is it so?
 
 **HENRY BOLINGBROKE**  
-Yea, my good lord. ...
+Yea, my good lord. /
 
 **KING RICHARD II**  
-... Then I must not say no.
+/ Then I must not say no.
 
 *Flourish. Exeunt*
 
@@ -2258,16 +2258,16 @@ When my poor heart no measure keeps in grief:
 Therefore, no dancing, girl; some other sport.
 
 **Lady**  
-Madam, we'll tell tales. ...
+Madam, we'll tell tales. /
 
 **QUEEN**  
-... Of sorrow or of joy?
+/ Of sorrow or of joy?
 
 **Lady**  
-Of either, madam. ...
+Of either, madam. /
 
 **QUEEN**  
-... Of neither, girl:  
+/ Of neither, girl:  
 For of joy, being altogether wanting,  
 It doth remember me the more of sorrow;  
 Or if of grief, being altogether had,  
@@ -2276,10 +2276,10 @@ For what I have I need not to repeat;
 And what I want it boots not to complain.
 
 **Lady**  
-Madam, I'll sing. ...
+Madam, I'll sing. /
 
 **QUEEN**  
-... 'Tis well that thou hast cause  
+/ 'Tis well that thou hast cause  
 But thou shouldst please me better, wouldst thou weep.
 
 **Lady**  
@@ -2319,10 +2319,10 @@ When our sea-walled garden, the whole land,
 Is full of weeds, her fairest flowers choked up,  
 Her fruit-trees all upturned, her hedges ruin'd,  
 Her knots disorder'd and her wholesome herbs  
-Swarming with caterpillars? ...
+Swarming with caterpillars? /
 
 **Gardener**  
-... Hold thy peace:  
+/ Hold thy peace:  
 He that hath suffer'd this disorder'd spring  
 Hath now himself met with the fall of leaf:  
 The weeds which his broad-spreading leaves did shelter,  
@@ -2331,10 +2331,10 @@ Are pluck'd up root and all by Bolingbroke,
 I mean the Earl of Wiltshire, Bushy, Green.
 
 **Servant**  
-What, are they dead? ...
+What, are they dead? /
 
 **Gardener**  
-... They are; and Bolingbroke  
+/ They are; and Bolingbroke  
 Hath seized the wasteful king. O, what pity is it  
 That he had not so trimm'd and dress'd his land  
 As we this garden! We at time of year  
@@ -2456,10 +2456,10 @@ Of capital treason we arrest you here.
 **HENRY BOLINGBROKE**  
 Fetch hither Richard, that in common view  
 He may surrender; so we shall proceed  
-Without suspicion. ...
+Without suspicion. /
 
 **DUKE OF YORK**  
-... I will be his conduct.
+/ I will be his conduct.
 
 *Exit*
 
@@ -2541,10 +2541,10 @@ Long mayst thou live in Richard's seat to sit,
 And soon lie Richard in an earthly pit!  
 God save King Harry, unking'd Richard says,  
 And send him many years of sunshine days!  
-What more remains? ...
+What more remains? /
 
 **NORTHUMBERLAND**  
-... No more, but that you read  
+/ No more, but that you read  
 These accusations and these grievous crimes  
 Committed by your person and your followers  
 Against the state and profit of this land;  
@@ -2577,10 +2577,10 @@ Made glory base and sovereignty a slave,
 Proud majesty a subject, state a peasant.
 
 **NORTHUMBERLAND**  
-My lord,-- ...
+My lord,-- /
 
 **KING RICHARD II**  
-... No lord of thine, thou haught insulting man,  
+/ No lord of thine, thou haught insulting man,  
 Nor no man's lord; I have no name, no title,  
 But 'tis usurp'd: alack the heavy day,  
 That I have worn so many winters out,  
@@ -2631,10 +2631,10 @@ How soon my sorrow hath destroy'd my face.
 
 **HENRY BOLINGBROKE**  
 The shadow of your sorrow hath destroy'd  
-The shadow of your face. ...
+The shadow of your face. /
 
 **KING RICHARD II**  
-... Say that again.  
+/ Say that again.  
 The shadow of my sorrow! ha! let's see:  
 'Tis very true, my grief lies all within;  
 And these external manners of laments  
@@ -2645,10 +2645,10 @@ For thy great bounty, that not only givest
 Me cause to wail but teachest me the way  
 How to lament the cause. I'll beg one boon,  
 And then be gone and trouble you no more.  
-Shall I obtain it? ...
+Shall I obtain it? /
 
 **HENRY BOLINGBROKE**  
-... Name it, fair cousin.
+/ Name it, fair cousin.
 
 **KING RICHARD II**  
 'Fair cousin'? I am greater than a king:  
@@ -2658,19 +2658,19 @@ I have a king here to my flatterer.
 Being so great, I have no need to beg.
 
 **HENRY BOLINGBROKE**  
-Yet ask. ...
+Yet ask. /
 
 **KING RICHARD II**  
-... And shall I have? ...
+/ And shall I have? /
 
 **HENRY BOLINGBROKE**  
-... You shall.
+/ You shall.
 
 **KING RICHARD II**  
-Then give me leave to go. ...
+Then give me leave to go. /
 
 **HENRY BOLINGBROKE**  
-... Whither?
+/ Whither?
 
 **KING RICHARD II**  
 Whither you will, so I were from your sights.
@@ -2851,10 +2851,10 @@ When weeping made you break the story off,
 of our two cousins coming into London.
 
 **DUKE OF YORK**  
-Where did I leave? ...
+Where did I leave? /
 
 **DUCHESS OF YORK**  
-... At that sad stop, my lord,  
+/ At that sad stop, my lord,  
 Where rude misgovern'd hands from windows' tops  
 Threw dust and rubbish on King Richard's head.
 
@@ -2898,10 +2898,10 @@ To Bolingbroke are we sworn subjects now,
 Whose state and honour I for aye allow.
 
 **DUCHESS OF YORK**  
-Here comes my son Aumerle. ...
+Here comes my son Aumerle. /
 
 **DUKE OF YORK**  
-... Aumerle that was;  
+/ Aumerle that was;  
 But that is lost for being Richard's friend,  
 And, madam, you must call him Rutland now:  
 I am in parliament pledge for his truth  
@@ -2930,10 +2930,10 @@ What seal is that, that hangs without thy bosom?
 Yea, look'st thou pale? let me see the writing.
 
 **DUKE OF AUMERLE**  
-My lord, 'tis nothing. ...
+My lord, 'tis nothing. /
 
 **DUKE OF YORK**  
-... No matter, then, who see it;  
+/ No matter, then, who see it;  
 I will be satisfied; let me see the writing.
 
 **DUKE OF AUMERLE**  
@@ -2943,10 +2943,10 @@ Which for some reasons I would not have seen.
 
 **DUKE OF YORK**  
 Which for some reasons, sir, I mean to see.  
-I fear, I fear,-- ...
+I fear, I fear,-- /
 
 **DUCHESS OF YORK**  
-... What should you fear?  
+/ What should you fear?  
 'Tis nothing but some bond, that he is enter'd into  
 For gay apparel 'gainst the triumph day.
 
@@ -2969,17 +2969,17 @@ Treason! foul treason! Villain! traitor! slave!
 What is the matter, my lord?
 
 **DUKE OF YORK**  
-Ho! who is within there? ...
+Ho! who is within there? /
 
 *Enter a Servant*
 
-... Saddle my horse.  
+/ Saddle my horse.  
 God for his mercy, what treachery is here!  
 Now, by mine honour, by my life, by my troth,  
-I will appeach the villain. ...
+I will appeach the villain. /
 
 **DUCHESS OF YORK**  
-... What is the matter?
+/ What is the matter?
 
 **DUKE OF YORK**  
 Peace, foolish woman.
@@ -2989,10 +2989,10 @@ I will not peace. What is the matter, Aumerle.
 
 **DUKE OF AUMERLE**  
 Good mother, be content; it is no more  
-Than my poor life must answer. ...
+Than my poor life must answer. /
 
 **DUCHESS OF YORK**  
-... Thy life answer!
+/ Thy life answer!
 
 **DUKE OF YORK**  
 Bring me my boots: I will unto the king.
@@ -3014,18 +3014,18 @@ Thou fond mad woman,
 Wilt thou conceal this dark conspiracy?  
 A dozen of them here have ta'en the sacrament,  
 And interchangeably set down their hands,  
-To kill the king at Oxford. ...
+To kill the king at Oxford. /
 
 **DUCHESS OF YORK**  
-... He shall be none;  
+/ He shall be none;  
 We'll keep him here: then what is that to him?
 
 **DUKE OF YORK**  
 Away, fond woman! were he twenty times my son,  
-I would appeach him. ...
+I would appeach him. /
 
 **DUCHESS OF YORK**  
-... Hadst thou groan'd for him  
+/ Hadst thou groan'd for him  
 As I have done, thou wouldst be more pitiful.  
 But now I know thy mind; thou dost suspect  
 That I have been disloyal to thy bed,  
@@ -3111,11 +3111,11 @@ Then give me leave that I may turn the key,
 That no man enter till my tale be done.
 
 **HENRY BOLINGBROKE**  
-Have thy desire. ...
+Have thy desire. /
 
 **DUKE OF YORK**  
 *\[Within]*  
-... My liege, beware; look to thyself;  
+/ My liege, beware; look to thyself;  
 Thou hast a traitor in thy presence there.
 
 **HENRY BOLINGBROKE**  
@@ -3191,16 +3191,16 @@ Thou frantic woman, what dost thou make here?
 Shall thy old dugs once more a traitor rear?
 
 **DUCHESS OF YORK**  
-Sweet York, be patient. ...
+Sweet York, be patient. /
 
 *\[Kneels]*  
-... Hear me, gentle liege.
+/ Hear me, gentle liege.
 
 **HENRY BOLINGBROKE**  
-Rise up, good aunt. ...
+Rise up, good aunt. /
 
 **DUCHESS OF YORK**  
-... Not yet, I thee beseech:  
+/ Not yet, I thee beseech:  
 For ever will I walk upon my knees,  
 And never see day that the happy sees,  
 Till thou give joy; until thou bid me joy,  
@@ -3227,10 +3227,10 @@ Our prayers do out-pray his; then let them have
 That mercy which true prayer ought to have.
 
 **HENRY BOLINGBROKE**  
-Good aunt, stand up. ...
+Good aunt, stand up. /
 
 **DUCHESS OF YORK**  
-... Nay, do not say, 'stand up;'  
+/ Nay, do not say, 'stand up;'  
 Say, 'pardon' first, and afterwards 'stand up.'  
 And if I were thy nurse, thy tongue to teach,  
 'Pardon' should be the first word of thy speech.  
@@ -3254,10 +3254,10 @@ Pity may move thee 'pardon' to rehearse.
 **HENRY BOLINGBROKE**  
 I pardon him, as God shall pardon me.  
 With all my heart  
-I pardon him. ...
+I pardon him. /
 
 **DUCHESS OF YORK**  
-... A god on earth thou art.
+/ A god on earth thou art.
 
 **HENRY BOLINGBROKE**  
 But for our trusty brother-in-law and the abbot,  
@@ -3282,10 +3282,10 @@ Come, my old son: I pray God make thee new.
 **EXTON**  
 Didst thou not mark the king, what words he spake,  
 'Have I no friend will rid me of this living fear?'  
-Was it not so? ...
+Was it not so? /
 
 **Servant**  
-... These were his very words.
+/ These were his very words.
 
 **EXTON**  
 'Have I no friend?' quoth he: he spake it twice,  
@@ -3374,10 +3374,10 @@ While I stand fooling here, his Jack o' the clock.
 *Enter a Groom of the Stable*
 
 **Groom**  
-Hail, royal prince! ...
+Hail, royal prince! /
 
 **KING RICHARD II**  
-... Thanks, noble peer;  
+/ Thanks, noble peer;  
 The cheapest of us is ten groats too dear.  
 What art thou? and how comest thou hither,  
 Where no man never comes but that sad dog  

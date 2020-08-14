@@ -620,13 +620,13 @@ There's a good mother, boy, that blots thy father.
 There's a good grandam, boy, that would blot thee.
 
 **AUSTRIA**  
-Peace! ...
+Peace! /
 
 **BASTARD**  
-... Hear the crier. ...
+/ Hear the crier. /
 
 **AUSTRIA**  
-... What the devil art thou?
+/ What the devil art thou?
 
 **BASTARD**  
 One that will play the devil, sir, with you,  
@@ -665,19 +665,19 @@ My life as soon: I do defy thee, France.
 Arthur of Bretagne, yield thee to my hand;  
 And out of my dear love I'll give thee more  
 Than e'er the coward hand of France can win:  
-Submit thee, boy. ...
+Submit thee, boy. /
 
 **QUEEN ELINOR**  
-... Come to thy grandam, child.
+/ Come to thy grandam, child.
 
 **CONSTANCE**  
 Do, child, go to it grandam, child:  
 Give grandam kingdom, and it grandam will  
 Give it a plum, a cherry, and a fig:  
-There's a good grandam. ...
+There's a good grandam. /
 
 **ARTHUR**  
-... Good my mother, peace!  
+/ Good my mother, peace!  
 I would that I were low laid in my grave:  
 I am not worth this coil that's made for me.
 
@@ -707,10 +707,10 @@ Being but the second generation
 Removed from thy sin-conceiving womb.
 
 **KING JOHN**  
-Bedlam, have done. ...
+Bedlam, have done. /
 
 **CONSTANCE**  
-... I have but this to say,  
+/ I have but this to say,  
 That he is not only plagued for her sin,  
 But God hath made her sin and her the plague  
 On this removed issue, plague for her  
@@ -741,10 +741,10 @@ Whose title they admit, Arthur's or John's.
 Who is it that hath warn'd us to the walls?
 
 **KING PHILIP**  
-'Tis France, for England. ...
+'Tis France, for England. /
 
 **KING JOHN**  
-... England, for itself.  
+/ England, for itself.  
 You men of Angiers, and my loving subjects--
 
 **KING PHILIP**  
@@ -864,16 +864,16 @@ Amen, amen! Mount, chevaliers! to arms!
 **BASTARD**  
 Saint George, that swinged the dragon, and e'er since  
 Sits on his horseback at mine hostess' door,  
-Teach us some fence! ...
+Teach us some fence! /
 
 *\[To AUSTRIA]*  
-... Sirrah, were I at home,  
+/ Sirrah, were I at home,  
 At your den, sirrah, with your lioness  
 I would set an ox-head to your lion's hide,  
-And make a monster of you. ...
+And make a monster of you. /
 
 **AUSTRIA**  
-... Peace! no more.
+/ Peace! no more.
 
 **BASTARD**  
 O tremble, for you hear the lion roar.
@@ -1043,10 +1043,10 @@ We from the west will send destruction
 Into this city's bosom.
 
 **AUSTRIA**  
-I from the north. ...
+I from the north. /
 
 **KING PHILIP**  
-... Our thunder from the south  
+/ Our thunder from the south  
 Shall rain their drift of bullets on this town.
 
 **BASTARD**  
@@ -1098,10 +1098,10 @@ The sea enraged is not half so deaf,
 Lions more confident, mountains and rocks  
 More free from motion, no, not Death himself  
 In moral fury half so peremptory,  
-As we to keep this city. ...
+As we to keep this city. /
 
 **BASTARD**  
-... Here's a stay  
+/ Here's a stay  
 That shakes the rotten carcass of old Death  
 Out of his rags! Here's a large mouth, indeed,  
 That spits forth death and mountains, rocks and seas,  
@@ -1233,10 +1233,10 @@ Will give her sadness very little cure.
 Brother of England, how may we content  
 This widow lady? In her right we came;  
 Which we, God knows, have turn'd another way,  
-To our own vantage. ...
+To our own vantage. /
 
 **KING JOHN**  
-... We will heal up all;  
+/ We will heal up all;  
 For we'll create young Arthur Duke of Bretagne  
 And Earl of Richmond; and this rich fair town  
 We make him lord of. Call the Lady Constance;  
@@ -1375,10 +1375,10 @@ That strumpet Fortune, that usurping John!
 Tell me, thou fellow, is not France forsworn?  
 Envenom him with words, or get thee gone  
 And leave those woes alone which I alone  
-Am bound to under-bear. ...
+Am bound to under-bear. /
 
 **SALISBURY**  
-... Pardon me, madam,  
+/ Pardon me, madam,  
 I may not go without you to the kings.
 
 **CONSTANCE**  
@@ -1441,10 +1441,10 @@ A widow cries; be husband to me, heavens!
 Let not the hours of this ungodly day  
 Wear out the day in peace; but, ere sunset,  
 Set armed discord 'twixt these perjured kings!  
-Hear me, O, hear me! ...
+Hear me, O, hear me! /
 
 **AUSTRIA**  
-... Lady Constance, peace!
+/ Lady Constance, peace!
 
 **CONSTANCE**  
 War! war! no peace! peace is to me a war  
@@ -1537,10 +1537,10 @@ From his allegiance to an heretic;
 And meritorious shall that hand be call'd,  
 Canonized and worshipped as a saint,  
 That takes away by any secret course  
-Thy hateful life. ...
+Thy hateful life. /
 
 **CONSTANCE**  
-... O, lawful let it be  
+/ O, lawful let it be  
 That I have room with Rome to curse awhile!  
 Good father cardinal, cry thou amen  
 To my keen curses; for without my wrong  
@@ -1578,10 +1578,10 @@ And hang a calf's-skin on his recreant limbs.
 
 **AUSTRIA**  
 Well, ruffian, I must pocket up these wrongs,
-Because-- ...
+Because-- /
 
 **BASTARD**  
-... Your breeches best may carry them.
+/ Your breeches best may carry them.
 
 **KING JOHN**  
 Philip, what say'st thou to the cardinal?
@@ -1593,10 +1593,10 @@ What should he say, but as the cardinal?
 Bethink you, father; for the difference  
 Is purchase of a heavy curse from Rome,  
 Or the light loss of England for a friend:  
-Forego the easier. ...
+Forego the easier. /
 
 **BLANCH**  
-... That's the curse of Rome.
+/ That's the curse of Rome.
 
 **CONSTANCE**  
 O Lewis, stand fast! the devil tempts thee here  
@@ -1604,10 +1604,10 @@ In likeness of a new untrimmed bride.
 
 **BLANCH**  
 The Lady Constance speaks not from her faith,  
-But from her need. ...
+But from her need. /
 
 **CONSTANCE**  
-... O, if thou grant my need,  
+/ O, if thou grant my need,  
 Which only lives but by the death of faith,  
 That need must needs infer this principle,  
 That faith would live again by death of need.  
@@ -1716,17 +1716,17 @@ So heavy as thou shalt not shake them off,
 But in despair die under their black weight.
 
 **AUSTRIA**  
-Rebellion, flat rebellion! ...
+Rebellion, flat rebellion! /
 
 **BASTARD**  
-... Will't not be?  
+/ Will't not be?  
 Will not a calfs-skin stop that mouth of thine?
 
 **LEWIS**  
-Father, to arms! ...
+Father, to arms! /
 
 **BLANCH**  
-... Upon thy wedding-day?  
+/ Upon thy wedding-day?  
 Against the blood that thou hast married?  
 What, shall our feast be kept with slaughter'd men?  
 Shall braying trumpets and loud churlish drums,  
@@ -1735,10 +1735,10 @@ O husband, hear me! ay, alack, how new
 Is husband in my mouth! even for that name,  
 Which till this time my tongue did ne'er pronounce,  
 Upon my knee I beg, go not to arms  
-Against mine uncle. ...
+Against mine uncle. /
 
 **CONSTANCE**  
-... O, upon my knee,  
+/ O, upon my knee,  
 Made hard with kneeling, I do pray to thee,  
 Thou virtuous Dauphin, alter not the doom  
 Forethought by heaven!
@@ -1829,10 +1829,10 @@ While Philip breathes.
 **KING JOHN**  
 Hubert, keep this boy. Philip, make up:  
 My mother is assailed in our tent,  
-And ta'en, I fear. ...
+And ta'en, I fear. /
 
 **BASTARD**  
-... My lord, I rescued her;  
+/ My lord, I rescued her;  
 Her highness is in safety, fear you not:  
 But on, my liege; for very little pains  
 Will bring this labour to an happy end.
@@ -1847,10 +1847,10 @@ ELINOR, ARTHUR, the BASTARD, HUBERT, and Lords*
 **KING JOHN**  
 *\[To QUEEN ELINOR]*  
 So shall it be; your grace shall stay behind
-So strongly guarded. ...
+So strongly guarded. /
 
 *\[To ARTHUR]*  
-... Cousin, look not sad:  
+/ Cousin, look not sad:  
 Thy grandam loves thee; and thy uncle will  
 As dear be to thee as thy father was.
 
@@ -1874,10 +1874,10 @@ If ever I remember to be holy,
 For your fair safety; so, I kiss your hand.
 
 **QUEEN ELINOR**  
-Farewell, gentle cousin. ...
+Farewell, gentle cousin. /
 
 **KING JOHN**  
-... Coz, farewell.
+/ Coz, farewell.
 
 *Exit the BASTARD*
 
@@ -1930,45 +1930,45 @@ And, by my troth, I think thou lovest me well.
 **HUBERT**  
 So well, that what you bid me undertake,  
 Though that my death were adjunct to my act,  
-By heaven, I would do it. ...
+By heaven, I would do it. /
 
 **KING JOHN**  
-... Do not I know thou wouldst?  
+/ Do not I know thou wouldst?  
 Good Hubert, Hubert, Hubert, throw thine eye  
 On yon young boy: I'll tell thee what, my friend,  
 He is a very serpent in my way;  
 And whereso'er this foot of mine doth tread,  
 He lies before me: dost thou understand me?  
-Thou art his keeper. ...
+Thou art his keeper. /
 
 **HUBERT**  
-... And I'll keep him so,  
+/ And I'll keep him so,  
 That he shall not offend your majesty.
 
 **KING JOHN**  
-Death. ...
+Death. /
 
 **HUBERT**  
-... My lord? ...
+/ My lord? /
 
 **KING JOHN**  
-... A grave. ...
+/ A grave. /
 
 **HUBERT**  
-... He shall not live. ...
+/ He shall not live. /
 
 **KING JOHN**  
-... Enough.  
+/ Enough.  
 I could be merry now. Hubert, I love thee;  
 Well, I'll not say what I intend for thee:  
 Remember. Madam, fare you well:  
 I'll send those powers o'er to your majesty.
 
 **QUEEN ELINOR**  
-My blessing go with thee! ...
+My blessing go with thee! /
 
 **KING JOHN**  
-... For England, cousin, go:  
+/ For England, cousin, go:  
 Hubert shall be your man, attend on you  
 With all true duty. On toward Calais, ho!
 
@@ -2031,10 +2031,10 @@ And stop this gap of breath with fulsome dust
 And be a carrion monster like thyself:  
 Come, grin on me, and I will think thou smilest  
 And buss thee as thy wife. Misery's love,  
-O, come to me! ...
+O, come to me! /
 
 **KING PHILIP**  
-... O fair affliction, peace!
+/ O fair affliction, peace!
 
 **CONSTANCE**  
 No, no, I will not, having breath to cry:  
@@ -2076,10 +2076,10 @@ Like true, inseparable, faithful loves,
 Sticking together in calamity.
 
 **CONSTANCE**  
-To England, if you will. ...
+To England, if you will. /
 
 **KING PHILIP**  
-... Bind up your hairs.
+/ Bind up your hairs.
 
 **CONSTANCE**  
 Yes, that I will; and wherefore will I do it?  
@@ -2268,20 +2268,20 @@ Young lad, come forth; I have to say with you.
 *Enter ARTHUR*
 
 **ARTHUR**  
-Good morrow, Hubert. ...
+Good morrow, Hubert. /
 
 **HUBERT**  
-... Good morrow, little prince.
+/ Good morrow, little prince.
 
 **ARTHUR**  
 As little prince, having so great a title  
 To be more prince, as may be. You are sad.
 
 **HUBERT**  
-Indeed, I have been merrier. ...
+Indeed, I have been merrier. /
 
 **ARTHUR**  
-... Mercy on me!  
+/ Mercy on me!  
 Methinks no body should be sad but I:  
 Yet, I remember, when I was in France,  
 Young gentlemen would be as sad as night,  
@@ -2312,10 +2312,10 @@ I warrant I love you more than you do me.
 His words do take possession of my bosom.
 
 *\[Showing a paper]*
-Read here, young Arthur. ...
+Read here, young Arthur. /
 
 *\[Aside]*  
-... How now, foolish rheum!  
+/ How now, foolish rheum!  
 Turning dispiteous torture out of door!  
 I must be brief, lest resolution drop  
 Out at mine eyes in tender womanish tears.
@@ -2327,13 +2327,13 @@ Too fairly, Hubert, for so foul effect:
 Must you with hot irons burn out both mine eyes?
 
 **HUBERT**  
-Young boy, I must. ...
+Young boy, I must. /
 
 **ARTHUR**  
-... And will you? ...
+/ And will you? /
 
 **HUBERT**  
-... And I will.
+/ And I will.
 
 **ARTHUR**  
 Have you the heart? When your head did but ache,  
@@ -2353,10 +2353,10 @@ And call it cunning: do, an if you will:
 If heaven be pleased that you must use me ill,  
 Why then you must. Will you put out mine eyes?  
 These eyes that never did nor never shall  
-So much as frown on you. ...
+So much as frown on you. /
 
 **HUBERT**  
-... I have sworn to do it;  
+/ I have sworn to do it;  
 And with hot irons must I burn them out.
 
 **ARTHUR**  
@@ -2374,11 +2374,11 @@ I would not have believed him,--no tongue but Hubert's.
 
 **HUBERT**  
 *\[To Executioners]*  
-Come forth. ...
+Come forth. /
 
 *Re-enter Executioner, with a cord, irons, & c*
 
-... Do as I bid you do.
+/ Do as I bid you do.
 
 **ARTHUR**  
 O, save me, Hubert, save me! my eyes are out  
@@ -2411,16 +2411,16 @@ I am best pleased to be from such a deed.
 Alas, I then have chid away my friend!  
 He hath a stern look, but a gentle heart:  
 Let him come back, that his compassion may  
-Give life to yours. ...
+Give life to yours. /
 
 **HUBERT**  
-... Come, boy, prepare yourself.
+/ Come, boy, prepare yourself.
 
 **ARTHUR**  
-Is there no remedy? ...
+Is there no remedy? /
 
 **HUBERT**  
-... None, but to lose your eyes.
+/ None, but to lose your eyes.
 
 **ARTHUR**  
 O heaven, that there were but a mote in yours,  
@@ -2440,10 +2440,10 @@ Or, Hubert, if you will, cut out my tongue,
 So I may keep mine eyes: O, spare mine eyes.  
 Though to no use but still to look on you!  
 Lo, by my truth, the instrument is cold  
-And would not harm me. ...
+And would not harm me. /
 
 **HUBERT**  
-... I can heat it, boy.
+/ I can heat it, boy.
 
 **ARTHUR**  
 No, in good sooth: the fire is dead with grief,  
@@ -2475,18 +2475,18 @@ With this same very iron to burn them out.
 
 **ARTHUR**  
 O, now you look like Hubert! all this while  
-You were disguised. ...
+You were disguised. /
 
 **HUBERT**  
-... Peace; no more. Adieu.  
+/ Peace; no more. Adieu.  
 Your uncle must not know but you are dead;  
 I'll fill these dogged spies with false reports:  
 And, pretty child, sleep doubtless and secure,  
 That Hubert, for the wealth of all the world,  
-Will not offend thee. ...
+Will not offend thee. /
 
 **ARTHUR**  
-... O heaven! I thank you, Hubert.
+/ O heaven! I thank you, Hubert.
 
 **HUBERT**  
 Silence; no more: go closely in with me:  
@@ -2586,10 +2586,10 @@ Counts it your weal he have his liberty.
 
 **KING JOHN**  
 Let it be so: I do commit his youth  
-To your direction. ...
+To your direction. /
 
 *\[Taking him apart]*  
-... Hubert, what news with you?
+/ Hubert, what news with you?
 
 **PEMBROKE**  
 This is the man should do the bloody deed;  
@@ -2669,10 +2669,10 @@ The tidings come that they are all arrived.
 O, where hath our intelligence been drunk?  
 Where hath it slept? Where is my mother's care,  
 That such an army could be drawn in France,  
-And she not hear of it? ...
+And she not hear of it? /
 
 **Messenger**  
-... My liege, her ear  
+/ My liege, her ear  
 Is stopp'd with dust; the first of April died  
 Your noble mother: and, as I hear, my lord,  
 The Lady Constance in a frenzy died  
@@ -2688,15 +2688,15 @@ Under whose conduct came those powers of France
 That thou for truth givest out are landed here?
 
 **Messenger**  
-Under the Dauphin. ...
+Under the Dauphin. /
 
 **KING JOHN**  
-... Thou hast made me giddy  
-With these ill tidings.  ...
+/ Thou hast made me giddy  
+With these ill tidings.  /
 
 *Enter the BASTARD and PETER of Pomfret*
 
-... Now, what says the world  
+/ Now, what says the world  
 To your proceedings? do not seek to stuff  
 My head with more ill news, for it is full.
 
@@ -2735,11 +2735,11 @@ Hubert, away with him; imprison him;
 And on that day at noon whereon he says  
 I shall yield up my crown, let him be hang'd.  
 Deliver him to safety; and return,  
-For I must use thee. ...
+For I must use thee. /
 
 *Exeunt HUBERT with PETER*
 
-... O my gentle cousin,  
+/ O my gentle cousin,  
 Hear'st thou the news abroad, who are arrived?
 
 **BASTARD**  
@@ -2748,16 +2748,16 @@ Besides, I met Lord Bigot and Lord Salisbury,
 With eyes as red as new-enkindled fire,  
 And others more, going to seek the grave  
 Of Arthur, who they say is kill'd to-night  
-On your suggestion. ...
+On your suggestion. /
 
 **KING JOHN**  
-... Gentle kinsman, go,  
+/ Gentle kinsman, go,  
 And thrust thyself into their companies:  
 I have a way to win their loves again;  
-Bring them before me. ...
+Bring them before me. /
 
 **BASTARD**  
-... I will seek them out.
+/ I will seek them out.
 
 **KING JOHN**  
 Nay, but make haste; the better foot before.  
@@ -2776,10 +2776,10 @@ The spirit of the time shall teach me speed.
 Spoke like a sprightful noble gentleman.  
 Go after him; for he perhaps shall need  
 Some messenger betwixt me and the peers;  
-And be thou he. ...
+And be thou he. /
 
 **Messenger**  
-... With all my heart, my liege.
+/ With all my heart, my liege.
 
 *Exit*
 
@@ -2791,10 +2791,10 @@ My mother dead!
 **HUBERT**  
 My lord, they say five moons were seen to-night;  
 Four fixed, and the fifth did whirl about  
-The other four in wondrous motion. ...
+The other four in wondrous motion. /
 
 **KING JOHN**  
-... Five moons!
+/ Five moons!
 
 **HUBERT**  
 Old men and beldams in the streets  
@@ -2974,10 +2974,10 @@ Sir, sir, impatience hath his privilege.
 'Tis true, to hurt his master, no man else.
 
 **SALISBURY**  
-This is the prison. ...
+This is the prison. /
 
 *\[Seeing ARTHUR]*  
-... What is he lies here?
+/ What is he lies here?
 
 **PEMBROKE**  
 O death, made proud with pure and princely beauty!  
@@ -3045,11 +3045,11 @@ O, he is old and blushes not at death.
 Avaunt, thou hateful villain, get thee gone!
 
 **HUBERT**  
-I am no villain. ...
+I am no villain. /
 
 **SALISBURY**  
 *\[Drawing his sword]*  
-... Must I rob the law?
+/ Must I rob the law?
 
 **BASTARD**  
 Your sword is bright, sir; put it up again.
@@ -3073,18 +3073,18 @@ Not for my life: but yet I dare defend
 My innocent life against an emperor.
 
 **SALISBURY**  
-Thou art a murderer. ...
+Thou art a murderer. /
 
 **HUBERT**  
-... Do not prove me so;  
+/ Do not prove me so;  
 Yet I am none: whose tongue soe'er speaks false,  
 Not truly speaks; who speaks not truly, lies.
 
 **PEMBROKE**  
-Cut him to pieces. ...
+Cut him to pieces. /
 
 **BASTARD**  
-... Keep the peace, I say.
+/ Keep the peace, I say.
 
 **SALISBURY**  
 Stand by, or I shall gall you, Faulconbridge.
@@ -3102,10 +3102,10 @@ What wilt thou do, renowned Faulconbridge?
 Second a villain and a murderer?
 
 **HUBERT**  
-Lord Bigot, I am none. ...
+Lord Bigot, I am none. /
 
 **BIGOT**  
-... Who kill'd this prince?
+/ Who kill'd this prince?
 
 **HUBERT**  
 'Tis not an hour since I left him well:  
@@ -3133,10 +3133,10 @@ There tell the king he may inquire us out.
 Here's a good world! Knew you of this fair work?  
 Beyond the infinite and boundless reach  
 Of mercy, if thou didst this deed of death,  
-Art thou damn'd, Hubert. ...
+Art thou damn'd, Hubert. /
 
 **HUBERT**  
-... Do but hear me, sir.
+/ Do but hear me, sir.
 
 **BASTARD**  
 Ha! I'll tell thee what;  
@@ -3146,10 +3146,10 @@ There is not yet so ugly a fiend of hell
 As thou shalt be, if thou didst kill this child.
 
 **HUBERT**  
-Upon my soul-- ...
+Upon my soul-- /
 
 **BASTARD**  
-... If thou didst but consent  
+/ If thou didst but consent  
 To this most cruel act, do but despair;  
 And if thou want'st a cord, the smallest thread  
 That ever spider twisted from her womb  
@@ -3165,10 +3165,10 @@ If I in act, consent, or sin of thought,
 Be guilty of the stealing that sweet breath  
 Which was embounded in this beauteous clay,  
 Let hell want pains enough to torture me.  
-I left him well. ...
+I left him well. /
 
 **BASTARD**  
-... Go, bear him in thine arms.  
+/ Go, bear him in thine arms.  
 I am amazed, methinks, and lose my way  
 Among the thorns and dangers of this world.  
 How easy dost thou take all England up!  
@@ -3200,11 +3200,11 @@ And heaven itself doth frown upon the land.
 
 **KING JOHN**  
 Thus have I yielded up into your hand  
-The circle of my glory. ...  
+The circle of my glory. /  
 *\[Giving the crown]*
 
 **CARDINAL PANDULPH**  
-... Take again  
+/ Take again  
 From this my hand, as holding of the pope  
 Your sovereign greatness and authority.
 
@@ -3289,10 +3289,10 @@ And grapple with him ere he comes so nigh.
 The legate of the pope hath been with me,  
 And I have made a happy peace with him;  
 And he hath promised to dismiss the powers  
-Led by the Dauphin. ...
+Led by the Dauphin. /
 
 **BASTARD**  
-... O inglorious league!  
+/ O inglorious league!  
 Shall we, upon the footing of our land,  
 Send fair-play orders and make compromise,  
 Insinuation, parley and base truce  
@@ -3394,10 +3394,10 @@ And even there, methinks, an angel spake:
 Look, where the holy legate comes apace,  
 To give us warrant from the hand of heaven  
 And on our actions set the name of right  
-With holy breath. ...
+With holy breath. /
 
 **CARDINAL PANDULPH**  
-... Hail, noble prince of France!  
+/ Hail, noble prince of France!  
 The next is this, King John hath reconciled  
 Himself to Rome; his spirit is come in,  
 That so stood out against the holy church,  
@@ -3510,16 +3510,16 @@ To fierce and bloody inclination.
 There end thy brave, and turn thy face in peace;  
 We grant thou canst outscold us: fare thee well;  
 We hold our time too precious to be spent  
-With such a brabbler. ...
+With such a brabbler. /
 
 **CARDINAL PANDULPH**  
-... Give me leave to speak.
+/ Give me leave to speak.
 
 **BASTARD**  
-No, I will speak. ...
+No, I will speak. /
 
 **LEWIS**  
-... We will attend to neither.  
+/ We will attend to neither.  
 Strike up the drums; and let the tongue of war  
 Plead for our interest and our being here.
 
@@ -3612,10 +3612,10 @@ Lead me to the revolts of England here.
 When we were happy we had other names.
 
 **PEMBROKE**  
-It is the Count Melun. ...
+It is the Count Melun. /
 
 **SALISBURY**  
-... Wounded to death.
+/ Wounded to death.
 
 **MELUN**  
 Fly, noble English, you are bought and sold;  
@@ -3732,10 +3732,10 @@ To try the fair adventure of to-morrow.
 Who's there? speak, ho! speak quickly, or I shoot.
 
 **BASTARD**  
-A friend. What art thou? ...
+A friend. What art thou? /
 
 **HUBERT**  
-... Of the part of England.
+/ Of the part of England.
 
 **BASTARD**  
 Whither dost thou go?
@@ -3745,16 +3745,16 @@ What's that to thee? why may not I demand
 Of thine affairs, as well as thou of mine?
 
 **BASTARD**  
-Hubert, I think? ...
+Hubert, I think? /
 
 **HUBERT**  
-... Thou hast a perfect thought:  
+/ Thou hast a perfect thought:  
 I will upon all hazards well believe  
 Thou art my friend, that know'st my tongue so well.  
-Who art thou? ...
+Who art thou? /
 
 **BASTARD**  
-... Who thou wilt: and if thou please,  
+/ Who thou wilt: and if thou please,  
 Thou mayst befriend me so much as to think  
 I come one way of the Plantagenets.
 
@@ -3769,10 +3769,10 @@ Come, come; sans compliment, what news abroad?
 
 **HUBERT**  
 Why, here walk I in the black brow of night,  
-To find you out. ...
+To find you out. /
 
 **BASTARD**  
-... Brief, then; and what's the news?
+/ Brief, then; and what's the news?
 
 **HUBERT**  
 O, my sweet sir, news fitting to the night,  
@@ -3839,12 +3839,12 @@ Of that fell poison which assaileth him.
 
 **PRINCE HENRY**  
 Let him be brought into the orchard here.  
-Doth he still rage? ...
+Doth he still rage? /
 
 *Exit BIGOT*
 
 **PEMBROKE**  
-... He is more patient  
+/ He is more patient  
 Than when you left him; even now he sung.
 
 **PRINCE HENRY**  
@@ -3876,10 +3876,10 @@ There is so hot a summer in my bosom,
 That all my bowels crumble up to dust:  
 I am a scribbled form, drawn with a pen  
 Upon a parchment, and against this fire  
-Do I shrink up. ...
+Do I shrink up. /
 
 **PRINCE HENRY**  
-... How fares your majesty?
+/ How fares your majesty?
 
 **KING JOHN**  
 Poison'd,--ill fare--dead, forsook, cast off:  
@@ -3894,10 +3894,10 @@ And so ingrateful, you deny me that.
 
 **PRINCE HENRY**  
 O that there were some virtue in my tears,  
-That might relieve you! ...
+That might relieve you! /
 
 **KING JOHN**  
-... The salt in them is hot.  
+/ The salt in them is hot.  
 Within me is a hell; and there the poison  
 Is as a fiend confined to tyrannize  
 On unreprievable condemned blood.
@@ -3978,10 +3978,10 @@ Shall wait upon your father's funeral.
 
 **PRINCE HENRY**  
 At Worcester must his body be interr'd;  
-For so he will'd it. ...
+For so he will'd it. /
 
 **BASTARD**  
-... Thither shall it then:  
+/ Thither shall it then:  
 And happily may your sweet self put on  
 The lineal state and glory of the land!  
 To whom with all submission, on my knee  

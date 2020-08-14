@@ -3053,10 +3053,10 @@ Was the first motive that I woo'd thee, Anne:
 Yet, wooing thee, I found thee of more value  
 Than stamps in gold or sums in sealed bags;  
 And 'tis the very riches of thyself  
-That now I aim at. ...
+That now I aim at. /
 
 **ANNE PAGE**  
-... Gentle Master Fenton,  
+/ Gentle Master Fenton,  
 Yet seek my father's love; still seek it, sir:  
 If opportunity and humblest suit  
 Cannot attain it, why, then,--hark you hither!
@@ -3084,10 +3084,10 @@ but that I am afeard.
 Hark ye; Master Slender would speak a word with you.
 
 **ANNE PAGE**  
-I come to him. ...
+I come to him. /
 
 *\[Aside]*  
-... This is my father's choice.  
+/ This is my father's choice.  
 O, what a world of vile ill-favor'd faults  
 Looks handsome in three hundred pounds a-year!
 
@@ -3169,10 +3169,10 @@ Good Master Fenton, come not to my child.
 She is no match for you.
 
 **FENTON**  
-Sir, will you hear me? ...
+Sir, will you hear me? /
 
 **PAGE**  
-... No, good Master Fenton.  
+/ No, good Master Fenton.  
 Come, Master Shallow; come, son Slender, in.  
 Knowing my mind, you wrong me, Master Fenton.
 
@@ -4120,10 +4120,10 @@ Pardon me, wife. Henceforth do what thou wilt;
 I rather will suspect the sun with cold  
 Than thee with wantonness: now doth thy honour stand  
 In him that was of late an heretic,  
-As firm as faith. ...
+As firm as faith. /
 
 **PAGE**  
-... 'Tis well, 'tis well; no more:  
+/ 'Tis well, 'tis well; no more:  
 Be not as extreme in submission as in offence.  
 But let our plot go forward: let our wives  
 Yet once again, to make us public sport,  
@@ -5128,10 +5128,10 @@ Well, I will muse no further. Master Fenton,
 Heav'n give you many, many merry days!  
 Good husband, let us every one go home,  
 And laugh this sport o'er by a country fire;  
-Sir John and all. ...
+Sir John and all. /
 
 **FORD**  
-...  Let it be so. Sir John,
+/  Let it be so. Sir John,
 To Master Brook you yet shall hold your word  
 For he tonight shall lie with Mistress Ford.
 

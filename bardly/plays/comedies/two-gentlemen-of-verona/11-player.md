@@ -50,10 +50,10 @@ And yet you never swum the Hellespont.
 Over the boots? nay, give me not the boots.
 
 **VALENTINE**  
-No, I will not, for it boots thee not. ...
+No, I will not, for it boots thee not. /
 
 **PROTEUS**  
-... What?
+/ What?
 
 **VALENTINE**  
 To be in love, where scorn is bought with groans;  
@@ -377,16 +377,16 @@ They do not love that do not show their love.
 O, they love least that let men know their love.
 
 **JULIA**  
-I would I knew his mind. ...
+I would I knew his mind. /
 
 **LUCETTA**  
-... Peruse this paper, madam.
+/ Peruse this paper, madam.
 
 **JULIA**  
-'To Julia.' Say, from whom? ...
+'To Julia.' Say, from whom? /
 
 **LUCETTA**  
-... That the contents will show.
+/ That the contents will show.
 
 **JULIA**  
 Say, say, who gave it thee?
@@ -408,10 +408,10 @@ Or else return no more into my sight.
 To plead for love deserves more fee than hate.
 
 **JULIA**  
-Will ye be gone? ...
+Will ye be gone? /
 
 **LUCETTA**  
-... That you may ruminate.
+/ That you may ruminate.
 
 *Exit*
 
@@ -432,18 +432,18 @@ How angerly I taught my brow to frown,
 When inward joy enforced my heart to smile!  
 My penance is to call Lucetta back  
 And ask remission for my folly past.  
-What ho! Lucetta! ...
+What ho! Lucetta! /
 
 *Re-enter LUCETTA*
 
 **LUCETTA**  
-... What would your ladyship?
+/ What would your ladyship?
 
 **JULIA**  
-Is't near dinner-time? ...
+Is't near dinner-time? /
 
 **LUCETTA**  
-... I would it were,  
+/ I would it were,  
 That you might kill your stomach on your meat  
 And not upon your maid.
 
@@ -451,10 +451,10 @@ And not upon your maid.
 What is't that you took up so gingerly?
 
 **LUCETTA**  
-Nothing. ...
+Nothing. /
 
 **JULIA**  
-... Why didst thou stoop, then?
+/ Why didst thou stoop, then?
 
 **LUCETTA**  
 To take a paper up that I let fall.
@@ -493,10 +493,10 @@ Heavy! belike it hath some burden then?
 Ay, and melodious were it, would you sing it.
 
 **JULIA**  
-And why not you? ...
+And why not you? /
 
 **LUCETTA**  
-... I cannot reach so high.
+/ I cannot reach so high.
 
 **JULIA**  
 Let's see your song. How now, minion!
@@ -506,16 +506,16 @@ Keep tune there still, so you will sing it out:
 And yet methinks I do not like this tune.
 
 **JULIA**  
-You do not? ...
+You do not? /
 
 **LUCETTA**  
-... No, madam; it is too sharp.
+/ No, madam; it is too sharp.
 
 **JULIA**  
-You, minion, are too saucy. ...
+You, minion, are too saucy. /
 
 **LUCETTA**  
-... Nay, now you are too flat  
+/ Nay, now you are too flat  
 And mar the concord with too harsh a descant:  
 There wanteth but a mean to fill your song.
 
@@ -610,10 +610,10 @@ Wherewith my brother held you in the cloister?
 'Twas of his nephew Proteus, your son.
 
 **ANTONIO**  
-Why, what o' him? ...
+Why, what o' him? /
 
 **PANTHINO**  
-... He wonder'd that your lordship  
+/ He wonder'd that your lordship  
 Would suffer him to spend his youth at home,  
 While other men, of slender reputation,  
 Put forth their sons to seek preferment out:  
@@ -1005,10 +1005,10 @@ What means your ladyship? do you not like it?
 **SILVIA**  
 Yes, yes; the lines are very quaintly writ;  
 But since unwillingly, take them again.  
-Nay, take them. ...
+Nay, take them. /
 
 **VALENTINE**  
-... Madam, they are for you.
+/ Madam, they are for you.
 
 **SILVIA**  
 Ay, ay: you writ them, sir, at my request;  
@@ -1147,21 +1147,21 @@ Torment me for my love's forgetfulness!
 My father stays my coming; answer not;  
 The tide is now: nay, not thy tide of tears;  
 That tide will stay me longer than I should.  
-Julia, farewell! ...
+Julia, farewell! /
 
 *Exit JULIA*
 
-... What, gone without a word?  
+/ What, gone without a word?  
 Ay, so true love should do: it cannot speak;  
 For truth hath better deeds than words to grace it.
 
 *Enter PANTHINO*
 
 **PANTHINO**  
-Sir Proteus, you are stay'd for. ...
+Sir Proteus, you are stay'd for. /
 
 **PROTEUS**  
-... Go; I come, I come.  
+/ Go; I come, I come.  
 Alas! this parting strikes poor lovers dumb.
 
 *Exeunt*
@@ -1386,10 +1386,10 @@ No more, gentlemen, no more:--here comes my father.
 Now, daughter Silvia, you are hard beset.  
 Sir Valentine, your father's in good health:  
 What say you to a letter from your friends  
-Of much good news? ...
+Of much good news? /
 
 **VALENTINE**  
-... My lord, I will be thankful.  
+/ My lord, I will be thankful.  
 To any happy messenger from thence.
 
 **DUKE**  
@@ -1512,10 +1512,10 @@ Servant, you are welcome to a worthless mistress.
 I'll die on him that says so but yourself.
 
 **SILVIA**  
-That you are welcome? ...
+That you are welcome? /
 
 **PROTEUS**  
-... That you are worthless.
+/ That you are worthless.
 
 *Re-enter THURIO*
 
@@ -1540,10 +1540,10 @@ Now, tell me, how do all from whence you came?
 Your friends are well and have them much commended.
 
 **VALENTINE**  
-And how do yours? ...
+And how do yours? /
 
 **PROTEUS**  
-... I left them all in health.
+/ I left them all in health.
 
 **VALENTINE**  
 How does your lady? and how thrives your love?
@@ -1580,10 +1580,10 @@ Even she; and is she not a heavenly saint?
 No; but she is an earthly paragon.
 
 **VALENTINE**  
-Call her divine. ...
+Call her divine. /
 
 **PROTEUS**  
-... I will not flatter her.
+/ I will not flatter her.
 
 **VALENTINE**  
 O, flatter me; for love delights in praises.
@@ -1598,10 +1598,10 @@ Yet let her be a principality,
 Sovereign to all the creatures on the earth.
 
 **PROTEUS**  
-Except my mistress. ...
+Except my mistress. /
 
 **VALENTINE**  
-... Sweet, except not any;  
+/ Sweet, except not any;  
 Except thou wilt except against my love.
 
 **PROTEUS**  
@@ -1622,10 +1622,10 @@ Why, Valentine, what braggardism is this?
 **VALENTINE**  
 Pardon me, Proteus: all I can is nothing  
 To her whose worth makes other worthies nothing;  
-She is alone. ...
+She is alone. /
 
 **PROTEUS**  
-... Then let her alone.
+/ Then let her alone.
 
 **VALENTINE**  
 Not for the world: why, man, she is mine own,  
@@ -2219,10 +2219,10 @@ Under a cloak that is of any length.
 A cloak as long as thine will serve the turn?
 
 **VALENTINE**  
-Ay, my good lord. ...
+Ay, my good lord. /
 
 **DUKE**  
-... Then let me see thy cloak:  
+/ Then let me see thy cloak:  
 I'll get me one of such another length.
 
 **VALENTINE**  
@@ -2353,17 +2353,17 @@ Then in dumb silence will I bury mine,
 For they are harsh, untuneable and bad.
 
 **VALENTINE**  
-Is Silvia dead? ...
+Is Silvia dead? /
 
 **PROTEUS**  
-... No, Valentine.
+/ No, Valentine.
 
 **VALENTINE**  
 No Valentine, indeed, for sacred Silvia.  
-Hath she forsworn me? ...
+Hath she forsworn me? /
 
 **PROTEUS**  
-... No, Valentine.
+/ No, Valentine.
 
 **VALENTINE**  
 No Valentine, if Silvia have forsworn me.  
@@ -2894,16 +2894,16 @@ Of which if you should here disfurnish me,
 You take the sum and substance that I have.
 
 **Second Outlaw**  
-Whither travel you? ...
+Whither travel you? /
 
 **VALENTINE**  
-... To Verona.
+/ To Verona.
 
 **First Outlaw**  
-Whence came you? ...
+Whence came you? /
 
 **VALENTINE**  
-... From Milan.
+/ From Milan.
 
 **Third Outlaw**  
 Have you long sojourned there?
@@ -3052,10 +3052,10 @@ Ay, but I hope, sir, that you love not here.
 Sir, but I do; or else I would be hence.
 
 **THURIO**  
-Who? Silvia? ...
+Who? Silvia? /
 
 **PROTEUS**  
-... Ay, Silvia; for your sake.
+/ Ay, Silvia; for your sake.
 
 **THURIO**  
 I thank you for your own. Now, gentle sir,  
@@ -3319,10 +3319,10 @@ Madam, madam!
 *Enter SILVIA above*
 
 **SILVIA**  
-Who calls? ...
+Who calls? /
 
 **EGLAMOUR**  
-... Your servant and your friend;  
+/ Your servant and your friend;  
 One that attends your ladyship's command.
 
 **SILVIA**  
@@ -3368,16 +3368,16 @@ Which since I know they virtuously are placed,
 I give consent to go along with you,  
 Recking as little what betideth me  
 As much I wish all good befortune you.  
-When will you go? ...
+When will you go? /
 
 **SILVIA**  
-... This evening coming.
+/ This evening coming.
 
 **EGLAMOUR**  
-Where shall I meet you? ...
+Where shall I meet you? /
 
 **SILVIA**  
-... At Friar Patrick's cell,  
+/ At Friar Patrick's cell,  
 Where I intend holy confession.
 
 **EGLAMOUR**  
@@ -3497,23 +3497,23 @@ She loved me well deliver'd it to me.
 
 **JULIA**  
 It seems you loved not her, to leave her token.  
-She's dead, belike? ...
+She's dead, belike? /
 
 **PROTEUS**  
-... Not so; I think she lives.
+/ Not so; I think she lives.
 
 **JULIA**  
 Alas!
 
 **PROTEUS**  
-Why dost thou cry 'alas'? ...
+Why dost thou cry 'alas'? /
 
 **JULIA**  
-... I cannot choose  
-But pity her. ...
+/ I cannot choose  
+But pity her. /
 
 **PROTEUS**  
-... Wherefore shouldst thou pity her?
+/ Wherefore shouldst thou pity her?
 
 **JULIA**  
 Because methinks that she loved you as well  
@@ -3571,10 +3571,10 @@ From whom?
 From my master, Sir Proteus, madam.
 
 **SILVIA**  
-O, he sends you for a picture. ...
+O, he sends you for a picture. /
 
 **JULIA**  
-... Ay, madam.
+/ Ay, madam.
 
 **SILVIA**  
 Why then, I'll bring my picture here.  
@@ -3722,11 +3722,11 @@ That Silvia, at Friar Patrick's cell, should meet me.
 She will not fail, for lovers break not hours,  
 Unless it be to come before their time;  
 So much they spur their expedition.  
-See where she comes. ...
+See where she comes. /
 
 *Enter SILVIA*
 
-... Lady, a happy evening!
+/ Lady, a happy evening!
 
 **SILVIA**  
 Amen, amen! Go on, good Eglamour,  
@@ -3840,16 +3840,16 @@ How now, Sir Proteus! how now, Thurio!
 Which of you saw Sir Eglamour of late?
 
 **THURIO**  
-Not I. ...
+Not I. /
 
 **PROTEUS**  
-... Nor I. ...
+/ Nor I. /
 
 **DUKE**  
-... Saw you my daughter? ...
+/ Saw you my daughter? /
 
 **PROTEUS**  
-... Neither.
+/ Neither.
 
 **DUKE**  
 Why then,  
@@ -4004,14 +4004,14 @@ Descended into perjury, to love me.
 Thou hast no faith left now, unless thou'dst two;  
 And that's far worse than none; better have none  
 Than plural faith which is too much by one:  
-Thou counterfeit to thy true friend! ...
+Thou counterfeit to thy true friend! /
 
 **PROTEUS**  
-... In love  
-Who respects friend? ...
+/ In love  
+Who respects friend? /
 
 **SILVIA**  
-... All men but Proteus.
+/ All men but Proteus.
 
 **PROTEUS**  
 Nay, if the gentle spirit of moving words  
@@ -4020,17 +4020,17 @@ I'll woo you like a soldier, at arms' end,
 And love you 'gainst the nature of love,--force ye.
 
 **SILVIA**  
-O heaven! ...
+O heaven! /
 
 **PROTEUS**  
-... I'll force thee yield to my desire.
+/ I'll force thee yield to my desire.
 
 **VALENTINE**  
 Ruffian, let go that rude uncivil touch,  
-Thou friend of an ill fashion! ...
+Thou friend of an ill fashion! /
 
 **PROTEUS**  
-... Valentine!
+/ Valentine!
 
 **VALENTINE**  
 Thou common friend, that's without faith or love,  
@@ -4050,10 +4050,10 @@ My shame and guilt confounds me.
 Forgive me, Valentine: if hearty sorrow  
 Be a sufficient ransom for offence,  
 I tender 't here; I do as truly suffer  
-As e'er I did commit. ...
+As e'er I did commit. /
 
 **VALENTINE**  
-... Then I am paid;  
+/ Then I am paid;  
 And once again I do receive thee honest.  
 Who by repentance is not satisfied  
 Is nor of heaven nor earth, for these are pleased.  
@@ -4062,11 +4062,11 @@ And, that my love may appear plain and free,
 All that was mine in Silvia I give thee.
 
 **JULIA**  
-O me unhappy! ...  
+O me unhappy! /  
 *\[Swoons]*
 
 **PROTEUS**  
-... Look to the boy.
+/ Look to the boy.
 
 **VALENTINE**  
 Why, boy! why, wag! how now! what's the matter?  
@@ -4080,10 +4080,10 @@ to Madam Silvia, which, out of my neglect, was never done.
 Where is that ring, boy?
 
 **JULIA**  
-Here 'tis; this is it. ...
+Here 'tis; this is it. /
 
 **PROTEUS**  
-... How! let me see:  
+/ How! let me see:  
 Why, this is the ring I gave to Julia.
 
 **JULIA**  
@@ -4140,10 +4140,10 @@ A prize, a prize, a prize!
 **VALENTINE**  
 Forbear, forbear, I say! it is my lord the duke.  
 Your grace is welcome to a man disgraced,  
-Banished Valentine. ...
+Banished Valentine. /
 
 **DUKE**  
-... Sir Valentine!
+/ Sir Valentine!
 
 **THURIO**  
 Yonder is Silvia; and Silvia's mine.

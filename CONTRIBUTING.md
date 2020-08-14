@@ -95,7 +95,7 @@ Additional Tokens:
 1. If a line is spoken by two or more characters, this can
    be denoted with an `&`. (`**Rosencrantz & Guildenstern**`)
 2. If a line is shared between multiple paragraphs, this
-   is denoted by a series of ` ... ` following and
+   is denoted by a series of ` / ` following and
    preceding the given lines.
 
 For examples of these rules, see our

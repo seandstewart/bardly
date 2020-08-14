@@ -19,10 +19,10 @@ Four days will quickly steep themselves in night;
 Four nights will quickly dream away the time;  
 And then the moon, like to a silver bow  
 New-bent in heaven, shall behold the night  
-Of our solemnities. ...
+Of our solemnities. /
 
 **THESEUS**  
-... Go, Philostrate,  
+/ Go, Philostrate,  
 Stir up the Athenian youth to merriments;  
 Awake the pert and nimble spirit of mirth;  
 Turn melancholy forth to funerals;  
@@ -79,10 +79,10 @@ To leave the figure or disfigure it.
 Demetrius is a worthy gentleman.
 
 **HERMIA**  
-So is Lysander. ...
+So is Lysander. /
 
 **THESEUS**  
-... In himself he is;  
+/ In himself he is;  
 But in this kind, wanting your father's voice,  
 The other must be held the worthier.
 
@@ -245,10 +245,10 @@ Steal forth thy father's house to-morrow night;
 And in the wood, a league without the town,  
 Where I did meet thee once with Helena,  
 To do observance to a morn of May,  
-There will I stay for thee. ...
+There will I stay for thee. /
 
 **HERMIA**  
-... My good Lysander!  
+/ My good Lysander!  
 I swear to thee, by Cupid's strongest bow,  
 By his best arrow with the golden head,  
 By the simplicity of Venus' doves,  
@@ -336,11 +336,11 @@ Keep word, Lysander: we must starve our sight
 From lovers' food till morrow deep midnight.
 
 **LYSANDER**  
-I will, my Hermia. ...
+I will, my Hermia. /
 
 *Exit HERMIA*
 
-... Helena, adieu:  
+/ Helena, adieu:  
 As you on him, Demetrius dote on you!
 
 *Exit*
@@ -621,10 +621,10 @@ And sometime make the drink to bear no barm;
 Mislead night-wanderers, laughing at their harm?  
 Those that Hobgoblin call you and sweet Puck,  
 You do their work, and they shall have good luck:  
-Are not you he? ...
+Are not you he? /
 
 **PUCK**  
-... Thou speak'st aright;  
+/ Thou speak'st aright;  
 I am that merry wanderer of the night.  
 I jest to Oberon and make him smile  
 When I a fat and bean-fed horse beguile,  
@@ -722,10 +722,10 @@ We are their parents and original.
 Do you amend it then; it lies in you:  
 Why should Titania cross her Oberon?  
 I do but beg a little changeling boy,  
-To be my henchman. ...
+To be my henchman. /
 
 **TITANIA**  
-... Set your heart at rest:  
+/ Set your heart at rest:  
 The fairy land buys not the child of me.  
 His mother was a votaress of my order:  
 And, in the spiced Indian air, by night,  
@@ -770,10 +770,10 @@ And heard a mermaid on a dolphin's back
 Uttering such dulcet and harmonious breath  
 That the rude sea grew civil at her song  
 And certain stars shot madly from their spheres,  
-To hear the sea-maid's music. ...
+To hear the sea-maid's music. /
 
 **PUCK**  
-... I remember.
+/ I remember.
 
 **OBERON**  
 That very time I saw, but thou couldst not,  
@@ -799,12 +799,12 @@ Ere the leviathan can swim a league.
 
 **PUCK**  
 I'll put a girdle round about the earth  
-In forty minutes. ...
+In forty minutes. /
 
 *Exit*
 
 **OBERON**  
-... Having once this juice,  
+/ Having once this juice,  
 I'll watch Titania when she is asleep,  
 And drop the liquor of it in her eyes.  
 The next thing then she waking looks upon,  
@@ -914,10 +914,10 @@ Thou shalt fly him and he shall seek thy love.
 Hast thou the flower there? Welcome, wanderer.
 
 **PUCK**  
-Ay, there it is. ...
+Ay, there it is. /
 
 **OBERON**  
-... I pray thee, give it me.  
+/ I pray thee, give it me.  
 I know a bank where the wild thyme blows,  
 Where oxlips and the nodding violet grows,  
 Quite over-canopied with luscious woodbine,  
@@ -1464,19 +1464,19 @@ Peaseblossom! Cobweb! Moth! and Mustardseed!
 *Enter PEASEBLOSSOM, COBWEB, MOTH, and MUSTARDSEED*
 
 **PEASEBLOSSOM**  
-Ready. ...
+Ready. /
 
 **COBWEB**  
-... And I. ...
+/ And I. /
 
 **MOTH**  
-... And I. ...
+/ And I. /
 
 **MUSTARDSEED**  
-... And I. ...
+/ And I. /
 
 **ALL**  
-... Where shall we go?
+/ Where shall we go?
 
 **TITANIA**  
 Be kind and courteous to this gentleman;  
@@ -1492,16 +1492,16 @@ To fan the moonbeams from his sleeping eyes:
 Nod to him, elves, and do him courtesies.
 
 **PEASEBLOSSOM**  
-Hail, mortal! ...
+Hail, mortal! /
 
 **COBWEB**  
-... Hail! ...
+/ Hail! /
 
 **MOTH**  
-... Hail! ...
+/ Hail! /
 
 **MUSTARDSEED**  
-... Hail!
+/ Hail!
 
 **BOTTOM**  
 I cry your worship's mercy, heartily: I beseech your  
@@ -1806,10 +1806,10 @@ Lysander, keep thy Hermia; I will none:
 If e'er I loved her, all that love is gone.  
 My heart to her but as guest-wise sojourn'd,  
 And now to Helen is it home return'd,  
-There to remain. ...
+There to remain. /
 
 **LYSANDER**  
-... Helen, it is not so.
+/ Helen, it is not so.
 
 **DEMETRIUS**  
 Disparage not the faith thou dost not know,  
@@ -1911,10 +1911,10 @@ Stay, gentle Helena; hear my excuse:
 My love, my life, my soul, fair Helena!
 
 **HELENA**  
-O excellent! ...
+O excellent! /
 
 **HERMIA**  
-... Sweet, do not scorn her so.
+/ Sweet, do not scorn her so.
 
 **DEMETRIUS**  
 If she cannot entreat, I can compel.
@@ -1933,16 +1933,16 @@ I say I love thee more than he can do.
 If thou say so, withdraw, and prove it too.
 
 **DEMETRIUS**  
-Quick, come! ...
+Quick, come! /
 
 **HERMIA**  
-... Lysander, whereto tends all this?
+/ Lysander, whereto tends all this?
 
 **LYSANDER**  
-Away, you Ethiope! ...
+Away, you Ethiope! /
 
 **DEMETRIUS**  
-... No, no; he’ll  
+/ No, no; he’ll  
 Seem to break loose; take on as you would follow,  
 But yet come not: you are a tame man, go!
 
@@ -1952,17 +1952,17 @@ Or I will shake thee from me like a serpent!
 
 **HERMIA**  
 Why are you grown so rude? what change is this?  
-Sweet love,— ...
+Sweet love,— /
 
 **LYSANDER**  
-... Thy love! out, tawny Tartar, out!  
+/ Thy love! out, tawny Tartar, out!  
 Out, loathed medicine! hated potion, hence!
 
 **HERMIA**  
-Do you not jest? ...
+Do you not jest? /
 
 **HELENA**  
-... Yes, sooth; and so do you.
+/ Yes, sooth; and so do you.
 
 **LYSANDER**  
 Demetrius, I will keep my word with thee.
@@ -1982,10 +1982,10 @@ Am not I Hermia? are not you Lysander?
 I am as fair now as I was erewhile.  
 Since night you loved me; yet since night you left me:  
 Why, then you left me--O, the gods forbid!--  
-In earnest, shall I say? ...
+In earnest, shall I say? /
 
 **LYSANDER**  
-... Ay, by my life;  
+/ Ay, by my life;  
 And never did desire to see thee more.  
 Therefore be out of hope, of question, of doubt;  
 Be certain, nothing truer; 'tis no jest  
@@ -1994,10 +1994,10 @@ That I do hate thee and love Helena.
 **HERMIA**  
 O me! you juggler! you canker-blossom!  
 You thief of love! what, have you come by night  
-And stolen my love's heart from him? ...
+And stolen my love's heart from him? /
 
 **HELENA**  
-... Fine, i'faith!  
+/ Fine, i'faith!  
 Have you no modesty, no maiden shame,  
 No touch of bashfulness? What, will you tear  
 Impatient answers from my gentle tongue?  
@@ -2022,10 +2022,10 @@ I have no gift at all in shrewishness;
 I am a right maid for my cowardice:  
 Let her not strike me. You perhaps may think,  
 Because she is something lower than myself,  
-That I can match her. ...
+That I can match her. /
 
 **HERMIA**  
-... Lower! hark, again.
+/ Lower! hark, again.
 
 **HELENA**  
 Good Hermia, do not be so bitter with me.  
@@ -2048,10 +2048,10 @@ Why, get you gone: who is't that hinders you?
 A foolish heart, that I leave here behind.
 
 **HERMIA**  
-What, with Lysander? ...
+What, with Lysander? /
 
 **HELENA**  
-... With Demetrius.
+/ With Demetrius.
 
 **LYSANDER**  
 Be not afraid; she shall not harm thee, Helena.
@@ -2067,23 +2067,23 @@ And though she be but little, she is fierce.
 **HERMIA**  
 'Little' again! nothing but 'low' and 'little'!  
 Why will you suffer her to flout me thus?  
-Let me come to her. ...
+Let me come to her. /
 
 **LYSANDER**  
-... Get you gone, you dwarf;  
+/ Get you gone, you dwarf;  
 You minimus, of hindering knot-grass made;  
-You bead, you acorn. ...
+You bead, you acorn. /
 
 **DEMETRIUS**  
-... You are too officious  
+/ You are too officious  
 In her behalf that scorns your services.  
 Let her alone: speak not of Helena;  
 Take not her part; for, if thou dost intend  
 Never so little show of love to her,  
-Thou shalt aby it. ...
+Thou shalt aby it. /
 
 **LYSANDER**  
-... Now she holds me not;  
+/ Now she holds me not;  
 Now follow, if thou darest, to try whose right,  
 Of thine or mine, is most in Helena.
 
@@ -2094,10 +2094,10 @@ Follow! nay, I'll go with thee, cheek by jole.
 
 **HERMIA**  
 You, mistress, all this coil is 'long of you:  
-Nay, go not back. ...
+Nay, go not back. /
 
 **HELENA**  
-... I will not trust you, I,  
+/ I will not trust you, I,  
 Nor longer stay in your curst company.  
 Your hands than mine are quicker for a fray,  
 My legs are longer though, to run away.
@@ -2188,18 +2188,18 @@ Where art thou, proud Demetrius? speak thou now.
 Here, villain; drawn and ready. Where art thou?
 
 **LYSANDER**  
-I will be with thee straight. ...
+I will be with thee straight. /
 
 **PUCK**  
-... Follow me, then,  
-To plainer ground. ...
+/ Follow me, then,  
+To plainer ground. /
 
 *Exit LYSANDER, as following the voice*
 
 *Re-enter DEMETRIUS*
 
 **DEMETRIUS**  
-... Lysander! speak again:  
+/ Lysander! speak again:  
 Thou runaway, thou coward, art thou fled?  
 Speak! In some bush? Where dost thou hide thy head?
 
@@ -2208,10 +2208,10 @@ Thou coward, art thou bragging to the stars,
 Telling the bushes that thou look'st for wars,  
 And wilt not come? Come, recreant; come, thou child;  
 I'll whip thee with a rod: he is defiled  
-That draws a sword on thee. ...
+That draws a sword on thee. /
 
 **DEMETRIUS**  
-... Yea, art thou there?
+/ Yea, art thou there?
 
 **PUCK**  
 Follow my voice: we'll try no manhood here.
@@ -2226,11 +2226,11 @@ When I come where he calls, then he is gone.
 The villain is much lighter-heel'd than I:  
 I follow'd fast, but faster he did fly;  
 That fallen am I in dark uneven way,  
-And here will rest me. ...
+And here will rest me. /
 
 *\[Lies down]*
 
-... Come, thou gentle day!  
+/ Come, thou gentle day!  
 For if but once thou show me thy grey light,  
 I'll find Demetrius and revenge this spite.
 
@@ -2245,10 +2245,10 @@ Ho, ho, ho! Coward, why comest thou not?
 Abide me, if thou darest; for well I wot  
 Thou runn'st before me, shifting every place,  
 And darest not stand, nor look me in the face.  
-Where art thou now? ...
+Where art thou now? /
 
 **PUCK**  
-... Come hither: I am here.
+/ Come hither: I am here.
 
 **DEMETRIUS**  
 Nay, then, thou mock'st me. Thou shalt buy this dear,  
@@ -2445,10 +2445,10 @@ My Oberon! what visions have I seen!
 Methought I was enamour'd of an ass.
 
 **OBERON**  
-There lies your love. ...
+There lies your love. /
 
 **TITANIA**  
-... How came these things to pass?  
+/ How came these things to pass?  
 O, how mine eyes do loathe his visage now!
 
 **OBERON**  
@@ -2556,10 +2556,10 @@ Good morrow, friends. Saint Valentine is past:
 Begin these wood-birds but to couple now?
 
 **LYSANDER**  
-Pardon, my lord. ...
+Pardon, my lord. /
 
 **THESEUS**  
-... I pray you all, stand up.  
+/ I pray you all, stand up.  
 I know you two are rival enemies:  
 How comes this gentle concord in the world,  
 That hatred is so far from jealousy,  
@@ -2621,24 +2621,24 @@ These things seem small and undistinguishable,
 
 **HERMIA**  
 Methinks I see these things with parted eye,  
-When every thing seems double. ...
+When every thing seems double. /
 
 **HELENA**  
-... So methinks:  
+/ So methinks:  
 And I have found Demetrius like a jewel,  
-Mine own, and not mine own. ...
+Mine own, and not mine own. /
 
 **DEMETRIUS**  
-... Are you sure  
+/ Are you sure  
 That we are awake? It seems to me  
 That yet we sleep, we dream. Do not you think  
 The duke was here, and bid us follow him?
 
 **HERMIA**  
-Yea; and my father. ...
+Yea; and my father. /
 
 **HELENA**  
-... And Hippolyta.
+/ And Hippolyta.
 
 **LYSANDER**  
 And he did bid us follow to the temple.
@@ -2798,10 +2798,10 @@ Here come the lovers, full of joy and mirth.
 *Enter LYSANDER, DEMETRIUS, HERMIA, and HELENA*
 
 Joy, gentle friends! joy and fresh days of love  
-Accompany your hearts! ...
+Accompany your hearts! /
 
 **LYSANDER**  
-... More than to us  
+/ More than to us  
 Wait in your royal walks, your board, your bed!
 
 **THESEUS**  
@@ -2811,10 +2811,10 @@ Between our after-supper and bed-time?
 Where is our usual manager of mirth?  
 What revels are in hand? Is there no play,  
 To ease the anguish of a torturing hour?  
-Call Philostrate. ...
+Call Philostrate. /
 
 **PHILOSTRATE**  
-... Here, mighty Theseus.
+/ Here, mighty Theseus.
 
 **THESEUS**  
 Say, what abridgement have you for this evening?  
@@ -2874,18 +2874,18 @@ And now have toil'd their unbreathed memories
 With this same play, against your nuptial.
 
 **THESEUS**  
-And we will hear it. ...
+And we will hear it. /
 
 **PHILOSTRATE**  
-... No, my noble lord;  
+/ No, my noble lord;  
 It is not for you: I have heard it over,  
 And it is nothing, nothing in the world;  
 Unless you can find sport in their intents,  
 Extremely stretch'd and conn'd with cruel pain,  
-To do you service. ...
+To do you service. /
 
 **THESEUS**  
-... I will hear that play;  
+/ I will hear that play;  
 For never anything can be amiss,  
 When simpleness and duty tender it.  
 Go, bring them in: and take your places, ladies.

@@ -158,24 +158,24 @@ How well this yielding rescues thee from shame!
 *\[Reads]*  
 'Item, That no woman shall come within a mile of my court:'
 
-Hath this been proclaimed? ...
+Hath this been proclaimed? /
 
 **LONGAVILLE**  
-... Four days ago.
+/ Four days ago.
 
 **BIRON**  
-Let's see the penalty. ...
+Let's see the penalty. /
 
 *\[Reads]*  
-... 'On pain of losing her tongue.'
+/ 'On pain of losing her tongue.'
 
 Who devised this penalty?
 
 **LONGAVILLE**  
-Marry, that did I. ...
+Marry, that did I. /
 
 **BIRON**  
-... Sweet lord, and why?
+/ Sweet lord, and why?
 
 **LONGAVILLE**  
 To fright them hence with that dread penalty.
@@ -842,10 +842,10 @@ Who are the votaries, my loving lords,
 That are vow-fellows with this virtuous duke?
 
 **MARIA**  
-Lord Longaville is one. ...
+Lord Longaville is one. /
 
 **PRINCESS**  
-... Know you the man?
+/ Know you the man?
 
 **MARIA**  
 I know him, madam: at a marriage-feast,  
@@ -983,22 +983,22 @@ Not till it leave the rider in the mire.
 What time o' day?
 
 **ROSALINE**  
-The hour that fools should ask. ...
+The hour that fools should ask. /
 
 **BIRON**  
-... Now fair befall your mask!
+/ Now fair befall your mask!
 
 **ROSALINE**  
-Fair fall the face it covers! ...
+Fair fall the face it covers! /
 
 **BIRON**  
-... And send you many lovers!
+/ And send you many lovers!
 
 **ROSALINE**  
-Amen, so you be none. ...
+Amen, so you be none. /
 
 **BIRON**  
-... Nay, then will I be gone.
+/ Nay, then will I be gone.
 
 **FERDINAND**  
 Madam, your father here doth intimate  
@@ -1061,34 +1061,34 @@ Pray you, do my commendations; I would be glad to see it.
 I would you heard it groan.
 
 **ROSALINE**  
-Is the fool sick? ...
+Is the fool sick? /
 
 **BIRON**  
-... Sick at the heart.
+/ Sick at the heart.
 
 **ROSALINE**  
-Alack, let it blood. ...
+Alack, let it blood. /
 
 **BIRON**  
-... Would that do it good?
+/ Would that do it good?
 
 **ROSALINE**  
-My physic says 'ay.' ...
+My physic says 'ay.' /
 
 **BIRON**  
-... Will you prick't with your eye?
+/ Will you prick't with your eye?
 
 **ROSALINE**  
-No point, with my knife. ...
+No point, with my knife. /
 
 **BIRON**  
-... Now, God save thy life!
+/ Now, God save thy life!
 
 **ROSALINE**  
-And yours from long living! ...
+And yours from long living! /
 
 **BIRON**  
-... I cannot stay thanksgiving.  
+/ I cannot stay thanksgiving.  
 *\[Retiring]*
 
 **DUMAIN**  
@@ -1118,10 +1118,10 @@ She hath but one for herself; to desire that were a shame.
 Pray you, sir, whose daughter?
 
 **BOYET**  
-Her mother's, I have heard. ...
+Her mother's, I have heard. /
 
 **LONGAVILLE**  
-... God's blessing on your beard!
+/ God's blessing on your beard!
 
 **BOYET**  
 Good sir, be not offended.  
@@ -1137,16 +1137,16 @@ Not unlike, sir, that may be.
 *Exit LONGAVILLE*
 
 **BIRON**  
-What's her name in the cap? ...
+What's her name in the cap? /
 
 **BOYET**  
-... Rosaline, by good hap.
+/ Rosaline, by good hap.
 
 **BIRON**  
-Is she wedded or no? ...
+Is she wedded or no? /
 
 **BOYET**  
-... To her will, sir, or so.
+/ To her will, sir, or so.
 
 **BIRON**  
 You are welcome, sir: adieu.
@@ -1170,28 +1170,28 @@ It was well done of you to take him at his word.
 I was as willing to grapple as he was to board.
 
 **MARIA**  
-Two hot sheeps, marry. ...
+Two hot sheeps, marry. /
 
 **BOYET**  
-... And wherefore not ships?  
+/ And wherefore not ships?  
 No sheep, sweet lamb, unless we feed on your lips.
 
 **MARIA**  
 You sheep, and I pasture: shall that finish the jest?
 
 **BOYET**  
-So you grant pasture for me. ...  
+So you grant pasture for me. /  
 *\[Offering to kiss her]*
 
 **MARIA**  
-... Not so, gentle beast:  
+/ Not so, gentle beast:  
 My lips are no common, though several they be.
 
 **BOYET**  
-Belonging to whom? ...
+Belonging to whom? /
 
 **MARIA**  
-... To my fortunes and me.
+/ To my fortunes and me.
 
 **PRINCESS**  
 Good wits will be jangling; but, gentles, agree:  
@@ -1631,10 +1631,10 @@ What, what? first praise me and again say no?
 O short-lived pride! Not fair? alack for woe!
 
 **Forester**  
-Yes, madam, fair. ...
+Yes, madam, fair. /
 
 **PRINCESS**  
-... Nay, never paint me now:  
+/ Nay, never paint me now:  
 Where fair is not, praise cannot mend the brow.  
 Here, good my glass, take this for telling true:  
 Fair payment for foul words is more than due.
@@ -1697,10 +1697,10 @@ I have a letter from Monsieur Biron to one Lady Rosaline.
 **PRINCESS**  
 O, thy letter, thy letter! he's a good friend of mine:  
 Stand aside, good bearer. Boyet, you can carve;  
-Break up this capon. ...
+Break up this capon. /
 
 **BOYET**  
-... I am bound to serve.  
+/ I am bound to serve.  
 This letter is mistook, it importeth none here;  
 It is writ to Jaquenetta.
 
@@ -1740,10 +1740,10 @@ A phantasime, a Monarcho, and one that makes sport
 To the prince and his bookmates.
 
 **PRINCESS**  
-Who gave thee this letter? ...
+Who gave thee this letter? /
 
 **COSTARD**  
-... I told you; my lord.
+/ I told you; my lord.
 
 **PRINCESS**  
 To whom shouldst thou give it?
@@ -1778,10 +1778,10 @@ Hang me by the neck, if horns that year miscarry.
 Finely put on!
 
 **ROSALINE**  
-Well, then, I am the shooter. ...
+Well, then, I am the shooter. /
 
 **BOYET**  
-... And who is your deer?
+/ And who is your deer?
 
 **ROSALINE**  
 If we choose by the horns, yourself come not near.  
@@ -1921,10 +1921,10 @@ What was a month old at Cain's birth, that's not five weeks old as yet?
 Dictynna, goodman Dull; Dictynna, goodman Dull.
 
 **DULL**  
-What is Dictynna? ...
+What is Dictynna? /
 
 **HOLOFERNES**  
-... God comfort thy capacity!  
+/ God comfort thy capacity!  
 Sir Nathaniel, will you hear an extemporal epitaph  
 on the death of the deer? And, to humour the  
 ignorant, call I the deer the princess killed a pricket.
@@ -2078,11 +2078,11 @@ with a paper: God give him grace to groan!
 *Enter FERDINAND, with a paper*
 
 **FERDINAND**  
-Ay me! ...
+Ay me! /
 
 **BIRON**  
 *\[Aside]*  
-... Shot, by heaven! Proceed, sweet Cupid:  
+/ Shot, by heaven! Proceed, sweet Cupid:  
 thou hast thumped him with thy bird-bolt under the  
 left pap. In faith, secrets!
 
@@ -2147,10 +2147,10 @@ More sacks to the mill! O heavens, I have my wish!
 Dumain transform'd! four woodcocks in a dish!
 
 **DUMAIN**  
-O most divine Kate! ...
+O most divine Kate! /
 
 **BIRON**  
-... O most profane coxcomb!
+/ O most profane coxcomb!
 
 **DUMAIN**  
 By heaven, the wonder in a mortal eye!
@@ -2165,23 +2165,23 @@ Her amber hair for foul hath amber quoted.
 An amber-colour'd raven was well noted.
 
 **DUMAIN**  
-As upright as the cedar. ...
+As upright as the cedar. /
 
 **BIRON**  
-... Stoop, I say;  
-Her shoulder is with child. ...
+/ Stoop, I say;  
+Her shoulder is with child. /
 
 **DUMAIN**  
-... As fair as day.
+/ As fair as day.
 
 **BIRON**  
 Ay, as some days; but then no sun must shine.
 
 **DUMAIN**  
-O that I had my wish! ...
+O that I had my wish! /
 
 **LONGAVILLE**  
-... And I had mine!
+/ And I had mine!
 
 **FERDINAND**  
 And I mine too, good Lord!
@@ -2299,31 +2299,31 @@ Or groan for love? or spend a minute's time
 In pruning me? When shall you hear that I  
 Will praise a hand, a foot, a face, an eye,  
 A gait, a state, a brow, a breast, a waist,  
-A leg, a limb? ...
+A leg, a limb? /
 
 **FERDINAND**  
-... Soft! whither away so fast?  
+/ Soft! whither away so fast?  
 A true man or a thief that gallops so?
 
 *Enter JAQUENETTA and COSTARD*
 
 **JAQUENETTA**  
-God bless the king! ...
+God bless the king! /
 
 **FERDINAND**  
-... What present hast thou there?
+/ What present hast thou there?
 
 **COSTARD**  
-Some certain treason. ...
+Some certain treason. /
 
 **FERDINAND**  
-... What makes treason here?
+/ What makes treason here?
 
 **COSTARD**  
-Nay, it makes nothing, sir. ...
+Nay, it makes nothing, sir. /
 
 **FERDINAND**  
-... If it mar nothing neither,  
+/ If it mar nothing neither,  
 The treason and you go in peace away together.
 
 **JAQUENETTA**  
@@ -2331,16 +2331,16 @@ I beseech your grace, let this letter be read:
 Our parson misdoubts it; 'twas treason, he said.
 
 **FERDINAND**  
-Biron, read it over. ...
+Biron, read it over. /
 
 *\[Giving him the paper]*  
-... Where hadst thou it?
+/ Where hadst thou it?
 
 **JAQUENETTA**  
-Of Costard. ...
+Of Costard. /
 
 **FERDINAND**  
-... Where hadst thou it?
+/ Where hadst thou it?
 
 **COSTARD**  
 Of Dun Adramadio, Dun Adramadio.
@@ -2373,10 +2373,10 @@ Are pick-purses in love, and we deserve to die.
 O, dismiss this audience, and I shall tell you more.
 
 **DUMAIN**  
-Now the number is even. ...
+Now the number is even. /
 
 **FERDINAND**  
-... Hence, sirs; away!
+/ Hence, sirs; away!
 
 **COSTARD**  
 Walk aside the true folk, and let the traitors stay.
@@ -2409,10 +2409,10 @@ O, some authority how to proceed;
 Some tricks, some quillets, how to cheat the devil.
 
 **DUMAIN**  
-Some salve for perjury. ...
+Some salve for perjury. /
 
 **BIRON**  
-... 'Tis more than need.  
+/ 'Tis more than need.  
 Have at you, then, affection's men at arms.  
 Consider what you first did swear unto,  
 To fast, to study, and to see no woman;  
@@ -2836,10 +2836,10 @@ Great reason; for 'past cure is still past care.'
 **PRINCESS**  
 Well bandied both; a set of wit well play'd.  
 But Rosaline, you have a favour too:  
-Who sent it? and what is it? ...
+Who sent it? and what is it? /
 
 **ROSALINE**  
-... I would you knew:  
+/ I would you knew:  
 An if my face were but as fair as yours,  
 My favour were as great; be witness this.  
 Nay, I have verses too, I thank Biron:  
@@ -2872,10 +2872,10 @@ A pox of that jest! and I beshrew all shrows.
 But, Katharine, what was sent to you from fair Dumain?
 
 **KATHARINE**  
-Madam, this glove. ...
+Madam, this glove. /
 
 **PRINCESS**  
-... Did he not send you twain?
+/ Did he not send you twain?
 
 **KATHARINE**  
 Yes, madam, and moreover  
@@ -3066,11 +3066,11 @@ True; out indeed.
 
 **MOTH**  
 Out of your favours, heavenly spirits, vouchsafe  
-Not to behold—- ...
+Not to behold—- /
 
 **BIRON**  
 *\[Aside to MOTH]*  
-... Once to behold, rogue.
+/ Once to behold, rogue.
 
 **MOTH**  
 Once to behold with your sun-beamed eyes,  
@@ -3134,10 +3134,10 @@ How many inches doth fill up one mile.
 Tell her, we measure them by weary steps.
 
 **BOYET**  
-She hears herself. ...
+She hears herself. /
 
 **ROSALINE**  
-... How many weary steps,  
+/ How many weary steps,  
 Of many weary miles you have o'ergone,  
 Are number'd in the travel of one mile?
 
@@ -3180,20 +3180,20 @@ Yet still she is the moon, and I the man.
 The music plays; vouchsafe some motion to it.
 
 **ROSALINE**  
-Our ears vouchsafe it. ...
+Our ears vouchsafe it. /
 
 **FERDINAND**  
-... But your legs should do it.
+/ But your legs should do it.
 
 **ROSALINE**  
 Since you are strangers and come here by chance,  
 We'll not be nice: take hands. We will not dance.
 
 **FERDINAND**  
-Why take we hands, then? ...
+Why take we hands, then? /
 
 **ROSALINE**  
-... Only to part friends:  
+/ Only to part friends:  
 Curtsy, sweet hearts; and so the measure ends.
 
 **FERDINAND**  
@@ -3206,10 +3206,10 @@ We can afford no more at such a price.
 Prize you yourselves: what buys your company?
 
 **ROSALINE**  
-Your absence only. ...
+Your absence only. /
 
 **FERDINAND**  
-... That can never be.
+/ That can never be.
 
 **ROSALINE**  
 Then cannot we be bought: and so, adieu;  
@@ -3219,10 +3219,10 @@ Twice to your visor, and half once to you.
 If you deny to dance, let's hold more chat.
 
 **ROSALINE**  
-In private, then. ...
+In private, then. /
 
 **FERDINAND**  
-... I am best pleased with that.
+/ I am best pleased with that.
 
 *They converse apart*
 
@@ -3233,19 +3233,19 @@ White-handed mistress, one sweet word with thee.
 Honey, and milk, and sugar; there is three.
 
 **BIRON**  
-One word in secret. ...
+One word in secret. /
 
 **PRINCESS**  
-... Let it not be sweet.
+/ Let it not be sweet.
 
 **BIRON**  
-Thou grievest my gall. ...
+Thou grievest my gall. /
 
 **PRINCESS**  
-... Gall! bitter. ...
+/ Gall! bitter. /
 
 **BIRON**  
-... Therefore meet.
+/ Therefore meet.
 
 *They converse apart*
 
@@ -3253,17 +3253,17 @@ Thou grievest my gall. ...
 Will you vouchsafe with me to change a word?
 
 **MARIA**  
-Name it. ...
+Name it. /
 
 **DUMAIN**  
-... Fair lady,-- ...
+/ Fair lady,-- /
 
 **MARIA**  
-... Say you so? Fair lord,--  
-Take that for your fair lady. ...
+/ Say you so? Fair lord,--  
+Take that for your fair lady. /
 
 **DUMAIN**  
-... Please it you,  
+/ Please it you,  
 As much in private, and I'll bid adieu.
 
 *They converse apart*
@@ -3285,16 +3285,16 @@ And would afford my speechless vizard half.
 Veal, quoth the Dutchman. Is not 'veal' a calf?
 
 **LONGAVILLE**  
-A calf, fair lady! ...
+A calf, fair lady! /
 
 **KATHARINE**  
-... No, a fair lord calf.
+/ No, a fair lord calf.
 
 **LONGAVILLE**  
-Let's part the word. ...
+Let's part the word. /
 
 **KATHARINE**  
-... No, I'll not be your half  
+/ No, I'll not be your half  
 Take all, and wean it; it may prove an ox.
 
 **LONGAVILLE**  
@@ -3350,10 +3350,10 @@ No point, quoth I; my servant straight was mute.
 
 **KATHARINE**  
 Lord Longaville said, I came o'er his heart;  
-And trow you what he called me? ...
+And trow you what he called me? /
 
 **PRINCESS**  
-... Qualm, perhaps.
+/ Qualm, perhaps.
 
 **KATHARINE**  
 Yes, in good faith.
@@ -3569,16 +3569,16 @@ Nor shall not, if I do as I intend.
 Were not you here but even now disguised?
 
 **FERDINAND**  
-Madam, I was. ...
+Madam, I was. /
 
 **PRINCESS**  
-... And were you well advised?
+/ And were you well advised?
 
 **FERDINAND**  
-I was, fair madam. ...
+I was, fair madam. /
 
 **PRINCESS**  
-... When you then were here,  
+/ When you then were here,  
 What did you whisper in your lady's ear?
 
 **FERDINAND**  
@@ -3588,10 +3588,10 @@ That more than all the world I did respect her.
 When she shall challenge this, you will reject her.
 
 **FERDINAND**  
-Upon mine honour, no. ...
+Upon mine honour, no. /
 
 **PRINCESS**  
-... Peace, peace! forbear:  
+/ Peace, peace! forbear:  
 Your oath once broke, you force not to forswear.
 
 **FERDINAND**  
@@ -3765,10 +3765,10 @@ with thee.
 I Pompey am, Pompey surnamed the Big--
 
 **DUMAIN**  
-The Great. ...
+The Great. /
 
 **COSTARD**  
-... It is, 'Great,' sir:--Pompey surnamed the Great;  
+/ It is, 'Great,' sir:--Pompey surnamed the Great;  
 That oft in field, with targe and shield, did make my foe to sweat:  
 And travelling along this coast, I here am come by chance,  
 And lay my arms before the legs of this sweet lass of France,  
@@ -3804,10 +3804,10 @@ When in the world I lived, I was the world's commander,--
 Most true, 'tis right; you were so, Alisander.
 
 **BIRON**  
-Pompey the Great,-- ...
+Pompey the Great,-- /
 
 **COSTARD**  
-... Your servant, and Costard.
+/ Your servant, and Costard.
 
 **BIRON**  
 Take away the conqueror, take away Alisander.
@@ -3840,44 +3840,44 @@ Thus did he strangle serpents in his manus.
 
 *MOTH retires*
 
-Judas I am,-- ...
+Judas I am,-- /
 
 **DUMAIN**  
-... A Judas! ...
+/ A Judas! /
 
 **HOLOFERNES**  
-... Not Iscariot, sir.  
+/ Not Iscariot, sir.  
 Judas I am, ycliped Maccabaeus.
 
 **DUMAIN**  
 Judas Maccabaeus clipt is plain Judas.
 
 **HOLOFERNES**  
-Judas I am,-- ...
+Judas I am,-- /
 
 **DUMAIN**  
-... The more shame for you, Judas.
+/ The more shame for you, Judas.
 
 **HOLOFERNES**  
-What mean you, sir? ...
+What mean you, sir? /
 
 **BOYET**  
-... To make Judas hang himself.
+/ To make Judas hang himself.
 
 **HOLOFERNES**  
 I will not be put out of countenance.
 
 **BIRON**  
-Because thou hast no face. ...
+Because thou hast no face. /
 
 **HOLOFERNES**  
-... What is this?
+/ What is this?
 
 **DUMAIN**  
-The head of a bodkin. ...
+The head of a bodkin. /
 
 **BIRON**  
-... A Death's face in a ring.
+/ A Death's face in a ring.
 
 **LONGAVILLE**  
 The face of an old Roman coin, scarce seen.
@@ -3934,33 +3934,33 @@ He's a god or a painter; for he makes faces.
 
 **DON ADRIANO DE ARMADO**  
 The armipotent Mars, of lances the almighty,  
-Gave Hector a gift,-- ...
+Gave Hector a gift,-- /
 
 **DUMAIN**  
-... A gilt nutmeg.
+/ A gilt nutmeg.
 
 **BIRON**  
-A lemon. ...
+A lemon. /
 
 **LONGAVILLE**  
-... Stuck with cloves. ...
+/ Stuck with cloves. /
 
 **DUMAIN**  
-... No, cloven. ...
+/ No, cloven. /
 
 **DON ADRIANO DE ARMADO**  
-... Peace!--  
+/ Peace!--  
 The armipotent Mars, of lances the almighty  
 Gave Hector a gift, the heir of Ilion;  
 A man so breathed, that certain he would fight; yea  
 From morn till night, out of his pavilion.  
-I am that flower,-- ...
+I am that flower,-- /
 
 **DUMAIN**  
-... That mint. ...
+/ That mint. /
 
 **LONGAVILLE**  
-... That columbine.
+/ That columbine.
 
 **DON ADRIANO DE ARMADO**  
 Sweet Lord Longaville, rein thy tongue.
@@ -4037,10 +4037,10 @@ in my shirt.
 *Enter MERCADE*
 
 **MERCADE**  
-God save you, madam! ...
+God save you, madam! /
 
 **PRINCESS**  
-... Welcome, Mercade;  
+/ Welcome, Mercade;  
 But that thou interrupt'st our merriment.
 
 **MERCADE**  
@@ -4048,10 +4048,10 @@ I am sorry, madam; for the news I bring
 Is heavy in my tongue. The king your father--
 
 **PRINCESS**  
-Dead, for my life! ...
+Dead, for my life! /
 
 **MERCADE**  
-... Even so; my tale is told.
+/ Even so; my tale is told.
 
 **BIRON**  
 Worthies, away! the scene begins to cloud.
@@ -4142,17 +4142,17 @@ In their own fashion, like a merriment.
 Our letters, madam, show'd much more than jest.
 
 **LONGAVILLE**  
-So did our looks. ...
+So did our looks. /
 
 **ROSALINE**  
-... We did not quote them so.
+/ We did not quote them so.
 
 **FERDINAND**  
 Now, at the latest minute of the hour,  
-Grant us your loves. ...
+Grant us your loves. /
 
 **PRINCESS**  
-... A time, methinks, too short  
+/ A time, methinks, too short  
 To make a world-without-end bargain in.  
 No, no, my lord, your grace is perjured much,  
 Full of dear guiltiness; and therefore this:  
@@ -4207,10 +4207,10 @@ I'll serve thee true and faithfully till then.
 Yet swear not, lest ye be forsworn again.
 
 **LONGAVILLE**  
-What says Maria? ...
+What says Maria? /
 
 **MARIA**  
-... At the twelvemonth's end  
+/ At the twelvemonth's end  
 I'll change my black gown for a faithful friend.
 
 **LONGAVILLE**  
@@ -4274,9 +4274,9 @@ Might well have made our sport a comedy.
 
 **FERDINAND**  
 Come, sir, it wants a twelvemonth and a day,  
-And then 'twill end. ...
+And then 'twill end. /
 
 **BIRON**  
-... That's too long for a play.
+/ That's too long for a play.
 
 *Exeunt*

@@ -104,10 +104,10 @@ support usurers; repeal daily any wholesome act
 established against the rich, and provide more  
 piercing statutes daily, to chain up and restrain  
 the poor. If the wars eat us not up, they will; and  
-there's all the love they bear us. ...
+there's all the love they bear us. /
 
 **MENENIUS**  
-... Either you must  
+/ Either you must  
 Confess yourselves wondrous malicious,  
 Or be accused of folly. I shall tell you  
 A pretty tale: it may be you have heard it;  
@@ -124,26 +124,26 @@ Of the whole body. The belly answer'd--
 To the discontented members, the mutinous parts  
 That envied his receipt; even so most fitly  
 As you malign our senators for that  
-They are not such as you. ...
+They are not such as you. /
 
 **First Citizen**  
-... Your belly's answer? What!  
+/ Your belly's answer? What!  
 The kingly-crowned head, the vigilant eye,  
 The counsellor heart, the arm our soldier,  
 Our steed the leg, the tongue our trumpeter.  
 With other muniments and petty helps  
-In this our fabric, if that they-- ...
+In this our fabric, if that they-- /
 
 **MENENIUS**  
-... What then?  
+/ What then?  
 'Fore me, this fellow speaks! What then? What then?
 
 **First Citizen**  
 Should by the cormorant belly be restrain'd,  
-What could the belly answer? ...
+What could the belly answer? /
 
 **MENENIUS**  
-... I will tell you  
+/ I will tell you  
 If you'll bestow a small--of what you have little--  
 Patience awhile, you'll hear the belly's answer.  
 'True is it, my incorporate friends,' quoth he,  
@@ -160,10 +160,10 @@ Whereby they live: and though that all at once,
 You, my good friends,'--this says the belly, mark me,--
 
 **First Citizen**  
-Ay, sir; well, well. ...
+Ay, sir; well, well. /
 
 **MENENIUS**  
-... 'Though all at once cannot  
+/ 'Though all at once cannot  
 See what I do deliver out to each,  
 Yet I can make my audit up, that all  
 From me do back receive the flour of all,  
@@ -192,19 +192,19 @@ Thou rascal, that art worst in blood to run,
 Lead'st first to win some vantage.  
 But make you ready your stiff bats and clubs:  
 Rome and her rats are at the point of battle;  
-The one side must have bale. ...
+The one side must have bale. /
 
 *Enter CAIUS MARCIUS*
 
-... Hail, noble Marcius!
+/ Hail, noble Marcius!
 
 **MARCIUS**  
 Thanks. What's the matter, you dissentious rogues,  
 That, rubbing the poor itch of your opinion,  
-Make yourselves scabs? ...
+Make yourselves scabs? /
 
 **First Citizen**  
-... We have ever your good word.
+/ We have ever your good word.
 
 **MARCIUS**  
 He that will give good words to thee will flatter  
@@ -226,10 +226,10 @@ Would feed on one another? What's their seeking?
 
 **MENENIUS**  
 For corn at their own rates; whereof, they say,  
-The city is well stored. ...
+The city is well stored. /
 
 **MARCIUS**  
-... Hang 'em! They say!  
+/ Hang 'em! They say!  
 They'll sit by the fire, and presume to know  
 What's done i' the Capitol; who's like to rise,  
 Who thrives and who declines; side factions and give out  
@@ -254,10 +254,10 @@ Corn for the rich men only: with these shreds
 They vented their complainings; which being answer'd,  
 And a petition granted them, a strange one--they threw their caps  
 As they would hang them on the horns o' the moon,  
-Shouting their emulation. ...
+Shouting their emulation. /
 
 **MENENIUS**  
-... What is granted them?
+/ What is granted them?
 
 **MARCIUS**  
 Five tribunes to defend their vulgar wisdoms,  
@@ -266,10 +266,10 @@ Sicinius Velutus, and I know not--'Sdeath!
 The rabble should have first unroof'd the city,  
 Ere so prevail'd with me: it will in time  
 Win upon power and throw forth greater themes  
-For insurrection's arguing. ...
+For insurrection's arguing. /
 
 **MENENIUS**  
-... This is strange.
+/ This is strange.
 
 **MARCIUS**  
 Go, get you home, you fragments!
@@ -287,31 +287,31 @@ Our musty superfluity. See, our best elders.
 
 **Roman Senator**  
 Marcius, 'tis true that you have lately told us;  
-The Volsces are in arms. ...
+The Volsces are in arms. /
 
 **MARCIUS**  
-... They have a leader,  
+/ They have a leader,  
 Tullus Aufidius, that will put you to 't.  
 I sin in envying his nobility,  
 And were I anything but what I am,  
 I would wish me only he. He is a lion  
-That I am proud to hunt. ...
+That I am proud to hunt. /
 
 **Roman Senator**  
-... Then, worthy Marcius,  
+/ Then, worthy Marcius,  
 Attend upon Cominius to these wars.
 
 **COMINIUS**  
-It is your former promise. ...
+It is your former promise. /
 
 **MARCIUS**  
-... Sir, it is;  
+/ Sir, it is;  
 And I am constant. Titus Lartius, thou  
 Shalt see me once more strike at Tullus' face.  
-What, art thou stiff? stand'st out? ...
+What, art thou stiff? stand'st out? /
 
 **TITUS**  
-... No, Caius Marcius;  
+/ No, Caius Marcius;  
 I'll lean upon one crutch and fight with t'other,  
 Ere stay behind this business.
 
@@ -320,10 +320,10 @@ Your company to the Capitol; where, I know,
 Our greatest friends attend us.
 
 *\[To the Citizens]*  
-Hence to your homes; be gone! ...
+Hence to your homes; be gone! /
 
 **MARCIUS**  
-... Nay, let them follow:  
+/ Nay, let them follow:  
 The Volsces have much corn; take these rats thither  
 To gnaw their garners.
 
@@ -339,46 +339,46 @@ He has no equal.
 When we were chosen tribunes for the people,--
 
 **BRUTUS**  
-Mark'd you his lip and eyes? ...
+Mark'd you his lip and eyes? /
 
 **SICINIUS**  
-... Nay. But his taunts.
+/ Nay. But his taunts.
 
 **BRUTUS**  
 The present wars devour him: he is grown  
-Too proud to be so valiant. ...
+Too proud to be so valiant. /
 
 **SICINIUS**  
-... Such a nature,  
+/ Such a nature,  
 Tickled with good success, disdains the shadow  
 Which he treads on at noon: but I do wonder  
 His insolence can brook to be commanded  
-Under Cominius. ...
+Under Cominius. /
 
 **BRUTUS**  
-... Fame, at the which he aims,  
+/ Fame, at the which he aims,  
 In whom already he's well graced, can not  
 Better be held nor more attain'd than by  
 A place below the first: for what miscarries  
 Shall be the general's fault, though he perform  
 To the utmost of a man, and giddy censure  
 Will then cry out of Marcius 'O if he  
-Had borne the business!' ...
+Had borne the business!' /
 
 **SICINIUS**  
-... Besides, if things go well,  
+/ Besides, if things go well,  
 Opinion that so sticks on Marcius shall  
-Of his demerits rob Cominius. ...
+Of his demerits rob Cominius. /
 
 **BRUTUS**  
-... Come:  
+/ Come:  
 Half all Cominius' honours are to Marcius.  
 Though Marcius earned them not, and all his faults  
 To Marcius shall be honours, though indeed  
-In aught he merit not. ...
+In aught he merit not. /
 
 **SICINIUS**  
-... Let's hence, and hear  
+/ Let's hence, and hear  
 How the dispatch is made, and in what fashion,  
 More than his singularity, he goes  
 Upon this present action.
@@ -392,10 +392,10 @@ Upon this present action.
 **First Volscian Senator**  
 So, your opinion is, Aufidius,  
 That they of Rome are entered in our counsels  
-And know how we proceed. ...
+And know how we proceed. /
 
 **AUFIDIUS**  
-... Is it not yours?  
+/ Is it not yours?  
 What ever have been thought on in this state,  
 That could be brought to bodily act ere Rome  
 Had circumvention? 'Tis not four days gone  
@@ -411,41 +411,41 @@ Who is of Rome worse hated than of you,
 And Titus Lartius, a most valiant Roman,  
 These three lead on this preparation  
 Whither 'tis bent: most likely 'tis for you:  
-Consider of it.' ...
+Consider of it.' /
 
 **Volscian Senator**  
-... Our army's in the field  
+/ Our army's in the field  
 We never yet made doubt but Rome was ready  
-To answer us. ...
+To answer us. /
 
 **AUFIDIUS**  
-... Nor did you think it folly  
+/ Nor did you think it folly  
 To keep your great pretences veil'd till when  
 They needs must show themselves; which in the hatching,  
 It seem'd, appear'd to Rome. By the discovery.  
 We shall be shorten'd in our aim, which was  
 To take in many towns ere almost Rome  
-Should know we were afoot. ...
+Should know we were afoot. /
 
 **Volscian Senator**  
-... Noble Aufidius,  
+/ Noble Aufidius,  
 Take your commission; hie you to your bands:  
 Let us alone to guard Corioli:  
 If they set down before 's, for the remove  
 Bring your army; but, I think, you'll find  
-They've not prepared for us. ...
+They've not prepared for us. /
 
 **AUFIDIUS**  
-... O, doubt not that;  
+/ O, doubt not that;  
 I speak from certainties. Nay, more,  
 Some parcels of their power are forth already,  
 And only hitherward. I leave your honours.  
 If we and Caius Marcius chance to meet,  
 'Tis sworn between us we shall ever strike  
-Till one can do no more. ...
+Till one can do no more. /
 
 **Volscian Senator**  
-... The gods assist you!
+/ The gods assist you!
 
 **AUFIDIUS**  
 And keep your honours safe!
@@ -652,11 +652,11 @@ Tutus Aufidius, is he within your walls?
 
 **Volscian Senator**  
 No, nor a man that fears you less than he,  
-That's lesser than a little. ...
+That's lesser than a little. /
 
 *Alarum afar off*
 
-... Hark you. far off!  
+/ Hark you. far off!  
 There is Aufidius; list, what work he makes  
 Amongst your cloven army.
 
@@ -703,24 +703,24 @@ What is become of Marcius?
 Following the fliers at the very heels,  
 With them he enters; who, upon the sudden,  
 Clapp'd to their gates: he is himself alone,  
-To answer all the city. ...
+To answer all the city. /
 
 **TITUS LARTIUS**  
-... Thou art left, Marcius:  
+/ Thou art left, Marcius:  
 A carbuncle entire, as big as thou art,  
 Were not so rich a jewel. Thou wast a soldier  
 Even to Cato's wish, not fierce and terrible  
 Only in strokes; but, with thy grim looks and  
 Thou madst thine enemies shake, as if the world  
-Were fev'rous and did tremble. ...
+Were fev'rous and did tremble. /
 
 *Re-enter MARCIUS, bleeding, assaulted by the enemy*
 
 **Roman Captain**  
-.. Look, sir. ...
+.. Look, sir. /
 
 **TITUS LARTIUS**  
-... O,'tis Marcius!  
+/ O,'tis Marcius!  
 Let's fetch him off, or make remain alike.
 
 *They fight, and all enter the city*
@@ -744,26 +744,26 @@ May give you thankful sacrifice.
 The citizens of Corioli have issued,  
 And given to Lartius and to Marcius battle:  
 I saw our party to their trenches driven,  
-And then I came away. ...
+And then I came away. /
 
 **COMINIUS**  
-... Who's yonder,  
+/ Who's yonder,  
 That does appear as he were flay'd? O gods  
 He has the stamp of Marcius; and I have  
-Before-time seen him thus. ...
+Before-time seen him thus. /
 
 **MARCIUS**  
 *\[Within]*  
-... Come I too late?
+/ Come I too late?
 
 *Enter MARCIUS*
 
 **COMINIUS**  
 Ay, if you come not in the blood of others,  
-But mantled in your own. ...
+But mantled in your own. /
 
 **MARCIUS**  
-... O, let me clip ye  
+/ O, let me clip ye  
 In arms as sound as when I woo'd, in heart  
 As merry as when our nuptial day was done,  
 And tapers burn'd to bedward!
@@ -776,61 +776,61 @@ As with a man busied about decrees:
 Condemning some to death, and some to exile;  
 Holding Corioli in the name of Rome,  
 Even like a fawning greyhound in the leash,  
-To let him slip at will. ...
+To let him slip at will. /
 
 **COMINIUS**  
-... Marcius,  
+/ Marcius,  
 We have at disadvantage fought and did  
 Retire to win our purpose.
 
 **MARCIUS**  
 How lies their battle? know you on which side  
-They have placed their men of trust? ...
+They have placed their men of trust? /
 
 **COMINIUS**  
-... As I guess, Marcius,  
+/ As I guess, Marcius,  
 Their bands i' the vanward are the Antiates,  
 Of their best trust; o'er them Aufidius,  
-Their very heart of hope. ...
+Their very heart of hope. /
 
 **MARCIUS**  
-... I do beseech you,  
+/ I do beseech you,  
 By the blood we have shed together, by the vows  
 We have made to endure friends, that you directly  
 Set me against Aufidius and his Antiates;  
 And that you not delay the present, but,  
 Filling the air with swords advanced and darts,  
-We prove this very hour. ...
+We prove this very hour. /
 
 **COMINIUS**  
-... Though I could wish  
+/ Though I could wish  
 You were conducted to a gentle bath  
 And balms applied to, you, yet dare I never  
 Deny your asking: take your choice of those  
-That best can aid your action. ...
+That best can aid your action. /
 
 **MARCIUS**  
-... Those are they  
+/ Those are they  
 That most are willing. If any such be here--  
 As it were sin to doubt--that love this painting  
 Wherein you see me smear'd; if any fear  
 Lesser his person than an ill report;  
 Let him alone, or so many so minded,  
 Wave thus, to express his disposition,  
-And follow Marcius. ...
+And follow Marcius. /
 
 *They all shout and wave their swords, take him up in their arms, and
 cast up their caps*
 
-... A certain number,  
+/ A certain number,  
 Though thanks to all, must I select from all: the rest  
 Shall bear the business in some other fight,  
 As cause will be obey'd. Please you to march;  
 And four shall quickly draw out my command,  
-Which men are best inclined. ...
+Which men are best inclined. /
 
 **COMINIUS**  
-... March on, my fellows:  
+/ March on, my fellows:  
 Make good this ostentation, and you shall  
 Divide in all with us.
 
@@ -842,10 +842,10 @@ Divide in all with us.
 
 **MARCIUS**  
 I'll fight with none but thee; for I do hate thee  
-Worse than a promise-breaker. ...
+Worse than a promise-breaker. /
 
 **AUFIDIUS**  
-... We hate alike.
+/ We hate alike.
 
 **MARCIUS**  
 Let the first budger die the other's slave,  
@@ -886,12 +886,12 @@ That, with the fusty plebeians, hate thine honours,
 Shall say against their hearts 'We thank the gods  
 Our Rome hath such a soldier.'  
 Yet camest thou to a morsel of this feast,  
-Having fully dined before. ...
+Having fully dined before. /
 
 *Enter TITUS LARTIUS, with the Roman Captain, from the pursuit*
 
 **TITUS LARTIUS**  
-... O general,  
+/ O general,  
 Here is the steed, we the caparison:
 
 **MARCIUS**  
@@ -912,18 +912,18 @@ What you have done--before our army hear me.
 
 **MARCIUS**  
 I have some wounds upon me, and they smart  
-To hear themselves remember'd. ...
+To hear themselves remember'd. /
 
 **COMINIUS**  
-... Should they not,  
+/ Should they not,  
 Well might they fester 'gainst ingratitude,  
 And tent themselves with death. Of all the horses,  
 We render you the tenth, to be ta'en forth,  
 Before the common distribution, at  
-Your only choice. ...
+Your only choice. /
 
 **MARCIUS**  
-... I thank you, general;  
+/ I thank you, general;  
 But cannot make my heart consent to take  
 A bribe to pay my sword: I do refuse it;  
 And stand upon my common part with those  
@@ -937,10 +937,10 @@ Never sound more! No more, I say! For that I have not wash'd
 My nose that bled, or foil'd some debile wretch.--  
 You shout me forth in acclamations hyperbolical;  
 As if I loved! My little should be dieted  
-In praises sauced with lies. ...
+In praises sauced with lies. /
 
 **COMINIUS**  
-... Too modest are you;  
+/ Too modest are you;  
 More cruel to your good report than grateful  
 To us that give you truly: by your patience,  
 If 'gainst yourself you be incensed, we'll put you,  
@@ -957,18 +957,18 @@ The addition nobly ever!
 *Flourish. Trumpets sound, and drums*
 
 **All**  
-Caius Marcius Coriolanus! ...
+Caius Marcius Coriolanus! /
 
 **CORIOLANUS**  
-... I will go wash;  
+/ I will go wash;  
 And when my face is fair, you shall perceive  
 Whether I blush or no: howbeit, I thank you.  
 I mean to stride your steed, and at all times  
 To undercrest your good addition  
-To the fairness of my power. ...
+To the fairness of my power. /
 
 **COMINIUS**  
-... So, to our tent;  
+/ So, to our tent;  
 Where, ere we do repose us, we will write  
 To Rome of our success. You, Titus Lartius,  
 Must to Corioli back: send us to Rome  
@@ -995,10 +995,10 @@ He's mine, or I am his: mine emulation
 Hath not that honour in't it had; for where  
 I thought to crush him in an equal force,  
 True sword to sword, I'll potch at him some way  
-Or wrath or craft may get him. ...
+Or wrath or craft may get him. /
 
 **Aufidius' Aid**  
-... He's the devil.
+/ He's the devil.
 
 **AUFIDIUS**  
 My hate to Marcius: where I find him, were it  
@@ -1006,19 +1006,19 @@ At home, upon my brother's guard, even there,
 Against the hospitable canon, would I  
 Wash my fierce hand in's heart. Go you to the city;  
 Learn how 'tis held; and what they are that must  
-Be hostages for Rome. ...
+Be hostages for Rome. /
 
 **Aufidius' Aid**  
-... Will not you go?
+/ Will not you go?
 
 **AUFIDIUS**  
 I am attended at the cypress grove: I pray you--  
 'Tis south the city mills--bring me word thither  
 How the world goes, that to the pace of it  
-I may spur on my journey. ...
+I may spur on my journey. /
 
 **Aufidius' Aid**  
-... I shall, sir.
+/ I shall, sir.
 
 *Exeunt*
 
@@ -1241,31 +1241,31 @@ Welcome to Rome, renowned Coriolanus!
 
 **CORIOLANUS**  
 No more of this; it does offend my heart:  
-Pray now, no more. ...  
+Pray now, no more. /  
 *\[Kneels]*
 
 **VOLUMNIA**  
-... Nay, my good soldier, up;  
+/ Nay, my good soldier, up;  
 My gentle Marcius, worthy Caius, and  
 By deed-achieving honour newly named,--  
 What is it?--Coriolanus must I call thee?--  
-But O, thy wife! ...
+But O, thy wife! /
 
 **CORIOLANUS**  
-... My gracious silence, hail!  
+/ My gracious silence, hail!  
 Wouldst thou have laugh'd had I come coffin'd home,  
 That weep'st to see me triumph? Ay, my dear,  
 Such eyes the widows in Corioli wear,  
-And mothers that lack sons. ...
+And mothers that lack sons. /
 
 **MENENIUS**  
-... Now, the gods crown thee!
+/ Now, the gods crown thee!
 
 **CORIOLANUS**  
-And live you yet? ...
+And live you yet? /
 
 *\[To VALERIA]*  
-... O my sweet lady, pardon.
+/ O my sweet lady, pardon.
 
 **VOLUMNIA**  
 I know not where to turn: O, welcome home:  
@@ -1286,22 +1286,22 @@ Your hand, and yours:
 Ere in our own house I do shade my head,  
 The good patricians must be visited;  
 From whom I have received not only greetings,  
-But with them change of honours. ...
+But with them change of honours. /
 
 **VOLUMNIA**  
-... I have lived  
+/ I have lived  
 To see inherited my very wishes  
 And the buildings of my fancy: only  
 There's one thing wanting, which I doubt not but  
-Our Rome will cast upon thee. ...
+Our Rome will cast upon thee. /
 
 **CORIOLANUS**  
-... Know, good mother,  
+/ Know, good mother,  
 I had rather be their servant in my way,  
-Than sway with them in theirs. ...
+Than sway with them in theirs. /
 
 **COMINIUS**  
-... On, to the Capitol!
+/ On, to the Capitol!
 
 *Flourish. Cornets. Exeunt in state, as before. BRUTUS and SICINIUS come
 forward*
@@ -1318,10 +1318,10 @@ And gave him graceful posture.
 **SICINIUS**  
 He cannot temperately transport his honours  
 From where he should begin and end, but will  
-Lose those he hath won. ...
+Lose those he hath won. /
 
 **BRUTUS**  
-... In that there's comfort.
+/ In that there's comfort.
 
 **SICINIUS**  
 Doubt not  
@@ -1329,10 +1329,10 @@ The commoners, for whom we stand, but they
 Upon their ancient malice will forget  
 With the least cause these his new honours, which  
 That he will give them make I as little question  
-As he is proud to do't. ...
+As he is proud to do't. /
 
 **BRUTUS**  
-... I heard him swear,  
+/ I heard him swear,  
 Were he to stand for consul, never would he  
 Appear i' the market-place nor on him put  
 The napless vesture of humility;  
@@ -1342,27 +1342,27 @@ To the people, beg their stinking breaths.
 **SICINIUS**  
 I wish no better  
 Than have him hold that purpose and to put it  
-In execution. ...
+In execution. /
 
 **BRUTUS**  
-... 'Tis most like he will.
+/ 'Tis most like he will.
 
 **SICINIUS**  
 It shall be to him then as our good wills,  
-A sure destruction. ...
+A sure destruction. /
 
 **BRUTUS**  
-... So it must fall out  
+/ So it must fall out  
 To him or our authorities. For an end,  
 We must suggest the people in what hatred  
 He still hath held them; that to's power he would  
 Have made them mules, holding them,  
 In human action and capacity,  
 Of no more soul nor fitness for the world  
-Than camels in the war. ...
+Than camels in the war. /
 
 **SICINIUS**  
-... This, as you say, suggested  
+/ This, as you say, suggested  
 At some time when his soaring insolence  
 Shall touch the people--which time shall not want,  
 If he be put upon 't; and that's as easy  
@@ -1374,12 +1374,12 @@ Shall darken him for ever.
 
 **Messenger**  
 You are sent for to the Capitol. 'Tis thought  
-That Marcius shall be consul: ...
+That Marcius shall be consul: /
 
 **BRUTUS**  
-... Let's to the Capitol;  
+/ Let's to the Capitol;  
 And carry with us ears and eyes for the time,  
-But hearts for the event. ...
+But hearts for the event. /
 
 *Exeunt*
 
@@ -1401,40 +1401,40 @@ In our well-found successes, to report
 A little of that worthy work perform'd  
 By Caius Marcius Coriolanus, whom  
 We met here both to thank and to remember  
-With honours like himself. ...
+With honours like himself. /
 
 **Roman Senator**  
-... Speak, good Cominius:  
+/ Speak, good Cominius:  
 Leave nothing out for length, and make us think  
 Rather our state's defective for requital  
-Than we to stretch it out. ...
+Than we to stretch it out. /
 
 *\[To the Tribunes]*  
-... Masters o' the people,  
+/ Masters o' the people,  
 We do request your kindest ears, and after,  
 Your loving motion toward the common body,  
-To yield what passes here. ...
+To yield what passes here. /
 
 **SICINIUS**  
-... We are convented  
+/ We are convented  
 Upon a pleasing treaty, and have hearts  
 Inclinable to honour and advance  
-The theme of our assembly. ...
+The theme of our assembly. /
 
 *CORIOLANUS offers to go away*
 
-... Nay, keep your place.
+/ Nay, keep your place.
 
 **Roman Senator**  
 Sit, Coriolanus; never shame to hear  
-What you have nobly done. ...
+What you have nobly done. /
 
 **BRUTUS**  
-... Sir, I hope  
-My words disbench'd you not. ...
+/ Sir, I hope  
+My words disbench'd you not. /
 
 **CORIOLANUS**  
-... No, sir: yet oft,  
+/ No, sir: yet oft,  
 When blows have made me stay, I fled from words.  
 You soothed not, therefore hurt not: but your people,  
 I love them as they weigh.  
@@ -1466,70 +1466,70 @@ The mortal gate of the city, aidless came off,
 And with a sudden reinforcement struck  
 Corioli like a planet: till we call'd  
 Both field and city ours, he never stood  
-To ease his breast with panting. ...
+To ease his breast with panting. /
 
 **MENENIUS**  
-... Worthy man!
+/ Worthy man!
 
 **Roman Senator**  
 He cannot but with measure fit the honours  
-Which we devise him. ...
+Which we devise him. /
 
 **MENENIUS**  
-... He's right noble:  
+/ He's right noble:  
 Let him be call'd for.
 
 *Re-enter CORIOLANUS*
 
 **MENENIUS**  
 The senate, Coriolanus, are well pleased  
-To make thee consul. ...
+To make thee consul. /
 
 **CORIOLANUS**  
-... I do owe them still  
-My life and services. ...
+/ I do owe them still  
+My life and services. /
 
 **MENENIUS**  
-... It then remains  
-That you do speak to the people. ...
+/ It then remains  
+That you do speak to the people. /
 
 **CORIOLANUS**  
-... I do beseech you,  
+/ I do beseech you,  
 Let me o'erleap that custom, for I cannot  
 Put on the gown, stand naked and entreat them,  
 For my wounds' sake, to give their suffrage: please you  
-That I may pass this doing. ...
+That I may pass this doing. /
 
 **SICINIUS**  
-... Sir, the people  
+/ Sir, the people  
 Must have their voices; neither will they bate  
-One jot of ceremony. ...
+One jot of ceremony. /
 
 **MENENIUS**  
-... Put them not to't:  
+/ Put them not to't:  
 Pray you, go fit you to the custom and  
 Take to you, as your predecessors have,  
-Your honour with your form. ...
+Your honour with your form. /
 
 **CORIOLANUS**  
-... It is apart  
+/ It is apart  
 That I shall blush in acting, and might well  
-Be taken from the people. ...
+Be taken from the people. /
 
 **BRUTUS**  
-... Mark you that?
+/ Mark you that?
 
 **CORIOLANUS**  
 To brag unto them, thus I did, and thus;  
 Show them the unaching scars which I should hide,  
 As if I had received them for the hire  
-Of their breath only! ...
+Of their breath only! /
 
 **MENENIUS**  
-... Do not stand upon't.  
+/ Do not stand upon't.  
 We recommend to you, tribunes of the people,  
 Our purpose to them: and to our noble consul  
-Wish we all joy and honour. ...
+Wish we all joy and honour. /
 
 **All**  
 To Coriolanus come all joy and honour!
@@ -1542,10 +1542,10 @@ You see how he intends to use the people.
 **SICINIUS**  
 May they perceive's intent! He will require them,  
 As if he did contemn what he requested  
-Should be in them to give. ...
+Should be in them to give. /
 
 **BRUTUS**  
-... Come, we'll inform them  
+/ Come, we'll inform them  
 Of our proceedings here: on the marketplace,  
 I know, they do attend us.
 
@@ -1585,35 +1585,35 @@ Content, content.
 
 **MENENIUS**  
 O sir, you are not right: have you not known  
-The worthiest men have done't? ...
+The worthiest men have done't? /
 
 **CORIOLANUS**  
-... What must I say?  
+/ What must I say?  
 'I Pray, sir'--Plague upon't! I cannot bring  
 My tongue to such a pace:--'Look, sir, my wounds!  
 I got them in my country's service, when  
 Some certain of your brethren roar'd and ran  
-From the noise of our own drums.' ...
+From the noise of our own drums.' /
 
 **MENENIUS**  
-... O me, the gods!  
+/ O me, the gods!  
 You must not speak of that: you must desire them  
-To think upon you. ...
+To think upon you. /
 
 **CORIOLANUS**  
-... Think upon me! hang 'em!  
+/ Think upon me! hang 'em!  
 I would they would forget me, like the virtues  
-Which our divines lose by 'em. ...
+Which our divines lose by 'em. /
 
 **MENENIUS**  
-... You'll mar all:  
+/ You'll mar all:  
 I'll leave you: pray you, speak to 'em, I pray you,  
-In wholesome manner. ...
+In wholesome manner. /
 
 *Exit*
 
 **CORIOLANUS**  
-... Bid them wash their faces  
+/ Bid them wash their faces  
 And keep their teeth clean.
 
 *Re-enter the first two Citizens*
@@ -1801,10 +1801,10 @@ That as his worthy deeds did claim no less
 Than what he stood for, so his gracious nature  
 Would think upon you for your voices and  
 Translate his malice towards you into love,  
-Standing your friendly lord. ...
+Standing your friendly lord. /
 
 **SICINIUS**  
-... Thus to have said,  
+/ Thus to have said,  
 As you were fore-advised, had touch'd his spirit  
 And tried his inclination; from him pluck'd  
 As cause had call'd you up, have held him to  
@@ -1825,10 +1825,10 @@ Get you hence instantly, and tell those friends,
 They have chose a consul that will from them take  
 Their liberties; make them of no more voice  
 Than dogs that are as often beat for barking  
-As therefore kept to do so. ...
+As therefore kept to do so. /
 
 **SICINIUS**  
-... Let them assemble,  
+/ Let them assemble,  
 And on a safer judgment all revoke  
 Your ignorant election; enforce his pride,  
 And his old hate unto you; besides, forget not  
@@ -1837,16 +1837,16 @@ How in his suit he scorn'd you; but your loves,
 Thinking upon his services, took from you  
 The apprehension of his present portance,  
 Which most gibingly, ungravely, he did fashion  
-After the inveterate hate he bears you. ...
+After the inveterate hate he bears you. /
 
 **BRUTUS**  
-... Lay  
+/ Lay  
 A fault on us, your tribunes; that we laboured,  
 No impediment between, but that you must  
-Cast your election on him. ...
+Cast your election on him. /
 
 **SICINIUS**  
-... Say, you chose him  
+/ Say, you chose him  
 More after our commandment than as guided  
 By your own true affections, and that your minds,  
 Preoccupied with what you rather must do  
@@ -1860,24 +1860,24 @@ How long continued, and what stock he springs of,
 Say, you ne'er had done't--  
 Harp on that still--but by our putting on;  
 And presently, when you have drawn your number,  
-Repair to the Capitol. ...
+Repair to the Capitol. /
 
 **All**  
-... We will so: almost all  
-Repent in their election. ...
+/ We will so: almost all  
+Repent in their election. /
 
 *Exeunt Citizens*
 
 **BRUTUS**  
-... Let them go on;  
+/ Let them go on;  
 This mutiny were better put in hazard,  
 Than stay, past doubt, for greater:  
 If, as his nature is, he fall in rage  
 With their refusal, both observe and answer  
-The vantage of his anger. ...
+The vantage of his anger. /
 
 **SICINIUS**  
-... To the Capitol, come:  
+/ To the Capitol, come:  
 We will be there before the stream o' the people;  
 And this shall seem, as partly 'tis, their own,  
 Which we have goaded onward.
@@ -1909,18 +1909,18 @@ Against the Volsces, for they had so vilely
 Yielded the town: he is retired to Antium.
 
 **CORIOLANUS**  
-Spoke he of me? ...
+Spoke he of me? /
 
 **TITUS LARTIUS**  
-... He did, my lord.  
+/ He did, my lord.  
 How often he had met you, sword to sword;  
 That of all things upon the earth he hated  
 Your person most, that he would pawn his fortunes  
 To hopeless restitution, so he might  
-Be call'd your vanquisher. ...
+Be call'd your vanquisher. /
 
 **CORIOLANUS**  
-... At Antium lives he?  
+/ At Antium lives he?  
 I wish I had a cause to seek him there,  
 To oppose his hatred fully. Welcome home.
 
@@ -1929,10 +1929,10 @@ To oppose his hatred fully. Welcome home.
 Behold, these are the tribunes of the people,  
 The tongues o' the common mouth: I do despise them;  
 For they do prank them in authority,  
-Against all noble sufferance. ...
+Against all noble sufferance. /
 
 **SICINIUS**  
-... Pass no further.
+/ Pass no further.
 
 **CORIOLANUS**  
 Ha! what is that?
@@ -1947,49 +1947,49 @@ The matter?
 Hath he not pass'd the noble and the common?
 
 **BRUTUS**  
-Cominius, no. ...
+Cominius, no. /
 
 **CORIOLANUS**  
-... Have I had children's voices?
+/ Have I had children's voices?
 
 **Roman Senator**  
 Tribunes, give way; he shall to the market-place.
 
 **BRUTUS**  
-The people are incensed against him. ...
+The people are incensed against him. /
 
 **SICINIUS**  
-... Stop,  
-Or all will fall in broil. ...
+/ Stop,  
+Or all will fall in broil. /
 
 **CORIOLANUS**  
-... Are these your herd?  
+/ Are these your herd?  
 Must these have voices, that can yield them now  
 And straight disclaim their tongues? What are your offices?  
 You being their mouths, why rule you not their teeth?  
-Have you not set them on? ...
+Have you not set them on? /
 
 **MENENIUS**  
-... Be calm, be calm.
+/ Be calm, be calm.
 
 **CORIOLANUS**  
 It is a purposed thing, and grows by plot,  
 To curb the will of the nobility:  
 Suffer't, and live with such as cannot rule  
-Nor ever will be ruled. ...
+Nor ever will be ruled. /
 
 **BRUTUS**  
-... Call't not a plot:  
+/ Call't not a plot:  
 The people cry you mock'd them, and of late,  
 When corn was given them gratis, you repined;  
 Scandal'd the suppliants for the people, call'd them  
 Time-pleasers, flatterers, foes to nobleness.
 
 **CORIOLANUS**  
-Why, this was known before. ...
+Why, this was known before. /
 
 **BRUTUS**  
-... Not to them all.
+/ Not to them all.
 
 **CORIOLANUS**  
 Why then should I be consul? By yond clouds,  
@@ -2000,10 +2000,10 @@ Your fellow tribune.
 The people are abused; set on. This paltering  
 Becomes not Rome, nor has Coriolanus  
 Deserved this so dishonour'd rub, laid falsely  
-I' the plain way of his merit. ...
+I' the plain way of his merit. /
 
 **CORIOLANUS**  
-... Tell me of corn!  
+/ Tell me of corn!  
 This was my speech, and I will speak't again--
 
 **MENENIUS**  
@@ -2020,50 +2020,50 @@ The cockle of rebellion, insolence, sedition,
 Which we ourselves have plough'd for, sow'd, and scatter'd,  
 By mingling them with us, the honour'd number,  
 Who lack not virtue, no, nor power, but that  
-Which they have given to beggars. ...
+Which they have given to beggars. /
 
 **MENENIUS**  
-... Well, no more.
+/ Well, no more.
 
 **Roman Senator**  
-No more words, we beseech you. ...
+No more words, we beseech you. /
 
 **CORIOLANUS**  
-... How! no more!  
+/ How! no more!  
 As for my country I have shed my blood,  
 Not fearing outward force, so shall my lungs  
 Coin words till their decay against those measles,  
 Which we disdain should tatter us, yet sought  
-The very way to catch them. ...
+The very way to catch them. /
 
 **BRUTUS**  
-... You speak o' the people,  
+/ You speak o' the people,  
 As if you were a god to punish, not  
-A man o' their infirm'ty. ...
+A man o' their infirm'ty. /
 
 **MENENIUS**  
-... What, what? his choler? ...
+/ What, what? his choler? /
 
 **CORIOLANUS**  
-... Choler!  
+/ Choler!  
 Were I as patient as the midnight sleep,  
-By Jove, 'twould be my mind! ...
+By Jove, 'twould be my mind! /
 
 **SICINIUS**  
-... It is a mind  
+/ It is a mind  
 That shall remain a poison where it is,  
-Not poison any further. ...
+Not poison any further. /
 
 **CORIOLANUS**  
-... Shall remain!  
+/ Shall remain!  
 Hear you this Triton of the minnows? mark you  
-His absolute 'shall'? ...
+His absolute 'shall'? /
 
 **COMINIUS**  
-... 'Twas from the canon. ...
+/ 'Twas from the canon. /
 
 **CORIOLANUS**  
-... 'Shall'!  
+/ 'Shall'!  
 O good but most unwise patricians! why,  
 You grave but reckless senators, have you thus  
 Given Hydra here to choose an officer,  
@@ -2080,25 +2080,25 @@ It makes the consuls base: and my soul aches
 To know, when two authorities are up,  
 Neither supreme, how soon confusion  
 May enter 'twixt the gap of both and take  
-The one by the other. ...
+The one by the other. /
 
 **COMINIUS**  
-... Well, on to the market-place.
+/ Well, on to the market-place.
 
 **CORIOLANUS**  
 Whoever gave that counsel, to give forth  
 The corn o' the storehouse gratis, as 'twas used  
-Sometime in Greece,-- ...
+Sometime in Greece,-- /
 
 **MENENIUS**  
-... Well, well, no more of that.
+/ Well, well, no more of that.
 
 **BRUTUS**  
 Why, shall the people give  
-One that speaks thus their voice? ...
+One that speaks thus their voice? /
 
 **CORIOLANUS**  
-... I'll give my reasons,  
+/ I'll give my reasons,  
 More worthier than their voices. They know the corn  
 Was not our recompense, resting well assured  
 That ne'er did service for't: being press'd to the war,  
@@ -2112,13 +2112,13 @@ All cause unborn, could never be the motive
 Of our so frank donation. Well, what then?
 
 **MENENIUS**  
-Come, enough. ...
+Come, enough. /
 
 **BRUTUS**  
-... Enough, with over-measure. ...
+/ Enough, with over-measure. /
 
 **CORIOLANUS**  
-... No, take more:  
+/ No, take more:  
 What may be sworn by, both divine and human,  
 Seal what I end withal! This double worship,  
 Where one part does disdain with cause, the other  
@@ -2139,10 +2139,10 @@ The sweet which is their poison: your dishonour
 Mangles true judgment and bereaves the state  
 Of that integrity which should become't,  
 Not having the power to do the good it would,  
-For the in which doth control't. ...
+For the in which doth control't. /
 
 **BRUTUS**  
-... Has said enough.
+/ Has said enough.
 
 **SICINIUS**  
 Has spoken like a traitor, and shall answer  
@@ -2150,25 +2150,25 @@ As traitors do. You there, ho!
 
 *Enter a Citizen*
 
-Go, call the people: ...
+Go, call the people: /
 
 *Exit Citizen*
 
-... In whose name myself  
+/ In whose name myself  
 Attach thee as a traitorous innovator,  
 A foe to the public weal: obey, I charge thee,  
-And follow to thine answer. ...
+And follow to thine answer. /
 
 **CORIOLANUS**  
-... Hence, old goat!
+/ Hence, old goat!
 
 **COMINIUS**  
-Aged sir, hands off. ...
+Aged sir, hands off. /
 
 *Enter a rabble of Citizens (Plebeians)*
 
 **MENENIUS**  
-... On both sides more respect.
+/ On both sides more respect.
 
 **SICINIUS**  
 Here's he that would take from you all your power.
@@ -2182,26 +2182,26 @@ Seize him, citizens!
 What is about to be? I am out of breath;  
 Confusion's near; I cannot speak. You, tribunes  
 To the people! Coriolanus, patience!  
-Speak, good Sicinius. ...
+Speak, good Sicinius. /
 
 **SICINIUS**  
-... Hear me, people; peace!  
+/ Hear me, people; peace!  
 You are at point to lose your liberties:  
 Marcius would have all from you; Marcius,  
-Whom late you have named for consul. ...
+Whom late you have named for consul. /
 
 **MENENIUS**  
-... Fie, fie, fie!  
+/ Fie, fie, fie!  
 This is the way to kindle, not to quench.
 
 **Roman Senator**  
 To unbuild the city and to lay all flat.
 
 **SICINIUS**  
-What is the city but the people? ...
+What is the city but the people? /
 
 **Citizens**  
-... True,  
+/ True,  
 The people are the city.
 
 **COMINIUS**  
@@ -2215,15 +2215,15 @@ Or let us stand to our authority,
 Or let us lose it. We do here pronounce,  
 Upon the part o' the people, in whose power  
 We were elected theirs, Marcius is worthy  
-Of present death. ...
+Of present death. /
 
 **SICINIUS**  
-... Therefore lay hold of him;  
+/ Therefore lay hold of him;  
 Bear him to the rock Tarpeian, and from thence  
-Into destruction cast him. ...
+Into destruction cast him. /
 
 **BRUTUS**  
-... Citizens, seize him!
+/ Citizens, seize him!
 
 **Citizens**  
 Yield, Marcius, yield!
@@ -2232,16 +2232,16 @@ Yield, Marcius, yield!
 *\[To BRUTUS]*  
 Be that you seem, truly your country's friend,  
 And temperately proceed to what you would  
-Thus violently redress. ...
+Thus violently redress. /
 
 **BRUTUS**  
-... Sir, those cold ways,  
+/ Sir, those cold ways,  
 That seem like prudent helps, are very poisonous  
 Where the disease is violent. Lay hands upon him,  
-And bear him to the rock. ...
+And bear him to the rock. /
 
 **CORIOLANUS**  
-... No, I'll die here.
+/ No, I'll die here.
 
 *\[Drawing his sword]*  
 There's some among you have beheld me fighting:  
@@ -2257,25 +2257,25 @@ Down with him, down with him!
 
 **MENENIUS**  
 Go, get you to your house; be gone, away!  
-All will be naught else. ...
+All will be naught else. /
 
 **Roman Senator**  
-... Get you gone. ...
+/ Get you gone. /
 
 **COMINIUS**  
-... Stand fast;  
+/ Stand fast;  
 We have as many friends as enemies.
 
 **MENENIUS**  
-Shall it be put to that? ...
+Shall it be put to that? /
 
 **Roman Senator**  
-... The gods forbid!  
+/ The gods forbid!  
 I prithee, noble friend, home to thy house;  
-Leave us to cure this cause. ...
+Leave us to cure this cause. /
 
 **MENENIUS**  
-... For 'tis a sore upon us,  
+/ For 'tis a sore upon us,  
 You cannot tent yourself: be gone, beseech you.
 
 **CORIOLANUS**  
@@ -2287,10 +2287,10 @@ Though calved i' the porch o' the Capitol--
 Pray you, be gone:  
 I'll try whether my old wit be in request  
 With those that have but little: this must be patch'd  
-With cloth of any colour. ...
+With cloth of any colour. /
 
 **COMINIUS**  
-... Nay, come away.
+/ Nay, come away.
 
 *Exeunt CORIOLANUS, COMINIUS, and others*
 
@@ -2299,54 +2299,54 @@ His nature is too noble for the world:
 
 *A noise within*
 
-Here's goodly work! ...
+Here's goodly work! /
 
 *Re-enter BRUTUS and SICINIUS, with the rabble*
 
 **SICINIUS**  
-... Where is this viper  
+/ Where is this viper  
 That would depopulate the city and  
-Be every man himself? ...
+Be every man himself? /
 
 **MENENIUS**  
-... You worthy tribunes,--
+/ You worthy tribunes,--
 
 **SICINIUS**  
 He shall be thrown down the Tarpeian rock  
 With rigorous hands: he hath resisted law,  
 And therefore law shall scorn him further trial  
 Than the severity of the public power  
-Which he so sets at nought. ...
+Which he so sets at nought. /
 
 **First Citizen**  
-... He shall well know  
+/ He shall well know  
 The noble tribunes are the people's mouths,  
-And we their hands. ...
+And we their hands. /
 
 **Citizens**  
-... He shall, sure on't. ...
+/ He shall, sure on't. /
 
 **MENENIUS**  
-... Sir, sir,-- ...
+/ Sir, sir,-- /
 
 **SICINIUS**  
-... Peace!
+/ Peace!
 
 **MENENIUS**  
 Do not cry havoc, where you should but hunt  
-With modest warrant. ...
+With modest warrant. /
 
 **SICINIUS**  
-... Sir, how comes't that you  
-Have holp to make this rescue? ...
+/ Sir, how comes't that you  
+Have holp to make this rescue? /
 
 **MENENIUS**  
-... Hear me speak:  
+/ Hear me speak:  
 As I do know the consul's worthiness,  
-So can I name his faults,-- ...
+So can I name his faults,-- /
 
 **SICINIUS**  
-... Consul! what consul?
+/ Consul! what consul?
 
 **MENENIUS**  
 The consul Coriolanus.
@@ -2385,10 +2385,10 @@ In bolted language; meal and bran together
 He throws without distinction. Give me leave,  
 I'll go to him, and undertake to bring him  
 Where he shall answer, by a lawful form,  
-In peace, to his utmost peril. ...
+In peace, to his utmost peril. /
 
 **Roman Senator**  
-... Noble tribunes,  
+/ Noble tribunes,  
 It is the humane way: the other course  
 Will prove too bloody, and the end of it  
 Unknown to the beginning.
@@ -2396,10 +2396,10 @@ Unknown to the beginning.
 **SICINIUS**  
 Meet on the market-place. We'll attend you there:  
 Where, if you bring not Marcius, we'll proceed  
-In our first way. ...
+In our first way. /
 
 **MENENIUS**  
-... I'll bring him to you.
+/ I'll bring him to you.
 
 *Exeunt*
 
@@ -2416,31 +2416,31 @@ Below the beam of sight, yet will I still
 Be thus to them.
 
 **Patrician**  
-You do the nobler. ...
+You do the nobler. /
 
 **CORIOLANUS**  
-... I muse my mother  
+/ I muse my mother  
 Does not approve me further, who was wont  
 To call them woollen vassals, things created  
 To buy and sell with groats, to show bare heads  
 In congregations, to yawn, be still and wonder,  
 When one but of my ordinance stood up  
-To speak of peace or war. ...
+To speak of peace or war. /
 
 *Enter VOLUMNIA*
 
-... I talk of you:  
+/ I talk of you:  
 Why did you wish me milder? would you have me  
 False to my nature? Rather say I play  
-The man I am. ...
+The man I am. /
 
 **VOLUMNIA**  
-... O, sir, sir, sir,  
+/ O, sir, sir, sir,  
 I would have had you put your power well on,  
-Before you had worn it out. ...
+Before you had worn it out. /
 
 **CORIOLANUS**  
-... Let go.
+/ Let go.
 
 **VOLUMNIA**  
 You might have been enough the man you are,  
@@ -2453,23 +2453,23 @@ Ere they lack'd power to cross you.
 
 **MENENIUS**  
 Come, come, you have been too rough, something too rough;  
-You must return and mend it. ...
+You must return and mend it. /
 
 **VOLUMNIA**  
-... Pray, be counsell'd:  
+/ Pray, be counsell'd:  
 I have a heart as little apt as yours,  
 But yet a brain that leads my use of anger  
-To better vantage. ...
+To better vantage. /
 
 **MENENIUS**  
-... Well said, noble woman!  
+/ Well said, noble woman!  
 Before he should thus stoop to the herd, but that  
 The violent fit o' the time craves it as physic  
 For the whole state, I would put mine armour on,  
-Which I can scarcely bear. ...
+Which I can scarcely bear. /
 
 **CORIOLANUS**  
-... What must I do?
+/ What must I do?
 
 **MENENIUS**  
 Return to the tribunes.  
@@ -2477,10 +2477,10 @@ Repent what you have spoke.
 
 **CORIOLANUS**  
 For them! I cannot do it to the gods;  
-Must I then do't to them? ...
+Must I then do't to them? /
 
 **VOLUMNIA**  
-... You are too absolute;  
+/ You are too absolute;  
 Though therein you can never be too noble,  
 But when extremities speak. I have heard you say,  
 Honour and policy, like unsever'd friends,  
@@ -2492,10 +2492,10 @@ The same you are not, which, for your best ends,
 You adopt your policy, how is it less or worse,  
 That it shall hold companionship in peace  
 With honour, as in war, since that to both  
-It stands in like request? ...
+It stands in like request? /
 
 **CORIOLANUS**  
-... Why force you this?
+/ Why force you this?
 
 **VOLUMNIA**  
 Because that now it lies you on to speak  
@@ -2515,16 +2515,16 @@ Your wife, your son, this senator, the nobles;
 And you will rather show our general louts  
 How you can frown than spend a fawn upon 'em,  
 For the inheritance of their loves and safeguard  
-Of what that want might ruin. ...
+Of what that want might ruin. /
 
 **MENENIUS**  
-... Noble lady!  
+/ Noble lady!  
 Come, go with us; speak fair: you may salve so,  
 Not what is dangerous present, but the loss  
-Of what is past. ...
+Of what is past. /
 
 **VOLUMNIA**  
-... I prithee now, my son,  
+/ I prithee now, my son,  
 Action is eloquence, and the eyes of the ignorant  
 More learned than the ears--waving thy head,  
 Now humble as the ripest mulberry  
@@ -2545,10 +2545,10 @@ You make strong party, or defend yourself
 By calmness or by absence: all's in anger.
 
 **MENENIUS**  
-Only fair speech. ...
+Only fair speech. /
 
 **VOLUMNIA**  
-... He must, and will  
+/ He must, and will  
 Prithee now, say you will, and go about it.
 
 **CORIOLANUS**  
@@ -2562,10 +2562,10 @@ Which never I shall discharge to the life.
 I prithee now, sweet son, as thou hast said  
 My praises made thee first a soldier, so,  
 To have my praise for this, perform a part  
-Thou hast not done before. ...
+Thou hast not done before. /
 
 **CORIOLANUS**  
-... Well, I must do't:  
+/ Well, I must do't:  
 Away, my disposition, and possess me  
 Some harlot's spirit! my throat of war be turn'd,  
 Which quired with my drum, into a pipe  
@@ -2575,20 +2575,20 @@ Who bow'd but in my stirrup, bend like his
 That hath received an alms! I will not do't,  
 Lest I surcease to honour mine own truth  
 And by my body's action teach my mind  
-A most inherent baseness. ...
+A most inherent baseness. /
 
 **VOLUMNIA**  
-... At thy choice, then:  
+/ At thy choice, then:  
 To beg of thee, it is my more dishonour  
 Than thou of them. Come all to ruin; let  
 Thy mother rather feel thy pride than fear  
 Thy dangerous stoutness, for I mock at death  
 With as big heart as thou. Do as thou list  
 Thy valiantness was mine, thou suck'dst it from me,  
-But owe thy pride thyself. ...
+But owe thy pride thyself. /
 
 **CORIOLANUS**  
-... Pray, be content:  
+/ Pray, be content:  
 Mother, I am going to the market-place;  
 Chide me no more. I'll mountebank their loves,  
 Cog their hearts from them, and come home beloved  
@@ -2619,17 +2619,17 @@ Calmly, I do beseech you.
 Draw near, ye people.
 
 **CORIOLANUS**  
-First, hear me speak. ...
+First, hear me speak. /
 
 **SICINIUS**  
-... I do demand,  
+/ I do demand,  
 If you submit you to the people's voices,  
 Allow their officers and are content  
 To suffer lawful censure for such faults  
-As shall be proved upon you? ...
+As shall be proved upon you? /
 
 **CORIOLANUS**  
-... I am content.
+/ I am content.
 
 **MENENIUS**  
 Lo, citizens, he says he is content:  
@@ -2641,16 +2641,16 @@ That when he speaks not like a citizen,
 You find him like a soldier: do not take  
 His rougher accents for malicious sounds,  
 But, as I say, such as become a soldier,  
-Rather than envy you. ...
+Rather than envy you. /
 
 **CORIOLANUS**  
-... What is the matter  
+/ What is the matter  
 That being pass'd for consul with full voice,  
 I am so dishonour'd that the very hour  
-You take it off again? ...
+You take it off again? /
 
 **SICINIUS**  
-... Answer to us.  
+/ Answer to us.  
 We charge you, that you have contrived to take  
 From Rome all season'd office and to wind  
 Yourself into a power tyrannical;  
@@ -2665,21 +2665,21 @@ Call me their traitor! Thou injurious tribune!
 Mark you this, people?
 
 **Citizens**  
-To the rock, to the rock with him! ...
+To the rock, to the rock with him! /
 
 **SICINIUS**  
-... Peace!  
+/ Peace!  
 We need not put new matter to his charge:  
 What you have seen him do and heard him speak,  
 So criminal and in such capital kind,  
-Deserves the extremest death. ...
+Deserves the extremest death. /
 
 **BRUTUS**  
-... But since he hath  
-Served well for Rome,-- ...
+/ But since he hath  
+Served well for Rome,-- /
 
 **CORIOLANUS**  
-... What do you prate of service?
+/ What do you prate of service?
 
 **BRUTUS**  
 I talk of that, that know it.
@@ -2712,10 +2712,10 @@ He's banish'd, and it shall be so.
 **BRUTUS**  
 There's no more to be said, but he is banish'd,  
 As enemy to the people and his country:  
-It shall be so. ...
+It shall be so. /
 
 **Citizens**  
-... It shall be so, it shall be so.
+/ It shall be so, it shall be so.
 
 **CORIOLANUS**  
 You common cry of curs! whose breath I hate  
@@ -2758,17 +2758,17 @@ With precepts that would make invincible
 The heart that conn'd them.
 
 **VIRGILIA**  
-O heavens! O heavens! ...
+O heavens! O heavens! /
 
 **CORIOLANUS**  
-... Nay! prithee, woman,--
+/ Nay! prithee, woman,--
 
 **VOLUMNIA**  
 Now the red pestilence strike all trades in Rome,  
-And occupations perish! ...
+And occupations perish! /
 
 **CORIOLANUS**  
-... What, what, what!  
+/ What, what, what!  
 I shall be loved when I am lack'd. Nay, mother.  
 Resume that spirit, when you were wont to say,  
 If you had been the wife of Hercules,  
@@ -2787,17 +2787,17 @@ Believe't not lightly--though I go alone,
 Like to a lonely dragon, that his fen  
 Makes fear'd and talk'd of more than seen--your son  
 Will or exceed the common or be caught  
-With cautelous baits and practise. ...
+With cautelous baits and practise. /
 
 **VOLUMNIA**  
-... My first son.  
+/ My first son.  
 Whither wilt thou go? Take good Cominius  
 With thee awhile: determine on some course,  
 More than a wild exposture to each chance  
-That starts i' the way before thee. ...
+That starts i' the way before thee. /
 
 **CORIOLANUS**  
-... O the gods!
+/ O the gods!
 
 **COMINIUS**  
 I'll follow thee a month, devise with thee  
@@ -2806,10 +2806,10 @@ And we of thee: so if the time thrust forth
 A cause for thy repeal, we shall not send  
 O'er the vast world to seek a single man,  
 And lose advantage, which doth ever cool  
-I' the absence of the needer. ...
+I' the absence of the needer. /
 
 **CORIOLANUS**  
-... Fare ye well:  
+/ Fare ye well:  
 Thou hast years upon thee; and thou art too full  
 Of the wars' surfeits, to go rove with one  
 That's yet unbruised: bring me but out at gate.  
@@ -2818,17 +2818,17 @@ My friends of noble touch, when I am forth,
 Bid me farewell, and smile. I pray you, come.  
 While I remain above the ground, you shall  
 Hear from me still, and never of me aught  
-But what is like me formerly. ...
+But what is like me formerly. /
 
 **MENENIUS**  
-... That's worthily  
+/ That's worthily  
 As any ear can hear. Come, let's not weep.  
 If I could shake off but one seven years  
 From these old arms and legs, by the good gods,  
-I'd with thee every foot. ...
+I'd with thee every foot. /
 
 **CORIOLANUS**  
-... Give me thy hand: Come.
+/ Give me thy hand: Come.
 
 *Exeunt*
 
@@ -2839,10 +2839,10 @@ I'd with thee every foot. ...
 **SICINIUS**  
 Bid them all home; he's gone, and we'll no further.  
 The nobility are vex'd, whom we see have sided  
-In his behalf. ...
+In his behalf. /
 
 **BRUTUS**  
-... Now we have shown our power,  
+/ Now we have shown our power,  
 Let us seem humbler after it is done  
 Than when it was a-doing.
 
@@ -2850,34 +2850,34 @@ Than when it was a-doing.
 
 **VOLUMNIA**  
 O, ye're well met: the hoarded plague o' the gods  
-Requite your love! ...
+Requite your love! /
 
 **MENENIUS**  
-... Peace, peace; be not so loud.
+/ Peace, peace; be not so loud.
 
 **VOLUMNIA**  
 If that I could for weeping, you should hear,--  
-Nay, and you shall hear some. ...
+Nay, and you shall hear some. /
 
 *\[To BRUTUS]*  
-... Will you be gone?
+/ Will you be gone?
 
 **VIRGILIA**  
 *\[To SICINIUS]*  
 You shall stay too: I would I had the power  
-To say so to my husband. ...
+To say so to my husband. /
 
 **SICINIUS**  
-... Are you mankind?
+/ Are you mankind?
 
 **VOLUMNIA**  
 Ay, fool; is that a shame? Note but this fool.  
 Was not a man my father? Hadst thou foxship  
 To banish him that struck more blows for Rome  
-Than thou hast spoken words? ...
+Than thou hast spoken words? /
 
 **SICINIUS**  
-... O blessed heavens!
+/ O blessed heavens!
 
 **VOLUMNIA**  
 More noble blows than ever thou wise words;  
@@ -2890,19 +2890,19 @@ Good man, the wounds that he does bear for Rome!
 **SICINIUS**  
 I would he had continued to his country  
 As he began, and not unknit himself  
-The noble knot he made. ...
+The noble knot he made. /
 
 **BRUTUS**  
-... I would he had.
+/ I would he had.
 
 **VOLUMNIA**  
 'I would he had'! 'Twas you incensed the rabble:  
 Cats, that can judge as fitly of his worth  
 As I can of those mysteries which heaven  
-Will not have earth to know. ...
+Will not have earth to know. /
 
 **BRUTUS**  
-... Pray, let us go.
+/ Pray, let us go.
 
 **VOLUMNIA**  
 Now, pray, sir, get you gone:  
@@ -2913,14 +2913,14 @@ This lady's husband here, this, do you see--
 Whom you have banish'd, does exceed you all.
 
 **BRUTUS**  
-Well, well, we'll leave you. ...
+Well, well, we'll leave you. /
 
 **SICINIUS**  
-... Why stay we to be baited  
-With one that wants her wits? ...
+/ Why stay we to be baited  
+With one that wants her wits? /
 
 **VOLUMNIA**  
-... Take my prayers with you.
+/ Take my prayers with you.
 
 *Exeunt Tribunes*
 
@@ -2941,16 +2941,16 @@ Where great Aufidius lies: is he in Antium?
 
 **First Lord**  
 He is, and feasts the nobles of the state  
-At his house this night. ...
+At his house this night. /
 
 **CORIOLANUS**  
-... Which is his house, beseech you?
+/ Which is his house, beseech you?
 
 **First Lord**  
-This, here before you. ...
+This, here before you. /
 
 **CORIOLANUS**  
-... Thank you, sir: farewell.
+/ Thank you, sir: farewell.
 
 *Exit First Lord*
 
@@ -3005,7 +3005,7 @@ In being Coriolanus.
 **Aufidius' Aid**  
 Whence are you, sir? Has the porter his eyes in his  
 head; that he gives entrance to such companions?  
-Pray, get you out. ...
+Pray, get you out. /
 
 **CORIOLANUS**  
 Away!
@@ -3024,25 +3024,25 @@ Prithee, call my master to him.
 
 **AUFIDIUS**  
 Whence comest thou? what wouldst thou? thy name?  
-Why speak'st not? speak, man: what's thy name? ...
+Why speak'st not? speak, man: what's thy name? /
 
 **CORIOLANUS**  
-... If, Tullus,
+/ If, Tullus,
 
 *\[Unmuffling]*  
 Not yet thou knowest me, and, seeing me, dost not  
 Think me for the man I am, necessity  
-Commands me name myself. ...
+Commands me name myself. /
 
 **AUFIDIUS**  
-... What is thy name?
+/ What is thy name?
 
 **CORIOLANUS**  
 A name unmusical to the Volscians' ears,  
-And harsh in sound to thine. ...
+And harsh in sound to thine. /
 
 **AUFIDIUS**  
-... Say, what's thy name?  
+/ Say, what's thy name?  
 Thou hast a grim appearance, and thy face  
 Bears a command in't; though thy tackle's torn.  
 Thou show'st a noble vessel: what's thy name?
@@ -3086,10 +3086,10 @@ And waked half dead with nothing. O, come, go in,
 And take our friendly senator by the hands;  
 Who now are here, taking their leaves of me,  
 Who am prepared against your territories,  
-Though not for Rome itself. ...
+Though not for Rome itself. /
 
 **CORIOLANUS**  
-... You bless me, gods!
+/ You bless me, gods!
 
 **AUFIDIUS**  
 Therefore, most absolute sir, if thou wilt have  
@@ -3120,21 +3120,21 @@ Blush that the world goes well, who rather had,
 Though they themselves did suffer by't, behold  
 Dissentious numbers pestering streets than see  
 Our tradesmen with in their shops and going  
-About their functions friendly. ...
+About their functions friendly. /
 
 *Enter MENENIUS*
 
-... Your Coriolanus  
+/ Your Coriolanus  
 Is not much miss'd, but with his friends:  
 The commonwealth doth stand, and so would do,  
 Were he more angry at it.
 
 **MENENIUS**  
 All's well; and might have been much better, if  
-He could have temporized. ...
+He could have temporized. /
 
 **SICINIUS**  
-... Where is he, hear you?
+/ Where is he, hear you?
 
 **MENENIUS**  
 Nay, I hear nothing: his mother and his wife  
@@ -3143,24 +3143,24 @@ Hear nothing from him.
 *Enter three or four Citizens*
 
 **Citizens**  
-The gods preserve you both! ...
+The gods preserve you both! /
 
 **SICINIUS**  
-... God-den, our neighbours.
+/ God-den, our neighbours.
 
 **First Citizen**  
 Ourselves, our wives, and children, on our knees,  
-Are bound to pray for you both. ...
+Are bound to pray for you both. /
 
 **SICINIUS**  
-... Live, and thrive!
+/ Live, and thrive!
 
 **BRUTUS**  
 Farewell, kind neighbours: we wish'd Coriolanus  
-Had loved you as we did. ...
+Had loved you as we did. /
 
 **Citizens**  
-... Now the gods keep you!
+/ Now the gods keep you!
 
 **Both Tribunes**  
 Farewell, farewell.
@@ -3170,10 +3170,10 @@ Farewell, farewell.
 **SICINIUS**  
 This is a happier and more comely time  
 Than when these fellows ran about the streets,  
-Crying confusion. ...
+Crying confusion. /
 
 **BRUTUS**  
-... Caius Marcius was  
+/ Caius Marcius was  
 A worthy officer i' the war; but insolent,  
 O'ercome with pride, ambitious past all thinking,  
 Self-loving,--
@@ -3183,40 +3183,40 @@ Self-loving,--
 **Messenger**  
 The nobles in great earnestness are going  
 All to the senate-house: some news is come  
-That turns their countenances. ...
+That turns their countenances. /
 
 **SICINIUS**  
-... 'Tis this slave;--  
+/ 'Tis this slave;--  
 Go whip him, 'fore the people's eyes:--his raising;  
-Nothing but his report. ...
+Nothing but his report. /
 
 **Messenger**  
-... Yes, worthy sir,  
+/ Yes, worthy sir,  
 The slave's report is seconded; and more,  
-More fearful, is deliver'd. ...
+More fearful, is deliver'd. /
 
 **SICINIUS**  
-... What more fearful?
+/ What more fearful?
 
 **Messenger**  
 It is spoke freely out of many mouths--  
 How probable I do not know--that Marcius,  
 Join'd with Aufidius, leads a power 'gainst Rome,  
 And vows revenge as spacious as between  
-The young'st and oldest thing. ...
+The young'st and oldest thing. /
 
 **SICINIUS**  
-... This is most likely!
+/ This is most likely!
 
 **BRUTUS**  
 Raised only, that the weaker sort may wish  
 Good Marcius home again.
 
 **SICINIUS**  
-The very trick on't. ...
+The very trick on't. /
 
 **MENENIUS**  
-... This is unlikely:  
+/ This is unlikely:  
 He and Aufidius can no more atone  
 Than violentest contrariety.
 
@@ -3228,12 +3228,12 @@ A fearful army, led by Caius Marcius
 Associated with Aufidius, rages  
 Upon our territories; and have already  
 O'erborne their way, consumed with fire, and took  
-What lay before them. ...
+What lay before them. /
 
 *Enter COMINIUS*
 
 **COMINIUS**  
-... O, you have made good work!  
+/ O, you have made good work!  
 You have holp to ravish your own daughters and  
 To melt the city leads upon your pates,  
 To see your wives dishonour'd to your noses,--
@@ -3244,68 +3244,68 @@ What's the news? what's the news?
 **COMINIUS**  
 Your temples burned in their cement, and  
 Your franchises, whereon you stood, confined  
-Into an auger's bore. ...
+Into an auger's bore. /
 
 **MENENIUS**  
-... Pray now, your news?  
+/ Pray now, your news?  
 You have made fair work, I fear me.--Pray, your news?--  
-If Marcius should be join'd with Volscians,-- ...
+If Marcius should be join'd with Volscians,-- /
 
 **COMINIUS**  
-... If!  
+/ If!  
 He is their god: he leads them like a thing  
 Made by some other deity than nature,  
 That shapes man better; and they follow him,  
 Against us brats, with no less confidence  
 Than boys pursuing summer butterflies,  
-Or butchers killing flies. ...
+Or butchers killing flies. /
 
 **MENENIUS**  
-... You have made good work,  
+/ You have made good work,  
 You and your apron-men; you that stood so up much  
 on the voice of occupation and  
-The breath of garlic-eaters! ...
+The breath of garlic-eaters! /
 
 **COMINIUS**  
-... Ay; and you'll look pale  
+/ Ay; and you'll look pale  
 Before you find it other. All the regions  
 Do smilingly revolt; and who resist  
 Are mock'd for valiant ignorance,  
 And perish constant fools.  
-Who is't can blame him? ...
+Who is't can blame him? /
 
 **MENENIUS**  
-... We are all undone, unless  
-The noble man have mercy. ...
+/ We are all undone, unless  
+The noble man have mercy. /
 
 **COMINIUS**  
-... Who shall ask it?  
+/ Who shall ask it?  
 The tribunes cannot do't for shame; the people  
 Deserve such pity of him as the wolf  
 Does of the shepherds. You have brought  
 A trembling upon Rome, such as was never  
-So incapable of help. ...
+So incapable of help. /
 
 **Both Tribunes**  
-... Say not we brought it.
+/ Say not we brought it.
 
 **MENENIUS**  
 How! Was it we? we loved him but, like beasts  
 And cowardly nobles, gave way unto your clusters,  
-Who did hoot him out o' the city. ...
+Who did hoot him out o' the city. /
 
 **COMINIUS**  
-... But I fear  
+/ But I fear  
 They'll roar him in again. Tullus Aufidius,  
 The second name of men, obeys his points  
 As if he were his officer: desperation  
 Is all the policy, strength and defence,  
-That Rome can make against them. ...
+That Rome can make against them. /
 
 *Enter a troop of Citizens*
 
 **MENENIUS**  
-... Here come the clusters.  
+/ Here come the clusters.  
 And is Aufidius with him? Now he's coming;  
 And not a hair upon a soldier's head  
 Which will not prove a whip: as many coxcombs  
@@ -3313,10 +3313,10 @@ As you threw caps up will he tumble down,
 And pay you for your voices. We have deserved it.
 
 **Citizens**  
-Faith, we hear fearful news. ...
+Faith, we hear fearful news. /
 
 **First Citizen**  
-... For mine own part,  
+/ For mine own part,  
 When I said, banish him, I said 'twas pity.
 
 **Third Citizen**  
@@ -3360,19 +3360,19 @@ I do not know what witchcraft's in him, but
 Your soldiers use him as the grace 'fore meat,  
 Their talk at table, and their thanks at end;  
 And you are darken'd in this action, sir,  
-Even by your own. ...
+Even by your own. /
 
 **AUFIDIUS**  
-... I cannot help it now,  
+/ I cannot help it now,  
 Unless, by using means, I lame the foot  
 Of our design. He bears himself more proudlier,  
 Even to my person, than I thought he would  
 When first I did embrace him: yet his nature  
 In that's no changeling; and I must excuse  
-What cannot be amended. ...
+What cannot be amended. /
 
 **Aufidius' Aid**  
-... Yet I wish, sir,--  
+/ Yet I wish, sir,--  
 I mean for your particular,--you had not  
 Join'd in commission with him; but either  
 Had borne the action of yourself, or else  
@@ -3433,10 +3433,10 @@ A mile before his tent fall down, and knee
 To hear Cominius speak, I'll keep at home.
 
 **COMINIUS**  
-He would not seem to know me. ...
+He would not seem to know me. /
 
 **MENENIUS**  
-... Do you hear?
+/ Do you hear?
 
 **COMINIUS**  
 Yet one time he did call me by my name:  
@@ -3444,10 +3444,10 @@ I urged our old acquaintance, and the drops
 That we have bled together. Coriolanus  
 He would not answer to: forbad all names;  
 Till he had forged himself a name o' the fire  
-Of burning Rome. ...
+Of burning Rome. /
 
 **MENENIUS**  
-... Why, so: you have made good work!  
+/ Why, so: you have made good work!  
 A pair of tribunes that have rack'd for Rome,  
 To make coals cheap,--a noble memory!
 
@@ -3458,17 +3458,17 @@ Upbraid's with our distress. But, sure, if you
 Would be your country's pleader, your good tongue,  
 More than the instant army we can make,  
 Might stop our countryman.  
-Pray you, go to him. ...
+Pray you, go to him. /
 
 **MENENIUS**  
-... What should I do?
+/ What should I do?
 
 **BRUTUS**  
 Only make trial what your love can do  
-For Rome, towards Marcius. ...
+For Rome, towards Marcius. /
 
 **MENENIUS**  
-... Well, and say that Marcius  
+/ Well, and say that Marcius  
 Return me, as Cominius is return'd,  
 Unheard; what then?  
 But as a discontented friend, grief-shot  
@@ -3477,20 +3477,20 @@ With his unkindness? say't be so?
 **SICINIUS**  
 Yet your good will  
 Must have that thanks from Rome, after the measure  
-As you intended well. ...
+As you intended well. /
 
 **MENENIUS**  
-... I'll undertake 't:  
+/ I'll undertake 't:  
 I think he'll hear me. Yet, to bite his lip  
 And hum at good Cominius, much unhearts me.  
 He was not taken well.
 
 **BRUTUS**  
 You know the very road into his kindness,  
-And cannot lose your way. ...
+And cannot lose your way. /
 
 **MENENIUS**  
-... Good faith, I'll prove him,  
+/ Good faith, I'll prove him,  
 Speed how it will. I shall ere long have knowledge  
 Of my success.
 
@@ -3514,17 +3514,17 @@ And with our fair entreaties haste them on.
 *Enter to him, MENENIUS*
 
 **Aufidius' Aid**  
-Stay: whence are you? ...
+Stay: whence are you? /
 
 **MENENIUS**  
-... From Rome.
+/ From Rome.
 
 **Aufidius' Aid**  
 You may not pass, you must return: our general  
-Will no more hear from thence. ...
+Will no more hear from thence. /
 
 **MENENIUS**  
-... I tell thee, fellow,  
+/ I tell thee, fellow,  
 The general is my lover: I have been  
 The book of his good acts, whence men have read  
 His name unparallel'd, haply amplified;  
@@ -3634,17 +3634,17 @@ oak not to be wind-shaken.
 We will before the walls of Rome tomorrow  
 Set down our host. My partner in this action,  
 You must report to the Volscian lords, how plainly  
-I have borne this business. ...
+I have borne this business. /
 
 **AUFIDIUS**  
-... Only their ends  
+/ Only their ends  
 You have respected; stopp'd your ears against  
 The general suit of Rome; never admitted  
 A private whisper, no, not with such friends  
-That thought them sure of you. ...
+That thought them sure of you. /
 
 **CORIOLANUS**  
-... This last old man,  
+/ This last old man,  
 Whom with a crack'd heart I have sent to Rome,  
 Loved me above the measure of a father;  
 Nay, godded me, indeed. Their latest refuge  
@@ -3667,20 +3667,20 @@ and VALERIA*
 
 My wife comes foremost; then the honour'd mould  
 Wherein this trunk was framed, and in her hand  
-The grandchild to her blood. ...
+The grandchild to her blood. /
 
 **VIRGILIA**  
-... My lord and husband!
+/ My lord and husband!
 
 **CORIOLANUS**  
 These eyes are not the same I wore in Rome.
 
 **VIRGILIA**  
 The sorrow that delivers us thus changed  
-Makes you think so. ...
+Makes you think so. /
 
 **CORIOLANUS**  
-... Like a dull actor now,  
+/ Like a dull actor now,  
 I have forgot my part, and I am out,  
 Even to a full disgrace. Best of my flesh,  
 Forgive my tyranny; O, a kiss  
@@ -3691,18 +3691,18 @@ Hath virgin'd it e'er since.
 
 *\[Kneels]*  
 Of thy deep duty more impression show  
-Than that of common sons. ...
+Than that of common sons. /
 
 **VOLUMNIA**  
-... O, stand up blest!  
+/ O, stand up blest!  
 Whilst, with no softer cushion than the flint,  
 I kneel before thee; and unproperly  
 Show duty, as mistaken all this while  
-Between the child and parent. ...  
+Between the child and parent. /  
 *\[Kneels]*
 
 **CORIOLANUS**  
-... What is this?  
+/ What is this?  
 Your knees to me? to your corrected son?
 
 **VOLUMNIA**  
@@ -3725,20 +3725,20 @@ That's my brave boy!
 
 **VOLUMNIA**  
 Even he, your wife, this lady, and myself,  
-Are suitors to you. ...
+Are suitors to you. /
 
 **CORIOLANUS**  
-... I beseech you, peace:  
+/ I beseech you, peace:  
 The thing I have forsworn to grant may never  
 Be held by you denials. Do not bid me  
 Dismiss my soldiers, or capitulate  
 Again with Rome's mechanics: tell me not  
 Wherein I seem unnatural: desire not  
 To ally my rages and revenges with  
-Your colder reasons. ...
+Your colder reasons. /
 
 **VOLUMNIA**  
-... O, no more, no more!  
+/ O, no more, no more!  
 You have said you will not grant us anything;  
 For we have nothing else to ask, but that  
 Which you deny already: yet we will ask;  
@@ -3774,15 +3774,15 @@ Rather to show a noble grace to both parts
 Than seek the end of one, thou shalt no sooner  
 March to assault thy country than to tread--  
 Trust to't, thou shalt not--on thy mother's womb,  
-That brought thee to this world. ...
+That brought thee to this world. /
 
 **VIRGILIA**  
-... Ay, and mine,  
+/ Ay, and mine,  
 That brought you forth this boy, to keep your name  
-Living to time. ...
+Living to time. /
 
 **Young MARCIUS**  
-... A' shall not tread on me;  
+/ A' shall not tread on me;  
 I'll run away till I am bigger, but then I'll fight.
 
 **CORIOLANUS**  
@@ -3790,10 +3790,10 @@ Not of a woman's tenderness to be,
 Requires nor child nor woman's face to see.
 
 *\[Rising]*  
-I have sat too long. ...
+I have sat too long. /
 
 **VOLUMNIA**  
-... Nay, go not from us thus.  
+/ Nay, go not from us thus.  
 If it were so that our request did tend  
 To save the Romans, thereby to destroy  
 The Volsces whom you serve, you might condemn us,  
@@ -3853,10 +3853,10 @@ Were you in my stead, would you have heard
 A mother less? or granted less, Aufidius?
 
 **AUFIDIUS**  
-I was moved withal. ...
+I was moved withal. /
 
 **CORIOLANUS**  
-... I dare be sworn you were:  
+/ I dare be sworn you were:  
 And, sir, it is no little thing to make  
 Mine eyes to sweat compassion. But, good sir,  
 What peace you'll make, advise me: for my part,  
@@ -3867,12 +3867,12 @@ Stand to me in this cause. O mother! wife!
 *\[Aside]*  
 I am glad thou hast set thy mercy and thy honour  
 At difference in thee: out of that I'll work  
-Myself a former fortune. ...
+Myself a former fortune. /
 
 *The Ladies make signs to CORIOLANUS*
 
 **CORIOLANUS**  
-... Ay, by and by;
+/ Ay, by and by;
 
 *\[To VOLUMNIA, VIRGILIA, & c]*  
 But we will drink together; and you shall bear  
@@ -3921,21 +3921,21 @@ Sir, if you'ld save your life, fly to your house:
 The plebeians have got your fellow-tribune  
 And hale him up and down, all swearing, if  
 The Roman ladies bring not comfort home,  
-They'll give him death by inches. ...
+They'll give him death by inches. /
 
 *Enter a second Messenger*
 
 **SICINIUS**  
-... What's the news?
+/ What's the news?
 
 **Second Messenger**  
 Good news, good news; the ladies have prevail'd,  
 The Volscians are dislodged, and Marcius gone:  
 A merrier day did never yet greet Rome,  
-No, not the expulsion of the Tarquins. ...
+No, not the expulsion of the Tarquins. /
 
 **SICINIUS**  
-... Friend,  
+/ Friend,  
 Art thou certain this is true? is it most certain?
 
 **Second Messenger**  
@@ -3948,12 +3948,12 @@ As the recomforted through the gates. Why, hark you!
 
 The trumpets, sackbuts, psalteries and fifes,  
 Tabours and cymbals and the shouting Romans,  
-Make the sun dance. Hark you! ...
+Make the sun dance. Hark you! /
 
 *A shout within*
 
 **MENENIUS**  
-... This is good news:  
+/ This is good news:  
 I will go meet the ladies. This Volumnia  
 Is worth of consuls, senators, patricians,  
 A city full; of tribunes, such as you,  
@@ -3986,18 +3986,18 @@ To purge herself with words: dispatch.
 
 *Enter two Conspirators of AUFIDIUS' faction*
 
-Most welcome! ...
+Most welcome! /
 
 **First Conspirator**  
-... How is't with our gen'ral? ...
+/ How is't with our gen'ral? /
 
 **AUFIDIUS**  
-... E'en so  
+/ E'en so  
 As with a man by his own alms empoison'd,  
-And with his charity slain. ...
+And with his charity slain. /
 
 **Second Conspirator**  
-... Most noble sir,  
+/ Most noble sir,  
 If you do hold the same intent wherein  
 You wish'd us parties, we'll deliver you  
 Of your great danger.
@@ -4005,10 +4005,10 @@ Of your great danger.
 **First Conspirator**  
 The people will remain uncertain whilst  
 'Twixt you there's difference; but the fall of either  
-Makes the survivor heir of all. ...
+Makes the survivor heir of all. /
 
 **AUFIDIUS**  
-... I know it;  
+/ I know it;  
 And my pretext to strike at him admits  
 A good construction. I raised him, and I pawn'd  
 Mine honour for his truth: who being so heighten'd,  
@@ -4024,16 +4024,16 @@ Out of my files, his projects to accomplish,
 My best and freshest men; till, at the last,  
 I seem'd his follower, not partner, and  
 He waged me with his countenance, as if  
-I had been mercen'ry. ...
+I had been mercen'ry. /
 
 **First Conspirator**  
-... So he did, my lord:  
+/ So he did, my lord:  
 The army marvell'd at it, and, in the last,  
 When he had carried Rome and that we look'd  
-For no less spoil than glory,-- ...
+For no less spoil than glory,-- /
 
 **AUFIDIUS**  
-... There was it:  
+/ There was it:  
 For which my sinews shall be stretch'd upon him.  
 At a few drops of women's rheum, which are  
 As cheap as lies, he sold the blood and labour  
@@ -4045,37 +4045,37 @@ And I'll renew me in his fall. But, hark!
 **First Conspirator**  
 Your native town you enter'd like a post,  
 And had no welcomes home: but he returns,  
-Splitting the air with noise. ...
+Splitting the air with noise. /
 
 **Second Conspirator**  
-... And patient fools,  
+/ And patient fools,  
 Whose children he hath slain, their base throats tear  
-With giving him glory. ...
+With giving him glory. /
 
 **First Conspirator**  
-... Therefore, at your vantage,  
+/ Therefore, at your vantage,  
 Ere he express himself, or move the people  
 With what he would say, let him feel your sword,  
 Which we will second. When he lies along,  
 After your way his tale pronounced shall bury  
-His reasons with his body. ...
+His reasons with his body. /
 
 **AUFIDIUS**  
-... Say no more:  
-Here come the lords. ...
+/ Say no more:  
+Here come the lords. /
 
 *Enter the Lords of the city*
 
 **All The Lords**  
-... You are most welcome home.
+/ You are most welcome home.
 
 **AUFIDIUS**  
 I have not deserved it.  
 But, worthy lords, have you with heed perused  
-What I have written to you? ...
+What I have written to you? /
 
 **Lords**  
-... We have.
+/ We have.
 
 **AUFIDIUS**  
 He approaches: you shall hear him.
@@ -4094,15 +4094,15 @@ With no less honour to the Antiates
 Than shame to the Romans: and we here deliver,  
 Subscribed by the consuls and patricians,  
 Together with the seal o' the senate, what  
-We have compounded on. ...
+We have compounded on. /
 
 **AUFIDIUS**  
-... Read it not, noble lords;  
+/ Read it not, noble lords;  
 But tell the traitor, in the high'st degree  
-He hath abused your powers. ...
+He hath abused your powers. /
 
 **CORIOLANUS**  
-... Traitor! how now!
+/ Traitor! how now!
 
 **AUFIDIUS**  
 Ay, Marcius, Caius Marcius: dost thou think  
@@ -4129,16 +4129,16 @@ Must bear my beating to his grave--shall join
 To thrust the lie unto him.
 
 **First Lord**  
-Peace, both, and hear me speak. ...
+Peace, both, and hear me speak. /
 
 **AUFIDIUS**  
-... Why, noble lords,  
+/ Why, noble lords,  
 Will you be put in mind of his blind fortune,  
 Which was your shame, by this unholy braggart,  
-'Fore your own eyes and ears? ...
+'Fore your own eyes and ears? /
 
 **All Conspirators**  
-... Let him die for't.
+/ Let him die for't.
 
 **All The People**  
 'Tear him to pieces.'  
@@ -4153,15 +4153,15 @@ Peace, ho! no outrage: peace!
 The man is noble and his fame folds-in  
 This orb o' the earth. His last offences to us  
 Shall have judicious hearing. Stand, Aufidius,  
-And trouble not the peace. ...
+And trouble not the peace. /
 
 **CORIOLANUS**  
-... O that I had him,  
+/ O that I had him,  
 With six Aufidiuses, or more, his tribe,  
-To use my lawful sword! ...
+To use my lawful sword! /
 
 **AUFIDIUS**  
-... Insolent villain!
+/ Insolent villain!
 
 **All Conspirators**  
 Kill, kill, kill, kill, kill him!
@@ -4185,21 +4185,21 @@ Which this man's life did owe you, you'll rejoice
 That he is thus cut off. Please it your honours  
 To call me to your senate, I'll deliver  
 Myself your loyal servant, or endure  
-Your heaviest censure. ...
+Your heaviest censure. /
 
 **First Lord**  
-... Bear from hence his body;  
+/ Bear from hence his body;  
 And mourn you for him: let him be regarded  
 As the most noble corse that ever herald  
-Did follow to his urn. ...
+Did follow to his urn. /
 
 **Second Lord**  
-... His own impatience  
+/ His own impatience  
 Takes from Aufidius a great part of blame.  
-Let's make the best of it. ...
+Let's make the best of it. /
 
 **AUFIDIUS**  
-... My rage is gone;  
+/ My rage is gone;  
 And I am struck with sorrow. Take him up.  
 Help, three o' the chiefest soldiers; I'll be one.  
 Beat thou the drum, that it speak mournfully:  

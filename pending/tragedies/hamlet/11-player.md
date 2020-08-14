@@ -11,13 +11,13 @@ Who's there?
 Nay, answer me: stand, and unfold yourself.
 
 **BERNARDO**  
-Long live the king! ...
+Long live the king! /
 
 **FRANCISCO**  
-... Bernardo? ...
+/ Bernardo? /
 
 **BERNARDO**  
-... He.
+/ He.
 
 **FRANCISCO**  
 You come most carefully upon your hour.
@@ -33,36 +33,36 @@ And I am sick at heart.
 Have you had quiet guard?
 
 **FRANCISCO**  
-Not a mouse stirring. ...
+Not a mouse stirring. /
 
 **BERNARDO**  
-... Well, good night.  
+/ Well, good night.  
 If you do meet Horatio and Marcellus,  
 The rivals of my watch, bid them make haste.
 
 **FRANCISCO**  
-I think I hear them. ...
+I think I hear them. /
 
 *Enter HORATIO and MARCELLUS*
 
 **MARCELLUS**  
-... O, farewell, honest soldier:  
-Who hath relieved you? ...
+/ O, farewell, honest soldier:  
+Who hath relieved you? /
 
 **FRANCISCO**  
-... Bernardo has my place.  
-Give you good night. ...
+/ Bernardo has my place.  
+Give you good night. /
 
 *Exit*
 
 **MARCELLUS**  
-... Holla! Bernardo!
+/ Holla! Bernardo!
 
 **BERNARDO**  
-What, is Horatio there? ...
+What, is Horatio there? /
 
 **HORATIO**  
-... A piece of him.
+/ A piece of him.
 
 **MARCELLUS**  
 What, has this thing appear'd again tonight?
@@ -97,10 +97,10 @@ In which the majesty of buried Denmark
 Did sometimes march? by heaven I charge thee, speak!
 
 **MARCELLUS**  
-It is offended. ...
+It is offended. /
 
 **BERNARDO**  
-... See, it stalks away!
+/ See, it stalks away!
 
 **HORATIO**  
 Stay! speak, speak! I charge thee, speak!
@@ -115,10 +115,10 @@ How now, Horatio! you tremble and look pale:
 Is not this something more than fantasy?
 
 **MARCELLUS**  
-Is it not like the king? ...
+Is it not like the king? /
 
 **HORATIO**  
-... As thou art to thyself:  
+/ As thou art to thyself:  
 Such was the very armor he had on  
 When he the ambitious Norway combated;  
 'Tis strange.  
@@ -130,10 +130,10 @@ Why this same strict and most observant watch
 So nightly toils the subject of the land,  
 What might be toward, that this sweaty haste  
 Doth make the night joint-laborer with the day:  
-Who is't that can inform me? ...
+Who is't that can inform me? /
 
 **HORATIO**  
-... That can I;  
+/ That can I;  
 At least, the whisper goes so. Our last king,  
 Was, as you know, by Fortinbras of Norway,  
 Dared to the combat; in which our valiant Hamlet  
@@ -180,13 +180,13 @@ Speak of it: stay, and speak! Stop it, Marcellus.
 Shall I strike at it with my partisan?
 
 **HORATIO**  
-Do, if it will not stand. ...
+Do, if it will not stand. /
 
 **BERNARDO**  
-... 'Tis here! ...
+/ 'Tis here! /
 
 **HORATIO**  
-... 'Tis here!
+/ 'Tis here!
 
 **MARCELLUS**  
 'Tis gone!
@@ -413,10 +413,10 @@ Or ever I had seen that day, Horatio!
 My father!—methinks I see my father.
 
 **HORATIO**  
-Where, my lord? ...
+Where, my lord? /
 
 **HAMLET**  
-... In my mind's eye, Horatio.
+/ In my mind's eye, Horatio.
 
 **HORATIO**  
 I saw him once; he was a goodly king.
@@ -429,10 +429,10 @@ I shall not look upon his like again.
 My lord, I think I saw him yesternight.
 
 **HAMLET**  
-Saw? who? ...
+Saw? who? /
 
 **HORATIO**  
-... My lord, the king your father.
+/ My lord, the king your father.
 
 **HAMLET**  
 The king my father!
@@ -452,18 +452,18 @@ The apparition comes: I knew your father;
 These hands are not more like.
 
 **HAMLET**  
-Did you not speak to it? ...
+Did you not speak to it? /
 
 **HORATIO**  
-... My lord, I did;  
+/ My lord, I did;  
 But answer made it none: yet once methought  
 It lifted up its head and did address  
 Itself to motion, like as it would speak;  
 But even then the morning cock crew loud,  
-And vanish'd from our sight. ...
+And vanish'd from our sight. /
 
 **HAMLET**  
-... 'Tis very strange.
+/ 'Tis very strange.
 
 **HORATIO**  
 As I do live, my honour'd lord, 'tis true;  
@@ -472,19 +472,19 @@ To let you know of it.
 
 **HAMLET**  
 Indeed, indeed, sirs, but this troubles me.  
-Hold you the watch to-night? ...
+Hold you the watch to-night? /
 
 **MARCELLUS and BERNARDO**  
-... We do, my lord.
+/ We do, my lord.
 
 **HAMLET**  
-Arm'd, say you? ...
+Arm'd, say you? /
 
 **MARCELLUS and BERNARDO**  
-... Arm'd, my lord. ...
+/ Arm'd, my lord. /
 
 **HAMLET**  
-... From top to toe?
+/ From top to toe?
 
 **MARCELLUS and BERNARDO**  
 My lord, from head to foot.
@@ -502,10 +502,10 @@ What, look'd he frowningly?
 A countenance more in sorrow than in anger.
 
 **HAMLET**  
-And fix'd his eyes upon you? ...
+And fix'd his eyes upon you? /
 
 **HORATIO**  
-... Most constantly.
+/ Most constantly.
 
 **HAMLET**  
 I would I had been there.
@@ -546,23 +546,23 @@ Though all the earth o'erwhelm them, to men's eyes.
 My necessaries are embark'd: farewell:  
 And, sister, as the winds give benefit  
 And convoy is assistant, do not sleep,  
-But let me hear from you. ...
+But let me hear from you. /
 
 **OPHELIA**  
-... Do you doubt that?
+/ Do you doubt that?
 
 **LAERTES**  
 For Hamlet and the trifling of his favor,  
 Hold it a fashion and a toy in blood,  
 A violet in the youth of primy nature,  
 The perfume and suppliance of a minute;  
-No more. ...
+No more. /
 
 **OPHELIA**  
-... No more but so? ...
+/ No more but so? /
 
 **LAERTES**  
-... Think it no more;  
+/ Think it no more;  
 His greatness weigh'd, his will is not his own;  
 For he himself is subject to his birth:  
 And therefore must his choice be circumscribed  
@@ -609,10 +609,10 @@ Thou canst not then be false to any man.
 **LAERTES**  
 Most humbly do I take my leave, my lord.  
 Farewell, Ophelia; and remember well  
-What I have said to you. ...
+What I have said to you. /
 
 **OPHELIA**  
-... 'Tis in my memory lock'd,  
+/ 'Tis in my memory lock'd,  
 And you yourself shall keep the key of it.
 
 *Exit*
@@ -691,10 +691,10 @@ Say, why is this? wherefore? what should we do?
 **HORATIO**  
 It beckons you to go away with it,  
 As if it some impartment did desire  
-To you alone. ...
+To you alone. /
 
 **MARCELLUS**  
-... But do not go with it.
+/ But do not go with it.
 
 **HAMLET**  
 Why, what should be the fear?
@@ -710,16 +710,16 @@ And draw you into madness? Think of it.
 Go on; I'll follow thee.
 
 **MARCELLUS**  
-You shall not go, my lord. ...
+You shall not go, my lord. /
 
 **HAMLET**  
-... Hold off your hands.
+/ Hold off your hands.
 
 **HORATIO**  
-Be ruled; you shall not go. ...
+Be ruled; you shall not go. /
 
 **HAMLET**  
-... My fate cries out!  
+/ My fate cries out!  
 Still am I call'd. Unhand me, gentlemen.  
 I say, away! Go on; I'll follow thee.
 
@@ -750,10 +750,10 @@ Where wilt thou lead me? speak; I'll go no further.
 So art thou to revenge, when thou shalt hear.
 
 **HAMLET**  
-What? ...
+What? /
 
 **Ghost**  
-... I am thy father's spirit,  
+/ I am thy father's spirit,  
 Doom'd for a certain term to walk the night,  
 And for the day confined to fast in fires,  
 Till the foul crimes done in my days of nature  
@@ -843,10 +843,10 @@ Hillo, ho, ho, boy! come, bird, come.
 *Enter HORATIO and MARCELLUS*
 
 **MARCELLUS**  
-How is't, my noble lord? ...
+How is't, my noble lord? /
 
 **HORATIO**  
-... What news, my lord?
+/ What news, my lord?
 
 **HAMLET**  
 There's ne'er a villain dwelling in all Denmark  
@@ -854,10 +854,10 @@ But he's an arrant knave.
 
 **HORATIO**  
 There needs no ghost, my lord, come from the grave  
-To tell us this. ...
+To tell us this. /
 
 **HAMLET**  
-... Why, right; you are i' the right;  
+/ Why, right; you are i' the right;  
 And so, without more circumstance at all,  
 I hold it fit that we shake hands and part:  
 You, as your business and desire shall point you;  
@@ -874,17 +874,17 @@ It is an honest ghost, that let me tell you:
 For your desire to know what is between us,  
 O'ermaster 't as you may. And now, good friends,  
 As you are friends, scholars and soldiers,  
-Give me one poor request. ...
+Give me one poor request. /
 
 **HORATIO**  
-... What is't, my lord? we will.
+/ What is't, my lord? we will.
 
 **HAMLET**  
 Never make known what you have seen tonight.  
-Nay, but swear't. ...
+Nay, but swear't. /
 
 **MARCELLUS and HORATIO**  
-... We have sworn, my lord.
+/ We have sworn, my lord.
 
 **Ghost**  
 *\[Beneath]*  
@@ -895,14 +895,14 @@ Propose the oath, my lord.
 
 **HAMLET**  
 Never to speak of this that you have seen,  
-Swear by my sword. ...
+Swear by my sword. /
 
 **Ghost**  
 *\[Beneath]*  
-... Swear. ...
+/ Swear. /
 
 **HAMLET**  
-... Come hither, gentlemen,  
+/ Come hither, gentlemen,  
 And lay your hands again upon my sword:  
 Never to speak of this that you have heard,  
 Swear by my sword.
@@ -923,11 +923,11 @@ O day and night, but this is wondrous strange!
 Swear.
 
 **HAMLET**  
-Rest, rest, perturbed spirit! ...
+Rest, rest, perturbed spirit! /
 
 *They swear*
 
-... So, gentlemen,  
+/ So, gentlemen,  
 With all my love I do commend me to you:  
 And what so poor a man as Hamlet is  
 May do, to express his love and friending to you,  
@@ -957,27 +957,27 @@ What forgeries you please; marry, none so rank
 As may dishonour him; take heed of that;  
 But, sir, such wanton, wild and usual slips  
 As are companions noted and most known  
-To youth and liberty. ...
+To youth and liberty. /
 
 **REYNALDO**  
-... As gaming, my lord.
+/ As gaming, my lord.
 
 **LORD POLONIUS**  
 Ay, or drinking, fencing, swearing, quarrelling,  
-Drabbing: you may go so far. ...
+Drabbing: you may go so far. /
 
 **REYNALDO**  
-... But, my good lord,—
+/ But, my good lord,—
 
 **LORD POLONIUS**  
-Wherefore should you do this? ...
+Wherefore should you do this? /
 
 **REYNALDO**  
-... Ay, my lord,  
-I would know that. ...
+/ Ay, my lord,  
+I would know that. /
 
 **LORD POLONIUS**  
-... Marry, sir, here's my drift;  
+/ Marry, sir, here's my drift;  
 And I believe, it is a fetch of wit:  
 You laying these slight sullies on my son,  
 As 'twere a thing a little soil'd i' the working,  
@@ -1022,10 +1022,10 @@ As if he had been loosed out of hell
 To speak of horrors,—he comes before me.
 
 **LORD POLONIUS**  
-Mad for thy love? ...
+Mad for thy love? /
 
 **OPHELIA**  
-... My lord, I do not know;  
+/ My lord, I do not know;  
 He took me by the wrist and held me hard;  
 Then goes he to the length of all his arm;  
 And, with his other hand thus o'er his brow,  
@@ -1051,10 +1051,10 @@ What, have you given him any hard words of late?
 **OPHELIA**  
 No, my good lord, but, as you did command,  
 I did repel his fetters and denied  
-His access to me. ...
+His access to me. /
 
 **LORD POLONIUS**  
-... That hath made him mad.  
+/ That hath made him mad.  
 By heaven, it is as proper to our age  
 To cast beyond ourselves in our opinions  
 As it is common for the younger sort  
@@ -1089,16 +1089,16 @@ To whom he more adheres. If it will please you
 To show us so much gentry and good will  
 As to expend your time with us awhile,  
 Your visitation shall receive such thanks  
-As fits a king's remembrance. ...
+As fits a king's remembrance. /
 
 **ROSENCRANTZ**  
-... Both your majesties  
+/ Both your majesties  
 Might, by the sovereign power you have of us,  
 Put your dread pleasures more into command  
-Than to entreaty. ...
+Than to entreaty. /
 
 **GUILDENSTERN**  
-... But we both obey,  
+/ But we both obey,  
 And here give up ourselves, in the full bent  
 To lay our service freely at your feet,  
 To be commanded.
@@ -1140,10 +1140,10 @@ Therefore, since brevity is the soul of wit,
 I will be brief: your noble son is mad:  
 Mad call I it; for, to define true madness,  
 What is't but to be nothing else but mad?  
-But let that go. ...
+But let that go. /
 
 **QUEEN GERTRUDE**  
-... More matter, with less art.
+/ More matter, with less art.
 
 **LORD POLONIUS**  
 That he is mad, 'tis true: 'tis true 'tis pity;  
@@ -1203,10 +1203,10 @@ Fell into a sadness, then into a fast,
 Thence to a watch, thence into a weakness,  
 Thence to a lightness, and, by this declension,  
 Into the madness wherein now he raves,  
-And all we mourn for. ...
+And all we mourn for. /
 
 **KING CLAUDIUS**  
-... Do you think 'tis this?
+/ Do you think 'tis this?
 
 **QUEEN GERTRUDE**  
 It may be, very likely.
@@ -1216,25 +1216,25 @@ It may be, very likely.
 Take this from this, if this be otherwise:  
 If circumstances lead me, I will find  
 Where truth is hid, though it were hid indeed  
-Within the center. ...
+Within the center. /
 
 **KING CLAUDIUS**  
-... How may we try it further?
+/ How may we try it further?
 
 **LORD POLONIUS**  
 You know, sometimes he walks four hours together  
-Here in the lobby. ...
+Here in the lobby. /
 
 **QUEEN GERTRUDE**  
-... So he does indeed.
+/ So he does indeed.
 
 **LORD POLONIUS**  
 At such a time I'll loose my daughter to him:  
 Be you and I behind an arras then;  
-Mark the encounter. ...
+Mark the encounter. /
 
 **KING CLAUDIUS**  
-... We will try it.
+/ We will try it.
 
 **QUEEN GERTRUDE**  
 But, look, where sadly the poor wretch comes reading.
@@ -1568,10 +1568,10 @@ That lend a tyrannous and damned light
 To their lord's murder: roasted in wrath and fire,  
 And thus o'er-sized with coagulate gore,  
 With eyes like carbuncles, the hellish Pyrrhus  
-Old grandsire Priam seeks.' ...
+Old grandsire Priam seeks.' /
 
 **First Player**  
-... 'Anon he finds him  
+/ 'Anon he finds him  
 Striking too short at Greeks; his antique sword,  
 Rebellious to his arm, lies where it falls,  
 Repugnant to command: unequal match'd,  
@@ -1599,10 +1599,10 @@ Out, out, thou strumpet, Fortune! All you gods,
 In general synod 'take away her power;  
 Break all the spokes and fellies from her wheel,  
 And bowl the round nave down the hill of heaven,  
-As low as to the fiends!' ...
+As low as to the fiends!' /
 
 **LORD POLONIUS**  
-... This is too long.
+/ This is too long.
 
 **HAMLET**  
 It shall to the barber's, with your beard. Prithee, say on!
@@ -1734,10 +1734,10 @@ We o'er-raught on the way: of these we told him;
 And there did seem in him a kind of joy  
 To hear of it: they are about the court,  
 And, as I think, they have already order  
-This night to play before him. ...
+This night to play before him. /
 
 **LORD POLONIUS**  
-... 'Tis most true:  
+/ 'Tis most true:  
 And he beseech'd me to entreat your majesties  
 To hear and see the matter.
 
@@ -1761,10 +1761,10 @@ Her father and myself, lawful espials,
 Will so bestow ourselves that, seeing, unseen,  
 We may of their encounter frankly judge,  
 If 't be the affliction of his love or no  
-That thus he suffers for. ...
+That thus he suffers for. /
 
 **QUEEN GERTRUDE**  
-... I shall obey you.  
+/ I shall obey you.  
 And for your part, Ophelia, I do wish  
 That your good beauties be the happy cause  
 Of Hamlet's wildness: so shall I hope your virtues  
@@ -1818,16 +1818,16 @@ And enterprises of great pith and moment
 With this regard their currents turn awry,  
 And lose the name of action.—Soft you now!  
 The fair Ophelia! Nymph, in thy orisons  
-Be all my sins remember'd. ...
+Be all my sins remember'd. /
 
 **OPHELIA**  
-... God-den, sir.  
+/ God-den, sir.  
 My lord, I have remembrances of yours,  
 That I have longed long to re-deliver;  
-I pray you, now receive them. ...
+I pray you, now receive them. /
 
 **HAMLET**  
-... No, not I;  
+/ No, not I;  
 I never gave you aught.
 
 **OPHELIA**  
@@ -2004,12 +2004,12 @@ the time his form and pressure.
 *Enter POLONIUS, ROSENCRANTZ, and GUILDENSTERN*
 
 **HAMLET**  
-What ho! Horatio! ...
+What ho! Horatio! /
 
 *Enter HORATIO*
 
 **HORATIO**  
-... Here, sweet lord, at your service.
+/ Here, sweet lord, at your service.
 
 **HAMLET**  
 There is a play tonight before the king;  
@@ -2021,10 +2021,10 @@ Observe mine uncle: if his occulted guilt
 Do not itself unkennel in one speech,  
 It is a damned ghost that we have seen,  
 And my imaginations are as foul  
-As Vulcan's stithy. ...
+As Vulcan's stithy. /
 
 **HORATIO**  
-... Well, my lord:  
+/ Well, my lord:  
 If he steal aught the whilst this play is playing,  
 And 'scape detecting, I will pay the theft.
 
@@ -2163,10 +2163,10 @@ Where little fears grow great, great love grows there.
 My operant powers their functions leave to do:  
 And thou shalt live in this fair world behind,  
 Honor'd, beloved; and haply one as kind  
-For husband shalt thou— ...
+For husband shalt thou— /
 
 **Player Queen**  
-... O, confound the rest!  
+/ O, confound the rest!  
 Such love must needs be treason in my breast:  
 In second husband let me be accurst!  
 None wed the second but who kill'd the first.  
@@ -2190,11 +2190,11 @@ If, once a widow, ever I be wife!
 **Player King**  
 'Tis deeply sworn. Sweet, leave me here awhile;  
 My spirits grow dull, and fain I would beguile  
-The tedious day with sleep. ...
+The tedious day with sleep. /
 *\[Sleeps]*
 
 **Player Queen**  
-... Sleep rock thy brain,  
+/ Sleep rock thy brain,  
 And never come mischance between us twain!
 
 *Exit*
@@ -2246,16 +2246,16 @@ You shall see anon how the murderer gets the love of
 Gonzago's wife.
 
 **OPHELIA**  
-The king rises. ...
+The king rises. /
 
 **HAMLET**  
-... What, frighted with false fire!
+/ What, frighted with false fire!
 
 **QUEEN GERTRUDE**  
-How fares my lord? ...
+How fares my lord? /
 
 **LORD POLONIUS**  
-... Give o'er the play.
+/ Give o'er the play.
 
 **KING CLAUDIUS**  
 Give me some light: away!
@@ -2437,10 +2437,10 @@ To hear the process; and warrant she'll tax him home:
 Since nature makes them partial, should o'erhear  
 The speech, of vantage. Fare you well, my liege:  
 I'll  call upon you ere you go to bed,  
-And tell you what I know. ...
+And tell you what I know. /
 
 **KING CLAUDIUS**  
-... Thanks, dear my lord.
+/ Thanks, dear my lord.
 
 *Exit POLONIUS*
 
@@ -2534,10 +2534,10 @@ Come, come, you answer with an idle tongue.
 Go, go, you question with a wicked tongue.
 
 **QUEEN GERTRUDE**  
-Have you forgot me? ...
+Have you forgot me? /
 
 **HAMLET**  
-... No, by the rood, not so:  
+/ No, by the rood, not so:  
 You are the queen, your husband's brother's wife;  
 And—would it were not so!—you are my mother.
 
@@ -2570,10 +2570,10 @@ O, I am slain!
 *\[Falls and dies]*
 
 **QUEEN GERTRUDE**  
-O me, what hast thou done? ...
+O me, what hast thou done? /
 
 **HAMLET**  
-... Nay, I know not:  
+/ Nay, I know not:  
 Is it the king?
 
 **QUEEN GERTRUDE**  
@@ -2584,10 +2584,10 @@ A bloody deed! almost as bad, good mother,
 As kill a king, and marry with his brother.
 
 **QUEEN GERTRUDE**  
-As kill a king! ...
+As kill a king! /
 
 **HAMLET**  
-... Ay, lady, 'twas my word.
+/ Ay, lady, 'twas my word.
 
 *Lifts up the arras and discovers POLONIUS*
 
@@ -2595,10 +2595,10 @@ Thou wretched, rash, intruding fool, farewell!
 
 **QUEEN GERTRUDE**  
 What have I done, that thou darest wag thy tongue  
-In noise so rude against me? ...
+In noise so rude against me? /
 
 **HAMLET**  
-... Such an act  
+/ Such an act  
 That blurs the grace and blush of modesty.  
 Look here, upon this picture, and on this,  
 The counterfeit presentment of two brothers.  
@@ -2625,26 +2625,26 @@ O shame! where is thy blush?
 O Hamlet, speak no more:  
 Thou turn'st mine eyes into my very soul;  
 And there I see such black and grained spots  
-As will not leave their tinct. ...
+As will not leave their tinct. /
 
 **HAMLET**  
-... Nay, but to live  
+/ Nay, but to live  
 In the rank sweat of an enseamed bed,  
 Stew'd in corruption, honeying and making love  
-Over the nasty sty,— ...
+Over the nasty sty,— /
 
 **QUEEN GERTRUDE**  
-... O, speak to me no more;  
+/ O, speak to me no more;  
 These words, like daggers, enter in mine ears;  
-No more, sweet Hamlet! ...
+No more, sweet Hamlet! /
 
 **HAMLET**  
-... A murderer and a villain;  
+/ A murderer and a villain;  
 That from a shelf the precious diadem stole,  
-And put it in his pocket! ...
+And put it in his pocket! /
 
 **QUEEN GERTRUDE**  
-... No more!
+/ No more!
 
 **HAMLET**  
 A king of shreds and patches,--
@@ -2655,18 +2655,18 @@ Save me, and hover o'er me with your wings,
 You heavenly guards! What would your gracious figure?
 
 **QUEEN GERTRUDE**  
-Alas, he's mad! ...
+Alas, he's mad! /
 
 **Ghost**  
-... Do not forget: this visitation  
+/ Do not forget: this visitation  
 Is but to whet thy almost blunted purpose.  
 But, look, amazement on thy mother sits:  
 O, step between her and her fighting soul:  
 Conceit in weakest bodies strongest works:  
-Speak to her, Hamlet. ...
+Speak to her, Hamlet. /
 
 **HAMLET**  
-... How is it with you, lady?
+/ How is it with you, lady?
 
 **QUEEN GERTRUDE**  
 Alas, how is't with you,  
@@ -2701,10 +2701,10 @@ Look, where he goes, even now, out at the portal!
 **QUEEN GERTRUDE**  
 This the very coinage of your brain:  
 This bodiless creation ecstasy  
-Is very cunning in. ...
+Is very cunning in. /
 
 **HAMLET**  
-... Ecstasy!  
+/ Ecstasy!  
 My pulse, as yours, doth temperately keep time,  
 And makes as healthful music: it is not madness  
 That I have utter'd: Mother, for love of grace,  
@@ -2730,10 +2730,10 @@ For use almost can change the stamp of nature,
 And either the devil, or throw him out  
 With wondrous potency. Once more, good night:  
 And when you are desirous to be bless'd,  
-I'll blessing beg of you. ...
+I'll blessing beg of you. /
 
 **QUEEN GERTRUDE**  
-... What shall I do?
+/ What shall I do?
 
 **HAMLET**  
 Not this, by no means, that I bid you do:  
@@ -2749,10 +2749,10 @@ And breath of life, I have no life to breathe
 What thou hast said to me.
 
 **HAMLET**  
-I must to England; you know that? ...
+I must to England; you know that? /
 
 **QUEEN GERTRUDE**  
-... Alack,  
+/ Alack,  
 I had forgot: 'tis so concluded on.
 
 **HAMLET**  
@@ -2785,10 +2785,10 @@ Which is the mightier: in his lawless fit,
 Behind the arras hearing something stir,  
 Whips out his rapier, cries, 'A rat, a rat!'  
 And, in this brainish apprehension, kills  
-The unseen good old man. ...
+The unseen good old man. /
 
 **KING CLAUDIUS**  
-... O heavy deed!  
+/ O heavy deed!  
 It had been so with us, had we been there.  
 Come, Gertrude, we'll call up our wisest friends;  
 And let them know, both what we mean to do,  
@@ -2874,10 +2874,10 @@ That else leans on the affair: pray you, make haste.
 Go, captain, from me greet the Danish king;  
 Tell him that, by his license, Fortinbras  
 Craves the conveyance of a promised march  
-Over his kingdom. ...
+Over his kingdom. /
 
 **Captain**  
-... I will do't, my lord.
+/ I will do't, my lord.
 
 *Exeunt FORTINBRAS*
 
@@ -2962,10 +2962,10 @@ She speaks much of her father; says she hears
 There's tricks i' the world; and hems, and beats her heart;  
 Spurns enviously at straws; her speech is nothing,  
 Yet the unshaped use of it doth move  
-The hearers to collection. ...
+The hearers to collection. /
 
 **QUEEN GERTRUDE**  
-... Let her in.
+/ Let her in.
 
 *Exit HORATIO and Gentleman*
 
@@ -3047,10 +3047,10 @@ All from her father's death. O Gertrude, Gertrude!
 *A noise within*
 
 **QUEEN GERTRUDE**  
-Alack, what noise is this? ...
+Alack, what noise is this? /
 
 **Gentleman**  
-... Save yourself, m'lord:  
+/ Save yourself, m'lord:  
 The ocean, overpeering of his list,  
 Eats not the flats with more impetuous haste  
 Than young Laertes, in a riotous head,  
@@ -3065,40 +3065,40 @@ Caps, hands, and tongues, applaud it to the clouds:
 
 **LAERTES**  
 Where is this king? Sirs, stand you all without.  
-Give me my father! ...
+Give me my father! /
 
 **QUEEN GERTRUDE**  
-... Calmly, good Laertes.
+/ Calmly, good Laertes.
 
 **KING CLAUDIUS**  
 What is the cause, Laertes,  
 That thy rebellion looks so giant-like?  
 Let him go, Gertrude; Tell me, Laertes,  
 Why thou art thus incensed. Let him go.  
-Speak, man. ...
+Speak, man. /
 
 **LAERTES**  
-... Where is my father? ...
+/ Where is my father? /
 
 **KING CLAUDIUS**  
-... Dead.
+/ Dead.
 
 **LAERTES**  
 How came he dead? I'll not be juggled with:  
 I dare damnation. To this point I stand,  
 That both the worlds I give to negligence,  
 Let come what comes; only I'll be revenged  
-Most thoroughly for my father. ...
+Most thoroughly for my father. /
 
 **KING CLAUDIUS**  
-... Good Laertes,  
+/ Good Laertes,  
 If you desire to know the certainty  
 Of your dear father's death, is't writ in your revenge,  
 That, swoopstake, you will draw both friend and foe,  
-Winner and loser? ...
+Winner and loser? /
 
 **LAERTES**  
-... None but his enemies.
+/ None but his enemies.
 
 **KING CLAUDIUS**  
 Will you know them then?
@@ -3106,10 +3106,10 @@ Will you know them then?
 **LAERTES**  
 To his good friends thus wide I'll ope my arms;  
 And like the kind life-rendering pelican,  
-Repast them with my blood. ...
+Repast them with my blood. /
 
 **KING CLAUDIUS**  
-... Why, now you speak  
+/ Why, now you speak  
 Like a good child and a true gentleman.  
 That I am guiltless of your father's death,  
 And am most sensible in grief for it.
@@ -3181,18 +3181,18 @@ They find us touch'd, we will our kingdom give,
 To you in satisfaction; but if not,  
 Be you content to lend your patience to us,  
 And we shall jointly labour with your soul  
-To give it due content. ...
+To give it due content. /
 
 **LAERTES**  
-... Let this be so;  
+/ Let this be so;  
 His means of death, his obscure funeral--  
 No trophy, sword, nor hatchment o'er his bones,  
 No noble rite nor formal ostentation--  
 Cry to be heard, as 'twere from heaven to earth,  
-That I must call't in question. ...
+That I must call't in question. /
 
 **KING CLAUDIUS**  
-... So you shall;  
+/ So you shall;  
 And where the offence is let the great axe fall.  
 I pray you, go with me.
 
@@ -3206,10 +3206,10 @@ I pray you, go with me.
 Now must your conscience my acquaintance seal,  
 Sith you have heard, and with a knowing ear,  
 That he which hath your noble father slain  
-Pursued my life. ...
+Pursued my life. /
 
 **LAERTES**  
-... It well appears: but tell me  
+/ It well appears: but tell me  
 Why you proceeded not against these feats,  
 So crimeful and so capital in nature,  
 As by your safety, wisdom, all things else,  
@@ -3240,10 +3240,10 @@ For her perfections: but my revenge will come.
 *Enter a Messenger*
 
 **KING CLAUDIUS**  
-How now! what news? ...
+How now! what news? /
 
 **Messenger**  
-... Letters, my lord, from Hamlet:  
+/ Letters, my lord, from Hamlet:  
 This to your majesty; this to the queen.
 
 **KING CLAUDIUS**  
@@ -3265,15 +3265,15 @@ To an exploit, now ripe in my device,
 Under the which he shall not choose but fall:  
 And for his death no wind of blame shall breathe,  
 But even his mother shall uncharge the practice  
-And call it accident. ...
+And call it accident. /
 
 **LAERTES**  
-... My lord, I will be ruled;  
+/ My lord, I will be ruled;  
 The rather, if you could devise it so  
-That I might be the organ. ...
+That I might be the organ. /
 
 **KING CLAUDIUS**  
-... It falls right.  
+/ It falls right.  
 Laertes, was your father dear to you?  
 Not that I think you did not love your father;  
 But that I know love is begun by time;  
@@ -3282,10 +3282,10 @@ There lives within the very flame of love
 A kind of wick or snuff that will abate it.  
 Hamlet comes back: what would you undertake,  
 To show yourself your father's son in deed  
-More than in words? ...
+More than in words? /
 
 **LAERTES**  
-... To cut his throat i' the church.
+/ To cut his throat i' the church.
 
 **KING CLAUDIUS**  
 No place, indeed, should murder sanctuarize;  
@@ -3300,10 +3300,10 @@ Most generous and free from all contriving,
 Will not peruse the foils; so that, with ease,  
 Or with a little shuffling, you may choose  
 A sword unbated, and in a pass of practice  
-Requite him for your father. ...
+Requite him for your father. /
 
 **LAERTES**  
-... I will do't:  
+/ I will do't:  
 And, for that purpose, I'll anoint my sword.  
 I bought an unction of a mountebank,  
 So mortal that, but dip a knife in it,  
@@ -3312,10 +3312,10 @@ Collected from all simples that have virtue
 Under the moon, can save the thing from death  
 That is but scratch'd withal: I'll touch my point  
 With this contagion, that, if I gall him slightly,  
-It may be death. ...
+It may be death. /
 
 **KING CLAUDIUS**  
-... Let's further think of this;  
+/ Let's further think of this;  
 Weigh what convenience both of time and means  
 May fit us to our shape: if this should fail,  
 'Twere better not assay'd: therefore this project  
@@ -3325,11 +3325,11 @@ When in your motion you are hot and dry--
 And that he calls for drink, I'll have prepared him  
 A chalice for the nonce, whereon but sipping,  
 If he by chance escape your venom'd stuck,  
-Our purpose may hold there. ...
+Our purpose may hold there. /
 
 *Enter QUEEN GERTRUDE*
 
-... How now, sweet queen!
+/ How now, sweet queen!
 
 **QUEEN GERTRUDE**  
 One woe doth tread upon another's heel,  
@@ -3356,10 +3356,10 @@ Or like a creature native and indued
 Unto that element: but long it could not be  
 Till that her garments, heavy with their drink,  
 Pull'd the poor wretch from her melodious lay  
-To muddy death. ...
+To muddy death. /
 
 **LAERTES**  
-... Alas, then, she is drown'd?
+/ Alas, then, she is drown'd?
 
 **QUEEN GERTRUDE**  
 Drown'd, drown'd.
@@ -3597,17 +3597,17 @@ Till the last trumpet: for charitable prayers,
 Shards, flints and pebbles should be thrown on her;  
 Yet here she is allow'd her virgin crants,  
 Her maiden strewments and the bringing home  
-Of bell and burial. ...
+Of bell and burial. /
 
 **LAERTES**  
-... Lay her i' the earth:  
+/ Lay her i' the earth:  
 And from her fair and unpolluted flesh  
 May violets spring! I tell thee, churlish priest,  
 A ministering angel shall my sister be,  
-When thou liest howling. ...
+When thou liest howling. /
 
 **HAMLET**  
-... What, the fair Ophelia!
+/ What, the fair Ophelia!
 
 **QUEEN GERTRUDE**  
 Sweets to the sweet: farewell!
@@ -3615,10 +3615,10 @@ Sweets to the sweet: farewell!
 *\[Scattering flowers]*  
 I hoped thou shouldst have been my Hamlet's wife;  
 I thought thy bride-bed to have deck'd, sweet maid,  
-And not have strew'd thy grave. ...
+And not have strew'd thy grave. /
 
 **LAERTES**  
-... O, treble woe  
+/ O, treble woe  
 Fall ten times treble on that cursed head,  
 Whose wicked deed thy most ingenious sense  
 Deprived thee of! Hold off the earth awhile,  
@@ -3639,11 +3639,11 @@ Hamlet the Dane.
 *\[Leaps into the grave]*
 
 **LAERTES**  
-The devil take thy soul! ...  
+The devil take thy soul! /  
 *\[Grappling with him]*
 
 **HAMLET**  
-... Thou pray'st not well.  
+/ Thou pray'st not well.  
 I prithee, take thy fingers from my throat!
 
 *Horatio parts them, and they come out of the grave*
@@ -3662,17 +3662,17 @@ Woo't weep? woo't fight? woo't fast? woo't tear thyself?
 I'll do't. Dost thou come here to whine?  
 To outface me with leaping in her grave?  
 Be buried quick with her, and so will I:  
-I'll rant as well as thou. ...
+I'll rant as well as thou. /
 
 **QUEEN GERTRUDE**  
-... This is mere madness:  
+/ This is mere madness:  
 And thus awhile the fit will work on him;  
 Anon, as patient as the female dove,  
 When that her golden couplets are disclosed,  
-His silence will sit drooping. ...
+His silence will sit drooping. /
 
 **HAMLET**  
-... Hear you sir,  
+/ Hear you sir,  
 What is the reason that you use me thus?  
 I loved you ever: but it is no matter;  
 Let Hercules himself do what he may,  
@@ -3714,10 +3714,10 @@ That to Laertes I forgot myself;
 For, by the image of my cause, I see  
 The portraiture of his: I'll court his favors.  
 But, sure, the bravery of his grief did put me  
-Into a towering passion. ...
+Into a towering passion. /
 
 **HORATIO**  
-... Peace! who comes here?
+/ Peace! who comes here?
 
 *Enter OSRIC*
 
@@ -3969,10 +3969,10 @@ Who does it, then? His madness: if't be so.
 Let my disclaiming from a purposed evil  
 Free me so far in your most generous thoughts,  
 That I have shot mine arrow o'er the house,  
-And hurt my brother. ...
+And hurt my brother. /
 
 **LAERTES**  
-... I am satisfied in nature,  
+/ I am satisfied in nature,  
 Whose motive, in this case, should stir me most  
 To my revenge: but in my terms of honor  
 I stand aloof; and will no reconcilement,  
@@ -3984,10 +3984,10 @@ And will not wrong it.
 
 **KING CLAUDIUS**  
 Give them the foils, young Osric. Cousin Hamlet,  
-You know the wager? ...
+You know the wager? /
 
 **HAMLET**  
-... Very well, my lord  
+/ Very well, my lord  
 Your grace hath laid the odds o' the weaker side.
 
 **KING CLAUDIUS**  
@@ -3997,35 +3997,35 @@ But since he is better'd, we have therefore odds.
 *They prepare to play*
 
 **HAMLET**  
-Come on, sir. ...
+Come on, sir. /
 
 **LAERTES**  
-... Come, my lord. ...
+/ Come, my lord. /
 
 *They play*
 
 **HAMLET**  
-... One. ...
+/ One. /
 
 **LAERTES**  
-... No. ...
+/ No. /
 
 **HAMLET**  
-... Judgment.
+/ Judgment.
 
 **OSRIC**  
-A hit, a very palpable hit. ...
+A hit, a very palpable hit. /
 
 **LAERTES**  
-... Well; again.
+/ Well; again.
 
 **KING CLAUDIUS**  
 Stay; give me drink. Hamlet, this pearl is thine;  
-Here's to thy health. ...
+Here's to thy health. /
 
 *Trumpets sound, and cannon shot off within*
 
-... Give him the cup.
+/ Give him the cup.
 
 **HAMLET**  
 I'll play this bout first; set it by awhile. Come.
@@ -4070,19 +4070,19 @@ I pray you, pass with your best violence;
 *They play*
 
 **OSRIC**  
-Nothing, neither way. ...
+Nothing, neither way. /
 
 **LAERTES**  
-... Have at you now!
+/ Have at you now!
 
 *LAERTES wounds HAMLET; then in scuffling, they change rapiers, and
 HAMLET wounds LAERTES*
 
 **KING CLAUDIUS**  
-Part them; they are incensed. ...
+Part them; they are incensed. /
 
 **HAMLET**  
-... Nay, come, again.
+/ Nay, come, again.
 
 *QUEEN GERTRUDE falls*
 
@@ -4100,10 +4100,10 @@ Why, as a woodcock to mine own springe, Osric;
 I am justly kill'd with mine own treachery.
 
 **HAMLET**  
-How does the queen? ...
+How does the queen? /
 
 **KING CLAUDIUS**  
-... She swounds to see them bleed.
+/ She swounds to see them bleed.
 
 **QUEEN GERTRUDE**  
 No, no, the drink, the drink,—O my dear Hamlet,—  
@@ -4135,12 +4135,12 @@ O, yet defend me, friends; I am but hurt.
 **HAMLET**  
 Here, thou incestuous, murderous, damned Dane,  
 Drink off this potion. Is thy union here?  
-Follow my mother. ...
+Follow my mother. /
 
 *KING CLAUDIUS dies*
 
 **LAERTES**  
-... He is justly served;  
+/ He is justly served;  
 It is a poison temper'd by himself.  
 Exchange forgiveness with me, noble Hamlet:  
 Mine and my father's death come not upon thee,  
@@ -4152,25 +4152,25 @@ Heaven make thee free of it! I follow thee.
 I am dead, Horatio. Wretched queen, adieu!  
 But let it be. Horatio, I am dead;  
 Thou livest; report me and my cause aright  
-To the unsatisfied. ...
+To the unsatisfied. /
 
 **HORATIO**  
-... Never believe it:  
+/ Never believe it:  
 I am more an antique Roman than a Dane:  
-Here's yet some liquor left. ...
+Here's yet some liquor left. /
 
 **HAMLET**  
-... As thou'rt a man,  
+/ As thou'rt a man,  
 Give me the cup: let go; by heaven, I'll have't.  
 O good Horatio, what a wounded name!  
 If thou didst ever hold me in thy heart  
 Absent thee from felicity awhile,  
 And in this harsh world draw thy breath in pain,  
-To tell my story. ...
+To tell my story. /
 
 *March afar off, and shot within*
 
-... What warlike noise is this?
+/ What warlike noise is this?
 
 **OSRIC**  
 Young Fortinbras, with conquest come from Poland.
@@ -4198,18 +4198,18 @@ Why does the drum come hither?
 This quarry cries on havoc. O proud death,  
 What feast is toward in thine eternal cell,  
 That thou so many princes at a shot  
-So bloodily hast struck? ...
+So bloodily hast struck? /
 
 **English Ambassador**  
-... The sight is dismal;  
+/ The sight is dismal;  
 And our affairs from England come too late:  
 The ears are senseless that should give us hearing,  
 To tell him his commandment is fulfill'd,  
 That Rosencrantz and Guildenstern are dead:  
-Where should we have our thanks? ...
+Where should we have our thanks? /
 
 **HORATIO**  
-... Not from his mouth,  
+/ Not from his mouth,  
 Had it the ability of life to thank you:  
 He never gave commandment for their death.  
 You from the Polack wars, and you from England,  
@@ -4222,10 +4222,10 @@ Of accidental judgments, casual slaughters,
 Of deaths put on by cunning and forced cause,  
 And, in this upshot, purposes mistook  
 Fall'n on the inventors' reads: all this can I  
-Truly deliver. ...
+Truly deliver. /
 
 **PRINCE FORTINBRAS**  
-... Let four captains  
+/ Let four captains  
 Bear Hamlet, like a soldier, to the stage;  
 For he was likely, had he been put on,  
 To have proved most royally: and, for his passage,  

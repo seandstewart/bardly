@@ -16,22 +16,22 @@ When the battle's lost and won.
 That will be ere the set of sun.
 
 **FIRST WITCH**  
-Where the place? ...
+Where the place? /
 
 **SECOND WITCH**  
-... Upon the heath.
+/ Upon the heath.
 
 **THIRD WITCH**  
 There to meet with Macbeth.
 
 **FIRST WITCH**  
-I come, Graymalkin! ...
+I come, Graymalkin! /
 
 **SECOND WITCH**  
-... Paddock calls. ...
+/ Paddock calls. /
 
 **THIRD WITCH**  
-... Anon.
+/ Anon.
 
 **ALL**  
 Fair is foul, and foul is fair:  
@@ -47,17 +47,17 @@ meeting the SECOND WITCH disguised as a bleeding Sergeant*
 **KING DUNCAN**  
 What bloody man is that? He can report,  
 As seemeth by his plight, of the revolt  
-The newest state. ...
+The newest state. /
 
 **MALCOLM**  
-... This is the sergeant  
+/ This is the sergeant  
 Who like a good and hardy soldier fought  
 'Gainst my captivity. Hail, brave friend!  
 Say to the king the knowledge of the broil  
-As thou didst leave it. ...
+As thou didst leave it. /
 
 **Sergeant**  
-... Doubtful it stood;  
+/ Doubtful it stood;  
 As two spent swimmers, that do cling together  
 And choke their art. The merciless Macdonwald--  
 Worthy to be a rebel, for to that  
@@ -87,14 +87,14 @@ No sooner justice had with valour arm'd
 Compell'd these skipping kerns to trust their heels,  
 But the Norweyan lord surveying vantage,  
 With furbish'd arms and new supplies of men  
-Began a fresh assault. ...
+Began a fresh assault. /
 
 **KING DUNCAN**  
-... Dismay'd not this  
-Our captains, Macbeth and Banquo? ...
+/ Dismay'd not this  
+Our captains, Macbeth and Banquo? /
 
 **Sergeant**  
-... Yes;  
+/ Yes;  
 As sparrows eagles, or the hare the lion.  
 If I say sooth, I must report they were  
 As cannons overcharged with double cracks, so they  
@@ -110,25 +110,25 @@ They smack of honor both. Go get him surgeons.
 
 *Exit Sergeant, attended*
 
-Who comes here? ...
+Who comes here? /
 
 *Enter MACDUFF*
 
 **MALCOLM**  
-... The worthy thane MacDuff.
+/ The worthy thane MacDuff.
 
 **DONALBAIN**  
 What a haste looks through his eyes! So should he look  
-That seems to speak things strange. ...
+That seems to speak things strange. /
 
 **MACDUFF**  
-... God save the king!
+/ God save the king!
 
 **KING DUNCAN**  
-Whence cam'st thou, worthy thane? ...
+Whence cam'st thou, worthy thane? /
 
 **MACDUFF**  
-... From Fife, great king;  
+/ From Fife, great king;  
 Where the Norweyan banners flout the sky  
 And fan our people cold. Norway himself,  
 With terrible numbers,  
@@ -138,13 +138,13 @@ Till that Bellona's bridegroom, lapp'd in proof,
 Confronted him with self-comparisons,  
 Point against point, rebellious arm 'gainst arm.  
 Curbing his lavish spirit: and, to conclude,  
-The vict'ry fell on us. ...
+The vict'ry fell on us. /
 
 **KING DUNCAN**  
-... Great happiness! ...
+/ Great happiness! /
 
 **MACDUFF**  
-... That now  
+/ That now  
 Sweno, the Norways' king, craves composition:  
 Nor would we deign him burial of his men  
 Till he disbursed at Saint Colme's inch  
@@ -168,10 +168,10 @@ What he hath lost noble Macbeth hath won.
 *Thunder. Enter the three Witches*
 
 **FIRST WITCH**  
-Where hast thou been, sister? ...
+Where hast thou been, sister? /
 
 **SECOND WITCH**  
-... Killing swine.
+/ Killing swine.
 
 **THIRD WITCH**  
 Sister, where thou?
@@ -245,10 +245,10 @@ That man may question? You seem to understand me,
 By each at once her chappy finger laying  
 Upon her skinny lips: you should be women,  
 And yet your beards forbid me to interpret  
-That you are so. ...
+That you are so. /
 
 **MACBETH**  
-... Speak, if you can: what are you?
+/ Speak, if you can: what are you?
 
 **FIRST WITCH**  
 All hail, Macbeth! hail to thee, thane of Glamis!
@@ -270,16 +270,16 @@ That he seems rapt withal: to me you speak not.
 If you can look into the seeds of time,  
 And say which grain will grow and which will not,  
 Speak then to me, who neither beg nor fear  
-Your favours nor your hate. ...
+Your favours nor your hate. /
 
 **FIRST WITCH**  
-... Hail! ...
+/ Hail! /
 
 **SECOND WITCH**  
-... Hail! ...
+/ Hail! /
 
 **THIRD WITCH**  
-... Hail!
+/ Hail!
 
 **FIRST WITCH**  
 Lesser than Macbeth, and greater.
@@ -321,10 +321,10 @@ Or have we eaten on the insane root
 That takes the reason prisoner?
 
 **MACBETH**  
-Your children shall be kings. ...
+Your children shall be kings. /
 
 **BANQUO**  
-... You shall be king.
+/ You shall be king.
 
 **MACBETH**  
 And thane of Cawdor too: went it not so?
@@ -352,17 +352,17 @@ Only to herald thee into his sight,
 Not pay thee. And, for an earnest of a greater honor,  
 He bade me, from him, call thee thane of Cawdor:  
 In which addition, hail, most worthy thane!  
-For it is thine. ...
+For it is thine. /
 
 **BANQUO**  
-... What, can the devil speak true?
+/ What, can the devil speak true?
 
 **MACBETH**  
 The thane of Cawdor lives: why do you dress me  
-In borrow'd robes? ...
+In borrow'd robes? /
 
 **ANGUS**  
-... Who was the thane lives yet;  
+/ Who was the thane lives yet;  
 But under heavy judgment bears that life  
 Which he deserves to lose. Whether he was combined  
 With those of Norway, or did line the rebel  
@@ -373,30 +373,30 @@ Have overthrown him.
 
 **MACBETH**  
 *\[Aside]*  
-... Glamis, and thane of Cawdor!  
-The greatest is behind. ...
+/ Glamis, and thane of Cawdor!  
+The greatest is behind. /
 
 *\[To ANGUS (Witch 3)]*  
-... Thanks for your pains.
+/ Thanks for your pains.
 
 *\[To BANQUO]*  
 Do you not hope your children shall be kings,  
 When those that gave the thane of Cawdor to me  
-Promised no less to them? ...
+Promised no less to them? /
 
 **BANQUO**  
-... That trusted home  
+/ That trusted home  
 Might yet enkindle you unto the crown,  
 Besides the thane of Cawdor. But 'tis strange:  
 And oftentimes, to win us to our harm,  
 The instruments of darkness tell us truths,  
 Win us with honest trifles, to betray's  
 In deepest consequence.  
-Cousins, a word, I pray you. ...
+Cousins, a word, I pray you. /
 
 **MACBETH**  
 *\[Aside]*  
-... Two truths are told,  
+/ Two truths are told,  
 As happy prologues to the swelling act  
 Of the imperial theme.--I thank you, gentle sir.
 
@@ -412,24 +412,24 @@ Are less than horrible imaginings:
 My thought, whose murder yet is but fantastical,  
 Shakes so my single state of man that function  
 Is smother'd in surmise, and nothing is  
-But what is not. ...
+But what is not. /
 
 **BANQUO**  
-... Look, how our partner's rapt.
+/ Look, how our partner's rapt.
 
 **MACBETH**  
 *\[Aside]*  
 If chance will have me king, why, chance may crown me,  
-Without my stir. ...
+Without my stir. /
 
 **BANQUO**  
-... New horrors come upon him,  
+/ New horrors come upon him,  
 Like our strange garments, cleave not to their mould  
-But with the aid of use. ...
+But with the aid of use. /
 
 **MACBETH**  
 *\[Aside]*  
-... Come what come may,  
+/ Come what come may,  
 Time and the hour runs through the roughest day.
 
 **BANQUO**  
@@ -442,10 +442,10 @@ Are register'd where every day I turn
 The leaf to read them. Let us toward the king.  
 Think upon what hath chanced, and, at more time,  
 The interim having weigh'd it, let us speak  
-Our free hearts each to other. ...
+Our free hearts each to other. /
 
 **BANQUO**  
-... Very gladly.
+/ Very gladly.
 
 **MACBETH**  
 Till then, enough. Come, friends.
@@ -458,10 +458,10 @@ Till then, enough. Come, friends.
 
 **KING DUNCAN**  
 Is execution done on Cawdor? Are not  
-Those in commission yet return'd? ...
+Those in commission yet return'd? /
 
 **MALCOLM**  
-... My liege,  
+/ My liege,  
 They are not yet come back. But I have spoke  
 With one that saw him die: who did report  
 That very frankly he confess'd his treasons,  
@@ -470,17 +470,17 @@ A deep repentance: nothing in his life
 Became him like the leaving it; he died  
 As one that had been studied in his death  
 To throw away the dearest thing he owed,  
-As 'twere a careless trifle. ...
+As 'twere a careless trifle. /
 
 **KING DUNCAN**  
-... There's no art  
+/ There's no art  
 To find the mind's construction in the face:  
 He was a gentleman on whom I built  
-An absolute trust. ...
+An absolute trust. /
 
 *Enter MACBETH, BANQUO, and ANGUS (Witch 3)*
 
-... O worthiest cousin!  
+/ O worthiest cousin!  
 The sin of my ingratitude even now  
 Was heavy on me: thou art so far before  
 That swiftest wing of recompense is slow  
@@ -495,22 +495,22 @@ In doing it, pays itself. Your highness' part
 Is to receive our duties; and our duties  
 Are to your throne and state children and servants,  
 Which do but what they should, by doing every thing  
-Safe toward your love and honour. ...
+Safe toward your love and honour. /
 
 **KING DUNCAN**  
-... Welcome hither:  
+/ Welcome hither:  
 I have begun to plant thee, and will labour  
 To make thee full of growing. Noble Banquo,  
 That hast no less deserved, nor must be known  
 No less to have done so, let me enfold thee  
-And hold thee to my heart. ...
+And hold thee to my heart. /
 
 **BANQUO**  
-... There if I grow,  
-The harvest is your own. ...
+/ There if I grow,  
+The harvest is your own. /
 
 **KING DUNCAN**  
-... My plenteous joys,  
+/ My plenteous joys,  
 Wanton in fulness, seek to hide themselves  
 In drops of sorrow. Sons, kinsmen, thanes,  
 And you whose places are the nearest, know  
@@ -526,10 +526,10 @@ And bind us further to you.
 The rest is labour, which is not used for you:  
 I'll be myself the harbinger and make joyful  
 The hearing of my wife with your approach;  
-So humbly take my leave. ...
+So humbly take my leave. /
 
 **KING DUNCAN**  
-... My worthy Cawdor!
+/ My worthy Cawdor!
 
 **MACBETH**  
 *\[Aside]*  
@@ -585,17 +585,17 @@ That I may pour my spirits in thine ear;
 And chastise with the valour of my tongue  
 All that impedes thee from the golden round,  
 Which fate and metaphysical aid doth seem  
-To have thee crown'd withal. ...
+To have thee crown'd withal. /
 
 *Enter FIRST WITCH dressed as a Messenger*
 
-... What is your tidings?
+/ What is your tidings?
 
 **Messenger**  
-The king comes here to-night. ...
+The king comes here to-night. /
 
 **LADY MACBETH**  
-... Thou'rt mad t'say't:  
+/ Thou'rt mad t'say't:  
 Is not thy master with him? who, were't so,  
 Would have inform'd for preparation.
 
@@ -603,15 +603,15 @@ Would have inform'd for preparation.
 So please you, it is true: our thane is coming:  
 One of my fellows had the speed of him,  
 Who, almost dead for breath, had scarcely more  
-Than would make up his message. ...
+Than would make up his message. /
 
 **LADY MACBETH**  
-... Give him tending;  
-He brings great news. ...
+/ Give him tending;  
+He brings great news. /
 
 *Exit Messenger*
 
-... The raven himself is hoarse  
+/ The raven himself is hoarse  
 That croaks the fatal entrance of Duncan  
 Under my battlements. Come, you spirits  
 That tend on mortal thoughts, unsex me here,  
@@ -627,28 +627,28 @@ You wait on nature's mischief! Come, thick night,
 And pall thee in the dunnest smoke of hell,  
 That my keen knife see not the wound it makes,  
 Nor heaven peep through the blanket of the dark,  
-To cry 'Hold, hold!' ...
+To cry 'Hold, hold!' /
 
 *Enter MACBETH*
 
-... Great Glamis! worthy Cawdor!  
+/ Great Glamis! worthy Cawdor!  
 Greater than both, by the all-hail hereafter!  
 Thy letters have transported me beyond  
 This ignorant present, and I feel now  
-The future in the instant. ...
+The future in the instant. /
 
 **MACBETH**  
-... My dearest love,  
-Duncan comes here to-night. ...
+/ My dearest love,  
+Duncan comes here to-night. /
 
 **LADY MACBETH**  
-... And when goes hence?
+/ And when goes hence?
 
 **MACBETH**  
-To-morrow, as he purposes. ...
+To-morrow, as he purposes. /
 
 **LADY MACBETH**  
-... O, never  
+/ O, never  
 Shall sun that morrow see!  
 Your face, my thane, is as a book where men  
 May read strange matters. To beguile the time,  
@@ -661,10 +661,10 @@ Which shall to all our nights and days to come
 Give solely sovereign sway and masterdom.
 
 **MACBETH**  
-We will speak further. ...
+We will speak further. /
 
 **LADY MACBETH**  
-... Only look up clear;  
+/ Only look up clear;  
 To alter favour ever is to fear:  
 Leave all the rest to me.
 
@@ -678,55 +678,55 @@ ANGUS (Witch 3)*
 **KING DUNCAN**  
 This castle hath a pleasant seat; the air  
 Nimbly and sweetly recommends itself  
-Unto our gentle senses. ...
+Unto our gentle senses. /
 
 **BANQUO**  
-... This guest of summer,  
+/ This guest of summer,  
 The temple-haunting martlet, does approve,  
 By his loved mansionry, that the heaven's breath  
 Smells wooingly here: no jutty, frieze,  
 Buttress, nor coign of vantage, but this bird  
 Hath made his pendent bed and procreant cradle:  
 Where they most breed and haunt, I have observed,  
-The air is delicate. ...
+The air is delicate. /
 
 *Enter LADY MACBETH*
 
 **KING DUNCAN**  
-... See, see, our honour'd hostess!  
+/ See, see, our honour'd hostess!  
 The love that follows us sometime is our trouble,  
 Which still we thank as love. Herein I teach you  
 How you shall bid God 'ild us for your pains,  
-And thank us for your trouble. ...
+And thank us for your trouble. /
 
 **LADY MACBETH**  
-... All our service  
+/ All our service  
 In every point twice done and then done double  
 Were poor and single business to contend  
 Against those honours deep and broad wherewith  
 Your majesty loads our house: for those of old,  
 And the late dignities heap'd up to them,  
-We rest your hermits. ...
+We rest your hermits. /
 
 **KING DUNCAN**  
-... Where's the thane of Cawdor?  
+/ Where's the thane of Cawdor?  
 We coursed him at the heels, and had a purpose  
 To be his purveyor: but he rides well;  
 And his great love, sharp as his spur, hath holp him  
 To his home before us. Fair and noble hostess,  
-We are your guest to-night. ...
+We are your guest to-night. /
 
 **LADY MACBETH**  
-... Your servants ever  
+/ Your servants ever  
 Have theirs, themselves and what is theirs, in compt,  
 To make their audit at your highness' pleasure,  
-Still to return your own. ...
+Still to return your own. /
 
 **KING DUNCAN**  
-... Give me your hand;  
+/ Give me your hand;  
 Conduct me to mine host: we love him highly,  
 And shall continue our graces towards him.  
-By your leave, hostess. ...
+By your leave, hostess. /
 
 *Exeunt*
 
@@ -762,30 +762,30 @@ Shall blow the horrid deed in every eye,
 That tears shall drown the wind. I have no spur  
 To prick the sides of my intent, but only  
 Vaulting ambition, which o'erleaps itself  
-And falls on the other. ...
+And falls on the other. /
 
 *Enter LADY MACBETH*
 
-... How now! what news?
+/ How now! what news?
 
 **LADY MACBETH**  
 He has almost supp'd: why have you left the chamber?
 
 **MACBETH**  
-Hath he ask'd for me? ...
+Hath he ask'd for me? /
 
 **LADY MACBETH**  
-... Know you not he has?
+/ Know you not he has?
 
 **MACBETH**  
 We will proceed no further in this business:  
 He hath honour'd me of late; and I have bought  
 Golden opinions from all sorts of people,  
 Which would be worn now in their newest gloss,  
-Not cast aside so soon. ...
+Not cast aside so soon. /
 
 **LADY MACBETH**  
-... Was the hope drunk  
+/ Was the hope drunk  
 Wherein you dress'd yourself? hath it slept since?  
 And wakes it now, to look so green and pale  
 At what it did so freely? From this time  
@@ -795,15 +795,15 @@ As thou art in desire? Wouldst thou have that
 Which thou esteem'st the ornament of life,  
 And live a coward in thine own esteem,  
 Letting 'I dare not' wait upon 'I would,'  
-Like the poor cat i' the adage? ...
+Like the poor cat i' the adage? /
 
 **MACBETH**  
-... Prithee, peace:  
+/ Prithee, peace:  
 I dare do all that may become a man;  
-Who dares do more is none. ...
+Who dares do more is none. /
 
 **LADY MACBETH**  
-... What beast was't, then,  
+/ What beast was't, then,  
 That made you break this enterprise to me?  
 When you durst do it, then you were a man;  
 And, to be more than what you were, you would  
@@ -815,13 +815,13 @@ How tender 'tis to love the babe that milks me:
 I would, while it was smiling in my face,  
 Have pluck'd my nipple from his boneless gums,  
 And dash'd the brains out, had I so sworn as you  
-Have done to this. ...
+Have done to this. /
 
 **MACBETH**  
-... If we should fail? ...
+/ If we should fail? /
 
 **LADY MACBETH**  
-... We fail!  
+/ We fail!  
 But screw your courage to the sticking-place,  
 And we'll not fail. When Duncan is asleep--  
 Whereto the rather shall his day's hard journey  
@@ -834,23 +834,23 @@ Their drenched natures lie as in a death,
 What cannot you and I perform upon  
 The unguarded Duncan? what not put upon  
 His spongy officers, who shall bear the guilt  
-Of our great quell? ...
+Of our great quell? /
 
 **MACBETH**  
-... Bring forth men-children only;  
+/ Bring forth men-children only;  
 For thy undaunted mettle should compose  
 Nothing but males. Will it not be received,  
 When we have mark'd with blood those sleepy two  
 Of his own chamber and used their very daggers,  
-That they have done't? ...
+That they have done't? /
 
 **LADY MACBETH**  
-... Who dares receive it other,  
+/ Who dares receive it other,  
 As we shall make our griefs and clamour roar  
-Upon his death? ...
+Upon his death? /
 
 **MACBETH**  
-... I am settled, and bend up  
+/ I am settled, and bend up  
 Each corporal agent to this terrible feat.  
 Away, and mock the time with fairest show:  
 False face must hide what the false heart doth know.
@@ -881,16 +881,16 @@ Their candles are all out. Take thee that too.
 A heavy summons lies like lead upon me,  
 And yet I would not sleep: merciful powers,  
 Restrain in me the cursed thoughts that nature  
-Gives way to in repose! ...
+Gives way to in repose! /
 
 *Enter MACBETH, and FIRST WITCH disguised as a Servant with
 a torch*
 
-... Give me my sword.  
-Who's there? ...
+/ Give me my sword.  
+Who's there? /
 
 **MACBETH**  
-... A friend.
+/ A friend.
 
 **BANQUO**  
 What, sir, not yet at rest? The king's a-bed:  
@@ -898,39 +898,39 @@ He hath been in unusual pleasure, and
 Sent forth great largess to your offices.  
 This diamond he greets your wife withal,  
 By the name of most kind hostess; and shut up  
-In measureless content. ...
+In measureless content. /
 
 **MACBETH**  
-... Being unprepared,  
+/ Being unprepared,  
 Our will became the servant to defect;  
-Which else should free have wrought. ...
+Which else should free have wrought. /
 
 **BANQUO**  
-... All's well.  
+/ All's well.  
 I dreamt last night of the three weird sisters:  
-To you they've show'd some truth. ...
+To you they've show'd some truth. /
 
 **MACBETH**  
-... I think not o' them:  
+/ I think not o' them:  
 Yet, when we can entreat an hour to serve,  
 We would spend it in some words upon that business,  
-If you would grant the time. ...
+If you would grant the time. /
 
 **BANQUO**  
-... At your kind'st leisure.
+/ At your kind'st leisure.
 
 **MACBETH**  
 If you shall cleave to my consent, when 'tis,  
-It shall make honour for you. ...
+It shall make honour for you. /
 
 **BANQUO**  
-... So I lose none  
+/ So I lose none  
 In seeking to augment it, but still keep  
 My bosom franchised and allegiance clear,  
-I shall be counsell'd. ...
+I shall be counsell'd. /
 
 **MACBETH**  
-... Good repose the while!
+/ Good repose the while!
 
 **BANQUO**  
 Thanks, sir: the like to you!
@@ -1006,37 +1006,37 @@ Alack, I am afraid they have awaked,
 And 'tis not done. The attempt and not the deed  
 Confounds us. Hark! I laid their daggers ready;  
 He could not miss 'em. Had he not resembled  
-My father as he slept, I had done't. ...
+My father as he slept, I had done't. /
 
 *Enter MACBETH*
 
-... My husband!
+/ My husband!
 
 **MACBETH**  
 I have done the deed. Didst thou not hear a noise?
 
 **LADY MACBETH**  
 I heard the owl scream and the crickets cry.  
-Did not you speak? ...
+Did not you speak? /
 
 **MACBETH**  
-... When? ...
+/ When? /
 
 **LADY MACBETH**  
-... Now. ...
+/ Now. /
 
 **MACBETH**  
-... As I descended? ...
+/ As I descended? /
 
 **LADY MACBETH**  
-... Ay.
+/ Ay.
 
 **MACBETH**  
 Hark!  
-Who lies i' the second chamber? ...
+Who lies i' the second chamber? /
 
 **LADY MACBETH**  
-... Donalbain.
+/ Donalbain.
 
 **MACBETH**  
 This is a sorry sight.
@@ -1050,10 +1050,10 @@ A foolish thought, to say a sorry sight.
 There's one did laugh in's sleep, and one cried 'Murder!'  
 That they did wake each other: I stood and heard them:  
 But they did say their prayers, and address'd them  
-Again to sleep. ...
+Again to sleep. /
 
 **LADY MACBETH**  
-... There are two lodged together.
+/ There are two lodged together.
 
 **MACBETH**  
 One cried 'God bless us!' and 'Amen' the other;  
@@ -1067,10 +1067,10 @@ Consider it not so deeply.
 **MACBETH**  
 But wherefore could not I pronounce 'Amen'?  
 I had most need of blessing, and 'Amen'  
-Stuck in my throat. ...
+Stuck in my throat. /
 
 **LADY MACBETH**  
-... These deeds must not be thought  
+/ These deeds must not be thought  
 After these ways; so, it will make us mad.
 
 **MACBETH**  
@@ -1079,10 +1079,10 @@ Macbeth does murder sleep', the innocent sleep,
 Sleep that knits up the ravell'd sleeve of care,  
 The death of each day's life, sore labour's bath,  
 Balm of hurt minds, great nature's second course,  
-Chief nourisher in life's feast,-- ...
+Chief nourisher in life's feast,-- /
 
 **LADY MACBETH**  
-... What do you mean?
+/ What do you mean?
 
 **MACBETH**  
 Still it cried 'Sleep no more!' to all the house:  
@@ -1096,25 +1096,25 @@ So brainsickly of things. Go get some water,
 And wash this filthy witness from your hand.  
 Why did you bring these daggers from the place?  
 They must lie there: go carry them; and smear  
-The sleepy grooms with blood. ...
+The sleepy grooms with blood. /
 
 **MACBETH**  
-... I'll go no more:  
+/ I'll go no more:  
 I am afraid to think what I have done;  
-Look on't again I dare not. ...
+Look on't again I dare not. /
 
 **LADY MACBETH**  
-... Infirm of purpose!  
+/ Infirm of purpose!  
 Give me the daggers: the sleeping and the dead  
 Are but as pictures: 'tis the eye of childhood  
 That fears a painted devil. If he do bleed,  
 I'll gild the faces of the grooms withal;  
-For it must seem their guilt. ...
+For it must seem their guilt. /
 
 *Exit. Knocking within*
 
 **MACBETH**  
-... Whence is that knocking?  
+/ Whence is that knocking?  
 How is't with me, when every noise appals me?  
 What hands are here? ha! they pluck out mine eyes.  
 Will all great Neptune's ocean wash this blood  
@@ -1126,19 +1126,19 @@ Making the green one red.
 
 **LADY MACBETH**  
 My hands are of your colour; but I shame  
-To wear a heart so white. ...
+To wear a heart so white. /
 
 *Knocking within*
 
-... I hear a knocking  
+/ I hear a knocking  
 At the south entry: retire we to our chamber;  
 A little water clears us of this deed:  
 How easy is it, then! Your constancy  
-Hath left you unattended. ...
+Hath left you unattended. /
 
 *Knocking within*
 
-... Hark! more knocking.  
+/ Hark! more knocking.  
 Get on your nightgown, lest occasion call us,  
 And show us to be watchers. Be not lost  
 So poorly in your thoughts.
@@ -1247,16 +1247,16 @@ Is thy master stirring?
 Our knocking has awaked him; here he comes.
 
 **LENNOX**  
-Good morrow, noble sir. ...
+Good morrow, noble sir. /
 
 **MACBETH**  
-... Good morrow, both.
+/ Good morrow, both.
 
 **MACDUFF**  
-Is the king stirring, worthy thane? ...
+Is the king stirring, worthy thane? /
 
 **MACBETH**  
-... Not yet.
+/ Not yet.
 
 **MACDUFF**  
 He did command me to call timely on him:  
@@ -1293,10 +1293,10 @@ And prophesying with accents terrible
 Of dire combustion and confused events  
 New hatch'd to the woeful time: the obscure bird  
 Clamour'd the livelong night: some say, the earth  
-Was feverous and did shake. ...
+Was feverous and did shake. /
 
 **MACBETH**  
-... 'Twas a rough night.
+/ 'Twas a rough night.
 
 **LENNOX**  
 My young remembrance cannot parallel  
@@ -1306,10 +1306,10 @@ A fellow to it.
 
 **MACDUFF**  
 O horror, horror, horror! Tongue nor heart  
-Cannot conceive nor name thee! ...
+Cannot conceive nor name thee! /
 
 **MACBETH**  
-... What's the matter?
+/ What's the matter?
 
 **MACDUFF**  
 Confusion now hath made his masterpiece!  
@@ -1318,19 +1318,19 @@ The Lord's anointed temple, and stole thence
 The life o' the building!
 
 **MACBETH**  
-What is 't you say? the life? ...
+What is 't you say? the life? /
 
 **LENNOX**  
-... Mean you his majesty?
+/ Mean you his majesty?
 
 **MACDUFF**  
 Approach the chamber, and destroy your sight  
 With a new Gorgon: do not bid me speak;  
-See, and then speak yourselves. ...
+See, and then speak yourselves. /
 
 *Exeunt MACBETH and LENNOX*
 
-... Awake, awake!  
+/ Awake, awake!  
 Ring the alarum-bell. Murder and treason!  
 Banquo and Donalbain! Malcolm! awake!  
 Shake off this downy sleep, death's counterfeit,  
@@ -1352,21 +1352,21 @@ The sleepers of the house? speak, speak!
 O gentle lady,  
 'Tis not for you to hear what I can speak:  
 The repetition, in a woman's ear,  
-Would murder as it fell. ...
+Would murder as it fell. /
 
 *Enter BANQUO*
 
-... O Banquo, Banquo,  
-Our royal master 's murder'd! ...
+/ O Banquo, Banquo,  
+Our royal master 's murder'd! /
 
 **LADY MACBETH**  
-... Woe, alas!  
-What, in our house? ...
+/ Woe, alas!  
+What, in our house? /
 
 **BANQUO**  
-... Too cruel any where.  
+/ Too cruel any where.  
 Dear Duff, I prithee, contradict thyself,  
-And say it is not so. ...
+And say it is not so. /
 
 *Re-enter MACBETH and LENNOX*
 
@@ -1376,12 +1376,12 @@ I had lived a blessed time; for, from this instant,
 There 's nothing serious in mortality:  
 All is but toys: renown and grace is dead;  
 The wine of life is drawn, and the mere lees  
-Is left this vault to brag of. ...
+Is left this vault to brag of. /
 
 *Enter MALCOLM and DONALBAIN*
 
 **DONALBAIN**  
-... What is amiss?
+/ What is amiss?
 
 **MACBETH**  
 You are, and do not know't:  
@@ -1389,10 +1389,10 @@ The spring, the head, the fountain of your blood
 Is stopp'd; the very source of it is stopp'd.
 
 **MACDUFF**  
-Your royal father 's murder'd. ...
+Your royal father 's murder'd. /
 
 **MALCOLM**  
-... O, by whom?
+/ O, by whom?
 
 **LENNOX**  
 Those of his chamber, as it seem'd, had done 't:  
@@ -1404,10 +1404,10 @@ Was to be trusted with them.
 
 **MACBETH**  
 O, yet I do repent me of my fury,  
-That I did kill them. ...
+That I did kill them. /
 
 **MACDUFF**  
-... Wherefore did you so?
+/ Wherefore did you so?
 
 **MACBETH**  
 Who can be wise, amazed, temperate and furious,  
@@ -1420,17 +1420,17 @@ For ruin's wasteful entrance: there, the murderers,
 Steep'd in the colours of their trade, their daggers  
 Unmannerly breech'd with gore: who could refrain,  
 That had a heart to love, and in that heart  
-Courage to make 's love known? ...
+Courage to make 's love known? /
 
 **LADY MACBETH**  
-... Help me hence, ho!
+/ Help me hence, ho!
 
 **MACDUFF**  
-Look to th'lady. ...
+Look to th'lady. /
 
 **MALCOLM**  
 *\[Aside to DONALBAIN]*  
-... Why do we hold our tongues,  
+/ Why do we hold our tongues,  
 That most may claim this argument for ours?
 
 **DONALBAIN**  
@@ -1438,15 +1438,15 @@ That most may claim this argument for ours?
 What should be spoken here, where our fate,  
 Hid in an auger-hole, may rush, and seize us?  
 Let's away;  
-Our tears are not yet brew'd. ...
+Our tears are not yet brew'd. /
 
 **MALCOLM**  
 *\[Aside to DONALBAIN]*  
-... Nor our strong sorrow  
-Upon the foot of motion. ...
+/ Nor our strong sorrow  
+Upon the foot of motion. /
 
 **BANQUO**  
-... Look t'the lady:
+/ Look t'the lady:
 
 *LADY MACBETH is carried out*
 
@@ -1456,20 +1456,20 @@ And question this most bloody piece of work,
 To know it further. Fears and scruples shake us:  
 In the great hand of God I stand; and thence  
 Against the undivulged pretence I fight  
-Of treasonous malice. ...
+Of treasonous malice. /
 
 **MACDUFF**  
-... And so do I.
+/ And so do I.
 
 **ALL**  
-So all. ...
+So all. /
 
 **MACBETH**  
-... Let's briefly put on manly readiness,  
-And meet i' the hall together. ...
+/ Let's briefly put on manly readiness,  
+And meet i' the hall together. /
 
 **ALL**  
-... Well contented.
+/ Well contented.
 
 *Exeunt all but Malcolm and Donalbain.*
 
@@ -1515,25 +1515,25 @@ And set me up in hope? But hush! no more.
 *Sennet sounded. Enter MACBETH, as king, LADY MACBETH, as queen, and WITCH 1 as a Servant*
 
 **MACBETH**  
-Here's our chief guest. ...
+Here's our chief guest. /
 
 **LADY MACBETH**  
-... If he had been forgotten,  
+/ If he had been forgotten,  
 It had been as a gap in our great feast,  
 And all-thing unbecoming.
 
 **MACBETH**  
 To-night we hold a solemn supper sir,  
-And I'll request your presence. ...
+And I'll request your presence. /
 
 **BANQUO**  
-... Let your highness  
+/ Let your highness  
 Command upon me; to the which my duties  
 Are with a most indissoluble tie  
-Forever knit. ...
+Forever knit. /
 
 **MACBETH**  
-... Ride you this afternoon?
+/ Ride you this afternoon?
 
 **BANQUO**  
 Ay, my good lord.
@@ -1548,10 +1548,10 @@ Is't far you ride?
 As far, my lord, as will fill up the time  
 'Twixt this and supper: go not my horse the better,  
 I must become a borrower of the night  
-For a dark hour or twain. ...
+For a dark hour or twain. /
 
 **MACBETH**  
-... Fail not our feast.
+/ Fail not our feast.
 
 **BANQUO**  
 My lord, I will not.
@@ -1625,10 +1625,10 @@ Now go to the door, and stay there till we call.
 Was it not yesterday we spoke together?
 
 **First Murderer**  
-It was, so please your highness. ...
+It was, so please your highness. /
 
 **MACBETH**  
-... Well then, now  
+/ Well then, now  
 Have you consider'd of my speeches? Know  
 That it was he in the times past which held you  
 So under fortune, which you thought had been  
@@ -1637,10 +1637,10 @@ In our last conference, pass'd in probation with you,
 How you were borne in hand, how cross'd, the instruments,  
 Who wrought with them, and all things else that might  
 To half a soul and to a notion crazed  
-Say 'Thus did Banquo.' ...
+Say 'Thus did Banquo.' /
 
 **First Murderer**  
-... You made it known to us.
+/ You made it known to us.
 
 **MACBETH**  
 I did so, and went further, which is now  
@@ -1652,26 +1652,26 @@ Whose heavy hand hath bow'd you to the grave
 And beggar'd yours for ever?
 
 **First Murderer**  
-We are men, my liege. ...
+We are men, my liege. /
 
 **Second Murderer**  
-... I am one, my liege,  
+/ I am one, my liege,  
 Whom the vile blows and buffets of the world  
 Have so incensed that I am reckless what  
-I do to spite the world. ...
+I do to spite the world. /
 
 **First Murderer**  
-... And I another  
+/ And I another  
 So weary with disasters, tugg'd with fortune,  
 That I would set my lie on any chance,  
-To mend it, or be rid on't. ...
+To mend it, or be rid on't. /
 
 **MACBETH**  
-... Both of you  
-Know Banquo was your enemy. ...
+/ Both of you  
+Know Banquo was your enemy. /
 
 **Both Murderers**  
-... True, my lord.
+/ True, my lord.
 
 **MACBETH**  
 So is he mine; and in such bloody distance,  
@@ -1684,14 +1684,14 @@ Whose loves I may not drop, but wail his fall
 Who I myself struck down; and thence it is,  
 That I to your assistance do make love,  
 Masking the business from the common eye  
-For sundry weighty reasons. ...
+For sundry weighty reasons. /
 
 **Second Murderer**  
-... We shall, my lord,  
-Perform what you command us. ...
+/ We shall, my lord,  
+Perform what you command us. /
 
 **First Murderer**  
-... Though our lives--
+/ Though our lives--
 
 **MACBETH**  
 Your spirits shine through you. Within this hour at most  
@@ -1825,56 +1825,56 @@ So, prithee, go with me.
 *Enter the two Murderers and FIRST WITCH disguised as a Third Murderer*
 
 **First Murderer**  
-But who did bid thee join with us? ...
+But who did bid thee join with us? /
 
 **Third Murderer**  
-... Macbeth.
+/ Macbeth.
 
 **Second Murderer**  
 He needs not our mistrust, since he delivers  
 Our offices and what we have to do  
-To the direction just. ...
+To the direction just. /
 
 **First Murderer**  
-... Then stand with us.  
+/ Then stand with us.  
 The west yet glimmers with some streaks of day:  
 Now spurs the lated traveller apace  
 To gain the timely inn; and near approaches  
-The subject of our watch. ...
+The subject of our watch. /
 
 **Third Murderer**  
-... Hark! I hear horses.
+/ Hark! I hear horses.
 
 **BANQUO**  
 *\[Within]*  
-Give us a light there, ho! ...
+Give us a light there, ho! /
 
 **Second Murderer**  
-... Then 'tis he: the rest  
+/ Then 'tis he: the rest  
 That are within the note of expectation  
-Already are i' the court. ...
+Already are i' the court. /
 
 **First Murderer**  
-... His horses go about.
+/ His horses go about.
 
 **Third Murderer**  
 Almost a mile: but he does usually,  
 So all men do, from hence to the palace gate  
-Make it their walk. ...
+Make it their walk. /
 
 **Second Murderer**  
-... A light, a light!
+/ A light, a light!
 
 *Enter BANQUO, and FLEANCE with a torch*
 
 **Third Murderer**  
-... 'Tis he.
+/ 'Tis he.
 
 **First Murderer**  
-Stand to't. ...
+Stand to't. /
 
 **BANQUO**  
-... It will be rain to-night.
+/ It will be rain to-night.
 
 **First Murderer**  
 Let it come down.
@@ -1888,16 +1888,16 @@ Thou mayst revenge. O slave!
 *Dies. FLEANCE escapes*
 
 **Third Murderer**  
-Who did strike out the light? ...
+Who did strike out the light? /
 
 **First Murderer**  
-... Wast not the way?
+/ Wast not the way?
 
 **Third Murderer**  
-There's but one down; the son is fled. ...
+There's but one down; the son is fled. /
 
 **Second Murderer**  
-... We've lost  
+/ We've lost  
 Best half of our affair.
 
 **First Murderer**  
@@ -1934,10 +1934,10 @@ For my heart speaks they are welcome.
 See, they encounter thee with their hearts' thanks.  
 Both sides are even: here I'll sit i' the midst:  
 Be large in mirth; anon we'll drink a measure  
-The table round. ...
+The table round. /
 
 *\[Approaching the door]*  
-... There's blood on thy face.
+/ There's blood on thy face.
 
 **First Murderer**  
 'Tis Banquo's then.
@@ -1952,10 +1952,10 @@ My lord, his throat is cut; that I did for him.
 **MACBETH**  
 Thou art the best o' the cut-throats: yet he's good  
 That did the like for Fleance: if thou didst it,  
-Thou art the nonpareil. ...
+Thou art the nonpareil. /
 
 **First Murderer**  
-... Most royal sir,  
+/ Most royal sir,  
 Fleance is 'scaped.
 
 **MACBETH**  
@@ -1968,32 +1968,32 @@ To saucy doubts and fears. But Banquo's safe?
 **First Murderer**  
 Ay, my good lord: safe in a ditch he bides,  
 With twenty trenched gashes on his head;  
-The least a death to nature. ...
+The least a death to nature. /
 
 **MACBETH**  
-... Thanks for that:  
+/ Thanks for that:  
 There the grown serpent lies; the worm that's fled  
 Hath nature that in time will venom breed,  
 No teeth for the present. Get thee gone: to-morrow  
-We'll hear, ourselves, again. ...
+We'll hear, ourselves, again. /
 
 *Exit Murderer*
 
 **LADY MACBETH**  
-... My royal lord,  
+/ My royal lord,  
 You do not give the cheer: the feast is sold  
 That is not often vouch'd, while 'tis a-making,  
 'Tis given with welcome: to feed were best at home;  
 From thence the sauce to meat is ceremony;  
-Meeting were bare without it. ...
+Meeting were bare without it. /
 
 **MACBETH**  
-... Sweet remembrancer!  
+/ Sweet remembrancer!  
 Now, good digestion wait on appetite,  
-And health on both! ...
+And health on both! /
 
 **LENNOX**  
-... May't please your highness sit.
+/ May't please your highness sit.
 
 *The GHOST OF BANQUO enters, and sits in MACBETH 's place*
 
@@ -2001,30 +2001,30 @@ And health on both! ...
 Here had we now our country's honour roof'd,  
 Were the graced person of our Banquo present;  
 Who may I rather challenge for unkindness  
-Than pity for mischance! ...
+Than pity for mischance! /
 
 **ROSS**  
-... His absence, sir,  
+/ His absence, sir,  
 Lays blame upon his promise. Please't your highness  
 To grace us with your royal company.
 
 **MACBETH**  
-The table's full. ...
+The table's full. /
 
 **LENNOX**  
-... Here is a place reserved, sir. ...
+/ Here is a place reserved, sir. /
 
 **MACBETH**  
-... Where?
+/ Where?
 
 **LENNOX**  
 Here, my good lord. What is't that moves your highness?
 
 **MACBETH**  
-Which of you have done this? ...
+Which of you have done this? /
 
 **Lords**  
-... What, my good lord?
+/ What, my good lord?
 
 **MACBETH**  
 Thou canst not say I did it: never shake  
@@ -2043,10 +2043,10 @@ Feed, and regard him not. Are you a man?
 
 **MACBETH**  
 Ay, and a bold one, that dare look on that  
-Which might appal the devil. ...
+Which might appal the devil. /
 
 **LADY MACBETH**  
-... O proper stuff!  
+/ O proper stuff!  
 This is the very painting of your fear:  
 This is the air-drawn dagger which, you said,  
 Led you to Duncan. O, these flaws and starts,  
@@ -2069,10 +2069,10 @@ Shall be the maws of kites.
 What, quite unmann'd in folly?
 
 **MACBETH**  
-If I stand here, I saw him. ...
+If I stand here, I saw him. /
 
 **LADY MACBETH**  
-... Fie, for shame!
+/ Fie, for shame!
 
 **MACBETH**  
 Blood hath been shed ere now, i' the olden time,  
@@ -2083,14 +2083,14 @@ That, when the brains were out, the man would die,
 And there an end; but now they rise again,  
 With twenty mortal murders on their crowns,  
 And push us from our stools: this is more strange  
-Than such a murder is. ...
+Than such a murder is. /
 
 **LADY MACBETH**  
-... My worthy lord,  
-Your noble friends do lack you. ...
+/ My worthy lord,  
+Your noble friends do lack you. /
 
 **MACBETH**  
-... I do forget.  
+/ I do forget.  
 Do not muse at me, my most worthy friends,  
 I have a strange infirmity, which is nothing  
 To those that know me. Come, love and health to all;  
@@ -2098,10 +2098,10 @@ Then I'll sit down. Give me some wine; fill full.
 I drink to the general joy o' the whole table,  
 And to our dear friend Banquo, whom we miss;  
 Would he were here! to all, and him, we thirst,  
-And all to all. ...
+And all to all. /
 
 **Lords**  
-... Our duties, and the pledge.
+/ Our duties, and the pledge.
 
 *Re-enter GHOST OF BANQUO*
 
@@ -2109,10 +2109,10 @@ And all to all. ...
 Avaunt! and quit my sight! let the earth hide thee!  
 Thy bones are marrowless, thy blood is cold;  
 Thou hast no speculation in those eyes  
-Which thou dost glare with! ...
+Which thou dost glare with! /
 
 **LADY MACBETH**  
-... Think of this, good peers,  
+/ Think of this, good peers,  
 But as a thing of custom: 'tis no other;  
 Only it spoils the pleasure of the time.
 
@@ -2124,41 +2124,41 @@ Shall never tremble: or be alive again,
 And dare me to the desert with thy sword;  
 If trembling I inhabit then, protest me  
 The baby of a girl. Hence, horrible shadow!  
-Unreal mockery, hence! ...
+Unreal mockery, hence! /
 
 *GHOST OF BANQUO vanishes*
 
-... Why, so: being gone,  
+/ Why, so: being gone,  
 I am a man again. Pray you, sit still.
 
 **LADY MACBETH**  
 You have displaced the mirth, broke the good meeting,  
-With most admired disorder. ...
+With most admired disorder. /
 
 **MACBETH**  
-... Can such things be,  
+/ Can such things be,  
 And overcome us like a summer's cloud,  
 Without our special wonder? You make me strange  
 Even to the disposition that I owe,  
 When now I think you can behold such sights,  
 And keep the natural ruby of your cheeks,  
-When mine is blanched with fear. ...
+When mine is blanched with fear. /
 
 **ROSS**  
-... What sights, my lord?
+/ What sights, my lord?
 
 **LADY MACBETH**  
 I pray you, speak not; he grows worse and worse;  
 Question enrages him. At once, good night:  
 Stand not upon the order of your going,  
-But go at once. ...
+But go at once. /
 
 **LENNOX**  
-... Good night; and better health  
-Attend his majesty! ...
+/ Good night; and better health  
+Attend his majesty! /
 
 **LADY MACBETH**  
-... A kind good night to all!
+/ A kind good night to all!
 
 *Exeunt all but MACBETH and LADY MACBETH*
 
@@ -2361,28 +2361,28 @@ Then live, Macduff: what need I fear of thee?
 But yet I'll make assurance double sure,  
 And take a bond of fate: thou shalt not live;  
 That I may tell pale-hearted fear it lies,  
-And sleep in spite of thunder. ...
+And sleep in spite of thunder. /
 
 *Thunder. Third Apparition: a Child crowned, with a tree in his hand*
 
-... What is this  
+/ What is this  
 That rises like the issue of a king,  
 And wears upon his baby-brow the round  
-And top of sovereignty? ...
+And top of sovereignty? /
 
 **ALL**  
-... Listen, but speak not to't.
+/ Listen, but speak not to't.
 
 **Third Apparition**  
 Be lion-mettled, proud; and take no care  
 Who chafes, who frets, or where conspirers are:  
 Macbeth shall never vanquish'd be until  
 Great Birnam wood to high Dunsinane hill  
-Shall come against him. ...  
+Shall come against him. /  
 *\[Descends]*
 
 **MACBETH**  
-... That will never be  
+/ That will never be  
 Who can impress the forest, bid the tree  
 Unfix his earth-bound root? Sweet bodements! good!  
 Rebellion's head, rise never till the wood  
@@ -2390,10 +2390,10 @@ Of Birnam rise, and our high-placed Macbeth
 Shall live the lease of nature, pay his breath  
 To time and mortal custom. Yet my heart  
 Throbs to know one thing: shall Banquo's issue ever  
-Reign in this kingdom? ...
+Reign in this kingdom? /
 
 **ALL**  
-... Seek to know no more.
+/ Seek to know no more.
 
 **MACBETH**  
 I will be satisfied: deny me this,  
@@ -2401,16 +2401,16 @@ And an eternal curse fall on you! Let me know.
 Why sinks that cauldron? and what noise is this?
 
 **FIRST WITCH**  
-Show! ...
+Show! /
 
 **SECOND WITCH**  
-... Show! ...
+/ Show! /
 
 **THIRD WITCH**  
-... Show! ...
+/ Show! /
 
 **ALL**  
-... Show his eyes, and grieve his heart;  
+/ Show his eyes, and grieve his heart;  
 Come like shadows, so depart!
 
 *A show of Kings, the last with a glass in his hand; GHOST OF BANQUO
@@ -2429,11 +2429,11 @@ Which shows me many more; and some I see
 That two-fold balls and treble scepters carry:  
 Horrible sight! Now, I see, 'tis true;  
 For the blood-bolter'd Banquo smiles upon me,  
-And points at them for his. ...
+And points at them for his. /
 
 *Apparitions vanish*
 
-... What, is this so?
+/ What, is this so?
 
 **FIRST WITCH**  
 Ay, sir, all this is so: but why  
@@ -2509,15 +2509,15 @@ Come, bring me where they are.
 What had he done, to make him fly the land?
 
 **ROSS**  
-You must have patience, madam. ...
+You must have patience, madam. /
 
 **LADY MACDUFF**  
-... He had none:  
+/ He had none:  
 His flight was madness: when our actions do not,  
-Our fears do make us traitors. ...
+Our fears do make us traitors. /
 
 **ROSS**  
-... You know not  
+/ You know not  
 Whether it was his wisdom or his fear.
 
 **LADY MACDUFF**  
@@ -2529,10 +2529,10 @@ The most diminutive of birds, will fight,
 Her young ones in her nest, against the owl.  
 All is the fear and nothing is the love;  
 As little is the wisdom, where the flight  
-So runs against all reason. ...
+So runs against all reason. /
 
 **ROSS**  
-... My dearest coz,  
+/ My dearest coz,  
 I pray you, school yourself: but for your husband,  
 He is noble, wise, judicious, and best knows  
 The fits o' the season. I dare not speak much further;  
@@ -2552,19 +2552,19 @@ Father'd he is, and yet he's fatherless.
 **ROSS**  
 I am so much a fool, should I stay longer,  
 It would be my disgrace and your discomfort:  
-I take my leave at once. ...
+I take my leave at once. /
 
 *Exit*
 
 **LADY MACDUFF**  
-... Sirrah, your father's dead;  
+/ Sirrah, your father's dead;  
 And what will you do now? How will you live?
 
 **Son**  
-As birds do, mother. ...
+As birds do, mother. /
 
 **LADY MACDUFF**  
-... What, with worms and flies?
+/ What, with worms and flies?
 
 **Son**  
 With what I get, I mean; and so do they.
@@ -2594,16 +2594,16 @@ Thou speak'st with all thy wit: and yet, i' faith,
 With wit enough for thee.
 
 **Son**  
-Was my father a traitor, mother? ...
+Was my father a traitor, mother? /
 
 **LADY MACDUFF**  
-... Ay, that he was.
+/ Ay, that he was.
 
 **Son**  
-What is a traitor? ...
+What is a traitor? /
 
 **LADY MACDUFF**  
-... Why, one that swears and lies.
+/ Why, one that swears and lies.
 
 **Son**  
 And be all traitors that do so?
@@ -2615,13 +2615,13 @@ Every one that does so is a traitor, and must be hanged.
 And must they all be hanged that swear and lie?
 
 **LADY MACDUFF**  
-Every one. ...
+Every one. /
 
 **Son**  
-... Who must hang them? ...
+/ Who must hang them? /
 
 **LADY MACDUFF**  
-... Why, the honest men.
+/ Why, the honest men.
 
 **Son**  
 Then the liars and swearers are fools,  
@@ -2651,12 +2651,12 @@ Be not found here; hence, with your little ones.
 To fright you thus, methinks, I am too savage;  
 To do worse to you were fell cruelty,  
 Which is too nigh your person. Heaven preserve you!  
-I dare abide no longer. ...
+I dare abide no longer. /
 
 *Exit*
 
 **LADY MACDUFF**  
-... Whither should I fly?  
+/ Whither should I fly?  
 I have done no harm. But I remember now  
 I am in this earthly world; where to do harm  
 Is often laudable, to do good sometime  
@@ -2666,26 +2666,26 @@ To say I have done no harm?
 
 *Enter Murderer*
 
-What is this face? ...
+What is this face? /
 
 **First Murderer**  
-... Where is your husband?
+/ Where is your husband?
 
 **LADY MACDUFF**  
 I hope, in no place so unsanctified  
-Where such as thou mayst find him. ...
+Where such as thou mayst find him. /
 
 **First Murderer**  
-... He's a traitor.
+/ He's a traitor.
 
 **Son**  
 Thou liest, thou shag-hair'd villain!
 
 **First Murderer**  
-What, you egg! ...  
+What, you egg! /  
 *\[Stabbing him]*
 
-... Young fry of treachery!
+/ Young fry of treachery!
 
 **Son**  
 He has kill'd me, mother:  
@@ -2701,19 +2701,19 @@ Run away, I pray you!
 
 **MALCOLM**  
 Let us seek out some desolate shade, and there  
-Weep our sad bosoms empty. ...
+Weep our sad bosoms empty. /
 
 **MACDUFF**  
-... Let us rather  
+/ Let us rather  
 Hold fast the mortal sword, and like good men  
 Bestride our down-fall'n birthdom: each new morn  
 New widows howl, new orphans cry, new sorrows  
 Strike heaven on the face, that it resounds  
 As if it felt with Scotland and yell'd out  
-Like syllable of dolour. ...
+Like syllable of dolour. /
 
 **MALCOLM**  
-... What I believe I'll wail,  
+/ What I believe I'll wail,  
 What know believe, and what I can redress,  
 As I shall find the time to friend, I will.  
 What you have spoke, it may be so perchance.  
@@ -2725,19 +2725,19 @@ To offer up a weak poor innocent lamb
 To appease an angry god.
 
 **MACDUFF**  
-I am not treacherous. ...
+I am not treacherous. /
 
 **MALCOLM**  
-... But Macbeth is.  
+/ But Macbeth is.  
 A good and virtuous nature may recoil  
 In an imperial charge. But I shall crave your pardon;  
 That which you are my thoughts cannot transpose:  
 Angels are bright still, though the brightest fell;  
 Though all things foul would wear the brows of grace,  
-Yet grace must still look so. ...
+Yet grace must still look so. /
 
 **MACDUFF**  
-... I have lost my hopes.
+/ I have lost my hopes.
 
 **MALCOLM**  
 Perchance even there where I did find my doubts.  
@@ -2746,19 +2746,19 @@ Those precious motives, those strong knots of love,
 Without leave-taking? I pray you,  
 Let not my jealousies be your dishonours,  
 But mine own safeties. You may be rightly just,  
-Whatever I shall think. ...
+Whatever I shall think. /
 
 **MACDUFF**  
-... Bleed, bleed, poor country!  
+/ Bleed, bleed, poor country!  
 Great tyranny! lay thou thy basis sure,  
 For goodness dare not cheque thee: wear thou thy wrongs;  
 The title is affeer'd! Fare thee well, lord:  
 I would not be the villain that thou think'st  
 For the whole space that's in the tyrant's grasp,  
-And the rich East to boot. ...
+And the rich East to boot. /
 
 **MALCOLM**  
-... Be not offended:  
+/ Be not offended:  
 I speak not as in absolute fear of you.  
 I think our country sinks beneath the yoke;  
 It weeps, it bleeds; and each new day a gash  
@@ -2770,10 +2770,10 @@ When I shall tread upon the tyrant's head,
 Or wear it on my sword, yet my poor country  
 Shall have more vices than it had before,  
 More suffer and more sundry ways than ever,  
-By him that shall succeed. ...
+By him that shall succeed. /
 
 **MACDUFF**  
-... What should he be?
+/ What should he be?
 
 **MALCOLM**  
 It is myself I mean: in whom I know  
@@ -2781,19 +2781,19 @@ All the particulars of vice so grafted
 That, when they shall be open'd, black Macbeth  
 Will seem as pure as snow, and the poor state  
 Esteem him as a lamb, being compared  
-With my confineless harms. ...
+With my confineless harms. /
 
 **MACDUFF**  
-... Not in the legions  
+/ Not in the legions  
 Of horrid hell can come a devil more damn'd  
 In evils to top Macbeth. O Scotland, Scotland!
 
 **MALCOLM**  
 If such a one be fit to govern, speak:  
-I am as I have spoken. ...
+I am as I have spoken. /
 
 **MACDUFF**  
-... Fit to govern!  
+/ Fit to govern!  
 No, not to live. O nation miserable,  
 With an untitled tyrant bloody-scepter'd,  
 When shalt thou see thy wholesome days again,  
@@ -2805,10 +2805,10 @@ Oftener upon her knees than on her feet,
 Died every day she lived. Fare thee well!  
 These evils thou repeat'st upon thyself  
 Have banish'd me from Scotland. O my breast,  
-Thy hope ends here! ...
+Thy hope ends here! /
 
 **MALCOLM**  
-... Macduff, this noble passion,  
+/ Macduff, this noble passion,  
 Child of integrity, hath from my soul  
 Wiped the black scruples, reconciled my thoughts  
 To thy good truth and honour. Devilish Macbeth  
@@ -2825,21 +2825,21 @@ Be like our warranted quarrel! Why are you silent?
 
 **MACDUFF**  
 Such welcome and unwelcome things at once  
-'Tis hard to reconcile. ...
+'Tis hard to reconcile. /
 
 *Enter ROSS (Witch 2)*
 
 **MACDUFF**  
-... See, who comes here?
+/ See, who comes here?
 
 **ROSS**  
 Sir, amen.
 
 **MACDUFF**  
-Stands Scotland where it did? ...
+Stands Scotland where it did? /
 
 **ROSS**  
-... Alas, poor country!  
+/ Alas, poor country!  
 Almost afraid to know itself. It cannot  
 Be call'd our mother, but our grave; where nothing,  
 But who knows nothing, is once seen to smile;  
@@ -2848,26 +2848,26 @@ Are made, not mark'd; where violent sorrow seems
 A modern ecstasy; the dead man's knell  
 Is there scarce ask'd for who; and good men's lives  
 Expire before the flowers in their caps,  
-Dying or ere they sicken. ...
+Dying or ere they sicken. /
 
 **MALCOLM**  
-... What's the newest grief?
+/ What's the newest grief?
 
 **ROSS**  
 That of an hour's age doth hiss the speaker:  
-Each minute teems a new one. ...
+Each minute teems a new one. /
 
 **MACDUFF**  
-... How does my wife?
+/ How does my wife?
 
 **ROSS**  
-Why, well. ...
+Why, well. /
 
 **MACDUFF**  
-... And all my children?
+/ And all my children?
 
 **ROSS**  
-Well too. ...
+Well too. /
 
 **MACDUFF**  
 The tyrant has not batter'd at their peace?
@@ -2886,58 +2886,58 @@ Which was to my belief witness'd the rather,
 For that I saw the tyrant's power a-foot:  
 Now is the time of help; your eye in Scotland  
 Would create soldiers, make our women fight,  
-To doff their dire distresses. ...
+To doff their dire distresses. /
 
 **MALCOLM**  
-... Be't their comfort  
+/ Be't their comfort  
 We are coming thither: gracious England hath  
 Lent us good Siward and ten thousand men;  
 An older and a better soldier none  
-That Christendom gives out. ...
+That Christendom gives out. /
 
 **ROSS**  
-... Would I could answer  
+/ Would I could answer  
 This comfort with the like! But I have words  
 That would be howl'd out in the desert air,  
-Where hearing should not latch them. ...
+Where hearing should not latch them. /
 
 **MACDUFF**  
-... What concern they?  
+/ What concern they?  
 The general cause? or is it a fee-grief  
-Due to some single breast? ...
+Due to some single breast? /
 
 **ROSS**  
-... No mind that's honest  
+/ No mind that's honest  
 But in it shares some woe; though the main part  
-Pertains to you alone. ...
+Pertains to you alone. /
 
 **MACDUFF**  
-... If it be mine,  
+/ If it be mine,  
 Keep it not from me, quickly let me have it.
 
 **ROSS**  
 Let not your ears despise my tongue for ever,  
 Which shall possess them with the heaviest sound  
-That ever yet they heard. ...
+That ever yet they heard. /
 
 **MACDUFF**  
-... Hum! I guess at it.
+/ Hum! I guess at it.
 
 **ROSS**  
 Your castle is surprised; your wife and babes  
 Savagely slaughter'd: to relate the manner,  
 Were, on the quarry of these murder'd deer,  
-To add the death of you. ...
+To add the death of you. /
 
 **MACDUFF**  
-... My children too?
+/ My children too?
 
 **ROSS**  
 Wife, children, servants, all  
-That could be found. ...
+That could be found. /
 
 **MACDUFF**  
-... And I must be from thence!  
+/ And I must be from thence!  
 My wife kill'd too?
 
 He has no children. All my pretty ones?  
@@ -2959,10 +2959,10 @@ And braggart with my tongue! But, gentle heavens,
 Cut short all intermission; front to front  
 Bring thou this fiend of Scotland and myself;  
 Within my sword's length set him; if he 'scape,  
-Heaven forgive him too! ...
+Heaven forgive him too! /
 
 **MALCOLM**  
-... This tune goes manly.  
+/ This tune goes manly.  
 Come, go we to the king; our power is ready;  
 Our lack is nothing but our leave; Macbeth  
 Is ripe for shaking, and the powers above  
@@ -3115,10 +3115,10 @@ God, God forgive us all! Look after her;
 Remove from her the means of all annoyance,  
 And still keep eyes upon her. So, good night:  
 My mind she has mated, and amazed my sight.  
-I think, but dare not speak. ...
+I think, but dare not speak. /
 
 **Gentlewoman**  
-... Good night, good doctor.
+/ Good night, good doctor.
 
 *Exeunt*
 
@@ -3162,11 +3162,11 @@ Are counsellors to fear. What soldiers, whey-face?
 The English force, so please you.
 
 **MACBETH**  
-Take thy face hence. ...
+Take thy face hence. /
 
 *Exit Servant*
 
-... Seyton!--I am sick at heart,  
+/ Seyton!--I am sick at heart,  
 When I behold--Seyton, I say!--This push  
 Will cheer me ever, or disseat me now.  
 I have lived long enough: my way of life  
@@ -3180,43 +3180,43 @@ Which the poor heart would fain deny, and dare not. Seyton!
 *Enter SEYTON*
 
 **SEYTON**  
-What is your gracious pleasure? ...
+What is your gracious pleasure? /
 
 **MACBETH**  
-... What news more?
+/ What news more?
 
 **SEYTON**  
 All is confirm'd, my lord, which was reported.
 
 **MACBETH**  
 I'll fight till from my bones my flesh be hack'd.  
-Give me my armour. ...
+Give me my armour. /
 
 **SEYTON**  
-... 'Tis not needed yet.
+/ 'Tis not needed yet.
 
 **MACBETH**  
 I'll put it on.  
 Send out more horses; skirr the country round;  
 Hang those that talk of fear. Give me mine armour.  
-How does your patient, doctor? ...
+How does your patient, doctor? /
 
 **English Doctor**  
-... Not so sick, my lord,  
+/ Not so sick, my lord,  
 As she is troubled with thick coming fancies,  
-That keep her from her rest. ...
+That keep her from her rest. /
 
 **MACBETH**  
-... Cure her of that.  
+/ Cure her of that.  
 Canst thou not minister to a mind diseased,  
 Pluck from the memory a rooted sorrow,  
 Raze out the written troubles of the brain  
 And with some sweet oblivious antidote  
 Cleanse the stuff'd bosom of that perilous stuff  
-Which weighs upon the heart? ...
+Which weighs upon the heart? /
 
 **English Doctor**  
-... Therein the patient  
+/ Therein the patient  
 Must minister to himself.
 
 **MACBETH**  
@@ -3300,11 +3300,11 @@ Will laugh a siege to scorn: here let them lie
 Till famine and the ague eat them up:  
 Were they not forced with those that should be ours,  
 We might have met them dareful, beard to beard,  
-And beat them backward home. ...
+And beat them backward home. /
 
 *A cry of women within*
 
-... What is that noise?
+/ What is that noise?
 
 **SEYTON**  
 It is the cry of women, my good lord.
@@ -3318,11 +3318,11 @@ To hear a night-shriek; and my fell of hair
 Would at a dismal treatise rouse and stir  
 As life were in't: I have supp'd full with horrors;  
 Direness, familiar to my slaughterous thoughts  
-Cannot once start me. ...
+Cannot once start me. /
 
 *Re-enter SEYTON*
 
-... Wherefore was that cry?
+/ Wherefore was that cry?
 
 **SEYTON**  
 The queen, my lord, is dead.
@@ -3348,26 +3348,26 @@ Thou comest to use thy tongue; thy story quickly.
 **Messenger**  
 Gracious my lord,  
 I should report that which I say I saw,  
-But know not how to do it. ...
+But know not how to do it. /
 
 **MACBETH**  
-... Well, say, sir.
+/ Well, say, sir.
 
 **Messenger**  
 As I did stand my watch upon the hill,  
 I look'd toward Birnam, and anon, methought,  
-The wood began to move. ...
+The wood began to move. /
 
 **MACBETH**  
-... Liar and slave!
+/ Liar and slave!
 
 **Messenger**  
 Let me endure your wrath, if't be not so:  
 Within this three mile may you see it coming;  
-I say, a moving grove. ...
+I say, a moving grove. /
 
 **MACBETH**  
-... If thou speak'st false,  
+/ If thou speak'st false,  
 Upon the next tree shalt thou hang alive,  
 Till famine cling thee: if thy speech be sooth,  
 I care not if thou dost for me as much.  
@@ -3395,10 +3395,10 @@ And show like those you are. You, worthy uncle,
 Shall, with my cousin, your right-noble son,  
 Lead our first battle: worthy Macduff and we  
 Shall take upon 's what else remains to do,  
-According to our order. ...
+According to our order. /
 
 **SIWARD**  
-... Fare you well.  
+/ Fare you well.  
 Do we but find the tyrant's power to-night,  
 Let us be beaten, if we cannot fight.
 
@@ -3416,29 +3416,29 @@ Those clamorous harbingers of blood and death.
 They have tied me to a stake; I cannot fly,  
 But, bear-like, I must fight the course. What's he  
 That was not born of woman? Such a one  
-Am I to fear, or none. ...
+Am I to fear, or none. /
 
 *Enter YOUNG SIWARD*
 
 **YOUNG SIWARD**  
-... What is thy name?
+/ What is thy name?
 
 **MACBETH**  
 Thou'lt be afraid to hear it.
 
 **YOUNG SIWARD**  
 No; though thou call'st thyself a hotter name  
-Than any is in hell. ...
+Than any is in hell. /
 
 **MACBETH**  
-... My name's Macbeth.
+/ My name's Macbeth.
 
 **YOUNG SIWARD**  
 The devil himself could not pronounce a title  
-More hateful to mine ear. ...
+More hateful to mine ear. /
 
 **MACBETH**  
-... No, nor more fearful.
+/ No, nor more fearful.
 
 **YOUNG SIWARD**  
 Thou liest, abhorred tyrant; with my sword  
@@ -3476,14 +3476,14 @@ This way, my lord; the castle's gently render'd:
 The tyrant's people on both sides do fight;  
 The noble thanes do bravely in the war;  
 The day almost itself professes yours,  
-And little is to do. ...
+And little is to do. /
 
 **MALCOLM**  
-... We have met with foes  
-That strike beside us. ...
+/ We have met with foes  
+That strike beside us. /
 
 **SIWARD**  
-... Enter, sir, the castle.
+/ Enter, sir, the castle.
 
 *Exeunt. Alarums*
 
@@ -3494,35 +3494,35 @@ That strike beside us. ...
 **MACBETH**  
 Why should I play the Roman fool, and die  
 On mine own sword? whiles I see lives, the gashes  
-Do better upon them. ...
+Do better upon them. /
 
 *Enter MACDUFF*
 
 **MACDUFF**  
-... Turn, hell-hound, turn!
+/ Turn, hell-hound, turn!
 
 **MACBETH**  
 Of all men else I have avoided thee:  
 But get thee back; my soul is too much charged  
-With blood of thine already. ...
+With blood of thine already. /
 
 **MACDUFF**  
-... I have no words:  
+/ I have no words:  
 My voice is in my sword: thou bloodier villain  
-Than terms can give thee out! ...
+Than terms can give thee out! /
 
 *They fight*
 
 **MACBETH**  
-... Thou losest labour:  
+/ Thou losest labour:  
 As easy mayst thou the intrenchant air  
 With thy keen sword impress as make me bleed:  
 Let fall thy blade on vulnerable crests;  
 I bear a charmed life, which must not yield,  
-To one of woman born. ...
+To one of woman born. /
 
 **MACDUFF**  
-... Despair thy charm;  
+/ Despair thy charm;  
 And let the angel whom thou still hast served  
 Tell thee, Macduff was from his mother's womb  
 Untimely ripp'd.
@@ -3540,10 +3540,10 @@ Then yield thee, coward,
 And live to be the show and gaze o' the time:  
 We'll have thee, as our rarer monsters are,  
 Painted on a pole, and underwrit,  
-'Here may you see the tyrant.' ...
+'Here may you see the tyrant.' /
 
 **MACBETH**  
-... I will not yield,  
+/ I will not yield,  
 To kiss the ground before young Malcolm's feet,  
 And to be baited with the rabble's curse.  
 Though Birnam wood be come to Dunsinane,  
@@ -3571,34 +3571,34 @@ Your son, my lord, has paid a soldier's debt:
 He only lived but till he was a man;  
 The which no sooner had his prowess confirm'd  
 In the unshrinking station where he fought,  
-But like a man he died. ...
+But like a man he died. /
 
 **SIWARD**  
-... Then he is dead?
+/ Then he is dead?
 
 **ROSS**  
 Ay, and brought off the field: your cause of sorrow  
 Must not be measured by his worth, for then  
-It hath no end. ...
+It hath no end. /
 
 **SIWARD**  
-... Had he his hurts before?
+/ Had he his hurts before?
 
 **ROSS**  
-Ay, on the front. ...
+Ay, on the front. /
 
 **SIWARD**  
-... Why then, God's soldier be he!  
+/ Why then, God's soldier be he!  
 Had I as many sons as I have hairs,  
 I would not wish them to a fairer death:  
-And so, his knell is knoll'd. ...
+And so, his knell is knoll'd. /
 
 **MALCOLM**  
-... He's worth more sorrow,  
-And that I'll spend for him. ...
+/ He's worth more sorrow,  
+And that I'll spend for him. /
 
 **SIWARD**  
-... He's worth no more  
+/ He's worth no more  
 They say he parted well, and paid his score:  
 And so, God be with him! Here comes newer comfort.
 
@@ -3610,10 +3610,10 @@ The usurper's cursed head: the time is free:
 I see thee compass'd with thy kingdom's pearl,  
 That speak my salutation in their minds;  
 Whose voices I desire aloud with mine:  
-Hail, King of Scotland! ...
+Hail, King of Scotland! /
 
 **ALL**  
-... Hail, King of Scotland!
+/ Hail, King of Scotland!
 
 *Flourish*
 

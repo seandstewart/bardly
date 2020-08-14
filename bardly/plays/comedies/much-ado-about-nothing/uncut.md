@@ -497,10 +497,10 @@ Hath Leonato any son, my lord?
 
 **DON PEDRO**  
 No child but Hero; she's his only heir.  
-Dost thou affect her, Claudio? ...
+Dost thou affect her, Claudio? /
 
 **CLAUDIO**  
-... O, my lord,  
+/ O, my lord,  
 When you went onward on this ended action,  
 I look'd upon her with a soldier's eye,  
 That liked, but had a rougher task in hand  
@@ -1937,11 +1937,11 @@ To praise him more than ever man did merit:
 My talk to thee must be how Benedick  
 Is sick in love with Beatrice. Of this matter  
 Is little Cupid's crafty arrow made,  
-That only wounds by hearsay. ...
+That only wounds by hearsay. /
 
 *Enter BEATRICE, behind*
 
-... Now begin;  
+/ Now begin;  
 For look where Beatrice, like a lapwing, runs  
 Close by the ground, to hear our conference.
 
@@ -1960,10 +1960,10 @@ Of the false sweet bait that we lay for it.
 *\[Approaching the bower]*  
 No, truly, Ursula, she is too disdainful;  
 I know her spirits are as coy and wild  
-As haggerds of the rock. ...
+As haggerds of the rock. /
 
 **URSULA**  
-... But are you sure  
+/ But are you sure  
 That Benedick loves Beatrice so entirely?
 
 **HERO**  
@@ -1993,10 +1993,10 @@ Misprising what they look on, and her wit
 Values itself so highly that to her  
 All matter else seems weak: she cannot love,  
 Nor take no shape nor project of affection,  
-She is so self-endeared. ...
+She is so self-endeared. /
 
 **URSULA**  
-... Sure, I think so;  
+/ Sure, I think so;  
 And therefore certainly it were not good  
 She knew his love, lest she make sport at it.
 
@@ -3045,10 +3045,10 @@ She knows the heat of a luxurious bed;
 Her blush is guiltiness, not modesty.
 
 **LEONATO**  
-What do you mean, my lord? ...
+What do you mean, my lord? /
 
 **CLAUDIO**  
-... Not to be married,  
+/ Not to be married,  
 Not to knit my soul to an approved wanton.
 
 **LEONATO**  
@@ -3080,10 +3080,10 @@ That rage in savage sensuality.
 Is my lord well, that he doth speak so wide?
 
 **LEONATO**  
-Sweet prince, why speak not you? ...
+Sweet prince, why speak not you? /
 
 **DON PEDRO**  
-... What should I speak?  
+/ What should I speak?  
 I stand dishonor'd, that have gone about  
 To link my dear friend to a common stale.
 
@@ -3094,10 +3094,10 @@ Are these things spoken, or do I but dream?
 Sir, they are spoken, and these things are true.
 
 **BENEDICK**  
-This looks not like a nuptial. ...
+This looks not like a nuptial. /
 
 **HERO**  
-... True! O God!
+/ True! O God!
 
 **CLAUDIO**  
 Leonato, stand I here?  
@@ -3179,25 +3179,25 @@ Smother her spirits up.
 *Exeunt DON PEDRO, DON JOHN, and CLAUDIO*
 
 **BENEDICK**  
-How doth the lady? ...
+How doth the lady? /
 
 **BEATRICE**  
-... Dead, I think. Help, uncle!  
+/ Dead, I think. Help, uncle!  
 Hero! why, Hero! Uncle! Signior Benedick! Friar!
 
 **LEONATO**  
 O Fate! take not away thy heavy hand.  
 Death is the fairest cover for her shame  
-That may be wish'd for. ...
+That may be wish'd for. /
 
 **BEATRICE**  
-... How now, cousin Hero!
+/ How now, cousin Hero!
 
 **FRIAR FRANCIS**  
-Have comfort, lady. ...
+Have comfort, lady. /
 
 **LEONATO**  
-... Dost thou look up?
+/ Dost thou look up?
 
 **FRIAR FRANCIS**  
 Yea, wherefore should she not?
@@ -3226,10 +3226,10 @@ Valuing of her,--why, she, O, she is fallen
 Into a pit of ink, that the wide sea  
 Hath drops too few to wash her clean again  
 And salt too little which may season give  
-To her foul-tainted flesh! ...
+To her foul-tainted flesh! /
 
 **BENEDICK**  
-... Sir, sir, be patient.  
+/ Sir, sir, be patient.  
 For my part, I am so attired in wonder,  
 I know not what to say.
 
@@ -3266,10 +3266,10 @@ Which with experimental seal doth warrant
 The tenor of my book; trust not my age,  
 My reverence, calling, nor divinity,  
 If this sweet lady lie not guiltless here  
-Under some biting error. ...
+Under some biting error. /
 
 **LEONATO**  
-... Friar, it cannot be.  
+/ Friar, it cannot be.  
 Thou seest that all the grace that she hath left  
 Is that she will not add to her damnation  
 A sin of perjury; she not denies it:  
@@ -3309,10 +3309,10 @@ Nor my bad life reft me so much of friends,
 But they shall find, awaked in such a kind,  
 Both strength of limb and policy of mind,  
 Ability in means and choice of friends,  
-To quit me of them thoroughly. ...
+To quit me of them thoroughly. /
 
 **FRIAR FRANCIS**  
-... Pause awhile,  
+/ Pause awhile,  
 And let my counsel sway you in this case.  
 Your daughter here the princes left for dead:  
 Let her awhile be secretly kept in,  
@@ -3367,10 +3367,10 @@ And though you know my inwardness and love
 Is very much unto the prince and Claudio,  
 Yet, by mine honor, I will deal in this  
 As secretly and justly as your soul  
-Should with your body. ...
+Should with your body. /
 
 **LEONATO**  
-... Being that I flow in grief,  
+/ Being that I flow in grief,  
 The smallest twine may lead me.
 
 **FRIAR FRANCIS**  
@@ -3722,10 +3722,10 @@ I had been writ down an ass!
 **ANTONIO**  
 If you go on thus, you will kill yourself:  
 And 'tis not wisdom thus to second grief  
-Against yourself. ...
+Against yourself. /
 
 **LEONATO**  
-... I pray thee, cease thy counsel,  
+/ I pray thee, cease thy counsel,  
 Which falls into mine ears as profitless  
 As water in a sieve: give not me counsel;  
 Nor let no comforter delight mine ear  
@@ -3782,16 +3782,16 @@ Here comes the prince and Claudio hastily.
 *Enter DON PEDRO and CLAUDIO*
 
 **DON PEDRO**  
-Good den, good den. ...
+Good den, good den. /
 
 **CLAUDIO**  
-... Good day to both of you.
+/ Good day to both of you.
 
 **LEONATO**  
-Hear you. my lords,-- ...
+Hear you. my lords,-- /
 
 **DON PEDRO**  
-... We have some haste, Leonato.
+/ We have some haste, Leonato.
 
 **LEONATO**  
 Some haste, my lord! well, fare you well, my lord:  
@@ -3802,18 +3802,18 @@ Nay, do not quarrel with us, good old man.
 
 **ANTONIO**  
 If he could right himself with quarreling,  
-Some of us would lie low. ...
+Some of us would lie low. /
 
 **CLAUDIO**  
-... Who wrongs him?
+/ Who wrongs him?
 
 **LEONATO**  
 Marry, thou dost wrong me; thou dissembler, thou:--  
 Nay, never lay thy hand upon thy sword;  
-I fear thee not. ...
+I fear thee not. /
 
 **CLAUDIO**  
-... Marry, beshrew my hand,  
+/ Marry, beshrew my hand,  
 If it should give your age such cause of fear:  
 In faith, my hand meant nothing to my sword.
 
@@ -3834,10 +3834,10 @@ O, in a tomb where never scandal slept,
 Save this of hers, framed by thy villany!
 
 **CLAUDIO**  
-My villany? ...
+My villany? /
 
 **LEONATO**  
-... Thine, Claudio; thine, I say.
+/ Thine, Claudio; thine, I say.
 
 **DON PEDRO**  
 You say not right, old man.
@@ -3861,20 +3861,20 @@ But that's no matter; let him kill one first;
 Win me and wear me; let him answer me.  
 Come, follow me, boy; come, sir boy, come, follow me:  
 Sir boy, I'll whip you from your foining fence;  
-Nay, as I am a gentleman, I will. ...
+Nay, as I am a gentleman, I will. /
 
 **LEONATO**  
-... Brother,--
+/ Brother,--
 
 **ANTONIO**  
 Content yourself. God knows I loved my niece;  
 And she is dead, slander'd to death by villains,  
 That dare as well answer a man indeed  
 As I dare take a serpent by the tongue:  
-Boys, apes, braggarts, Jacks, milksops! ...
+Boys, apes, braggarts, Jacks, milksops! /
 
 **LEONATO**  
-... Brother Antony,--
+/ Brother Antony,--
 
 **ANTONIO**  
 Hold you content. What, man! I know them, yea,  
@@ -3884,10 +3884,10 @@ That lie and cog and flout, deprave and slander,
 Go anticly, show outward hideousness,  
 And speak off half a dozen dangerous words,  
 How they might hurt their enemies, if they durst;  
-And this is all. ...
+And this is all. /
 
 **LEONATO**  
-... But, brother Antony,--
+/ But, brother Antony,--
 
 **ANTONIO**  
 Come, 'tis no matter:  
@@ -3900,10 +3900,10 @@ But, on my honor, she was charged with nothing
 But what was true and very full of proof.
 
 **LEONATO**  
-My lord, my lord,-- ...
+My lord, my lord,-- /
 
 **DON PEDRO**  
-... I will not hear you.
+/ I will not hear you.
 
 **LEONATO**  
 No? Come, brother; away! I will be heard.
@@ -4180,10 +4180,10 @@ If you would know your wronger, look on me.
 
 **LEONATO**  
 Art thou the slave that with thy breath hast kill'd  
-Mine innocent child? ...
+Mine innocent child? /
 
 **BORACHIO**  
-... Yea, even I alone.
+/ Yea, even I alone.
 
 **LEONATO**  
 No, not so, villain; thou beliest thyself:  
@@ -4198,10 +4198,10 @@ I know not how to pray your patience;
 Yet I must speak. Choose your revenge yourself;  
 Impose me to what penance your invention  
 Can lay upon my sin: yet sinn'd I not  
-But in mistaking. ...
+But in mistaking. /
 
 **DON PEDRO**  
-... By my soul, nor I:  
+/ By my soul, nor I:  
 And yet, to satisfy this good old man,  
 I would bend under any heavy weight  
 That he'll enjoin me to.
@@ -4220,10 +4220,10 @@ Be yet my nephew: my brother hath a daughter,
 Almost the copy of my child that's dead,  
 And she alone is heir to both of us:  
 Give her the right you should have given her cousin,  
-And so dies my revenge. ...
+And so dies my revenge. /
 
 **CLAUDIO**  
-... O noble sir,  
+/ O noble sir,  
 Your over-kindness doth wring tears from me!  
 I do embrace your offer; and dispose  
 For henceforth of poor Claudio.
@@ -4233,10 +4233,10 @@ Tomorrow then I will expect your coming;
 Tonight I take my leave. This naughty man  
 Shall face to face be brought to Margaret,  
 Who I believe was pack'd in all this wrong,  
-Hired to't by your brother. ...
+Hired to't by your brother. /
 
 **BORACHIO**  
-... No, by my soul, she was not,  
+/ No, by my soul, she was not,  
 Nor knew not what she did when she spoke to me,  
 But always hath been just and virtuous  
 In anything that I do know by her.
@@ -4591,10 +4591,10 @@ In the state of honorable marriage:
 In which, good friar, I shall desire your help.
 
 **LEONATO**  
-My heart is with your liking. ...
+My heart is with your liking. /
 
 **FRIAR FRANCIS**  
-... And my help.  
+/ And my help.  
 Here comes the prince and Claudio.
 
 *Enter DON PEDRO and CLAUDIO, and two or three others*
@@ -4661,10 +4661,10 @@ And when I lived, I was your other wife:
 And when you loved, you were my other husband.
 
 **CLAUDIO**  
-Another Hero! ...
+Another Hero! /
 
 **HERO**  
-... Nothing certainer:  
+/ Nothing certainer:  
 One Hero died defiled, but I do live,  
 And surely as I live, I am a maid.
 
@@ -4727,10 +4727,10 @@ Come, cousin, I am sure you love the gentleman.
 And I'll be sworn upon't that he loves her;  
 For here's a paper written in his hand,  
 A halting sonnet of his own pure brain,  
-Fashion'd to Beatrice. ...
+Fashion'd to Beatrice. /
 
 **HERO**  
-... And here's another  
+/ And here's another  
 Writ in my cousin's hand, stolen from her pocket,  
 Containing her affection unto Benedick.
 

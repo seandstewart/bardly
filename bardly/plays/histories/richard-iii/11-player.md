@@ -53,18 +53,18 @@ Clarence comes.
 *Enter CLARENCE, guarded by BRAKENBURY*
 
 Brother, good day; what means this armed guard  
-That waits upon your grace? ...
+That waits upon your grace? /
 
 **CLARENCE**  
-... His majesty  
+/ His majesty  
 Tendering my person's safety, hath appointed  
 This conduct to convey me to the Tower.
 
 **GLOUCESTER**  
-Upon what cause? ...
+Upon what cause? /
 
 **CLARENCE**  
-... Because my name is George.
+/ Because my name is George.
 
 **GLOUCESTER**  
 Alack, my lord, that fault is none of yours;  
@@ -122,10 +122,10 @@ I know it pleaseth neither of us well.
 
 **GLOUCESTER**  
 Well, your imprisonment shall not be long;  
-Meantime, have patience. ...
+Meantime, have patience. /
 
 **CLARENCE**  
-... I must perforce. Farewell.
+/ I must perforce. Farewell.
 
 *Exeunt CLARENCE and BRAKENBURY*
 
@@ -308,10 +308,10 @@ By such despair, I should accuse myself.
 And, by despairing, shouldst thou stand excused;  
 For doing worthy vengeance on thyself,  
 Which didst unworthy slaughter upon others.  
-Didst thou not kill this king? ...
+Didst thou not kill this king? /
 
 **GLOUCESTER**  
-... I grant ye.
+/ I grant ye.
 
 **LADY ANNE**  
 Dost grant me, hedgehog? then, God grant me too  
@@ -335,10 +335,10 @@ And thou unfit for any place but hell.
 Yes, one place else, if you will hear me name it.
 
 **LADY ANNE**  
-Some dungeon. ...
+Some dungeon. /
 
 **GLOUCESTER**  
-... Your bed-chamber.
+/ Your bed-chamber.
 
 **LADY ANNE**  
 Ill rest betide the chamber where thou liest!
@@ -347,10 +347,10 @@ Ill rest betide the chamber where thou liest!
 So will it, madam till I lie with you.
 
 **LADY ANNE**  
-I hope so. ...
+I hope so. /
 
 **GLOUCESTER**  
-... I know so. But, gentle Lady Anne,  
+/ I know so. But, gentle Lady Anne,  
 To leave this keen encounter of our wits,  
 And fall somewhat into a slower method,  
 Is not the causer of the timeless deaths  
@@ -404,26 +404,26 @@ His better doth not breathe upon the earth.
 He lives that loves thee better than he could.
 
 **LADY ANNE**  
-Name him. ...
+Name him. /
 
 **GLOUCESTER**  
-... Plantagenet. ...
+/ Plantagenet. /
 
 **LADY ANNE**  
-... Why, that was he.
+/ Why, that was he.
 
 **GLOUCESTER**  
 The selfsame name, but one of better nature.
 
 **LADY ANNE**  
-Where is he? ...
+Where is he? /
 
 **GLOUCESTER**  
-... Here. ...
+/ Here. /
 
 *She spitteth at him*
 
-... Why dost thou spit at me?
+/ Why dost thou spit at me?
 
 **LADY ANNE**  
 Would it were mortal poison, for thy sake!
@@ -480,44 +480,44 @@ I will not be the executioner.
 Then bid me kill myself, and I will do't.
 
 **LADY ANNE**  
-I have already. ...
+I have already. /
 
 **GLOUCESTER**  
-... Tush, that was in thy rage:  
+/ Tush, that was in thy rage:  
 Speak it again, and, even with the word,  
 That hand, which, for thy love, did kill thy love,  
 Shall, for thy love, kill a far truer love;  
 To both their deaths thou shalt be accessary.
 
 **LADY ANNE**  
-I would I knew thy heart. ...
+I would I knew thy heart. /
 
 **GLOUCESTER**  
-... 'Tis figured in my tongue.
+/ 'Tis figured in my tongue.
 
 **LADY ANNE**  
-I fear me both are false. ...
+I fear me both are false. /
 
 **GLOUCESTER**  
-... Then never man was true.
+/ Then never man was true.
 
 **LADY ANNE**  
-Well, well, put up your sword. ...
+Well, well, put up your sword. /
 
 **GLOUCESTER**  
-... Say, then, my peace is made.
+/ Say, then, my peace is made.
 
 **LADY ANNE**  
-That shall you know hereafter. ...
+That shall you know hereafter. /
 
 **GLOUCESTER**  
-... But shall I live in hope?
+/ But shall I live in hope?
 
 **LADY ANNE**  
-All men, I hope, live so. ...
+All men, I hope, live so. /
 
 **GLOUCESTER**  
-... Vouchsafe to wear this ring.
+/ Vouchsafe to wear this ring.
 
 **LADY ANNE**  
 To take is not to give.
@@ -549,20 +549,20 @@ With all my heart; and much it joys me too,
 To see you are become so penitent.
 
 **GLOUCESTER**  
-Bid me farewell. ...
+Bid me farewell. /
 
 **LADY ANNE**  
-... 'Tis more than you deserve;  
+/ 'Tis more than you deserve;  
 But since you teach me how to flatter you,  
 Imagine I have said farewell already.
 
 *Exeunt LADY ANNE*
 
 **GLOUCESTER**  
-Sirs, take up the corse. ...
+Sirs, take up the corse. /
 
 **Guard**  
-... Towards Chertsey, noble lord?
+/ Towards Chertsey, noble lord?
 
 **GLOUCESTER**  
 No, to White-Friars; there attend my coining.
@@ -916,16 +916,16 @@ Thou loathed issue of thy father's loins!
 Thou rag of honor! thou detested--
 
 **GLOUCESTER**  
-Margaret. ...
+Margaret. /
 
 **QUEEN MARGARET**  
-... Richard! ...
+/ Richard! /
 
 **GLOUCESTER**  
-... Ha! ...
+/ Ha! /
 
 **QUEEN MARGARET**  
-... I call thee not.
+/ I call thee not.
 
 **GLOUCESTER**  
 I cry thee mercy then, for I had thought  
@@ -1478,10 +1478,10 @@ And make me happy in your unity.
 
 **BUCKINGHAM**  
 Whenever Buckingham doth turn his hate  
-On you or yours, ...
+On you or yours, /
 
 *\[To the Queen]*  
-... but with all duteous love  
+/ but with all duteous love  
 Doth cherish you and yours, God punish me  
 With hate in those where I expect most love!
 
@@ -1756,10 +1756,10 @@ Grandam, this would have been a biting jest.
 *Enter a Messenger*
 
 **QUEEN ELIZABETH**  
-How fares the prince? ...
+How fares the prince? /
 
 **Messenger**  
-... Well, madam, and in health.
+/ Well, madam, and in health.
 
 **DUCHESS OF YORK**  
 What is thy news then?
@@ -1768,14 +1768,14 @@ What is thy news then?
 Lord Rivers is sent straight to Pomfret, --
 
 **DUCHESS OF YORK**  
-Who hath committed him? ...
+Who hath committed him? /
 
 **Messenger**  
-... The mighty dukes  
-Gloucester and Buckingham. ...
+/ The mighty dukes  
+Gloucester and Buckingham. /
 
 **QUEEN ELIZABETH**  
-... For what offence?
+/ For what offence?
 
 **Messenger**  
 The sum of all I can, I have disclosed;  
@@ -1793,10 +1793,10 @@ How many of you have mine eyes beheld!
 
 **QUEEN ELIZABETH**  
 Come, come, my boy; we will to sanctuary.  
-Madam, farewell. ...
+Madam, farewell. /
 
 **DUCHESS OF YORK**  
-... I'll go along with you.
+/ I'll go along with you.
 
 *Exeunt*
 
@@ -1974,10 +1974,10 @@ You said that idle weeds are fast in growth
 The prince my brother hath outgrown me far.
 
 **GLOUCESTER**  
-He hath, my lord. ...
+He hath, my lord. /
 
 **YORK**  
-... And therefore is he idle?
+/ And therefore is he idle?
 
 **GLOUCESTER**  
 O, my fair cousin, I must not say so.
@@ -2204,10 +2204,10 @@ I shall return before your lordship thence.
 **BUCKINGHAM**  
 *\[Aside]*  
 And supper too, although thou know'st it not.  
-Come, will you go? ...
+Come, will you go? /
 
 **HASTINGS**  
-... I'll wait upon your lordship.
+/ I'll wait upon your lordship.
 
 *Exeunt*
 
@@ -2603,10 +2603,10 @@ I fear he will.
 
 *Re-enter CATESBY*
 
-How now, Catesby, what says your lord? ...
+How now, Catesby, what says your lord? /
 
 **CATESBY**  
-... My lord,  
+/ My lord,  
 He wonders to what end you have assembled  
 Such troops of citizens to speak with him,  
 His grace not being warn'd thereof before:  
@@ -2732,10 +2732,10 @@ In saying so, you shall but say the truth.
 
 **BUCKINGHAM**  
 Then I salute you with this kingly title:  
-Long live Richard, England's royal king! ...
+Long live Richard, England's royal king! /
 
 **Lord Mayor**  
-... Amen.
+/ Amen.
 
 **BUCKINGHAM**  
 Tomorrow will it please you to be crown'd?
@@ -2902,11 +2902,11 @@ Stand all apart Cousin of Buckingham!
 My gracious sovereign?
 
 **KING RICHARD III**  
-Give me thy hand. ...
+Give me thy hand. /
 
 *Here he ascendeth his throne*
 
-... Thus high, by thy advice  
+/ Thus high, by thy advice  
 And thy assistance, is King Richard seated;  
 But shall we wear these honours for a day?  
 Or shall they last, and we rejoice in them?
@@ -2932,10 +2932,10 @@ Why, so you are, my thrice renowned liege.
 Ha! am I king? 'tis so: but Edward lives.
 
 **BUCKINGHAM**  
-True, noble prince. ...
+True, noble prince. /
 
 **KING RICHARD III**  
-... O bitter consequence,  
+/ O bitter consequence,  
 That Edward still should live! 'True, noble prince!'  
 Shall I be plain? I wish the bastards dead;  
 And I would have it suddenly perform'd.
@@ -2995,17 +2995,17 @@ How now! what news with you?
 **STANLEY**  
 My lord, I hear the Marquis Dorset's fled  
 To Richmond, in those parts beyond the sea  
-Where he abides. ...  
+Where he abides. /  
 *\[Stands apart]*
 
 **KING RICHARD III**  
-... Catesby! ...
+/ Catesby! /
 
 **CATESBY**  
-... My lord? ...
+/ My lord? /
 
 **KING RICHARD III**  
-... Rumor it abroad  
+/ Rumor it abroad  
 That Anne, my wife, is sick and like to die:  
 I will take order for her keeping close.  
 Inquire me out some mean-born gentleman,  
@@ -3506,10 +3506,10 @@ Edward and York; then haply she will weep.
 
 **KING RICHARD III**  
 Come, come, you mock me; this is not the way  
-To win our daughter. ...
+To win our daughter. /
 
 **QUEEN ELIZABETH**  
-... There is no other way  
+/ There is no other way  
 Unless thou couldst put on some other shape.
 
 **KING RICHARD III**  
@@ -3562,22 +3562,22 @@ I swear--
 Swear then by something that thou hast not wrong'd.
 
 **KING RICHARD III**  
-Now, by the world-- ...
+Now, by the world-- /
 
 **QUEEN ELIZABETH**  
-... 'Tis full of thy foul wrongs.
+/ 'Tis full of thy foul wrongs.
 
 **KING RICHARD III**  
-Then, by myself-- ...
+Then, by myself-- /
 
 **QUEEN ELIZABETH**  
-... Thyself thyself misusest.
+/ Thyself thyself misusest.
 
 **KING RICHARD III**  
-Why then, by God-- ...
+Why then, by God-- /
 
 **QUEEN ELIZABETH**  
-... God's wrong is most of all.  
+/ God's wrong is most of all.  
 If thou hadst fear'd to break an oath by Him,  
 The unity the king thy brother made  
 Had not been broken, nor my brother slain:  
@@ -3587,10 +3587,10 @@ Had graced the tender temples of my child,
 And both the princes had been breathing here,  
 Which now, two tender playfellows to dust,  
 Thy broken faith hath made a prey for worms.  
-What canst thou swear by now? ...
+What canst thou swear by now? /
 
 **KING RICHARD III**  
-... The time to come.
+/ The time to come.
 
 **QUEEN ELIZABETH**  
 That thou hast wronged in the time o'erpast;  
@@ -3666,17 +3666,17 @@ Some light-foot friend post to the Duke of Norfolk:
 Ratcliff, thyself, or Catesby; where is he?
 
 **CATESBY**  
-Here, my lord. ...
+Here, my lord. /
 
 **KING RICHARD III**  
-... Fly to the duke:
+/ Fly to the duke:
 
 *\[To RATCLIFF]*  
-... Post thou to Sal'sb'ry  
-When thou comest thither-- ...
+/ Post thou to Sal'sb'ry  
+When thou comest thither-- /
 
 *\[To CATESBY]*  
-... Dull, unmindful villain,  
+/ Dull, unmindful villain,  
 Why stand'st thou still, and go'st not to the duke?
 
 **CATESBY**  
@@ -3795,10 +3795,10 @@ The news I have to tell your majesty
 Is, that by sudden floods and fall of waters,  
 Buckingham's army is dispersed and scatter'd;  
 And he himself wander'd away alone,  
-No man knows whither. ...
+No man knows whither. /
 
 **KING RICHARD III**  
-... I cry thee mercy:  
+/ I cry thee mercy:  
 There is my purse to cure that blow of thine.  
 Hath any well-advised friend proclaim'd  
 Reward to him that brings the traitor in?
@@ -3941,14 +3941,14 @@ In to our tent; the air is raw and cold.
 CATESBY*
 
 **KING RICHARD III**  
-What is't o'clock? ...
+What is't o'clock? /
 
 **CATESBY**  
-... It's supper-time, my lord;  
-It's nine o'clock. ...
+/ It's supper-time, my lord;  
+It's nine o'clock. /
 
 **KING RICHARD III**  
-... I will not sup tonight.  
+/ I will not sup tonight.  
 Give me some ink and paper.  
 What, is my beaver easier than it was?  
 And all my armour laid into my tent?
@@ -3964,13 +3964,13 @@ Into the blind cave of eternal night.
 
 *Exit CATESBY*
 
-Ratcliff! ...
+Ratcliff! /
 
 **RATCLIFF**  
-... My lord? ...
+/ My lord? /
 
 **KING RICHARD III**  
-... Give me a bowl of wine:  
+/ Give me a bowl of wine:  
 I have not that alacrity of spirit,  
 Nor cheer of mind, that I was wont to have.  
 Set it down. Is ink and paper ready?
@@ -4226,10 +4226,10 @@ He was in the right; and so indeed it is.
 *Clock striketh*
 
 Ten the clock there. Give me a calendar.  
-Who saw the sun today? ...
+Who saw the sun today? /
 
 **RATCLIFF**  
-... Not I, my lord.
+/ Not I, my lord.
 
 **KING RICHARD III**  
 Then he disdains to shine; for by the book  
@@ -4237,10 +4237,10 @@ He should have braved the east an hour ago
 A black day will it be to somebody. Ratcliff!
 
 **RATCLIFF**  
-My lord? ...
+My lord? /
 
 **KING RICHARD III**  
-... The sun will not be seen today;  
+/ The sun will not be seen today;  
 The sky doth frown and lour upon our army.  
 I would these dewy tears were from the ground.  
 Not shine today! Why, what is that to me  
@@ -4272,11 +4272,11 @@ And not these bastard Bretons; whom our fathers
 Have in their own land beaten, bobb'd, and thump'd,  
 And in record, left them the heirs of shame.  
 Shall these enjoy our lands? lie with our wives?  
-Ravish our daughters? ...
+Ravish our daughters? /
 
 *Drum afar off*
 
-... Hark! I hear their drum.  
+/ Hark! I hear their drum.  
 Advance our standards, set upon our foes  
 Inspire us with the spleen of fiery dragons!  
 Upon them! victory sits on our helms.
