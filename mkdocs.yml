@@ -8,6 +8,7 @@ docs_dir: bardly
 theme:
   favicon: static/img/favicon.ico
   name: "material"
+  custom_dir: overrides
   palette:
     primary: "teal"
     accent: "amber"
