@@ -1,3 +1,24 @@
 article {
-    font-family: "IBM Plex Mono", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+    font-family: "IBM Plex Mono", SFMono-Regular, Consolas, Menlo, monospace;
+    letter-spacing: -.015rem;
 }
+
+/* Mobile device font optimizations. */
+@media (max-device-width: 420px) {
+    .md-typeset {
+        font-size: .55rem;
+    }
+}
+
+@media (max-device-width: 375px) {
+    .md-typeset {
+        font-size: .525rem;
+    }
+}
+
+@media (max-device-width: 360px) {
+    .md-typeset {
+        font-size: .475rem;
+    }
+}
+
