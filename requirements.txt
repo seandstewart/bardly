@@ -23,9 +23,9 @@ html2text==2020.1.16 \
 iambic==2.2.3 \
     --hash=sha256:9fb18844f20881484c41eb650f8af8c09d333671b85e6f29b56060b78c763753 \
     --hash=sha256:1239e0ac6bbb57b54207c7733a263bde9a8b9cb308a459bdbe2d8e54feeb3836
-identify==1.4.25 \
-    --hash=sha256:ccd88716b890ecbe10920659450a635d2d25de499b9a638525a48b48261d989b \
-    --hash=sha256:110ed090fec6bce1aabe3c72d9258a9de82207adeaa5a05cd75c635880312f9a
+identify==1.4.28 \
+    --hash=sha256:69c4769f085badafd0e04b1763e847258cbbf6d898e8678ebffc91abdb86f6c6 \
+    --hash=sha256:d6ae6daee50ba1b493e9ca4d36a5edd55905d2cf43548fdc20b2a14edef102e7
 importlib-metadata==1.7.0; python_version < "3.8" \
     --hash=sha256:dc15b2969b4ce36305c51eebe62d418ac7791e9a157911d58bfb1f9ccd8e2070 \
     --hash=sha256:90bb658cdbbf6d1735b6341ce708fc7024a3e14e99ffdc5783edea9f9b077f83
@@ -85,9 +85,9 @@ mkdocs==1.1.2 \
 mkdocs-awesome-pages-plugin==2.2.1 \
     --hash=sha256:64964a9e14ca356d17e226f124b9157666c0de4407991fbbc4d4091527032dc1 \
     --hash=sha256:45fb7d3d45f01cec5ad06f5dc0fd07e00359dc23d28f3a2c94e502c4ed631694
-mkdocs-material==5.5.6 \
-    --hash=sha256:08af704cdfaf2a07fd5f135831df9106c589bfd422f9ef026929981433e80b9d \
-    --hash=sha256:29f3637d5fb758d076344b026a67b8e316743d0c2da84b9303383f6cbeabfd5f
+mkdocs-material==5.5.7 \
+    --hash=sha256:6b7ecfba2da9bb0b3a0cc6a92ae543f034572ab56aba3814b6f03c30404d0410 \
+    --hash=sha256:c321fc3b3ab29ad291226aac1ec3523ae2acb3580097303bd45c34c24ece4b3f
 mkdocs-material-extensions==1.0 \
     --hash=sha256:17d7491e189af75700310b7ec33c6c48a22060b8b445001deca040cb60471cde \
     --hash=sha256:09569c3694b5acc1e8334c9730e52b4bcde65fc9d613cc20e49af131ef1a9ca0
