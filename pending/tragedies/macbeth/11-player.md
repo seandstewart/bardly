@@ -4,33 +4,33 @@
 
 *Thunder and lightning. Enter three Witches*
 
-**FIRST WITCH**  
+**First Witch**  
 When shall we three meet again  
 In thunder, lightning, or in rain?
 
-**SECOND WITCH**  
+**Second Witch**  
 When the hurlyburly's done,  
 When the battle's lost and won.
 
-**THIRD WITCH**  
+**Third Witch**  
 That will be ere the set of sun.
 
-**FIRST WITCH**  
+**First Witch**  
 Where the place? /
 
-**SECOND WITCH**  
+**Second Witch**  
 / Upon the heath.
 
-**THIRD WITCH**  
+**Third Witch**  
 There to meet with Macbeth.
 
-**FIRST WITCH**  
+**First Witch**  
 I come, Graymalkin! /
 
-**SECOND WITCH**  
+**Second Witch**  
 / Paddock calls. /
 
-**THIRD WITCH**  
+**Third Witch**  
 / Anon.
 
 **ALL**  
@@ -42,7 +42,7 @@ Hover through the fog and filthy air.
 ### SCENE II. A camp near Forres.
 
 *Alarum within. Enter KING DUNCAN, MALCOLM, and DONALBAIN,
-meeting the SECOND WITCH disguised as a bleeding Sergeant*
+meeting the Second Witch disguised as a bleeding Sergeant*
 
 **KING DUNCAN**  
 What bloody man is that? He can report,  
@@ -167,16 +167,16 @@ What he hath lost noble Macbeth hath won.
 
 *Thunder. Enter the three Witches*
 
-**FIRST WITCH**  
+**First Witch**  
 Where hast thou been, sister? /
 
-**SECOND WITCH**  
-/ Killing swine.
+**Second Witch**  
+/ Killing swine. /
 
-**THIRD WITCH**  
-Sister, where thou?
+**Third Witch**  
+/ Sister, where thou?
 
-**FIRST WITCH**  
+**First Witch**  
 A sailor's wife had chestnuts in her lap,  
 And munch'd, and munch'd, and munch'd:--  
 'Give me,' quoth I:  
@@ -186,16 +186,16 @@ But in a sieve I'll thither sail,
 And, like a rat without a tail,  
 I'll do, I'll do, and I'll do.
 
-**SECOND WITCH**  
-I'll give thee a wind.
+**Second Witch**  
+I'll give thee a wind. /
 
-**FIRST WITCH**  
-Thou'rt kind.
+**First Witch**  
+/ Thou'rt kind. /
 
-**THIRD WITCH**  
-And I another.
+**Third Witch**  
+/ And I another.
 
-**FIRST WITCH**  
+**First Witch**  
 I myself have all the other,  
 And the very ports they blow,  
 All the quarters that they know  
@@ -210,16 +210,16 @@ Though his bark cannot be lost,
 Yet it shall be tempest-tost.  
 Look what I have.
 
-**SECOND WITCH**  
+**Second Witch**  
 Show me, show me.
 
-**FIRST WITCH**  
+**First Witch**  
 Here I have a pilot's thumb,  
 Wreck'd as homeward he did come.
 
 *Drum within*
 
-**THIRD WITCH**  
+**Third Witch**  
 A drum, a drum!  
 Macbeth doth come.
 
@@ -250,13 +250,13 @@ That you are so. /
 **MACBETH**  
 / Speak, if you can: what are you?
 
-**FIRST WITCH**  
+**First Witch**  
 All hail, Macbeth! hail to thee, thane of Glamis!
 
-**SECOND WITCH**  
+**Second Witch**  
 All hail, Macbeth, hail to thee, thane of Cawdor!
 
-**THIRD WITCH**  
+**Third Witch**  
 All hail, Macbeth, thou shalt be king hereafter!
 
 **BANQUO**  
@@ -272,26 +272,26 @@ And say which grain will grow and which will not,
 Speak then to me, who neither beg nor fear  
 Your favours nor your hate. /
 
-**FIRST WITCH**  
+**First Witch**  
 / Hail! /
 
-**SECOND WITCH**  
+**Second Witch**  
 / Hail! /
 
-**THIRD WITCH**  
+**Third Witch**  
 / Hail!
 
-**FIRST WITCH**  
+**First Witch**  
 Lesser than Macbeth, and greater.
 
-**SECOND WITCH**  
+**Second Witch**  
 Not so happy, yet much happier.
 
-**THIRD WITCH**  
+**Third Witch**  
 Thou shalt get kings, though thou be none:  
 So all hail, Macbeth and Banquo!
 
-**FIRST WITCH**  
+**First Witch**  
 Banquo and Macbeth, all hail!
 
 **MACBETH**  
@@ -332,7 +332,7 @@ And thane of Cawdor too: went it not so?
 **BANQUO**  
 To the selfsame tune and words. Who's here?
 
-*Enter THIRD WITCH disguised as ANGUS*
+*Enter Third Witch disguised as ANGUS*
 
 **ANGUS**  
 The king hath happily received, Macbeth,  
@@ -369,7 +369,7 @@ With those of Norway, or did line the rebel
 With hidden help and vantage, or that with both  
 He labour'd in his country's wreck, I know not;  
 But treasons capital, confess'd and proved,  
-Have overthrown him.
+Have overthrown him. /
 
 **MACBETH**  
 *\[Aside]*  
@@ -398,7 +398,7 @@ Cousins, a word, I pray you. /
 *\[Aside]*  
 / Two truths are told,  
 As happy prologues to the swelling act  
-Of the imperial theme.--I thank you, gentle sir.
+Of the imperial theme.--I thank you, gentlemen.
 
 *\[Aside]*  
 Cannot be ill, cannot be good: if ill,  
@@ -587,7 +587,7 @@ All that impedes thee from the golden round,
 Which fate and metaphysical aid doth seem  
 To have thee crown'd withal. /
 
-*Enter FIRST WITCH dressed as a Messenger*
+*Enter First Witch dressed as a Messenger*
 
 / What is your tidings?
 
@@ -883,8 +883,7 @@ And yet I would not sleep: merciful powers,
 Restrain in me the cursed thoughts that nature  
 Gives way to in repose! /
 
-*Enter MACBETH, and FIRST WITCH disguised as a Servant with
-a torch*
+*Enter MACBETH, and First Witch disguised as a Servant with a torch*
 
 / Give me my sword.  
 Who's there? /
@@ -1032,16 +1031,14 @@ Did not you speak? /
 / Ay.
 
 **MACBETH**  
-Hark!  
-Who lies i' the second chamber? /
+Hark! Who lies i' the second chamber? /
 
 **LADY MACBETH**  
 / Donalbain.
 
 **MACBETH**  
+*\[Looking on his hands]*  
 This is a sorry sight.
-
-*Looking on his hands*
 
 **LADY MACBETH**  
 A foolish thought, to say a sorry sight.
@@ -1203,7 +1200,7 @@ Anon, anon! I pray you, remember the porter.
 
 *Opens the gate*
 
-*Enter MACDUFF and THIRD WITCH disguised as LENNOX*
+*Enter MACDUFF and Third Witch disguised as LENNOX*
 
 **MACDUFF**  
 Was it so late, friend, ere you went to bed,  
@@ -1318,7 +1315,7 @@ The Lord's anointed temple, and stole thence
 The life o' the building!
 
 **MACBETH**  
-What is 't you say? the life? /
+What is't you say? the life? /
 
 **LENNOX**  
 / Mean you his majesty?
@@ -1512,7 +1509,7 @@ Why, by the verities on thee made good,
 May they not be my oracles as well,  
 And set me up in hope? But hush! no more.
 
-*Sennet sounded. Enter MACBETH, as king, LADY MACBETH, as queen, and WITCH 1 as a Servant*
+*Sennet sounded. Enter MACBETH, as king, LADY MACBETH, as queen, and Witch 1 as a Servant*
 
 **MACBETH**  
 Here's our chief guest. /
@@ -1588,11 +1585,11 @@ Our pleasure?
 They are, my lord, without the palace gate.
 
 **MACBETH**  
-Bring them before us.
+Bring them before us. /
 
 *Exit Attendant*
 
-To be thus is nothing;  
+/ To be thus is nothing;  
 But to be safely thus.--Our fears in Banquo  
 Stick deep; and in his royalty of nature  
 Reigns that which would be fear'd: 'tis much he dares;  
@@ -1705,10 +1702,10 @@ Fleance his son, that keeps him company,
 Whose absence is no less material to me  
 Than is his father's, must embrace the fate  
 Of that dark hour. Resolve yourselves apart:  
-I'll come to you anon.
+I'll come to you anon. /
 
 **Both Murderers**  
-We are resolved, my lord.
+/ We are resolved, my lord.
 
 **MACBETH**  
 I'll call upon you straight: abide within.
@@ -1732,15 +1729,15 @@ Ay, madam, but returns again to-night.
 
 **LADY MACBETH**  
 Say to the king, I would attend his leisure  
-For a few words.
+For a few words. /
 
 **Servant**  
-Madam, I will.
+/ Madam, I will. /
 
 *Exit*
 
 **LADY MACBETH**  
-Nought's had, all's spent,  
+/ Nought's had, all's spent,  
 Where our desire is got without content:  
 'Tis safer to be that which we destroy  
 Than by destruction dwell in doubtful joy.
@@ -1767,10 +1764,10 @@ In restless ecstasy. Duncan is in his grave;
 After life's fitful fever he sleeps well;  
 Treason has done his worst: nor steel, nor poison,  
 Malice domestic, foreign levy, nothing,  
-Can touch him further.
+Can touch him further. /
 
 **LADY MACBETH**  
-Come on;  
+/ Come on;  
 Gentle my lord, sleek o'er your rugged looks;  
 Be bright and jovial among your guests to-night.
 
@@ -1781,10 +1778,10 @@ Present him eminence, both with eye and tongue:
 Unsafe the while, that we  
 Must lave our honours in these flattering streams,  
 And make our faces vizards to our hearts,  
-Disguising what they are.
+Disguising what they are. /
 
 **LADY MACBETH**  
-You must leave this.
+/ You must leave this.
 
 **MACBETH**  
 O, full of scorpions is my mind, dear wife!  
@@ -1799,10 +1796,10 @@ Then be thou jocund: ere the bat hath flown
 His cloister'd flight, ere to black Hecate's summons  
 The shard-borne beetle with his drowsy hums  
 Hath rung night's yawning peal, there shall be done  
-A deed of dreadful note.
+A deed of dreadful note. /
 
 **LADY MACBETH**  
-What's to be done?
+/ What's to be done?
 
 **MACBETH**  
 Be innocent of the knowledge, dearest chuck,  
@@ -1822,7 +1819,7 @@ So, prithee, go with me.
 
 ### SCENE III. A park near the palace.
 
-*Enter the two Murderers and FIRST WITCH disguised as a Third Murderer*
+*Enter the two Murderers and First Witch disguised as a Third Murderer*
 
 **First Murderer**  
 But who did bid thee join with us? /
@@ -1863,7 +1860,7 @@ So all men do, from hence to the palace gate
 Make it their walk. /
 
 **Second Murderer**  
-/ A light, a light!
+/ A light, a light! /
 
 *Enter BANQUO, and FLEANCE with a torch*
 
@@ -1874,10 +1871,10 @@ Make it their walk. /
 Stand to't. /
 
 **BANQUO**  
-/ It will be rain to-night.
+/ It will be rain to-night. /
 
 **First Murderer**  
-Let it come down.
+/ Let it come down.
 
 *They set upon BANQUO*
 
@@ -1885,7 +1882,7 @@ Let it come down.
 O, treachery! Fly, good Fleance, fly, fly, fly!  
 Thou mayst revenge. O slave!
 
-*Dies. FLEANCE escapes*
+*BANQUO Dies. FLEANCE escapes*
 
 **Third Murderer**  
 Who did strike out the light? /
@@ -1913,10 +1910,10 @@ Well, let's away, and say how much is done.
 
 **MACBETH**  
 You know your own degrees; sit down: at first  
-And last the hearty welcome.
+And last the hearty welcome. /
 
 **Lords**  
-Thanks to your majesty.
+/ Thanks to your majesty.
 
 **MACBETH**  
 Ourself will mingle with society,  
@@ -2174,10 +2171,10 @@ Almost at odds with morning, which is which.
 
 **MACBETH**  
 How say'st thou, that Macduff denies his person  
-At our great bidding?
+At our great bidding? /
 
 **LADY MACBETH**  
-Did you send to him, sir?
+/ Did you send to him, sir?
 
 **MACBETH**  
 I hear it by the way; but I will send:  
@@ -2207,16 +2204,16 @@ We are yet but young in deed.
 
 *Thunder. Enter the three Witches*
 
-**FIRST WITCH**  
+**First Witch**  
 Thrice the brinded cat hath mew'd.
 
-**SECOND WITCH**  
+**Second Witch**  
 Thrice and once the hedge-pig whined.
 
-**THIRD WITCH**  
+**Third Witch**  
 Harpier cries 'Tis time, 'tis time.
 
-**FIRST WITCH**  
+**First Witch**  
 Round about the cauldron go;  
 In the poison'd entrails throw.  
 Toad, that under cold stone  
@@ -2228,7 +2225,7 @@ Boil thou first i' the charmed pot.
 Double, double toil and trouble;  
 Fire burn, and cauldron bubble.
 
-**SECOND WITCH**  
+**Second Witch**  
 Fillet of a fenny snake,  
 In the cauldron boil and bake;  
 Eye of newt and toe of frog,  
@@ -2242,7 +2239,7 @@ Like a hell-broth boil and bubble.
 Double, double toil and trouble;  
 Fire burn and cauldron bubble.
 
-**THIRD WITCH**  
+**Third Witch**  
 Scale of dragon, tooth of wolf,  
 Witches' mummy, maw and gulf  
 Of the ravin'd salt-sea shark,  
@@ -2261,13 +2258,13 @@ For the ingredients of our cauldron.
 Double, double toil and trouble;  
 Fire burn and cauldron bubble.
 
-**SECOND WITCH**  
+**Second Witch**  
 Cool it with a baboon's blood,  
 Then the charm is firm and good.
 
 *Music and a song: 'Black spirits,' & c*
 
-**SECOND WITCH**  
+**Second Witch**  
 By the pricking of my thumbs,  
 Something wicked this way comes.  
 Open, locks,  
@@ -2277,10 +2274,10 @@ Whoever knocks!
 
 **MACBETH**  
 How now, you secret, black, and midnight hags!  
-What is't you do?
+What is't you do? /
 
 **ALL**  
-A deed without a name.
+/ A deed without a name.
 
 **MACBETH**  
 I conjure you, by that which you profess,  
@@ -2291,41 +2288,41 @@ Though palaces and pyramids do slope
 Their heads to their foundations; though the treasure  
 Of nature's germens tumble all together,  
 Even till destruction sicken; answer me  
-To what I ask you.
+To what I ask you. /
 
-**FIRST WITCH**  
-Speak.
+**First Witch**  
+/ Speak. /
 
-**SECOND WITCH**  
-Demand.
+**Second Witch**  
+/ Demand. /
 
-**THIRD WITCH**  
-We'll answer.
+**Third Witch**  
+/ We'll answer.
 
-**FIRST WITCH**  
+**First Witch**  
 Say, if thou'dst rather hear it from our mouths,  
-Or from our masters?
+Or from our masters? /
 
 **MACBETH**  
-Call 'em; let me see 'em.
+/ Call 'em; let me see 'em.
 
-**FIRST WITCH**  
+**First Witch**  
 Pour in sow's blood, that hath eaten  
 Her nine farrow; grease that's sweaten  
 From the murderer's gibbet throw  
-Into the flame.
+Into the flame. /
 
 **ALL**  
-Come, high or low;  
+/ Come, high or low;  
 Thyself and office deftly show!
 
 *Thunder. First Apparition: an armed Head*
 
 **MACBETH**  
-Tell me, thou unknown power,--
+Tell me, thou unknown power,-- /
 
-**FIRST WITCH**  
-He knows thy thought:  
+**First Witch**  
+/ He knows thy thought:  
 Hear his speech, but say thou nought.
 
 **First Apparition**  
@@ -2338,7 +2335,7 @@ Whate'er thou art, for thy good caution, thanks;
 Thou hast harp'd my fear aright: but one  
 word more,--
 
-**FIRST WITCH**  
+**First Witch**  
 He will not be commanded: here's another,  
 More potent than the first.
 
@@ -2400,20 +2397,20 @@ I will be satisfied: deny me this,
 And an eternal curse fall on you! Let me know.  
 Why sinks that cauldron? and what noise is this?
 
-**FIRST WITCH**  
+**First Witch**  
 Show! /
 
-**SECOND WITCH**  
+**Second Witch**  
 / Show! /
 
-**THIRD WITCH**  
+**Third Witch**  
 / Show! /
 
 **ALL**  
 / Show his eyes, and grieve his heart;  
 Come like shadows, so depart!
 
-*A show of Kings, the last with a glass in his hand; GHOST OF BANQUO
+*A show of Eight Kings, the last with a glass in his hand; GHOST OF BANQUO
 following*
 
 **MACBETH**  
@@ -2435,7 +2432,7 @@ And points at them for his. /
 
 / What, is this so?
 
-**FIRST WITCH**  
+**First Witch**  
 Ay, sir, all this is so: but why  
 Stands Macbeth thus amazedly?  
 Come, sisters, cheer we up his sprites,  
@@ -2450,24 +2447,24 @@ Our duties did his welcome pay.
 **MACBETH**  
 Where are they? Gone? Let this pernicious hour  
 Stand aye accursed in the calendar!  
-Come in, without there!
+Come in, without there! /
 
 *Enter LENNOX (Witch 3)*
 
 **LENNOX**  
-What's your grace's will?
+/ What's your grace's will?
 
 **MACBETH**  
-Saw you the weird sisters?
+Saw you the weird sisters? /
 
 **LENNOX**  
-No, my lord.
+/ No, my lord.
 
 **MACBETH**  
-Came they not by you?
+Came they not by you? /
 
 **LENNOX**  
-No, indeed, my lord.
+/ No, indeed, my lord.
 
 **MACBETH**  
 Infected be the air whereon they ride;  
@@ -2476,10 +2473,10 @@ The galloping of horse: who was't came by?
 
 **LENNOX**  
 'Tis two or three, my lord, that bring you word  
-Macduff is fled to England.
+Macduff is fled to England. /
 
 **MACBETH**  
-Fled to England!
+/ Fled to England!
 
 **LENNOX**  
 Ay, my good lord.
@@ -2864,10 +2861,10 @@ Each minute teems a new one. /
 Why, well. /
 
 **MACDUFF**  
-/ And all my children?
+/ And all my children? /
 
 **ROSS**  
-Well too. /
+/ Well too. /
 
 **MACDUFF**  
 The tyrant has not batter'd at their peace?
@@ -2975,7 +2972,7 @@ The night is long that never finds the day.
 
 ### SCENE I. Dunsinane. Ante-room in the castle.
 
-*Enter an English Doctor of Physic and THIRD WITCH, disguised a Waiting-Gentlewoman*
+*Enter an English Doctor of Physic and Third Witch, disguised a Waiting-Gentlewoman*
 
 **English Doctor**  
 I have two nights watched with you, but can perceive  
@@ -3101,10 +3098,10 @@ done cannot be undone.--To bed, to bed, to bed!
 *Exit*
 
 **English Doctor**  
-Will she go now to bed?
+Will she go now to bed? /
 
 **Gentlewoman**  
-Directly.
+/ Directly.
 
 **English Doctor**  
 Foul whisperings are abroad: unnatural deeds  
@@ -3144,13 +3141,13 @@ The devil damn thee black, thou cream-faced loon!
 Where got'st thou that goose look?
 
 **Servant**  
-There is ten thousand--
+There is ten thousand-- /
 
 **MACBETH**  
-Geese, villain!
+/ Geese, villain! /
 
 **Servant**  
-Soldiers, sir.
+/ Soldiers, sir.
 
 **MACBETH**  
 Go prick thy face, and over-red thy fear,  
@@ -3242,45 +3239,45 @@ Profit again should hardly draw me here.
 
 **MALCOLM**  
 Cousins, I hope the days are near at hand  
-That chambers will be safe.
+That chambers will be safe. /
 
 **MACDUFF**  
-We doubt it nothing.
+/ We doubt it nothing.
 
 **SIWARD**  
-What wood is this before us?
+What wood is this before us? /
 
 **MACDUFF**  
-The wood of Birnam.
+/ The wood of Birnam.
 
 **MALCOLM**  
 Let every soldier hew him down a bough  
 And bear't before him: thereby shall we shadow  
 The numbers of our host and make discovery  
-Err in report of us.
+Err in report of us. /
 
 **ROSS**  
-It shall be done.
+/ It shall be done.
 
 **SIWARD**  
 We learn no other but the confident tyrant  
 Keeps still in Dunsinane, and will endure  
-Our setting down before 't.
+Our setting down before 't. /
 
 **MALCOLM**  
-'Tis his main hope:  
+/ 'Tis his main hope:  
 For where there is advantage to be given,  
 Both more and less have given him the revolt,  
 And none serve with him but constrained things  
-Whose hearts are absent too.
+Whose hearts are absent too. /
 
 **MACDUFF**  
-Let our just censures  
+/ Let our just censures  
 Attend the true event, and put we on  
-Industrious soldiership.
+Industrious soldiership. /
 
 **SIWARD**  
-The time approaches  
+/ The time approaches  
 That will with due decision make us know  
 What we shall say we have and what we owe.  
 Thoughts speculative their unsure hopes relate,  
@@ -3325,10 +3322,10 @@ Cannot once start me. /
 / Wherefore was that cry?
 
 **SEYTON**  
-The queen, my lord, is dead.
+The queen, my lord, is dead. /
 
 **MACBETH**  
-She should have died hereafter;  
+/ She should have died hereafter;  
 There would have been a time for such a word.  
 To-morrow, and to-morrow, and to-morrow,  
 Creeps in this petty pace from day to day  
@@ -3442,12 +3439,12 @@ More hateful to mine ear. /
 
 **YOUNG SIWARD**  
 Thou liest, abhorred tyrant; with my sword  
-I'll prove the lie thou speak'st.
+I'll prove the lie thou speak'st. /
 
 *They fight and YOUNG SIWARD is slain*
 
 **MACBETH**  
-Thou wast born of woman  
+/ Thou wast born of woman  
 But swords I smile at, weapons laugh to scorn,  
 Brandish'd by man that's of a woman born.
 
