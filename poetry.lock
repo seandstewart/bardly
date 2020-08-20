@@ -71,7 +71,7 @@ description = "Data extraction and rendering library for Shakespearean text."
 name = "iambic"
 optional = false
 python-versions = ">=3.7,<4.0"
-version = "2.2.3"
+version = "2.3.0"
 
 [package.dependencies]
 html2text = ">=2020.1.16,<2021.0.0"
@@ -489,7 +489,7 @@ description = "Virtual Python Environment builder"
 name = "virtualenv"
 optional = false
 python-versions = "!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.7"
-version = "20.0.30"
+version = "20.0.31"
 
 [package.dependencies]
 appdirs = ">=1.4.3,<2"
@@ -554,8 +554,8 @@ html2text = [
     {file = "html2text-2020.1.16.tar.gz", hash = "sha256:e296318e16b059ddb97f7a8a1d6a5c1d7af4544049a01e261731d2d5cc277bbb"},
 ]
 iambic = [
-    {file = "iambic-2.2.3-py3-none-any.whl", hash = "sha256:9fb18844f20881484c41eb650f8af8c09d333671b85e6f29b56060b78c763753"},
-    {file = "iambic-2.2.3.tar.gz", hash = "sha256:1239e0ac6bbb57b54207c7733a263bde9a8b9cb308a459bdbe2d8e54feeb3836"},
+    {file = "iambic-2.3.0-py3-none-any.whl", hash = "sha256:347d8461f8ae3eb5cea9948d84095342e48b0bee587452206b0f36af59f08ad5"},
+    {file = "iambic-2.3.0.tar.gz", hash = "sha256:2270692e26fe94d4aa1ca37418d78ebf4f9044e800ee72d919735212337417df"},
 ]
 identify = [
     {file = "identify-1.4.28-py2.py3-none-any.whl", hash = "sha256:69c4769f085badafd0e04b1763e847258cbbf6d898e8678ebffc91abdb86f6c6"},
@@ -773,8 +773,8 @@ ujson = [
     {file = "ujson-2.0.3.tar.gz", hash = "sha256:bd2deffc983827510e5145fb66e4cc0f577480c62fe0b4882139f8f7d27ae9a3"},
 ]
 virtualenv = [
-    {file = "virtualenv-20.0.30-py2.py3-none-any.whl", hash = "sha256:8cd7b2a4850b003a11be2fc213e206419efab41115cc14bca20e69654f2ac08e"},
-    {file = "virtualenv-20.0.30.tar.gz", hash = "sha256:7b54fd606a1b85f83de49ad8d80dbec08e983a2d2f96685045b262ebc7481ee5"},
+    {file = "virtualenv-20.0.31-py2.py3-none-any.whl", hash = "sha256:e0305af10299a7fb0d69393d8f04cb2965dda9351140d11ac8db4e5e3970451b"},
+    {file = "virtualenv-20.0.31.tar.gz", hash = "sha256:43add625c53c596d38f971a465553f6318decc39d98512bc100fa1b1e839c8dc"},
 ]
 zipp = [
     {file = "zipp-3.1.0-py3-none-any.whl", hash = "sha256:aa36550ff0c0b7ef7fa639055d797116ee891440eac1a56f378e2d3179e0320b"},

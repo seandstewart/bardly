@@ -24,7 +24,8 @@ plugins:
   - awesome-pages
   - bardly
 markdown_extensions:
-  - toc
+  - toc:
+      permalink: 📃
   - smarty
   - admonition
   - footnotes
