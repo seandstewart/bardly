@@ -204,9 +204,8 @@ This hideous rashness: answer my life my judgment,
 Thy youngest daughter does not love thee least.
 
 **KING LEAR**  
-Out of my sight!
-
-*Laying his hand on his sword*
+*\[Laying his hand on his sword]*  
+Out of my sight! /
 
 **ALBANY & CORNWALL**  
 / Dear sir, forbear. /
@@ -331,7 +330,7 @@ Thou hast her, France: let her be thine; for we
 Have no such daughter, nor shall ever see  
 That face of hers again.
 
-*Florish. Exeunt all but KING OF FRANCE, GONERIL, REGAN, and CORDELIA*
+*Flourish. Exeunt all but KING OF FRANCE, GONERIL, REGAN, and CORDELIA*
 
 **CORDELIA**  
 The jewels of our father, with wash'd eyes  
@@ -799,7 +798,7 @@ tell my daughter I would speak with her.
 **KING LEAR**  
 Do you bandy looks with me, you rascal?
 
-*Striking him*
+*\[Striking him]*
 
 **OSWALD**  
 I'll not be struck, my lord.
@@ -1219,8 +1218,7 @@ seven stars are no more than seven is a pretty reason.
 Because they are not eight?
 
 **Fool**  
-Yes, indeed: thou wouldst make a good fool.
-
+Yes, indeed: thou wouldst make a good fool.  
 If thou wert my fool, nuncle, I'd have thee beaten  
 for being old before thy time.
 
@@ -1567,7 +1565,7 @@ For following her affairs. Put in his legs.
 
 Come, my good lord, away.
 
-*Exit all but KENT*
+*Exit all but Kent*
 
 **KENT**  
 Good king, that must approve the common saw,  
@@ -1753,8 +1751,7 @@ Whereto our health is bound; we are not ourselves
 When nature, being oppress'd, commands the mind  
 To suffer with the body: I'll forbear;
 
-*Looking on KENT*
-
+*\[Looking on KENT]*  
 Should he sit here? This act persuades me  
 That this remotion of the duke and her  
 Is practice only. Give me my servant forth.  
@@ -2035,8 +2032,7 @@ Cannot be well bestow'd.
 
 **GONERIL**  
 'Tis his own blame; hath put himself from rest,  
-And must needs taste his folly.
-
+And must needs taste his folly.  
 Where is my lord of Gloucester?
 
 **CORNWALL**  
@@ -2260,9 +2256,9 @@ The younger rises when the old doth fall.
 Thou think'st 'tis much that this contentious storm  
 Invades us to the skin: so 'tis to thee;  
 But where the greater malady is fix'd,  
-The lesser is scarce felt. Thou'dst shun a bear;  
+The lesser is scarce felt. Thou'ldst shun a bear;  
 But if thy flight lay toward the raging sea,  
-Thou'dst meet the bear i' the mouth. When the mind's free,  
+Thou'ldst meet the bear i' the mouth. When the mind's free,  
 The body's delicate: the tempest in my mind  
 Doth from my senses take all feeling else  
 Save what beats there. Filial ingratitude!  
@@ -2398,8 +2394,7 @@ Yet have I ventured to come seek you out,
 And bring you where both fire and food is ready.
 
 **KING LEAR**  
-First let me talk with this philosopher.
-
+First let me talk with this philosopher.  
 What is your study?
 
 **EDGAR**  
@@ -3421,8 +3416,7 @@ Thou shalt not die: die for adultery! No:
 Let copulation thrive; for Gloucester's bastard son  
 Was kinder to his father than my daughters  
 Got 'tween the lawful sheets.  
-There's hell, there's darkness, there's the sulphurous pit,
-
+There's hell, there's darkness, there's the sulphurous pit,  
 Burning, scalding, stench, consumption; fie,  
 fie, fie! pah, pah! Give me an ounce of civet,  
 good apothecary, to sweeten my imagination:  
