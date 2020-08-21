@@ -5,19 +5,19 @@
 *Enter Poet, Painter, Jeweller, Merchant, and others, at several doors*
 
 **Poet**  
-Good day, sir.
+Good day, sir. /
 
 **Painter**  
-I am glad you're well.
+/ I am glad you're well.
 
 **Poet**  
 I have not seen you long: how goes the world?
 
 **Painter**  
-It wears, sir, as it grows.
+It wears, sir, as it grows. /
 
 **Poet**  
-Ay, that's well known:  
+/ Ay, that's well known:  
 But what particular rarity? what strange,  
 Which manifold record not matches? See,  
 Magic of bounty! all these spirits thy power  
@@ -27,41 +27,45 @@ Hath conjured to attend. I know the merchant.
 I know them both; th' other's a jeweller.
 
 **Merchant**  
-O, 'tis a worthy lord.
+O, 'tis a worthy lord. /
 
 **Jeweller**  
-Nay, that's most fix'd.
+/ Nay, that's most fix'd.
 
 **Merchant**  
 A most incomparable man, breathed, as it were,  
 To an untirable and continuate goodness:  
-He passes.  
-Jeweller: I have a jewel here–
+He passes. /
+
+**Jeweller**  
+/ I have a jewel here--
 
 **Merchant**  
-O, pray, let's see't: for the Lord Timon, sir?  
-Jeweller: If he will touch the estimate: but, for that–
+O, pray, let's see't: for the Lord Timon, sir?
+
+**Jeweller**  
+If he will touch the estimate: but, for that--
 
 **Poet**  
 *\[Reciting to himself]*  
 'When we for recompense have praised the vile,  
 It stains the glory in that happy verse  
-Which aptly sings the good.'
+Which aptly sings the good.' /
 
 **Merchant**  
-'Tis a good form.
+*\[Looking at the jewel]*  
+/ 'Tis a good form.
 
-*Looking at the jewel*
 
 **Jeweller**  
 And rich: here is a water, look ye.
 
 **Painter**  
 You are rapt, sir, in some work, some dedication  
-To the great lord.
+To the great lord. /
 
 **Poet**  
-A thing slipp'd idly from me.  
+/ A thing slipp'd idly from me.  
 Our poesy is as a gum, which oozes  
 From whence 'tis nourish'd: the fire i' the flint  
 Shows not till it be struck; our gentle flame  
@@ -73,19 +77,19 @@ A picture, sir. When comes your book forth?
 
 **Poet**  
 Upon the heels of my presentment, sir.  
-Let's see your piece.
+Let's see your piece. /
 
 **Painter**  
-'Tis a good piece.
+/ 'Tis a good piece.
 
 **Poet**  
 So 'tis: this comes off well and excellent.
 
 **Painter**  
-Indifferent.
+Indifferent. /
 
 **Poet**  
-Admirable: how this grace  
+/ Admirable: how this grace  
 Speaks his own standing! what a mental power  
 This eye shoots forth! how big imagination  
 Moves in this lip! to the dumbness of the gesture  
@@ -93,10 +97,10 @@ One might interpret.
 
 **Painter**  
 It is a pretty mocking of the life.  
-Here is a touch; is't good?
+Here is a touch; is't good? /
 
 **Poet**  
-I will say of it,  
+/ I will say of it,  
 It tutors nature: artificial strife  
 Lives in these touches, livelier than life.
 
@@ -146,38 +150,38 @@ I saw them speak together.
 Sir, I have upon a high and pleasant hill  
 Feign'd Fortune to be throned: the base o' the mount  
 Is rank'd with all deserts, all kind of natures,  
-That labour on the bosom of this sphere  
+That labor on the bosom of this sphere  
 To propagate their states: amongst them all,  
 Whose eyes are on this sovereign lady fix'd,  
 One do I personate of Lord Timon's frame,  
 Whom Fortune with her ivory hand wafts to her;  
 Whose present grace to present slaves and servants  
-Translates his rivals.
+Translates his rivals. /
 
 **Painter**  
-'Tis conceived to scope.  
+/ 'Tis conceived to scope.  
 This throne, this Fortune, and this hill, methinks,  
 With one man beckon'd from the rest below,  
 Bowing his head against the sleepy mount  
 To climb his happiness, would be well express'd  
-In our condition.
+In our condition. /
 
 **Poet**  
-Nay, sir, but hear me on.  
+/ Nay, sir, but hear me on.  
 All those which were his fellows but of late,  
 Some better than his value, on the moment  
 Follow his strides, his lobbies fill with tendance,  
 Rain sacrificial whisperings in his ear,  
 Make sacred even his stirrup, and through him  
-Drink the free air.
+Drink the free air. /
 
 **Painter**  
-Ay, marry, what of these?
+/ Ay, marry, what of these?
 
 **Poet**  
 When Fortune in her shift and change of mood  
 Spurns down her late beloved, all his dependants  
-Which labour'd after him to the mountain's top  
+Which labor'd after him to the mountain's top  
 Even on their knees and hands, let him slip down,  
 Not one accompanying his declining foot.
 
@@ -199,17 +203,16 @@ Imprison'd is he, say you?
 **Messenger**  
 Ay, my good lord: five talents is his debt,  
 His means most short, his creditors most strait:  
-Your honourable letter he desires  
+Your honorable letter he desires  
 To those have shut him up; which failing,  
-Periods his comfort.
+Periods his comfort. /
 
 **TIMON**  
-Noble Ventidius! Well;  
+/ Noble Ventidius! Well;  
 I am not of that feather to shake off  
 My friend when he must need me. I do know him  
 A gentleman that well deserves a help:  
-Which he shall have: I'll pay the debt,  
-and free him.
+Which he shall have: I'll pay the debt, and free him.
 
 **Messenger**  
 Your lordship ever binds him.
@@ -221,7 +224,7 @@ And being enfranchised, bid him come to me.
 But to support him after. Fare you well.
 
 **Messenger**  
-All happiness to your honour!
+All happiness to your honor!
 
 *Exit*
 
@@ -266,10 +269,10 @@ And I have bred her at my dearest cost
 In qualities of the best. This man of thine  
 Attempts her love: I prithee, noble lord,  
 Join with me to forbid him her resort;  
-Myself have spoke in vain.
+Myself have spoke in vain. /
 
 **TIMON**  
-The man is honest.
+/ The man is honest.
 
 **Old Athenian**  
 Therefore he will be, Timon:  
@@ -277,16 +280,16 @@ His honesty rewards him in itself;
 It must not bear my daughter.
 
 **TIMON**  
-Does she love him?
+Does she love him? /
 
 **Old Athenian**  
-She is young and apt:  
+/ She is young and apt:  
 Our own precedent passions do instruct us  
-What levity's in youth.
+What levity's in youth. /
 
 **TIMON**  
 *\[To LUCILIUS]*  
-Love you the maid?
+/ Love you the maid?
 
 **LUCILIUS**  
 Ay, my good lord, and she accepts of it.
@@ -309,14 +312,14 @@ This gentleman of mine hath served me long:
 To build his fortune I will strain a little,  
 For 'tis a bond in men. Give him thy daughter:  
 What you bestow, in him I'll counterpoise,  
-And make him weigh with her.
+And make him weigh with her. /
 
 **Old Athenian**  
-Most noble lord,  
-Pawn me to this your honour, she is his.
+/ Most noble lord,  
+Pawn me to this your honor, she is his.
 
 **TIMON**  
-My hand to thee; mine honour on my promise.
+My hand to thee; mine honor on my promise.
 
 **LUCILIUS**  
 Humbly I thank your lordship: never may  
@@ -326,7 +329,7 @@ Which is not owed to you!
 *Exeunt LUCILIUS and Old Athenian*
 
 **Poet**  
-Vouchsafe my labour, and long live your lordship!
+Vouchsafe my labor, and long live your lordship!
 
 **TIMON**  
 I thank you; you shall hear from me anon:  
@@ -334,10 +337,10 @@ Go not away. What have you there, my friend?
 
 **Painter**  
 A piece of painting, which I do beseech  
-Your lordship to accept.
+Your lordship to accept. /
 
 **TIMON**  
-Painting is welcome.  
+/ Painting is welcome.  
 The painting is almost the natural man;  
 Or since dishonor traffics with man's nature,  
 He is but outside: these pencill'd figures are  
@@ -359,17 +362,17 @@ What, my lord! dispraise?
 **TIMON**  
 A more satiety of commendations.  
 If I should pay you for't as 'tis extoll'd,  
-It would unclew me quite.
+It would unclew me quite. /
 
 **Jeweller**  
-My lord, 'tis rated  
+/ My lord, 'tis rated  
 As those which sell would give: but you well know,  
 Things of like value differing in the owners  
 Are prized by their masters: believe't, dear lord,  
-You mend the jewel by the wearing it.
+You mend the jewel by the wearing it. /
 
 **TIMON**  
-Well mock'd.
+/ Well mock'd.
 
 **Merchant**  
 No, my good lord; he speaks the common tongue,  
@@ -380,10 +383,11 @@ Look, who comes here: will you be chid?
 
 *Enter APEMANTUS*
 
-Jeweller: We'll bear, with your lordship.
+**Jeweller**  
+We'll bear, with your lordship. /
 
 **Merchant**  
-He'll spare none.
+/ He'll spare none.
 
 **TIMON**  
 Good morrow to thee, gentle Apemantus!
@@ -396,14 +400,16 @@ When thou art Timon's dog, and these knaves honest.
 Why dost thou call them knaves? thou know'st them not.
 
 **APEMANTUS**  
-Are they not Athenians?
+Are they not Athenians? /
 
 **TIMON**  
-Yes.
+/ Yes.
 
 **APEMANTUS**  
-Then I repent not.  
-Jeweller: You know me, Apemantus?
+/ Then I repent not.
+
+**Jeweller**  
+You know me, Apemantus?
 
 **APEMANTUS**  
 Thou know'st I do: I call'd thee by thy name.
@@ -452,7 +458,7 @@ Wilt dine with me, Apemantus?
 No; I eat not lords.
 
 **TIMON**  
-An thou shouldst, thou 'ldst anger ladies.
+An thou shouldst, thou'ldst anger ladies.
 
 **APEMANTUS**  
 O, they eat lords; so they come by great bellies.
@@ -461,7 +467,7 @@ O, they eat lords; so they come by great bellies.
 That's a lascivious apprehension.
 
 **APEMANTUS**  
-So thou apprehendest it: take it for thy labour.
+So thou apprehendest it: take it for thy labor.
 
 **TIMON**  
 How dost thou like this jewel, Apemantus?
@@ -506,7 +512,7 @@ That's not feigned; he is so.
 
 **APEMANTUS**  
 Yes, he is worthy of thee, and to pay thee for thy  
-labour: he that loves to be flattered is worthy o'  
+labor: he that loves to be flattered is worthy o'  
 the flatterer. Heavens, that I were a lord!
 
 **TIMON**  
@@ -526,10 +532,10 @@ Wherefore?
 
 **APEMANTUS**  
 That I had no angry wit to be a lord.  
-Art not thou a merchant?
+Art not thou a merchant? /
 
 **Merchant**  
-Ay, Apemantus.
+/ Ay, Apemantus.
 
 **APEMANTUS**  
 Traffic confound thee, if the gods will not!
@@ -560,10 +566,10 @@ Show me this piece. I am joyful of your sights.
 
 *Enter ALCIBIADES, with the rest*
 
-Most welcome, sir!
+Most welcome, sir! /
 
 **APEMANTUS**  
-So, so, there!  
+/ So, so, there!  
 Aches contract and starve your supple joints!  
 That there should be small love 'mongst these sweet knaves,  
 And all this courtesy! The strain of man's bred out  
@@ -571,10 +577,10 @@ Into baboon and monkey.
 
 **ALCIBIADES**  
 Sir, you have saved my longing, and I feed  
-Most hungerly on your sight.
+Most hungerly on your sight. /
 
 **TIMON**  
-Right welcome, sir!  
+/ Right welcome, sir!  
 Ere we depart, we'll share a bounteous time  
 In different pleasures. Pray you, let us in.
 
@@ -586,10 +592,10 @@ In different pleasures. Pray you, let us in.
 What time o' day is't, Apemantus?
 
 **APEMANTUS**  
-Time to be honest.
+Time to be honest. /
 
 **First Lord**  
-That time serves still.
+/ That time serves still.
 
 **APEMANTUS**  
 The more accursed thou, that still omitt'st it.
@@ -660,17 +666,17 @@ VENTIDIUS. Then comes, dropping, after all, APEMANTUS, discontentedly,
 like himself*
 
 **VENTIDIUS**  
-Most honour'd Timon,  
+Most honor'd Timon,  
 It hath pleased the gods to remember my father's age,  
 And call him to long peace.  
 He is gone happy, and has left me rich:  
 Then, as in grateful virtue I am bound  
 To your free heart, I do return those talents,  
 Doubled with thanks and service, from whose help  
-I derived liberty.
+I derived liberty. /
 
 **TIMON**  
-O, by no means,  
+/ O, by no means,  
 Honest Ventidius; you mistake my love:  
 I gave it freely ever; and there's none  
 Can truly say he gives, if he receives:  
@@ -678,10 +684,10 @@ If our betters play at that game, we must not dare
 To imitate them; faults that are rich are fair.
 
 **VENTIDIUS**  
-A noble spirit!
+A noble spirit! /
 
 **TIMON**  
-Nay, my lords,
+/ Nay, my lords,
 
 *They all stand ceremoniously looking on TIMON*
 
@@ -701,15 +707,15 @@ My lord, we always have confess'd it.
 Ho, ho, confess'd it! hang'd it, have you not?
 
 **TIMON**  
-O, Apemantus, you are welcome.
+O, Apemantus, you are welcome. /
 
 **APEMANTUS**  
-No;  
+/ No;  
 You shall not make me welcome:  
 I come to have thee thrust me out of doors.
 
 **TIMON**  
-Fie, thou'rt a churl; ye've got a humour there  
+Fie, thou'rt a churl; ye've got a humor there  
 Does not become a man: 'tis much to blame.  
 They say, my lords, 'ira furor brevis est;' but yond  
 man is ever angry. Go, let him have a table by  
@@ -768,8 +774,7 @@ Or my friends, if I should need 'em.
 Amen. So fall to't:  
 Rich men sin, and I eat root.
 
-*Eats and drinks*
-
+*\[Eats and drinks]*  
 Much good dich thy good heart, Apemantus!
 
 **TIMON**  
@@ -904,7 +909,7 @@ women, a lofty strain or two to the hautboys, and cease*
 You have done our pleasures much grace, fair ladies,  
 Set a fair fashion on our entertainment,  
 Which was not half so beautiful and kind;  
-You have added worth unto 't and lustre,  
+You have added worth unto 't and luster,  
 And entertain'd me with mine own device;  
 I am to thank you for 't.
 
@@ -912,33 +917,32 @@ I am to thank you for 't.
 My lord, you take us even at the best.
 
 **APEMANTUS**  
-'Faith, for the worst is filthy; and would not hold  
-taking, I doubt me.
+'Faith, for the worst is filthy; and would not hold taking, I doubt me.
 
 **TIMON**  
 Ladies, there is an idle banquet attends you:  
-Please you to dispose yourselves.
+Please you to dispose yourselves. /
 
 **All Ladies**  
-Most thankfully, my lord.
+/ Most thankfully, my lord.
 
 *Exeunt Cupid and Ladies*
 
 **TIMON**  
-Flavius.
+Flavius. /
 
 **FLAVIUS**  
-My lord?
+/ My lord? /
 
 **TIMON**  
-The little casket bring me hither.
+/ The little casket bring me hither.
 
 **FLAVIUS**  
 Yes, my lord. More jewels yet!  
-There is no crossing him in 's humour;
+There is no crossing him in 's humor;
 
 *\[Aside]*  
-Else I should tell him,—well, i' faith I should,  
+Else I should tell him,--well, i' faith I should,  
 When all's spent, he'd be cross'd then, an he could.  
 'Tis pity bounty had not eyes behind,  
 That man might ne'er be wretched for his mind.
@@ -959,12 +963,12 @@ Our horses!
 **TIMON**  
 O my friends,  
 I have one word to say to you: look you, my good lord,  
-I must entreat you, honour me so much  
+I must entreat you, honor me so much  
 As to advance this jewel; accept it and wear it,  
 Kind my lord.
 
 **First Lord**  
-I am so far already in your gifts,–
+I am so far already in your gifts,--
 
 **All**  
 So are we all.
@@ -976,16 +980,15 @@ My lord, there are certain nobles of the senate
 Newly alighted, and come to visit you.
 
 **TIMON**  
-They are fairly welcome.
+They are fairly welcome. /
 
 **FLAVIUS**  
-I beseech your honour,  
+/ I beseech your honor,  
 Vouchsafe me a word; it does concern you near.
 
 **TIMON**  
 Near! why then, another time I'll hear thee:  
-I prithee, let's be provided to show them  
-entertainment.
+I prithee, let's be provided to show them entertainment.
 
 **FLAVIUS**  
 *\[Aside]*  
@@ -994,31 +997,31 @@ I scarce know how.
 *Enter a Second Servant*
 
 **Second Servant**  
-May it please your honour, Lord Lucius,  
+May it please your honor, Lord Lucius,  
 Out of his free love, hath presented to you  
 Four milk-white horses, trapp'd in silver.
 
 **TIMON**  
 I shall accept them fairly; let the presents  
-Be worthily entertain'd.
+Be worthily entertain'd. /
 
 *Enter a third Servant*
 
-How now! what news?
+/ How now! what news?
 
 **Third Servant**  
-Please you, my lord, that honourable  
+Please you, my lord, that honorable  
 gentleman, Lord Lucullus, entreats your company  
-to-morrow to hunt with him, and has sent your honour  
+to-morrow to hunt with him, and has sent your honor  
 two brace of greyhounds.
 
 **TIMON**  
 I'll hunt with him; and let them be received,  
-Not without fair reward.
+Not without fair reward. /
 
 **FLAVIUS**  
 *\[Aside]*  
-What will this come to?  
+/ What will this come to?  
 He commands us to provide, and give great gifts,  
 And all out of an empty coffer:  
 Nor will he know his purse, or yield me this,  
@@ -1072,35 +1075,35 @@ And ne'er be weary. Alcibiades,
 Thou art a soldier, therefore seldom rich;  
 It comes in charity to thee: for all thy living  
 Is 'mongst the dead, and all the lands thou hast  
-Lie in a pitch'd field.
+Lie in a pitch'd field. /
 
 **ALCIBIADES**  
-Ay, defiled land, my lord.
+/ Ay, defiled land, my lord.
 
 **First Lord**  
-We are so virtuously bound–
+We are so virtuously bound-- /
 
 **TIMON**  
-And so  
-Am I to you.
+/ And so  
+Am I to you. /
 
 **Second Lord**  
-So infinitely endear'd–
+/ So infinitely endear'd--
 
 **TIMON**  
-All to you. Lights, more lights!
+All to you. Lights, more lights! /
 
 **First Lord**  
-The best of happiness,  
-Honour and fortunes, keep with you, Lord Timon!
+/ The best of happiness,  
+Honor and fortunes, keep with you, Lord Timon!
 
 **TIMON**  
-Ready for his friends.
+Ready for his friends. /
 
 *Exeunt all but APEMANTUS and TIMON*
 
 **APEMANTUS**  
-What a coil's here!  
+/ What a coil's here!  
 Serving of becks and jutting-out of bums!  
 I doubt whether their legs be worth the sums  
 That are given for 'em. Friendship's full of dregs:  
@@ -1127,7 +1130,7 @@ with better music.
 *Exit*
 
 **APEMANTUS**  
-So:
+So:  
 Thou wilt not hear me now; thou shalt not then:  
 I'll lock thy heaven from thee.  
 O, that men's ears should be  
@@ -1155,23 +1158,23 @@ And able horses. No porter at his gate,
 But rather one that smiles and still invites  
 All that pass by. It cannot hold: no reason  
 Can found his state in safety. Caphis, ho!  
-Caphis, I say!
+Caphis, I say! /
 
 *Enter CAPHIS*
 
 **CAPHIS**  
-Here, sir; what is your pleasure?
+/ Here, sir; what is your pleasure?
 
 **Senator**  
 Get on your cloak, and haste you to Lord Timon;  
 Importune him for my moneys; be not ceased  
-With slight denial, nor then silenced when–  
+With slight denial, nor then silenced when--  
 'Commend me to your master'--and the cap  
 Plays in the right hand, thus: but tell him,  
 My uses cry to me, I must serve my turn  
 Out of mine own; his days and times are past  
 And my reliances on his fracted dates  
-Have smit my credit: I love and honour him,  
+Have smit my credit: I love and honor him,  
 But must not break my back to heal his finger;  
 Immediate are my needs, and my relief  
 Must not be toss'd and turn'd to me in words,  
@@ -1187,13 +1190,13 @@ I go, sir.
 
 **Senator**  
 'I go, sir!'--Take the bonds along with you,  
-And have the dates in contempt.
+And have the dates in contempt. /
 
 **CAPHIS**  
-I will, sir.
+/ I will, sir. /
 
 **Senator**  
-Go.
+/ Go.
 
 *Exeunt*
 
@@ -1210,25 +1213,32 @@ Of what is to continue: never mind
 Was to be so unwise, to be so kind.  
 What shall be done? he will not hear, till feel:  
 I must be round with him, now he comes from hunting.  
-Fie, fie, fie, fie!
+Fie, fie, fie, fie! /
 
 *Enter CAPHIS, and the Servants of Isidore and Varro*
 
 **CAPHIS**  
-Good even, Varro: what,  
-You come for money?  
-Varro's Servant Is't not your business too?
+/ Good even, Varro: what,  
+You come for money? /
+
+**Varro's Servant**  
+/ Is't not your business too?
 
 **CAPHIS**  
-It is: and yours too, Isidore?  
-Isidore's Servant It is so.
+It is: and yours too, Isidore?
+
+**Isidore's Servant**  
+It is so. /
 
 **CAPHIS**  
-Would we were all discharged!  
-Varro's Servant I fear it.
+/ Would we were all discharged!
+
+
+**Varro's Servant**  
+I fear it. /
 
 **CAPHIS**  
-Here comes the lord.
+/ Here comes the lord.
 
 *Enter TIMON, ALCIBIADES, and Lords, & c*
 
@@ -1240,10 +1250,10 @@ My Alcibiades. With me? what is your will?
 My lord, here is a note of certain dues.
 
 **TIMON**  
-Dues! Whence are you?
+Dues! Whence are you? /
 
 **CAPHIS**  
-Of Athens here, my lord.
+/ Of Athens here, my lord.
 
 **TIMON**  
 Go to my steward.
@@ -1254,23 +1264,23 @@ To the succession of new days this month:
 My master is awaked by great occasion  
 To call upon his own, and humbly prays you  
 That with your other noble parts you'll suit  
-In giving him his right.
+In giving him his right. /
 
 **TIMON**  
-Mine honest friend,  
+/ Mine honest friend,  
 I prithee, but repair to me next morning.
 
 **CAPHIS**  
-Nay, good my lord,–
+Nay, good my lord,-- /
 
 **TIMON**  
-Contain thyself, good friend.  
-Varro's Servant One Varro's servant, my good lord,–  
+/ Contain thyself, good friend.  
+Varro's Servant One Varro's servant, my good lord,--  
 Isidore's Servant From Isidore;  
 He humbly prays your speedy payment.
 
 **CAPHIS**  
-If you did know, my lord, my master's wants–  
+If you did know, my lord, my master's wants--  
 Varro's Servant 'Twas due on forfeiture, my lord, six weeks And past.  
 Isidore's Servant Your steward puts me off, my lord;  
 And I am sent expressly to your lordship.
@@ -1278,19 +1288,19 @@ And I am sent expressly to your lordship.
 **TIMON**  
 Give me breath.  
 I do beseech you, good my lords, keep on;  
-I'll wait upon you instantly.
+I'll wait upon you instantly. /
 
 *Exeunt ALCIBIADES and Lords*
 
 *\[To FLAVIUS]*  
 Come hither: pray you,  
 How goes the world, that I am thus encounter'd  
-With clamourous demands of date-broke bonds,  
+With clamorous demands of date-broke bonds,  
 And the detention of long-since-due debts,  
-Against my honour?
+Against my honor? /
 
 **FLAVIUS**  
-Please you, gentlemen,  
+/ Please you, gentlemen,  
 The time is unagreeable to this business:  
 Your importunacy cease till after dinner,  
 That I may make his lordship understand  
@@ -1323,8 +1333,10 @@ Varro's Servant I speak not to thee.
 No,'tis to thyself.
 
 *\[To the Fool]*  
-Come away.  
-Isidore's Servant There's the fool hangs on your back already.
+Come away.
+
+**Isidore's Servant**  
+There's the fool hangs on your back already.
 
 **APEMANTUS**  
 No, thou stand'st single, thou'rt not on him yet.
@@ -1412,7 +1424,7 @@ If Timon stay at home. You three serve three usurers?
 Ay; would they served us!
 
 **APEMANTUS**  
-So would I,–as good a trick as ever hangman served thief.
+So would I,--as good a trick as ever hangman served thief.
 
 **Fool**  
 Are you three usurers' men?
@@ -1476,21 +1488,21 @@ Pray you, walk near: I'll speak with you anon.
 You make me marvel: wherefore ere this time  
 Had you not fully laid my state before me,  
 That I might so have rated my expense,  
-As I had leave of means?
+As I had leave of means? /
 
 **FLAVIUS**  
-You would not hear me,  
-At many leisures I proposed.
+/ You would not hear me,  
+At many leisures I proposed. /
 
 **TIMON**  
-Go to:
+/ Go to:  
 Perchance some single vantages you took.  
 When my indisposition put you back:  
 And that unaptness made your minister,  
-Thus to excuse yourself.
+Thus to excuse yourself. /
 
 **FLAVIUS**  
-O my good lord,  
+/ O my good lord,  
 At many times I brought in my accounts,  
 Laid them before you; you would throw them off,  
 And say, you found them in mine honesty.  
@@ -1501,12 +1513,12 @@ To hold your hand more close: I did endure
 Not seldom, nor no slight cheques, when I have  
 Prompted you in the ebb of your estate  
 And your great flow of debts. My loved lord,  
-Though you hear now, too late–yet now's a time–  
+Though you hear now, too late--yet now's a time--  
 The greatest of your having lacks a half  
-To pay your present debts.
+To pay your present debts. /
 
 **TIMON**  
-Let all my land be sold.
+/ Let all my land be sold.
 
 **FLAVIUS**  
 'Tis all engaged, some forfeited and gone;  
@@ -1521,10 +1533,10 @@ To Lacedaemon did my land extend.
 **FLAVIUS**  
 O my good lord, the world is but a word:  
 Were it all yours to give it in a breath,  
-How quickly were it gone!
+How quickly were it gone! /
 
 **TIMON**  
-You tell me true.
+/ You tell me true.
 
 **FLAVIUS**  
 If you suspect my husbandry or falsehood,  
@@ -1535,10 +1547,10 @@ With riotous feeders, when our vaults have wept
 With drunken spilth of wine, when every room  
 Hath blazed with lights and bray'd with minstrelsy,  
 I have retired me to a wasteful cock,  
-And set mine eyes at flow.
+And set mine eyes at flow. /
 
 **TIMON**  
-Prithee, no more.
+/ Prithee, no more.
 
 **FLAVIUS**  
 Heavens, have I said, the bounty of this lord!  
@@ -1549,10 +1561,10 @@ Great Timon, noble, worthy, royal Timon!
 Ah, when the means are gone that buy this praise,  
 The breath is gone whereof this praise is made:  
 Feast-won, fast-lost; one cloud of winter showers,  
-These flies are couch'd.
+These flies are couch'd. /
 
 **TIMON**  
-Come, sermon me no further:  
+/ Come, sermon me no further:  
 No villainous bounty yet hath pass'd my heart;  
 Unwisely, not ignobly, have I given.  
 Why dost thou weep? Canst thou the conscience lack,  
@@ -1560,10 +1572,10 @@ To think I shall lack friends? Secure thy heart;
 If I would broach the vessels of my love,  
 And try the argument of hearts by borrowing,  
 Men and men's fortunes could I frankly use  
-As I can bid thee speak.
+As I can bid thee speak. /
 
 **FLAVIUS**  
-Assurance bless your thoughts!
+/ Assurance bless your thoughts!
 
 **TIMON**  
 And, in some sort, these wants of mine are crown'd,  
@@ -1578,12 +1590,11 @@ Within there! Flaminius! Servilius!
 My lord? my lord?
 
 **TIMON**  
-I will dispatch you severally; you to Lord Lucius;  
-to Lord Lucullus you: I hunted with his honour  
-to-day: you, to Sempronius: commend me to their  
-loves, and, I am proud, say, that my occasions have  
-found time to use 'em toward a supply of money: let  
-the request be fifty talents.
+I will dispatch you severally; to Lord Lucullus you:  
+I hunted with his honour to-day: you, to Sempronius:  
+commend me to their loves, and, I am proud, say, that  
+my occasions have found time to use 'em toward a  
+supply of money: let the request be fifty talents.
 
 **FLAMINIUS**  
 As you have said, my lord.
@@ -1593,35 +1604,35 @@ As you have said, my lord.
 Lord Lucius and Lucullus? hum!
 
 **TIMON**  
-Go you, sir, to the senators–  
+Go you, sir, to the senators--  
 Of whom, even to the state's best health, I have  
-Deserved this hearing–bid 'em send o' the instant  
-A thousand talents to me.
+Deserved this hearing--bid 'em send o' the instant  
+A thousand talents to me. /
 
 **FLAVIUS**  
-I have been bold–  
-For that I knew it the most general way–  
+/ I have been bold--  
+For that I knew it the most general way--  
 To them to use your signet and your name;  
 But they do shake their heads, and I am here  
-No richer in return.
+No richer in return. /
 
 **TIMON**  
-Is't true? can't be?
+/ Is't true? can't be?
 
 **FLAVIUS**  
 They answer, in a joint and corporate voice,  
 That now they are at fall, want treasure, cannot  
-Do what they would; are sorry–you are honourable,–  
-But yet they could have wish'd–they know not–  
-Something hath been amiss–a noble nature  
-May catch a wrench–would all were well–'tis pity;–  
+Do what they would; are sorry--you are honorable,--  
+But yet they could have wish'd--they know not--  
+Something hath been amiss--a noble nature  
+May catch a wrench--would all were well--'tis pity;--  
 And so, intending other serious matters,  
 After distasteful looks and these hard fractions,  
 With certain half-caps and cold-moving nods  
-They froze me into silence.
+They froze me into silence. /
 
 **TIMON**  
-You gods, reward them!  
+/ You gods, reward them!  
 Prithee, man, look cheerly. These old fellows  
 Have their ingratitude in them hereditary:  
 Their blood is caked, 'tis cold, it seldom flows;  
@@ -1630,15 +1641,15 @@ And nature, as it grows again toward earth,
 Is fashion'd for the journey, dull and heavy.
 
 *\[To a Servant]*  
-Go to Ventidius.
+Go to Ventidius. /
 
 *\[To FLAVIUS]*  
-Prithee, be not sad,  
+/ Prithee, be not sad,  
 Thou art true and honest; ingeniously I speak.  
-No blame belongs to thee.
+No blame belongs to thee. /
 
 *\[To Servant]*  
-Ventidius lately  
+/ Ventidius lately  
 Buried his father; by whose death he's stepp'd  
 Into a great estate: when he was poor,  
 Imprison'd and in scarcity of friends,  
@@ -1650,13 +1661,12 @@ With those five talents.
 *Exit Servant*
 
 *\[To FLAVIUS]*  
-That had, give't these fellows  
+/ That had, give't these fellows  
 To whom 'tis instant due. Ne'er speak, or think,  
 That Timon's fortunes 'mong his friends can sink.
 
 **FLAVIUS**  
-I would I could not think it: that thought is  
-bounty's foe;  
+I would I could not think it: that thought is bounty's foe;  
 Being free itself, it thinks all others so.
 
 *Exeunt*
@@ -1679,7 +1689,7 @@ I thank you, sir.
 Here's my lord.
 
 **LUCULLUS**  
-*\[Aside]*
+*\[Aside]*  
 One of Lord Timon's men? a gift, I  
 warrant. Why, this hits right; I dreamt of a silver  
 basin and ewer to-night. Flaminius, honest  
@@ -1688,7 +1698,7 @@ Fill me some wine.
 
 *Exit Servants*
 
-And how does that honourable, complete, free-hearted  
+And how does that honorable, complete, free-hearted  
 gentleman of Athens, thy very bountiful good lord  
 and master?
 
@@ -1701,7 +1711,7 @@ what hast thou there under thy cloak, pretty Flaminius?
 
 **FLAMINIUS**  
 'Faith, nothing but an empty box, sir; which, in my  
-lord's behalf, I come to entreat your honour to  
+lord's behalf, I come to entreat your honor to  
 supply; who, having great and instant occasion to  
 use fifty talents, hath sent to your lordship to  
 furnish him, nothing doubting your present  
@@ -1731,7 +1741,7 @@ Your lordship speaks your pleasure.
 
 **LUCULLUS**  
 I have observed thee always for a towardly prompt  
-spirit–give thee thy due–and one that knows what  
+spirit--give thee thy due--and one that knows what  
 belongs to reason; and canst use the time well, if  
 the time use thee well: good parts in thee.
 
@@ -1761,12 +1771,12 @@ Ha! now I see thou art a fool, and fit for thy master.
 
 **FLAMINIUS**  
 May these add to the number that may scald thee!  
-Let moulten coin be thy damnation,  
+Let molten coin be thy damnation,  
 Thou disease of a friend, and not himself!  
 Has friendship such a faint and milky heart,  
 It turns in less than two nights? O you gods,  
 I feel master's passion! this slave,  
-Unto his honour, has my lord's meat in him:  
+Unto his honor, has my lord's meat in him:  
 Why should it thrive and turn to nutriment,  
 When he is turn'd to poison?  
 O, may diseases only work upon't!  
@@ -1781,13 +1791,12 @@ To expel sickness, but prolong his hour!
 *Enter LUCILIUS, with three Strangers*
 
 **LUCILIUS**  
-Who, the Lord Timon? he is my very good friend, and  
-an honourable gentleman.
+Who, the Lord Timon? he is my very good friend, and an honorable gentleman.
 
 **First Stranger**  
 We know him for no less, though we are but strangers  
 to him. But I can tell you one thing, my lord, and  
-which I hear from common rumours: now Lord Timon's  
+which I hear from common rumors: now Lord Timon's  
 happy hours are done and past, and his estate  
 shrinks from him.
 
@@ -1808,8 +1817,8 @@ I tell you, denied, my lord.
 
 **LUCILIUS**  
 What a strange case was that! now, before the gods,  
-I am ashamed on't. Denied that honourable man!  
-there was very little honour showed in't. For my own  
+I am ashamed on't. Denied that honorable man!  
+there was very little honor showed in't. For my own  
 part, I must needs confess, I have received some  
 small kindnesses from him, as money, plate, jewels  
 and such-like trifles, nothing comparing to his;  
@@ -1820,16 +1829,15 @@ ne'er have denied his occasion so many talents.
 
 **SERVILIUS**  
 See, by good hap, yonder's my lord;  
-I have sweat to see his honour. My honoured lord,–
+I have sweat to see his honor. My honored lord,--
 
-*\[To LUCIUS]*  
 **LUCILIUS**  
 Servilius! you are kindly met, sir. Fare thee well:  
-commend me to thy honourable virtuous lord, my very  
+commend me to thy honorable virtuous lord, my very  
 exquisite friend.
 
 **SERVILIUS**  
-May it please your honour, my lord hath sent–
+May it please your honor, my lord hath sent--
 
 **LUCILIUS**  
 Ha! what has he sent? I am so much endeared to  
@@ -1859,19 +1867,19 @@ Upon my soul,'tis true, sir.
 **LUCILIUS**  
 What a wicked beast was I to disfurnish myself  
 against such a good time, when I might ha' shown  
-myself honourable! how unluckily it happened, that I  
+myself honorable! how unluckily it happened, that I  
 should purchase the day before for a little part,  
-and undo a great deal of honoured! Servilius, now,  
-before the gods, I am not able to do,–the more  
-beast, I say:–I was sending to use Lord Timon  
+and undo a great deal of honored! Servilius, now,  
+before the gods, I am not able to do,--the more  
+beast, I say:--I was sending to use Lord Timon  
 myself, these gentlemen can witness! but I would  
 not, for the wealth of Athens, I had done't now.  
 Commend me bountifully to his good lordship; and I  
-hope his honour will conceive the fairest of me,  
+hope his honor will conceive the fairest of me,  
 because I have no power to be kind: and tell him  
 this from me, I count it one of my greatest  
 afflictions, say, that I cannot pleasure such an  
-honourable gentleman. Good Servilius, will you  
+honorable gentleman. Good Servilius, will you  
 befriend me so far, as to use mine own words to him?
 
 **SERVILIUS**  
@@ -1894,8 +1902,7 @@ Do you observe this, Hostilius?
 Ay, too well.
 
 **First Stranger**  
-Why, this is the world's soul; and just of the  
-same piece
+Why, this is the world's soul; and just of the same piece  
 Is every flatterer's spirit. Who can call him  
 His friend that dips in the same dish? for, in  
 My knowing, Timon has been this lord's father,  
@@ -1903,21 +1910,21 @@ And kept his credit with his purse,
 Supported his estate; nay, Timon's money  
 Has paid his men their wages: he ne'er drinks,  
 But Timon's silver treads upon his lip;  
-And yet–O, see the monstrousness of man  
-When he looks out in an ungrateful shape!–  
+And yet--O, see the monstrousness of man  
+When he looks out in an ungrateful shape!--  
 He does deny him, in respect of his,  
 What charitable men afford to beggars.
 
 **Third Stranger**  
-Religion groans at it.
+Religion groans at it. /
 
 **First Stranger**  
-For mine own part,  
+/ For mine own part,  
 I never tasted Timon in my life,  
 Nor came any of his bounties over me,  
 To mark me for his friend; yet, I protest,  
 For his right noble mind, illustrious virtue  
-And honourable carriage,  
+And honorable carriage,  
 Had his necessity made use of me,  
 I would have put my wealth into donation,  
 And the best half should have return'd to him,  
@@ -1932,24 +1939,23 @@ For policy sits above conscience.
 *Enter SEMPRONIUS, and a Servant of TIMON 's*
 
 **SEMPRONIUS**  
-Must he needs trouble me in't,–hum!–'bove all others?  
+Must he needs trouble me in't,--hum!--'bove all others?  
 He might have tried Lord Lucius or Lucullus;  
 And now Ventidius is wealthy too,  
 Whom he redeem'd from prison: all these  
-Owe their estates unto him.
+Owe their estates unto him. /
 
 **Servant**  
-My lord,
+/ My lord,  
 They have all been touch'd and found base metal, for  
-They have all denied him.
+They have all denied 'm. /
 
 **SEMPRONIUS**  
-How! have they denied him?  
+/ How! have they denied 'm?  
 Has Ventidius and Lucullus denied him?  
 And does he send to me? Three? hum!  
 It shows but little love or judgment in him:  
-Must I be his last refuge! His friends, like  
-physicians,
+Must I be his last refuge! His friends, like physicians,  
 Thrive, give him over: must I take the cure upon me?  
 Has much disgraced me in't; I'm angry at him,  
 That might have known my place: I see no sense for't,  
@@ -1960,11 +1966,11 @@ And does he think so backwardly of me now,
 That I'll requite its last? No:  
 So it may prove an argument of laughter  
 To the rest, and 'mongst lords I be thought a fool.  
-I'ld rather than the worth of thrice the sum,  
+I'd rather than the worth of thrice the sum,  
 Had sent to me first, but for my mind's sake;  
 I'd such a courage to do him good. But now return,  
 And with their faint reply this answer join;  
-Who bates mine honour shall not know my coin.
+Who bates mine honor shall not know my coin.
 
 *Exit*
 
@@ -1976,8 +1982,8 @@ think but, in the end, the villainies of man will
 set him clear. How fairly this lord strives to  
 appear foul! takes virtuous copies to be wicked,  
 like those that under hot ardent zeal would set  
-whole realms on fire: Of such a nature is his  
-politic love.
+whole realms on fire: Of such a nature is his politic love.
+
 This was my lord's best hope; now all are fled,  
 Save only the gods: now his friends are dead,  
 Doors, that were ne'er acquainted with their wards  
@@ -1990,11 +1996,10 @@ Who cannot keep his wealth must keep his house.
 
 ### SCENE IV. The same. A hall in Timon's house.
 
-*Enter two Servants of Varro, and the Servant of LUCIUS, meeting TITUS, HORTENSIUS, and other Servants of TIMON 's creditors, waiting his coming out*
+*Enter two Servants of Varro, and the Servant of LUCIUS, meeting TITUS, HORTENSIUS, and
+other Servants of TIMON 's creditors, waiting his coming out*
 
-Varro's
-
-**First Servant**  
+**Varro's First Servant**  
 Well met; good morrow, Titus and Hortensius.
 
 **TITUS**  
@@ -2017,23 +2022,23 @@ So is theirs and ours.
 And Sir Philotus too!
 
 **PHILOTUS**  
-Good day at once.
+Good day at once. /
 
 **Lucilius' Servant**  
-Welcome, good brother.  
-What do you think the hour?
+/ Welcome, good brother.  
+What do you think the hour? /
 
 **PHILOTUS**  
-Labouring for nine.
+/ Lab'ring for nine.
 
 **Lucilius' Servant**  
-So much?
+So much? /
 
 **PHILOTUS**  
-Is not my lord seen yet?
+/ Is not my lord seen yet? /
 
 **Lucilius' Servant**  
-Not yet.
+/ Not yet.
 
 **PHILOTUS**  
 I wonder on't; he was wont to shine at seven.
@@ -2044,24 +2049,24 @@ You must consider that a prodigal course
 Is like the sun's; but not, like his, recoverable.  
 I fear 'tis deepest winter in Lord Timon's purse;  
 That is one may reach deep enough, and yet  
-Find little.
+Find little. /
 
 **PHILOTUS**  
-I am of your fear for that.
+/ I am of your fear for that.
 
 **TITUS**  
 I'll show you how to observe a strange event.  
-Your lord sends now for money.
+Your lord sends now for money. /
 
 **HORTENSIUS**  
-Most true, he does.
+/ Most true, he does.
 
 **TITUS**  
 And he wears jewels now of Timon's gift,  
-For which I wait for money.
+For which I wait for money. /
 
 **HORTENSIUS**  
-It is against my heart.
+/ It is against my heart.
 
 **Lucilius' Servant**  
 Mark, how strange it shows,  
@@ -2072,21 +2077,20 @@ And send for money for 'em.
 **HORTENSIUS**  
 I'm weary of this charge, the gods can witness:  
 I know my lord hath spent of Timon's wealth,  
-And now ingratitude makes it worse than stealth.  
-Varro's
+And now ingratitude makes it worse than stealth.
 
-**First Servant**  
+**Varro's First Servant**  
 Yes, mine's three thousand crowns: what's yours?
 
 **Lucilius' Servant**  
-Five thousand mine.  
-Varro's
+Five thousand mine.
 
-**First Servant**  
+**Varro's First Servant**  
 'Tis much deep: and it should seem by the sun,  
 Your master's confidence was above mine;  
-Else, surely, his had equall'd.  
-Enter FLAMINIUS.
+Else, surely, his had equall'd.
+
+*Enter FLAMINIUS*
 
 **TITUS**  
 One of Lord Timon's men.
@@ -2115,23 +2119,22 @@ He goes away in a cloud: call him, call him.
 Do you hear, sir?
 
 **Varro's Second Servant**  
-By your leave, sir,–
+By your leave, sir,--
 
 **FLAVIUS**  
 What do ye ask of me, my friend?
 
 **TITUS**  
-We wait for certain money here, sir.
+We wait for certain money here, sir. /
 
 **FLAVIUS**  
-Ay,
+/ Ay,  
 If money were as certain as your waiting,  
 'Twere sure enough.  
 Why then preferr'd you not your sums and bills,  
 When your false masters eat of my lord's meat?  
 Then they could smile and fawn upon his debts  
-And take down the interest into their  
-gluttonous maws.  
+And take down the interest into their gluttonous maws.  
 You do yourselves but wrong to stir me up;  
 Let me pass quietly:  
 Believe 't, my lord and I have made an end;  
@@ -2141,18 +2144,15 @@ I have no more to reckon, he to spend.
 Ay, but this answer will not serve.
 
 **FLAVIUS**  
-If 'twill not serve,'tis not so base as you;  
+If 'twill not serve, 'tis not so base as you;  
 For you serve knaves.
 
 *Exit*
 
-Varro's
+**Varro's First Servant**  
+How! what does his cashiered worship mutter?
 
-**First Servant**  
-How! what does his cashiered worship mutter?  
-Varro's
-
-**Second Servant**  
+**Varro's Second Servant**  
 No matter what; he's poor, and that's revenge  
 enough. Who can speak broader than he that has no  
 house to put his head in? such may rail against  
@@ -2183,7 +2183,7 @@ Good gods!
 We cannot take this for answer, sir.
 
 **FLAMINIUS**  
-*\[Within]*
+*\[Within]*  
 Servilius, help! My lord! my lord!
 
 *Enter TIMON, in a rage, FLAMINIUS following*
@@ -2196,51 +2196,50 @@ The place which I have feasted, does it now,
 Like all mankind, show me an iron heart?
 
 **Lucilius' Servant**  
-Put in now, Titus.
+Put in now, Titus. /
 
 **TITUS**  
-My lord, here is my bill.
+/ My lord, here is my bill.
 
 **Lucilius' Servant**  
-Here's mine.
+Here's mine. /
 
 **HORTENSIUS**  
-And mine, my lord.  
-Both
-Varro's Servants And ours, my lord.
+/ And mine, m'lord. /
+
+**Both Varro's Servants**  
+/ And ours, m'lord. /
 
 **PHILOTUS**  
-All our bills.
+/ All our bills.
 
 **TIMON**  
 Knock me down with 'em: cleave me to the girdle.
 
 **Lucilius' Servant**  
-Alas, my lord,-
+Alas, my lord-- /
 
 **TIMON**  
-Cut my heart in sums.
+/ Cut my heart in sums.
 
 **TITUS**  
-Mine, fifty talents.
+Mine, fifty talents. /
 
 **TIMON**  
-Tell out my blood.
+/ Tell out my blood.
 
 **Lucilius' Servant**  
-Five thousand crowns, my lord.
+Five thousand crowns, m'lord. /
 
 **TIMON**  
-Five thousand drops pays that.  
-What yours?–and yours?  
-Varro's
+/ Five thousand drops pays that.  
+What yours?--and yours? /
 
-**First Servant**  
-My lord,–
-Varro's
+**Varro's First Servant**  
+/ My lord,-- /
 
-**Second Servant**  
-My lord,–
+**Varro's Second Servant**  
+/ My lord,--
 
 **TIMON**  
 Tear me, take me, and the gods fall upon you!
@@ -2258,41 +2257,43 @@ desperate ones, for a madman owes 'em.
 
 **TIMON**  
 They have e'en put my breath from me, the slaves.  
-Creditors? devils!
+Creditors? devils! /
 
 **FLAVIUS**  
-My dear lord,–
+/ My dear lord,--
 
 **TIMON**  
-What if it should be so?
+What if it should be so? /
 
 **FLAVIUS**  
-My lord,–
+/ My lord,--
 
 **TIMON**  
-I'll have it so. My steward!
+I'll have it so. My steward! /
 
 **FLAVIUS**  
-Here, my lord.
+/ Here, my lord.
 
 **TIMON**  
 So fitly? Go, bid all my friends again,  
 Lucius, Lucullus, and Sempronius:  
 All, sirrah, all:  
-I'll once more feast the rascals.
+I'll once more feast the rascals. /
 
 **FLAVIUS**  
-O my lord,
+/ O my lord,  
 You only speak from your distracted soul;  
 There is not so much left, to furnish out  
-A moderate table.
+A moderate table. /
 
 **TIMON**  
-Be't not in thy care; go,  
+/ Be't not in thy care; go,  
 I charge thee, invite them all: let in the tide  
 Of knaves once more; my cook and I'll provide.
 
 *Exeunt*
+
+## INTERMISSION
 
 ### SCENE V. The same. The senate-house. The Senate sitting.
 
@@ -2307,7 +2308,7 @@ Most true; the law shall bruise him.
 *Enter ALCIBIADES, with Attendants*
 
 **ALCIBIADES**  
-Honour, health, and compassion to the senate!
+Honor, health, and compassion to the senate!
 
 **First Senator**  
 Now, captain?
@@ -2322,8 +2323,8 @@ Hath stepp'd into the law, which is past depth
 To those that, without heed, do plunge into 't.  
 He is a man, setting his fate aside,  
 Of comely virtues:  
-Nor did he soil the fact with cowardice–  
-An honour in him which buys out his fault–  
+Nor did he soil the fact with cowardice--  
+An honor in him which buys out his fault--  
 But with a noble fury and fair spirit,  
 Seeing his reputation touch'd to death,  
 He did oppose his foe:  
@@ -2334,7 +2335,7 @@ As if he had but proved an argument.
 **First Senator**  
 You undergo too strict a paradox,  
 Striving to make an ugly deed look fair:  
-Your words have took such pains as if they labour'd  
+Your words have took such pains as if they labor'd  
 To bring manslaughter into form and set quarrelling  
 Upon the head of valour; which indeed  
 Is valour misbegot and came into the world  
@@ -2348,10 +2349,10 @@ If wrongs be evils and enforce us kill,
 What folly 'tis to hazard life for ill!
 
 **ALCIBIADES**  
-My lord,–
+My lord,-- /
 
 **First Senator**  
-You cannot make gross sins look clear:  
+/ You cannot make gross sins look clear:  
 To revenge is no valour, but to bear.
 
 **ALCIBIADES**  
@@ -2376,10 +2377,10 @@ But who is man that is not angry?
 Weigh but the crime with this.
 
 **Second Senator**  
-You breathe in vain.
+You breathe in vain. /
 
 **ALCIBIADES**  
-In vain! his service done  
+/ In vain! his service done  
 At Lacedaemon and Byzantium  
 Were a sufficient briber for his life.
 
@@ -2403,17 +2404,17 @@ And cherish factions: 'tis inferr'd to us,
 His days are foul and his drink dangerous.
 
 **First Senator**  
-He dies.
+He dies. /
 
 **ALCIBIADES**  
-Hard fate! he might have died in war.  
-My lords, if not for any parts in him–  
+/ Hard fate! he might have died in war.  
+My lords, if not for any parts in him--  
 Though his right arm might purchase his own time  
-And be in debt to none–yet, more to move you,  
+And be in debt to none--yet, more to move you,  
 Take my deserts to his, and join 'em both:  
 And, for I know your reverend ages love  
 Security, I'll pawn my victories, all  
-My honours to you, upon his good returns.  
+My honors to you, upon his good returns.  
 If by this crime he owes the law his life,  
 Why, let the war receive 't in valiant gore  
 For law is strict, and war is nothing more.
@@ -2428,34 +2429,33 @@ Must it be so? it must not be. My lords,
 I do beseech you, know me.
 
 **Second Senator**  
-How!
+How! /
 
 **ALCIBIADES**  
-Call me to your remembrances.
+/ Call me to your remembrances. /
 
 **Third Senator**  
-What!
+/ What!
 
 **ALCIBIADES**  
 I cannot think but your age has forgot me;  
 It could not else be, I should prove so base,  
 To sue, and be denied such common grace:  
-My wounds ache at you.
+My wounds ache at you. /
 
 **First Senator**  
-Do you dare our anger?  
+/ Do you dare our anger?  
 'Tis in few words, but spacious in effect;  
-We banish thee for ever.
+We banish thee forever. /
 
 **ALCIBIADES**  
-Banish me!
+/ Banish me!  
 Banish your dotage; banish usury,  
 That makes the senate ugly.
 
 **First Senator**  
 If, after two days' shine, Athens contain thee,  
-Attend our weightier judgment. And, not to swell  
-our spirit,
+Attend our weightier judgment. And, not to swell our spirit,  
 He shall be executed presently.
 
 *Exeunt Senators*
@@ -2473,7 +2473,7 @@ It comes not ill; I hate not to be banish'd;
 It is a cause worthy my spleen and fury,  
 That I may strike at Athens. I'll cheer up  
 My discontented troops, and lay for hearts.  
-'Tis honour with most lands to be at odds;  
+'Tis honor with most lands to be at odds;  
 Soldiers should brook as little wrongs as gods.
 
 *Exit*
@@ -2486,7 +2486,7 @@ Soldiers should brook as little wrongs as gods.
 The good time of day to you, sir.
 
 **Second Lord**  
-I also wish it to you. I think this honourable lord  
+I also wish it to you. I think this honorable lord  
 did but try us this other day.
 
 **First Lord**  
@@ -2527,7 +2527,7 @@ A thousand pieces!
 What of you?
 
 **Second Lord**  
-He sent to me, sir,–Here he comes.
+He sent to me, sir,--Here he comes.
 
 *Enter TIMON and Attendants*
 
@@ -2542,7 +2542,7 @@ The swallow follows not summer more willing than we
 your lordship.
 
 **TIMON**  
-*\[Aside]*
+*\[Aside]*  
 Nor more willingly leaves winter; such  
 summer-birds are men. Gentlemen, our dinner will not  
 recompense this long stay: feast your ears with the  
@@ -2557,13 +2557,13 @@ that I returned you an empty messenger.
 O, sir, let it not trouble you.
 
 **Second Lord**  
-My noble lord,–
+My noble lord,--
 
 **TIMON**  
 Ah, my good friend, what cheer?
 
 **Second Lord**  
-My most honourable lord, I am e'en sick of shame,  
+My most honorable lord, I am e'en sick of shame,  
 that, when your lordship this other day sent to me,  
 I was so unfortunate a beggar.
 
@@ -2571,7 +2571,7 @@ I was so unfortunate a beggar.
 Think not on't, sir.
 
 **Second Lord**  
-If you had sent but two hours before,–
+If you had sent but two hours before,--
 
 **TIMON**  
 Let it not cumber your better remembrance.
@@ -2595,7 +2595,7 @@ How do you? What's the news?
 **Third Lord**  
 Alcibiades is banished: hear you of it?
 
-**First Lord** **Second Lord**  
+**First Lord & Second Lord**  
 Alcibiades banished!
 
 **Third Lord**  
@@ -2620,7 +2620,7 @@ This is the old man still.
 Will 't hold? will 't hold?
 
 **Second Lord**  
-It does: but time will–and so–
+It does: but time will--and so--
 
 **Third Lord**  
 I do conceive.
@@ -2640,9 +2640,9 @@ godheads to borrow of men, men would forsake the
 gods. Make the meat be beloved more than the man  
 that gives it. Let no assembly of twenty be without  
 a score of villains: if there sit twelve women at  
-the table, let a dozen of them be–as they are. The  
-rest of your fees, O gods–the senators of Athens,  
-together with the common lag of people–what is  
+the table, let a dozen of them be--as they are. The  
+rest of your fees, O gods--the senators of Athens,  
+together with the common lag of people--what is  
 amiss in them, you gods, make suitable for  
 destruction. For these my present friends, as they  
 are to me nothing, so in nothing bless them, and to  
@@ -2663,22 +2663,20 @@ You knot of mouth-friends I smoke and lukewarm water
 Is your perfection. This is Timon's last;  
 Who, stuck and spangled with your flatteries,  
 Washes it off, and sprinkles in your faces  
-Your reeking villany.
+Your reeking villany. /
 
-*Throwing the water in their faces*
-
-Live loathed and long,  
+*\[Throwing the water in their faces]*  
+/ Live loathed and long,  
 Most smiling, smooth, detested parasites,  
 Courteous destroyers, affable wolves, meek bears,  
 You fools of fortune, trencher-friends, time's flies,  
 Cap and knee slaves, vapours, and minute-jacks!  
 Of man and beast the infinite malady  
 Crust you quite o'er! What, dost thou go?  
-Soft! take thy physic first–thou too–and thou;–  
+Soft! take thy physic first--thou too--and thou;--  
 Stay, I will lend thee money, borrow none.
 
-*Throws the dishes at them, and drives them out*
-
+*\[Throws the dishes at them, and drives them out]*  
 What, all in motion? Henceforth be no feast,  
 Whereat a villain's not a welcome guest.  
 Burn, house! sink, Athens! henceforth hated be  
@@ -2701,7 +2699,7 @@ Push! did you see my cap?
 I have lost my gown.
 
 **First Lord**  
-He's but a mad lord, and nought but humour sways him.  
+He's but a mad lord, and nought but humor sways him.  
 He gave me a jewel th' other day, and now he has  
 beat it out of my hat: did you see my jewel?
 
@@ -2721,7 +2719,7 @@ Let's make no stay.
 Lord Timon's mad.
 
 **Third Lord**  
-I feel 't upon my bones.
+I feel't upon my bones.
 
 **Fourth Lord**  
 One day he gives us diamonds, next day stones.
@@ -2771,7 +2769,7 @@ But nakedness, thou detestable town!
 Take thou that too, with multiplying bans!  
 Timon will to the woods; where he shall find  
 The unkindest beast more kinder than mankind.  
-The gods confound–hear me, you good gods all–  
+The gods confound--hear me, you good gods all--  
 The Athenians both within and out that wall!  
 And grant, as Timon grows, his hate may grow  
 To the whole race of mankind, high and low! Amen.
@@ -2789,16 +2787,16 @@ Are we undone? cast off? nothing remaining?
 **FLAVIUS**  
 Alack, my fellows, what should I say to you?  
 Let me be recorded by the righteous gods,  
-I am as poor as you.
+I am as poor as you. /
 
 **First Servant**  
-Such a house broke!  
+/ Such a house broke!  
 So noble a master fall'n! All gone! and not  
 One friend to take his fortune by the arm,  
-And go along with him!
+And go along with him! /
 
 **Second Servant**  
-As we do turn our backs  
+/ As we do turn our backs  
 From our companion thrown into his grave,  
 So his familiars to his buried fortunes  
 Slink all away, leave their false vows with him,  
@@ -2818,10 +2816,10 @@ That see I by our faces; we are fellows still,
 Serving alike in sorrow: leak'd is our bark,  
 And we, poor mates, stand on the dying deck,  
 Hearing the surges threat: we must all part  
-Into this sea of air.
+Into this sea of air. /
 
 **FLAVIUS**  
-Good fellows all,
+/ Good fellows all,  
 The latest of my wealth I'll share amongst you.  
 Wherever we shall meet, for Timon's sake,  
 Let's yet be fellows; let's shake our heads, and say,  
@@ -2860,6 +2858,7 @@ Whilst I have gold, I'll be his steward still.
 
 *Enter TIMON, from the cave*
 
+**TIMON**  
 O blessed breeding sun, draw from the earth  
 Rotten humidity; below thy sister's orb  
 Infect the air! Twinn'd brothers of one womb,  
@@ -2870,7 +2869,7 @@ To whom all sores lay siege, can bear great fortune,
 But by contempt of nature.  
 Raise me this beggar, and deny 't that lord;  
 The senator shall bear contempt hereditary,  
-The beggar native honour.  
+The beggar native honor.  
 It is the pasture lards the rother's sides,  
 The want that makes him lean. Who dares, who dares,  
 In purity of manhood stand upright,  
@@ -2884,7 +2883,7 @@ All feasts, societies, and throngs of men!
 His semblable, yea, himself, Timon disdains:  
 Destruction fang mankind! Earth, yield me roots!
 
-*\[Digging]*
+*\[Digging]*  
 Who seeks for better of thee, sauce his palate  
 With thy most operant poison! What is here?  
 Gold? yellow, glittering, precious gold? No, gods,  
@@ -2894,7 +2893,7 @@ Wrong right, base noble, old young, coward valiant.
 Ha, you gods! why this? what this, you gods? Why, this  
 Will lug your priests and servants from your sides,  
 Pluck stout men's pillows from below their heads:  
-This yellow slave
+This yellow slave  
 Will knit and break religions, bless the accursed,  
 Make the hoar leprosy adored, place thieves  
 And give them title, knee and approbation  
@@ -2905,11 +2904,11 @@ Would cast the gorge at, this embalms and spices
 To the April day again. Come, damned earth,  
 Thou common whore of mankind, that put'st odds  
 Among the route of nations, I will make thee  
-Do thy right nature.
+Do thy right nature. /
 
 *March afar off*
 
-Ha! a drum ? Thou'rt quick,  
+/ Ha! a drum ? Thou'rt quick,  
 But yet I'll bury thee: thou'lt go, strong thief,  
 When gouty keepers of thee cannot stand.  
 Nay, stay thou out for earnest.  
@@ -2931,10 +2930,10 @@ That art thyself a man?
 **TIMON**  
 I am Misanthropos, and hate mankind.  
 For thy part, I do wish thou wert a dog,  
-That I might love thee something.
+That I might love thee something. /
 
 **ALCIBIADES**  
-I know thee well;
+/ I know thee well;  
 But in thy fortunes am unlearn'd and strange.
 
 **TIMON**  
@@ -2944,10 +2943,10 @@ With man's blood paint the ground, gules, gules:
 Religious canons, civil laws are cruel;  
 Then what should war be? This fell whore of thine  
 Hath in her more destruction than thy sword,  
-For all her cherubim look.
+For all her cherubim look. /
 
 **PHRYNIA**  
-Thy lips rot off!
+/ Thy lips rot off!
 
 **TIMON**  
 I will not kiss thee; then the rot returns  
@@ -2959,18 +2958,18 @@ How came the noble Timon to this change?
 **TIMON**  
 As the moon does, by wanting light to give:  
 But then renew I could not, like the moon;  
-There were no suns to borrow of.
+There were no suns to borrow of. /
 
 **ALCIBIADES**  
-Noble Timon,
-What friendship may I do thee?
+/ Noble Timon,  
+What friendship may I do thee? /
 
 **TIMON**  
-None, but to
-Maintain my opinion.
+/ None, but to  
+Maintain my opinion. /
 
 **ALCIBIADES**  
-What is it, Timon?
+/ What is it, Timon?
 
 **TIMON**  
 Promise me friendship, but perform none: if thou  
@@ -2992,23 +2991,23 @@ As thine is now, held with a brace of harlots.
 
 **TIMANDRA**  
 Is this the Athenian minion, whom the world  
-Voiced so regardfully?
+Voiced so regardfully? /
 
 **TIMON**  
-Art thou Timandra?
+/ Art thou Timandra? /
 
 **TIMANDRA**  
-Yes.
+/ Yes.
 
 **TIMON**  
 Be a whore still: they love thee not that use thee;  
 Give them diseases, leaving with thee their lust.  
 Make use of thy salt hours: season the slaves  
 For tubs and baths; bring down rose-cheeked youth  
-To the tub-fast and the diet.
+To the tub-fast and the diet. /
 
 **TIMANDRA**  
-Hang thee, monster!
+/ Hang thee, monster!
 
 **ALCIBIADES**  
 Pardon him, sweet Timandra; for his wits  
@@ -3018,7 +3017,7 @@ The want whereof doth daily make revolt
 In my penurious band: I have heard, and grieved,  
 How cursed Athens, mindless of thy worth,  
 Forgetting thy great deeds, when neighbour states,  
-But for thy sword and fortune, trod upon them,–
+But for thy sword and fortune, trod upon them,--
 
 **TIMON**  
 I prithee, beat thy drum, and get thee gone.
@@ -3028,39 +3027,39 @@ I am thy friend, and pity thee, dear Timon.
 
 **TIMON**  
 How dost thou pity him whom thou dost trouble?  
-I had rather be alone.
+I had rather be alone. /
 
 **ALCIBIADES**  
-Why, fare thee well:  
-Here is some gold for thee.
+/ Why, fare thee well:  
+Here is some gold for thee. /
 
 **TIMON**  
-Keep it, I cannot eat it.
+/ Keep it, I cannot eat it.
 
 **ALCIBIADES**  
-When I have laid proud Athens on a heap,–
+When I have laid proud Athens on a heap,--
 
 **TIMON**  
-Warr'st thou 'gainst Athens?
+Warr'st thou 'gainst Athens? /
 
 **ALCIBIADES**  
-Ay, Timon, and have cause.
+/ Ay, Timon, and have cause.
 
 **TIMON**  
 The gods confound them all in thy conquest;  
 And thee after, when thou hast conquer'd!
 
 **ALCIBIADES**  
-Why me, Timon?
+Why me, Timon? /
 
 **TIMON**  
-That, by killing of villains,  
+/ That, by killing of villains,  
 Thou wast born to conquer my country.  
-Put up thy gold: go on,–here's gold,–go on;  
+Put up thy gold: go on,--here's gold,--go on;  
 Be as a planetary plague, when Jove  
 Will o'er some high-viced city hang his poison  
 In the sick air: let not thy sword skip one:  
-Pity not honour'd age for his white beard;  
+Pity not honor'd age for his white beard;  
 He is an usurer: strike me the counterfeit matron;  
 It is her habit only that is honest,  
 Herself's a bawd: let not the virgin's cheek  
@@ -3072,7 +3071,7 @@ Whose dimpled smiles from fools exhaust their mercy;
 Think it a bastard, whom the oracle  
 Hath doubtfully pronounced thy throat shall cut,  
 And mince it sans remorse: swear against objects;  
-Put armour on thine ears and on thine eyes;  
+Put armor on thine ears and on thine eyes;  
 Whose proof, nor yells of mothers, maids, nor babes,  
 Nor sight of priests in holy vestments bleeding,  
 Shall pierce a jot. There's gold to pay soldiers:  
@@ -3086,7 +3085,7 @@ Not all thy counsel.
 **TIMON**  
 Dost thou, or dost thou not, heaven's curse upon thee!
 
-**PHRYNIA** **TIMANDRA**  
+**PHRYNIA & TIMANDRA**  
 Give us some gold, good Timon: hast thou more?
 
 **TIMON**  
@@ -3095,24 +3094,24 @@ And to make whores, a bawd. Hold up, you sluts,
 Your aprons mountant: you are not oathable,  
 Although, I know, you 'll swear, terribly swear  
 Into strong shudders and to heavenly agues  
-The immortal gods that hear you,–spare your oaths,  
+The immortal gods that hear you,--spare your oaths,  
 I'll trust to your conditions: be whores still;  
 And he whose pious breath seeks to convert you,  
 Be strong in whore, allure him, burn him up;  
 Let your close fire predominate his smoke,  
 And be no turncoats: yet may your pains, six months,  
 Be quite contrary: and thatch your poor thin roofs  
-With burthens of the dead;–some that were hang'd,  
-No matter:–wear them, betray with them: whore still;  
+With burthens of the dead;--some that were hang'd,  
+No matter:--wear them, betray with them: whore still;  
 Paint till a horse may mire upon your face,  
-A pox of wrinkles!
+A pox of wrinkles! /
 
-**PHRYNIA** **TIMANDRA**  
-Well, more gold: what then?  
-Believe't, that we'll do any thing for gold.
+**PHRYNIA & TIMANDRA**  
+/ Well, more gold: what then?  
+Believe't, that we'll do anything for gold.
 
 **TIMON**  
-Consumptions sow
+/ Consumptions sow  
 In hollow bones of man; strike their sharp shins,  
 And mar men's spurring. Crack the lawyer's voice,  
 That he may never more false title plead,  
@@ -3129,7 +3128,7 @@ The source of all erection. There's more gold:
 Do you damn others, and let this damn you,  
 And ditches grave you all!
 
-**PHRYNIA** **TIMANDRA**  
+**PHRYNIA & TIMANDRA**  
 More counsel with more money, bounteous Timon.
 
 **TIMON**  
@@ -3146,17 +3145,17 @@ If I hope well, I'll never see thee more.
 I never did thee harm.
 
 **TIMON**  
-Yes, thou spokest well of me.
+Yes, thou spokest well of me. /
 
 **ALCIBIADES**  
-Call'st thou that harm?
+/ Call'st thou that harm?
 
 **TIMON**  
 Men daily find it. Get thee away, and take  
-Thy beagles with thee.
+Thy beagles with thee. /
 
 **ALCIBIADES**  
-We but offend him. Strike!
+/ We but offend him. Strike!
 
 *Drum beats. Exeunt ALCIBIADES, PHRYNIA, and TIMANDRA*
 
@@ -3164,7 +3163,7 @@ We but offend him. Strike!
 That nature, being sick of man's unkindness,  
 Should yet be hungry! Common mother, thou,
 
-*\[Digging]*
+*\[Digging]*  
 Whose womb unmeasurable, and infinite breast,  
 Teems, and feeds all; whose self-same mettle,  
 Whereof thy proud child, arrogant man, is puff'd,  
@@ -3179,7 +3178,7 @@ Let it no more bring out ingrateful man!
 Go great with tigers, dragons, wolves, and bears;  
 Teem with new monsters, whom thy upward face  
 Hath to the marbled mansion all above  
-Never presented!–O, a root,–dear thanks!–  
+Never presented!--O, a root,--dear thanks!--  
 Dry up thy marrows, vines, and plough-torn leas;  
 Whereof ungrateful man, with liquorish draughts  
 And morsels unctuous, greases his pure mind,  
@@ -3232,41 +3231,41 @@ Whose naked natures live in an the spite
 Of wreakful heaven, whose bare unhoused trunks,  
 To the conflicting elements exposed,  
 Answer mere nature; bid them flatter thee;  
-O, thou shalt find–
+O, thou shalt find-- /
 
 **TIMON**  
-A fool of thee: depart.
+/ A fool of thee: depart.
 
 **APEMANTUS**  
 I love thee better now than e'er I did.
 
 **TIMON**  
-I hate thee worse.
+I hate thee worse. /
 
 **APEMANTUS**  
-Why?
+/ Why? /
 
 **TIMON**  
-Thou flatter'st misery.
+/ Thou flatter'st misery.
 
 **APEMANTUS**  
 I flatter not; but say thou art a caitiff.
 
 **TIMON**  
-Why dost thou seek me out?
+Why dost thou seek me out? /
 
 **APEMANTUS**  
-To vex thee.
+/ To vex thee.
 
 **TIMON**  
 Always a villain's office or a fool's.  
-Dost please thyself in't?
+Dost please thyself in't? /
 
 **APEMANTUS**  
-Ay.
+/ Ay. /
 
 **TIMON**  
-What! a knave too?
+/ What! a knave too?
 
 **APEMANTUS**  
 If thou didst put this sour-cold habit on  
@@ -3314,14 +3313,14 @@ Thou hadst been a knave and flatterer.
 Art thou proud yet?
 
 **TIMON**  
-Ay, that I am not thee.
+Ay, that I am not thee. /
 
 **APEMANTUS**  
-I, that I was
-No prodigal.
+/ I, that I was  
+No prodigal. /
 
 **TIMON**  
-I, that I am one now:  
+/ I, that I am one now:  
 Were all the wealth I have shut up in thee,  
 I'ld give thee leave to hang it. Get thee gone.  
 That the whole life of Athens were in this!  
@@ -3352,10 +3351,10 @@ Thee thither in a whirlwind. If thou wilt,
 Tell them there I have gold; look, so I have.
 
 **APEMANTUS**  
-Here is no use for gold.
+Here is no use for gold. /
 
 **TIMON**  
-The best and truest;
+/ The best and truest;  
 For here it sleeps, and does no hired harm.
 
 **APEMANTUS**  
@@ -3372,10 +3371,10 @@ Where my stomach finds meat; or, rather, where I eat it.
 Would poison were obedient and knew my mind!
 
 **APEMANTUS**  
-Where wouldst thou send it?
+Where wouldst thou send it? /
 
 **TIMON**  
-To sauce thy dishes.
+/ To sauce thy dishes.
 
 **APEMANTUS**  
 The middle of humanity thou never knewest, but the  
@@ -3486,7 +3485,7 @@ All villains that do stand by thee are pure.
 There is no leprosy but what thou speak'st.
 
 **TIMON**  
-If I name thee.
+If I name thee.  
 I'll beat thee, but I should infect my hands.
 
 **APEMANTUS**  
@@ -3495,28 +3494,28 @@ I would my tongue could rot them off!
 **TIMON**  
 Away, thou issue of a mangy dog!  
 Choler does kill me that thou art alive;  
-I swound to see thee.
+I swound to see thee. /
 
 **APEMANTUS**  
-Would thou wouldst burst!
+/ Would thou wouldst burst! /
 
 **TIMON**  
-Away,
+/ Away,  
 Thou tedious rogue! I am sorry I shall lose  
-A stone by thee.
+A stone by thee. /  
 *\[Throws a stone at him]*
 
 **APEMANTUS**  
-Beast!
+/ Beast! /
 
 **TIMON**  
-Slave!
+/ Slave! /
 
 **APEMANTUS**  
-Toad!
+/ Toad! /
 
 **TIMON**  
-Rogue, rogue, rogue!
+/ Rogue, rogue, rogue!  
 I am sick of this false world, and will love nought  
 But even the mere necessities upon 't.  
 Then, Timon, presently prepare thy grave;  
@@ -3524,7 +3523,7 @@ Lie where the light foam the sea may beat
 Thy grave-stone daily: make thine epitaph,  
 That death in me at others' lives may laugh.
 
-*\[To the gold]*
+*\[To the gold]*  
 O thou sweet king-killer, and dear divorce  
 'Twixt natural son and sire! thou bright defiler  
 Of Hymen's purest bed! thou valiant Mars!  
@@ -3532,36 +3531,35 @@ Thou ever young, fresh, loved and delicate wooer,
 Whose blush doth thaw the consecrated snow  
 That lies on Dian's lap! thou visible god,  
 That solder'st close impossibilities,  
-And makest them kiss! that speak'st with  
-every tongue,
+And makest them kiss! that speak'st with every tongue,  
 To every purpose! O thou touch of hearts!  
 Think, thy slave man rebels, and by thy virtue  
 Set them into confounding odds, that beasts  
-May have the world in empire!
+May have the world in empire! /
 
 **APEMANTUS**  
-Would 'twere so!
+/ Would 'twere so!  
 But not till I am dead. I'll say thou'st gold:  
-Thou wilt be throng'd to shortly.
+Thou wilt be throng'd to shortly. /
 
 **TIMON**  
-Throng'd to!
+/ Throng'd to! /
 
 **APEMANTUS**  
-Ay.
+/ Ay.
 
 **TIMON**  
-Thy back, I prithee.
+Thy back, I prithee. /
 
 **APEMANTUS**  
-Live, and love thy misery.
+/ Live, and love thy mis'ry.
 
 **TIMON**  
-Long live so, and so die.
+Long live so, and so die. /
 
 *Exit APEMANTUS*
 
-I am quit.
+/ I am quit.  
 Moe things like men! Eat, Timon, and abhor them.
 
 *Enter Banditti*
@@ -3670,11 +3668,11 @@ so miserable but a man may be true.
 *Enter FLAVIUS*
 
 **FLAVIUS**  
-O you gods!
+O you gods!  
 Is yond despised and ruinous man my lord?  
 Full of decay and failing? O monument  
 And wonder of good deeds evilly bestow'd!  
-What an alteration of honour  
+What an alteration of honor  
 Has desperate want made!  
 What viler thing upon the earth than friends  
 Who can bring noblest minds to basest ends!  
@@ -3687,25 +3685,25 @@ My honest grief unto him; and, as my lord,
 Still serve him with my life. My dearest master!
 
 **TIMON**  
-Away! what art thou?
+Away! what art thou? /
 
 **FLAVIUS**  
-Have you forgot me, sir?
+/ Have you forgot me, sir?
 
 **TIMON**  
 Why dost ask that? I have forgot all men;  
 Then, if thou grant'st thou'rt a man, I have forgot thee.
 
 **FLAVIUS**  
-An honest poor servant of yours.
+An honest poor servant of yours. /
 
 **TIMON**  
-Then I know thee not:
+/ Then I know thee not:  
 I never had honest man about me, I; all  
 I kept were knaves, to serve in meat to villains.
 
 **FLAVIUS**  
-The gods are witness,
+The gods are witness,  
 Ne'er did poor steward wear a truer grief  
 For his undone lord than mine eyes for you.
 
@@ -3722,24 +3720,24 @@ To accept my grief and whilst this poor wealth lasts
 To entertain me as your steward still.
 
 **TIMON**  
-Had I a steward
+Had I a steward  
 So true, so just, and now so comfortable?  
 It almost turns my dangerous nature mild.  
 Let me behold thy face. Surely, this man  
-Was born of woman.
+Was born of woman.  
 Forgive my general and exceptless rashness,  
 You perpetual-sober gods! I do proclaim  
-One honest man–mistake me not–but one;  
-No more, I pray,–and he's a steward.  
+One honest man--mistake me not--but one;  
+No more, I pray,--and he's a steward.  
 How fain would I have hated all mankind!  
 And thou redeem'st thyself: but all, save thee,  
-I fell with curses.
+I fell with curses.  
 Methinks thou art more honest now than wise;  
 For, by oppressing and betraying me,  
 Thou mightst have sooner got another service:  
 For many so arrive at second masters,  
-Upon their first lord's neck. But tell me true–  
-For I must ever doubt, though ne'er so sure–  
+Upon their first lord's neck. But tell me true--  
+For I must ever doubt, though ne'er so sure--  
 Is not thy kindness subtle, covetous,  
 If not a usuring kindness, and, as rich men deal gifts,  
 Expecting in return twenty for one?
@@ -3752,7 +3750,7 @@ Suspect still comes where an estate is least.
 That which I show, heaven knows, is merely love,  
 Duty and zeal to your unmatched mind,  
 Care of your food and living; and, believe it,  
-My most honour'd lord,
+My most honor'd lord,  
 For any benefit that points to me,  
 Either in hope or present, I'ld exchange  
 For this one wish, that you had power and wealth  
@@ -3769,14 +3767,14 @@ Ere thou relieve the beggar; give to dogs
 What thou deny'st to men; let prisons swallow 'em,  
 Debts wither 'em to nothing; be men like blasted woods,  
 And may diseases lick up their false bloods!  
-And so farewell and thrive.
+And so farewell and thrive. /
 
 **FLAVIUS**  
-O, let me stay,
-And comfort you, my master.
+/ O, let me stay,  
+And comfort you, my master. /
 
 **TIMON**  
-If thou hatest curses,
+/ If thou hatest curses,  
 Stay not; fly, whilst thou art blest and free:  
 Ne'er see thou man, and let me ne'er see thee.
 
@@ -3793,7 +3791,7 @@ As I took note of the place, it cannot be far where
 he abides.
 
 **Poet**  
-What's to be thought of him? does the rumour hold  
+What's to be thought of him? does the rumor hold  
 for true, that he's so full of gold?
 
 **Painter**  
@@ -3838,7 +3836,7 @@ in his judgment that makes it.
 *TIMON comes from his cave, behind*
 
 **TIMON**  
-*\[Aside]*
+*\[Aside]*  
 Excellent workman! thou canst not paint a  
 man so bad as is thyself.
 
@@ -3849,50 +3847,51 @@ against the softness of prosperity, with a discovery
 of the infinite flatteries that follow youth and opulency.
 
 **TIMON**  
-*\[Aside]*
+*\[Aside]*  
 Must thou needs stand for a villain in  
 thine own work? wilt thou whip thine own faults in  
 other men? Do so, I have gold for thee.
 
 **Poet**  
-Nay, let's seek him:
+Nay, let's seek him:  
 Then do we sin against our own estate,  
 When we may profit meet, and come too late.
 
 **Painter**  
-True;
+True;  
 When the day serves, before black-corner'd night,  
 Find what thou want'st by free and offer'd light. Come.
 
 **TIMON**  
-*\[Aside]*
+*\[Aside]*  
 I'll meet you at the turn. What a god's gold,  
 That he is worshipp'd in a baser temple  
 Than where swine feed!
+
+*\[Speaks]*  
 'Tis thou that rigg'st the bark and plough'st the foam,  
 Settlest admired reverence in a slave:  
 To thee be worship! and thy saints for aye  
 Be crown'd with plagues that thee alone obey!  
-Fit I meet them.
-
-*Coming forward*
+Fit I meet them.  
+*\[Coming forward]*
 
 **Poet**  
-Hail, worthy Timon!
+Hail, worthy Timon! /
 
 **Painter**  
-Our late noble master!
+/ Our late noble master!
 
 **TIMON**  
 Have I once lived to see two honest men?
 
 **Poet**  
-Sir,
+Sir,  
 Having often of your open bounty tasted,  
 Hearing you were retired, your friends fall'n off,  
-Whose thankless natures–O abhorred spirits!–  
+Whose thankless natures--O abhorred spirits!--  
 Not all the whips of heaven are large enough:  
-What! to you,
+What! to you,  
 Whose star-like nobleness gave life and influence  
 To their whole being! I am rapt and cannot cover  
 The monstrous bulk of this ingratitude  
@@ -3901,15 +3900,15 @@ With any size of words.
 **TIMON**  
 Let it go naked, men may see't the better:  
 You that are honest, by being what you are,  
-Make them best seen and known.
+Make them best seen and known. /
 
 **Painter**  
-He and myself
+/ He and myself  
 Have travail'd in the great shower of your gifts,  
-And sweetly felt it.
+And sweetly felt it. /
 
 **TIMON**  
-Ay, you are honest men.
+/ Ay, you are honest men.
 
 **Painter**  
 We are hither come to offer you our service.
@@ -3932,10 +3931,10 @@ Came not my friend nor I.
 **TIMON**  
 Good honest men! Thou draw'st a counterfeit  
 Best in all Athens: thou'rt, indeed, the best;  
-Thou counterfeit'st most lively.
+Thou counterfeit'st most lively. /
 
 **Painter**  
-So, so, my lord.
+/ So, so, m'lord.
 
 **TIMON**  
 E'en so, sir, as I say. And, for thy fiction,  
@@ -3944,30 +3943,30 @@ That thou art even natural in thine art.
 But, for all this, my honest-natured friends,  
 I must needs say you have a little fault:  
 Marry, 'tis not monstrous in you, neither wish I  
-You take much pains to mend.
+You take much pains to mend. /
 
 **Both**  
-Beseech your honour
-To make it known to us.
+/ Beseech your honor  
+To make it known to us. /
 
 **TIMON**  
-You'll take it ill.
+/ You'll take it ill.
 
 **Both**  
-Most thankfully, my lord.
+Most thankfully, my lord. /
 
 **TIMON**  
-Will you, indeed?
+/ Will you, indeed?
 
 **Both**  
 Doubt it not, worthy lord.
 
 **TIMON**  
 There's never a one of you but trusts a knave,  
-That mightily deceives you.
+That mightily deceives you. /
 
 **Both**  
-Do we, my lord?
+/ Do we, my lord?
 
 **TIMON**  
 Ay, and you hear him cog, see him dissemble,  
@@ -3976,10 +3975,10 @@ Keep in your bosom: yet remain assured
 That he's a made-up villain.
 
 **Painter**  
-I know none such, my lord.
+I know none such, my lord. /
 
 **Poet**  
-Nor I.
+/ Nor I.
 
 **TIMON**  
 Look you, I love you well; I'll give you gold,  
@@ -4000,14 +3999,14 @@ Come not near him. If thou wouldst not reside
 But where one villain is, then him abandon.  
 Hence, pack! there's gold; you came for gold, ye slaves:
 
-*\[To Painter]*
+*\[To Painter]*  
 You have work'd for me; there's payment for you: hence!
 
-*\[To Poet]*
+*\[To Poet]*  
 You are an alchemist; make gold of that.  
 Out, rascal dogs!
 
-*Beats them out, and then retires to his cave*
+*\[Beats them out, and then retires to his cave]*
 
 *Enter FLAVIUS and two Senators*
 
@@ -4015,23 +4014,23 @@ Out, rascal dogs!
 It is in vain that you would speak with Timon;  
 For he is set so only to himself  
 That nothing but himself which looks like man  
-Is friendly with him.
+Is friendly with him. /
 
 **First Senator**  
-Bring us to his cave:
+/ Bring us to his cave:  
 It is our part and promise to the Athenians  
-To speak with Timon.
+To speak with Timon. /
 
 **Second Senator**  
-At all times alike
+/ At all times alike  
 Men are not still the same: 'twas time and griefs  
 That framed him thus: time, with his fairer hand,  
 Offering the fortunes of his former days,  
 The former man may make him. Bring us to him,  
-And chance it as it may.
+And chance it as it may. /
 
 **FLAVIUS**  
-Here is his cave.
+ / Here is his cave.  
 Peace and content be here! Lord Timon! Timon!  
 Look out, and speak to friends: the Athenians,  
 By two of their most reverend senate, greet thee:  
@@ -4043,10 +4042,10 @@ Speak to them, noble Timon.
 Thou sun, that comfort'st, burn! Speak, and be hang'd:  
 For each true word, a blister! and each false  
 Be as cauterizing to the root o' the tongue,  
-Consuming it with speaking!
+Consuming it with speaking! /
 
 **First Senator**  
-Worthy Timon,–
+/ Worthy Timon,--
 
 **TIMON**  
 Of none but such as you, and you of Timon.
@@ -4056,18 +4055,18 @@ The senators of Athens greet thee, Timon.
 
 **TIMON**  
 I thank them; and would send them back the plague,  
-Could I but catch it for them.
+Could I but catch it for them. /
 
 **First Senator**  
-O, forget
+/ O, forget  
 What we are sorry for ourselves in thee.  
 The senators with one consent of love  
 Entreat thee back to Athens; who have thought  
 On special dignities, which vacant lie  
-For thy best use and wearing.
+For thy best use and wearing. /
 
 **Second Senator**  
-They confess
+/ They confess  
 Toward thee forgetfulness too general, gross:  
 Which now the public body, which doth seldom  
 Play the recanter, feeling in itself  
@@ -4079,10 +4078,10 @@ Than their offence can weigh down by the dram;
 Ay, even such heaps and sums of love and wealth  
 As shall to thee blot out what wrongs were theirs  
 And write in thee the figures of their love,  
-Ever to read them thine.
+Ever to read them thine. /
 
 **TIMON**  
-You witch me in it;
+/ You witch me in it;  
 Surprise me to the very brink of tears:  
 Lend me a fool's heart and a woman's eyes,  
 And I'll beweep these comforts, worthy senators.
@@ -4095,14 +4094,14 @@ Allow'd with absolute power and thy good name
 Live with authority: so soon we shall drive back  
 Of Alcibiades the approaches wild,  
 Who, like a boar too savage, doth root up  
-His country's peace.
+His country's peace. /
 
 **Second Senator**  
-And shakes his threatening sword  
-Against the walls of Athens.
+ / And shakes his threatening sword  
+Against the walls of Athens. /
 
 **First Senator**  
-Therefore, Timon,–
+/ Therefore, Timon,--
 
 **TIMON**  
 Well, sir, I will; therefore, I will, sir; thus:  
@@ -4121,43 +4120,42 @@ There's not a whittle in the unruly camp
 But I do prize it at my love before  
 The reverend'st throat in Athens. So I leave you  
 To the protection of the prosperous gods,  
-As thieves to keepers.
+As thieves to keepers. /
 
 **FLAVIUS**  
-Stay not, all's in vain.
+/ Stay not, all's in vain.
 
 **TIMON**  
 Why, I was writing of my epitaph;  
-it will be seen to-morrow: my long sickness  
+It will be seen to-morrow: my long sickness  
 Of health and living now begins to mend,  
 And nothing brings me all things. Go, live still;  
 Be Alcibiades your plague, you his,  
-And last so long enough!
+And last so long enough! /
 
 **First Senator**  
-We speak in vain.
+/ We speak in vain.
 
 **TIMON**  
 But yet I love my country, and am not  
 One that rejoices in the common wreck,  
-As common bruit doth put it.
+As common bruit doth put it. /
 
 **First Senator**  
-That's well spoke.
+/ That's well spoke.
 
 **TIMON**  
-Commend me to my loving countrymen,–
+Commend me to my loving countrymen,--
 
 **First Senator**  
-These words become your lips as they pass  
-thorough them.
+These words become your lips as they pass through them.
 
 **Second Senator**  
 And enter in our ears like great triumphers  
-In their applauding gates.
+In their applauding gates. /
 
 **TIMON**  
-Commend me to them,
+/ Commend me to them,  
 And tell them that, to ease them of their griefs,  
 Their fears of hostile strokes, their aches, losses,  
 Their pangs of love, with other incident throes  
@@ -4191,9 +4189,8 @@ And let my grave-stone be your oracle.
 Lips, let sour words go by and language end:  
 What is amiss plague and infection mend!  
 Graves only be men's works and death their gain!  
-Sun, hide thy beams! Timon hath done his reign.
-
-*Retires to his cave*
+Sun, hide thy beams! Timon hath done his reign.  
+*\[Retires to his cave]*
 
 **First Senator**  
 His discontents are unremoveably  
@@ -4202,10 +4199,10 @@ Coupled to nature.
 **Second Senator**  
 Our hope in him is dead: let us return,  
 And strain what other means is left unto us  
-In our dear peril.
+In our dear peril. /
 
 **First Senator**  
-It requires swift foot.
+/ It requires swift foot.
 
 *Exeunt*
 
@@ -4218,7 +4215,7 @@ Thou hast painfully discover'd: are his files
 As full as thy report?
 
 **Messenger**  
-have spoke the least:
+Have spoke the least:  
 Besides, his expedition promises  
 Present approach.
 
@@ -4233,10 +4230,10 @@ And made us speak like friends: this man was riding
 From Alcibiades to Timon's cave,  
 With letters of entreaty, which imported  
 His fellowship i' the cause against your city,  
-In part for his sake moved.
+In part for his sake moved. /
 
 **First Senator**  
-Here come our brothers.
+/ Here come our brothers.
 
 *Enter the Senators from TIMON*
 
@@ -4288,45 +4285,44 @@ When crouching marrow in the bearer strong
 Cries of itself 'No more:' now breathless wrong  
 Shall sit and pant in your great chairs of ease,  
 And pursy insolence shall break his wind  
-With fear and horrid flight.
+With fear and horrid flight. /
 
 **First Senator**  
-Noble and young,
+/ Noble and young,  
 When thy first griefs were but a mere conceit,  
 Ere thou hadst power or we had cause of fear,  
 We sent to thee, to give thy rages balm,  
 To wipe out our ingratitude with loves  
-Above their quantity.
+Above their quantity. /
 
 **Second Senator**  
-So did we woo
+/ So did we woo  
 Transformed Timon to our city's love  
 By humble message and by promised means:  
 We were not all unkind, nor all deserve  
-The common stroke of war.
+The common stroke of war. /
 
 **First Senator**  
-These walls of ours
+/ These walls of ours  
 Were not erected by their hands from whom  
 You have received your griefs; nor are they such  
-That these great towers, trophies and schools  
-should fall
+That these great towers, trophies and schools should fall  
 For private faults in them.
 
 **Second Senator**  
-Nor are they living
+Nor are they living  
 Who were the motives that you first went out;  
 Shame that they wanted cunning, in excess  
 Hath broke their hearts. March, noble lord,  
 Into our city with thy banners spread:  
-By decimation, and a tithed death–  
+By decimation, and a tithed death--  
 If thy revenges hunger for that food  
-Which nature loathes–take thou the destined tenth,  
+Which nature loathes--take thou the destined tenth,  
 And by the hazard of the spotted die  
-Let die the spotted.
+Let die the spotted. /
 
 **First Senator**  
-All have not offended;
+/ All have not offended;  
 For those that were, it is not square to take  
 On those that are, revenges: crimes, like lands,  
 Are not inherited. Then, dear countryman,  
@@ -4335,29 +4331,29 @@ Spare thy Athenian cradle and those kin
 Which in the bluster of thy wrath must fall  
 With those that have offended: like a shepherd,  
 Approach the fold and cull the infected forth,  
-But kill not all together.
+But kill not all together. /
 
 **Second Senator**  
-What thou wilt,
+/ What thou wilt,  
 Thou rather shalt enforce it with thy smile  
-Than hew to't with thy sword.
+Than hew to't with thy sword. /
 
 **First Senator**  
-Set but thy foot
+/ Set but thy foot  
 Against our rampired gates, and they shall ope;  
 So thou wilt send thy gentle heart before,  
-To say thou'lt enter friendly.
+To say thou'lt enter friendly. /
 
 **Second Senator**  
-Throw thy glove,
-Or any token of thine honour else,  
+/ Throw thy glove,  
+Or any token of thine honor else,  
 That thou wilt use the wars as thy redress  
 And not as our confusion, all thy powers  
 Shall make their harbour in our town, till we  
-Have seal'd thy full desire.
+Have seal'd thy full desire. /
 
 **ALCIBIADES**  
-Then there's my glove;
+/ Then there's my glove;  
 Descend, and open your uncharged ports:  
 Those enemies of Timon's and mine own  
 Whom you yourselves shall set out for reproof  
@@ -4366,10 +4362,10 @@ With my more noble meaning, not a man
 Shall pass his quarter, or offend the stream  
 Of regular justice in your city's bounds,  
 But shall be render'd to your public laws  
-At heaviest answer.
+At heaviest answer. /
 
 **Both**  
-'Tis most nobly spoken.
+/ 'Tis most nobly spoken.
 
 **ALCIBIADES**  
 Descend, and keep your words.
@@ -4386,12 +4382,13 @@ With wax I brought away, whose soft impression
 Interprets for my poor ignorance.
 
 **ALCIBIADES**  
-*\[Reads the epitaph]*
+*\[Reads the epitaph]*  
 'Here lies a wretched corse, of wretched soul bereft:  
 Seek not my name: a plague consume you wicked caitiffs left!  
 Here lie I, Timon; who, alive, all living men did hate:  
 Pass by and curse thy fill, but pass and stay not here thy gait.'
 
+*\[Speaking]*  
 These well express in thee thy latter spirits:  
 Though thou abhorr'dst in us our human griefs,  
 Scorn'dst our brain's flow and those our droplets which  
