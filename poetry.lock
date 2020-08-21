@@ -71,7 +71,7 @@ description = "Data extraction and rendering library for Shakespearean text."
 name = "iambic"
 optional = false
 python-versions = ">=3.7,<4.0"
-version = "2.3.0"
+version = "2.3.1"
 
 [package.dependencies]
 html2text = ">=2020.1.16,<2021.0.0"
@@ -519,7 +519,7 @@ docs = ["sphinx", "jaraco.packaging (>=3.2)", "rst.linker (>=1.9)"]
 testing = ["jaraco.itertools", "func-timeout"]
 
 [metadata]
-content-hash = "9d1e951d98021a369d2e01cbb01bb003b36609d87da71b0015d8b11cfcdf19ca"
+content-hash = "8a85f0015c6d4bb65a76c2781c032b705e39d3e4e6560be5cddc0f5a82f7e724"
 python-versions = "^3.7"
 
 [metadata.files]
@@ -554,8 +554,8 @@ html2text = [
     {file = "html2text-2020.1.16.tar.gz", hash = "sha256:e296318e16b059ddb97f7a8a1d6a5c1d7af4544049a01e261731d2d5cc277bbb"},
 ]
 iambic = [
-    {file = "iambic-2.3.0-py3-none-any.whl", hash = "sha256:347d8461f8ae3eb5cea9948d84095342e48b0bee587452206b0f36af59f08ad5"},
-    {file = "iambic-2.3.0.tar.gz", hash = "sha256:2270692e26fe94d4aa1ca37418d78ebf4f9044e800ee72d919735212337417df"},
+    {file = "iambic-2.3.1-py3-none-any.whl", hash = "sha256:7317ca247f69089a68e304b354f2953d2d084f4f6d528b27f7d1584c75e9669d"},
+    {file = "iambic-2.3.1.tar.gz", hash = "sha256:ed2e76bb81d0e308e678a013dcc44a02203ad4560f7af7901a5268e22c884bd8"},
 ]
 identify = [
     {file = "identify-1.4.28-py2.py3-none-any.whl", hash = "sha256:69c4769f085badafd0e04b1763e847258cbbf6d898e8678ebffc91abdb86f6c6"},

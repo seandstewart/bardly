@@ -10,7 +10,7 @@ bardly = 'bardly.plugin:IambicPlugin'
 
 [tool.poetry.dependencies]
 python = "^3.7"
-iambic = "^2.2"
+iambic = "^2.3"
 mkdocs = "^1.1"
 mkdocs-material = "^5.5"
 mkdocs-awesome-pages-plugin = "^2.2.1"
