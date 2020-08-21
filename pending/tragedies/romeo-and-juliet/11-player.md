@@ -378,8 +378,10 @@ widow of Vitravio; Signior Placentio and his lovely
 nieces; Mercutio and his brother Valentine; mine  
 uncle Capulet, his wife and daughters; my fair niece  
 Rosaline; Livia; Signior Valentio and his cousin  
-Tybalt, Lucio and the lively Helena.' A fair  
-assembly: whither should they come?
+Tybalt, Lucio and the lively Helena.'
+
+*\[To Servant]*  
+A fair assembly: whither should they come?
 
 **Servant**  
 Up.
