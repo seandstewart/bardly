@@ -43,6 +43,7 @@ extra:
       link: "https://linkedin.com/in/seandstewart"
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
-  - static/javascripts/tables.js
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/sorts/tablesort.number.min.js
+  - static/javascripts/tablesort.js
 extra_css:
   - static/stylesheets/extra.css
