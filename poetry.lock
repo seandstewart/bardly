@@ -71,7 +71,7 @@ description = "Data extraction and rendering library for Shakespearean text."
 name = "iambic"
 optional = false
 python-versions = ">=3.7,<4.0"
-version = "2.3.1"
+version = "2.3.3"
 
 [package.dependencies]
 html2text = ">=2020.1.16,<2021.0.0"
@@ -90,7 +90,7 @@ description = "File identification library for Python"
 name = "identify"
 optional = false
 python-versions = "!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.7"
-version = "1.4.28"
+version = "1.4.29"
 
 [package.extras]
 license = ["editdistance"]
@@ -148,7 +148,7 @@ description = "Python LiveReload is an awesome tool for web developers"
 name = "livereload"
 optional = false
 python-versions = "*"
-version = "2.6.2"
+version = "2.6.3"
 
 [package.dependencies]
 six = "*"
@@ -238,7 +238,7 @@ description = "A Material Design theme for MkDocs"
 name = "mkdocs-material"
 optional = false
 python-versions = "*"
-version = "5.5.7"
+version = "5.5.10"
 
 [package.dependencies]
 Pygments = ">=2.4"
@@ -287,7 +287,7 @@ description = "Node.js virtual environment builder"
 name = "nodeenv"
 optional = false
 python-versions = "*"
-version = "1.4.0"
+version = "1.5.0"
 
 [[package]]
 category = "main"
@@ -307,7 +307,7 @@ description = "A framework for managing and maintaining multi-language pre-commi
 name = "pre-commit"
 optional = false
 python-versions = ">=3.6.1"
-version = "2.6.0"
+version = "2.7.1"
 
 [package.dependencies]
 cfgv = ">=2.0.0"
@@ -473,7 +473,7 @@ marker = "python_version >= \"3.7\" and python_version < \"3.8\""
 name = "typing-extensions"
 optional = false
 python-versions = "*"
-version = "3.7.4.2"
+version = "3.7.4.3"
 
 [[package]]
 category = "main"
@@ -554,12 +554,12 @@ html2text = [
     {file = "html2text-2020.1.16.tar.gz", hash = "sha256:e296318e16b059ddb97f7a8a1d6a5c1d7af4544049a01e261731d2d5cc277bbb"},
 ]
 iambic = [
-    {file = "iambic-2.3.1-py3-none-any.whl", hash = "sha256:7317ca247f69089a68e304b354f2953d2d084f4f6d528b27f7d1584c75e9669d"},
-    {file = "iambic-2.3.1.tar.gz", hash = "sha256:ed2e76bb81d0e308e678a013dcc44a02203ad4560f7af7901a5268e22c884bd8"},
+    {file = "iambic-2.3.3-py3-none-any.whl", hash = "sha256:74edb472b8c4636d85d84d92ed870867c9a6461c15f87682a2e52471b4713533"},
+    {file = "iambic-2.3.3.tar.gz", hash = "sha256:dc85f24fbaa1ada2085e4b610478fd7d2224c6f2ae3e722db4623a670b46fee7"},
 ]
 identify = [
-    {file = "identify-1.4.28-py2.py3-none-any.whl", hash = "sha256:69c4769f085badafd0e04b1763e847258cbbf6d898e8678ebffc91abdb86f6c6"},
-    {file = "identify-1.4.28.tar.gz", hash = "sha256:d6ae6daee50ba1b493e9ca4d36a5edd55905d2cf43548fdc20b2a14edef102e7"},
+    {file = "identify-1.4.29-py2.py3-none-any.whl", hash = "sha256:b1aa2e05863dc80242610d46a7b49105e2eafe00ef0c8ff311c1828680760c76"},
+    {file = "identify-1.4.29.tar.gz", hash = "sha256:9f5fcf22b665eaece583bd395b103c2769772a0f646ffabb5b1f155901b07de2"},
 ]
 importlib-metadata = [
     {file = "importlib_metadata-1.7.0-py2.py3-none-any.whl", hash = "sha256:dc15b2969b4ce36305c51eebe62d418ac7791e9a157911d58bfb1f9ccd8e2070"},
@@ -577,7 +577,7 @@ joblib = [
     {file = "joblib-0.16.0.tar.gz", hash = "sha256:8f52bf24c64b608bf0b2563e0e47d6fcf516abc8cfafe10cfd98ad66d94f92d6"},
 ]
 livereload = [
-    {file = "livereload-2.6.2.tar.gz", hash = "sha256:d1eddcb5c5eb8d2ca1fa1f750e580da624c0f7fcb734aa5780dc81b7dcbd89be"},
+    {file = "livereload-2.6.3.tar.gz", hash = "sha256:776f2f865e59fde56490a56bcc6773b6917366bce0c267c60ee8aaf1a0959869"},
 ]
 lunr = [
     {file = "lunr-0.5.8-py2.py3-none-any.whl", hash = "sha256:aab3f489c4d4fab4c1294a257a30fec397db56f0a50273218ccc3efdbf01d6ca"},
@@ -631,8 +631,8 @@ mkdocs-awesome-pages-plugin = [
     {file = "mkdocs_awesome_pages_plugin-2.2.1-py3-none-any.whl", hash = "sha256:45fb7d3d45f01cec5ad06f5dc0fd07e00359dc23d28f3a2c94e502c4ed631694"},
 ]
 mkdocs-material = [
-    {file = "mkdocs-material-5.5.7.tar.gz", hash = "sha256:6b7ecfba2da9bb0b3a0cc6a92ae543f034572ab56aba3814b6f03c30404d0410"},
-    {file = "mkdocs_material-5.5.7-py2.py3-none-any.whl", hash = "sha256:c321fc3b3ab29ad291226aac1ec3523ae2acb3580097303bd45c34c24ece4b3f"},
+    {file = "mkdocs-material-5.5.10.tar.gz", hash = "sha256:a490217513b4c8c514183dea7dc1738098eba367fc0de36a09273e065a609c62"},
+    {file = "mkdocs_material-5.5.10-py2.py3-none-any.whl", hash = "sha256:3fc1551083c0fa27ed90a70bac74109e85f78094bf8370bb8ba54499a41d3ab5"},
 ]
 mkdocs-material-extensions = [
     {file = "mkdocs-material-extensions-1.0.tar.gz", hash = "sha256:17d7491e189af75700310b7ec33c6c48a22060b8b445001deca040cb60471cde"},
@@ -642,7 +642,8 @@ nltk = [
     {file = "nltk-3.5.zip", hash = "sha256:845365449cd8c5f9731f7cb9f8bd6fd0767553b9d53af9eb1b3abf7700936b35"},
 ]
 nodeenv = [
-    {file = "nodeenv-1.4.0-py2.py3-none-any.whl", hash = "sha256:4b0b77afa3ba9b54f4b6396e60b0c83f59eaeb2d63dc3cc7a70f7f4af96c82bc"},
+    {file = "nodeenv-1.5.0-py2.py3-none-any.whl", hash = "sha256:5304d424c529c997bc888453aeaa6362d242b6b4631e90f3d4bf1b290f1c84a9"},
+    {file = "nodeenv-1.5.0.tar.gz", hash = "sha256:ab45090ae383b716c4ef89e690c41ff8c2b257b85b309f01f3654df3d084bd7c"},
 ]
 pendulum = [
     {file = "pendulum-2.1.2-cp27-cp27m-macosx_10_15_x86_64.whl", hash = "sha256:b6c352f4bd32dff1ea7066bd31ad0f71f8d8100b9ff709fb343f3b86cee43efe"},
@@ -668,8 +669,8 @@ pendulum = [
     {file = "pendulum-2.1.2.tar.gz", hash = "sha256:b06a0ca1bfe41c990bbf0c029f0b6501a7f2ec4e38bfec730712015e8860f207"},
 ]
 pre-commit = [
-    {file = "pre_commit-2.6.0-py2.py3-none-any.whl", hash = "sha256:e8b1315c585052e729ab7e99dcca5698266bedce9067d21dc909c23e3ceed626"},
-    {file = "pre_commit-2.6.0.tar.gz", hash = "sha256:1657663fdd63a321a4a739915d7d03baedd555b25054449090f97bb0cb30a915"},
+    {file = "pre_commit-2.7.1-py2.py3-none-any.whl", hash = "sha256:810aef2a2ba4f31eed1941fc270e72696a1ad5590b9751839c90807d0fff6b9a"},
+    {file = "pre_commit-2.7.1.tar.gz", hash = "sha256:c54fd3e574565fe128ecc5e7d2f91279772ddb03f8729645fa812fe809084a70"},
 ]
 pygments = [
     {file = "Pygments-2.6.1-py3-none-any.whl", hash = "sha256:ff7a40b4860b727ab48fad6360eb351cc1b33cbf9b15a0f689ca5353e9463324"},
@@ -759,9 +760,9 @@ typical = [
     {file = "typical-2.0.29.tar.gz", hash = "sha256:1a0a03ad7ea2cb52baedcb1cc5c7e42aa23db64837bd43124eb1946c92ec4dcf"},
 ]
 typing-extensions = [
-    {file = "typing_extensions-3.7.4.2-py2-none-any.whl", hash = "sha256:f8d2bd89d25bc39dabe7d23df520442fa1d8969b82544370e03d88b5a591c392"},
-    {file = "typing_extensions-3.7.4.2-py3-none-any.whl", hash = "sha256:6e95524d8a547a91e08f404ae485bbb71962de46967e1b71a0cb89af24e761c5"},
-    {file = "typing_extensions-3.7.4.2.tar.gz", hash = "sha256:79ee589a3caca649a9bfd2a8de4709837400dfa00b6cc81962a1e6a1815969ae"},
+    {file = "typing_extensions-3.7.4.3-py2-none-any.whl", hash = "sha256:dafc7639cde7f1b6e1acc0f457842a83e722ccca8eef5270af2d74792619a89f"},
+    {file = "typing_extensions-3.7.4.3-py3-none-any.whl", hash = "sha256:7cb407020f00f7bfc3cb3e7881628838e69d8f3fcab2f64742a5e76b2f841918"},
+    {file = "typing_extensions-3.7.4.3.tar.gz", hash = "sha256:99d4073b617d30288f569d3f13d2bd7548c3a7e4c8de87db09a9d29bb3a4a60c"},
 ]
 ujson = [
     {file = "ujson-2.0.3-cp27-cp27m-manylinux1_x86_64.whl", hash = "sha256:7ae13733d9467d16ccac2f38212cdee841b49ae927085c533425be9076b0bc9d"},
