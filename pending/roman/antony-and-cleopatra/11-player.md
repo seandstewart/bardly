@@ -1,3 +1,5 @@
+# Antony and Cleopatra, 11 Players
+
 ## ACT I
 
 ### SCENE I. Alexandria. A room in CLEOPATRA's palace.
@@ -1181,10 +1183,10 @@ In state of health thou say'st; and thou say'st free.
 
 **Messenger**  
 Free, madam! no; I made no such report:  
-He's bound unto Octavia.
+He's bound unto Octavia. /
 
 **CLEOPATRA**  
-For what good turn?
+/ For what good turn?
 
 **Messenger**  
 For the best turn i' the bed.  
@@ -1356,7 +1358,7 @@ Measures of wheat to Rome; this 'greed upon
 To part with unhack'd edges, and bear back  
 Our targes undinted. /
 
-**OCTAVIUS CAESAR** **MARK ANTONY** **LEPIDUS**  
+**OCTAVIUS CAESAR & MARK ANTONY & LEPIDUS**  
 / That's our offer.
 
 **POMPEY**  
@@ -1495,9 +1497,10 @@ Rise from thy stool. /
 
 **POMPEY**  
 *\[Aside to MENAS]*  
-/ I think thou'rt mad.  
-The matter?  
+/ I think thou'rt mad.
+
 *\[Rises, and walks aside]*
+The matter?
 
 **MENAS**  
 I have ever held my cap off to thy fortunes.
@@ -1554,10 +1557,10 @@ But must condemn it now. Desist, and drink. /
 / For this,  
 I'll never follow thy pall'd fortunes more.  
 Who seeks, and will not take when once 'tis offer'd,  
-Shall never find it more.
+Shall never find it more. /
 
 **POMPEY**  
-This health to Lepidus!
+/ This health to Lepidus!
 
 **MARK ANTONY**  
 Bear him ashore. I'll pledge it for him, Pompey.
@@ -1803,9 +1806,10 @@ When I shall pray, 'O bless my lord and husband!'
 Undo that prayer, by crying out as loud,  
 'O, bless my brother!' Husband win, win brother,  
 Prays, and destroys the prayer; no midway  
-'Twixt these extremes at all.
+'Twixt these extremes at all. /
 
 **MARK ANTONY**  
+/ Gentle Octavia,  
 Let your best love draw to that point, which seeks  
 Best to preserve it: if I lose mine honour,  
 I lose myself: better I were not yours  
@@ -2108,11 +2112,11 @@ heard the noise of a sea-fight*
 Naught, naught all, naught! I can behold no longer:  
 The Antoniad, the Egyptian admiral,  
 With all their sixty, fly and turn the rudder:  
-To see't mine eyes are blasted.
+To see't mine eyes are blasted. /
 
 *Enter SCARUS*
 
-How appears the fight?
+/ How appears the fight?
 
 **SCARUS**  
 On our side like the token'd pestilence,  
@@ -2250,10 +2254,13 @@ We scorn her most when most she offers blows.
 Approach, and speak.
 
 **EUPHRONIUS**  
-Such as I am, I come from Antony.
+Such as I am, I come from Antony:  
+I was of late as petty to his ends  
+As is the morn-dew on the myrtle-leaf  
+To his grand sea. /
 
 **OCTAVIUS CAESAR**  
-Be't so: declare thine office.
+/ Be't so: declare thine office.
 
 **EUPHRONIUS**  
 Lord of his fortunes he salutes thee, and  
@@ -2277,7 +2284,8 @@ She shall not sue unheard. So to them both.
 **EUPHRONIUS**  
 Fortune pursue thee!
 
-**OCTAVIUS CAESAR**
+**OCTAVIUS CAESAR**  
+Bring him through the bands.
 
 *Exit EUPHRONIUS*
 
@@ -2642,7 +2650,7 @@ To beat me out of Egypt; my messenger
 He hath whipp'd with rods; dares me to personal combat,  
 Caesar to Antony: let the old ruffian know  
 I have many other ways to die; meantime  
-Laugh at his challenge.  Let our best heads  
+Laugh at his challenge. Let our best heads  
 Know, that to-morrow the last of many battles  
 We mean to fight: within our files there are,  
 Of those that served Mark Antony but late,  
@@ -2654,8 +2662,7 @@ And they have earn'd the waste. Poor Antony!
 
 ### SCENE II. Alexandria. CLEOPATRA's palace.
 
-*Enter MARK ANTONY, CLEOPATRA, DOMITIUS ENOBARBUS, CHARMIAN, IRAS, ALEXAS,
-with others*
+*Enter MARK ANTONY, CLEOPATRA, DOMITIUS ENOBARBUS, CHARMIAN, IRAS, ALEXAS, with others*
 
 **MARK ANTONY**  
 He will not fight with me, Domitius. /
@@ -2699,16 +2706,22 @@ So good as you have done. /
 **All**  
 / The gods forbid!
 
+**MARK ANTONY**  
+Well, my good fellows, wait on me to-night:  
+Scant not my cups; and make as much of me  
+As when mine empire was your fellow too,  
+And suffer'd my command. /
+
 **CLEOPATRA**  
 *\[Aside to DOMITIUS ENOBARBUS]*  
-What does he mean? /
+/ What does he mean?
 
 **DOMITIUS ENOBARBUS**  
 *\[Aside to CLEOPATRA]*  
-/ To make his followers weep.
+To make his followers weep. /
 
 **MARK ANTONY**  
-Tend me to-night;  
+/ Tend me to-night;  
 May be it is the period of your duty:  
 Haply you shall not see me more; or if,  
 A mangled shadow: perchance to-morrow  
@@ -3144,13 +3157,17 @@ Thy name so buried in her. /
 **MARDIAN**  
 / Dead.
 
-**MARK ANTONY**
+**MARK ANTONY**  
+Unarm, Eros; the long day's task is done,  
+And we must sleep. /
 
-That thou depart'st hence safe,  
-Does pay thy labour richly; go.
+*\[To MARDIAN]*  
+/ That thou depart'st hence safe,  
+Does pay thy labour richly; go. /
 
 *Exit MARDIAN*
 
+/ Off, pluck off:  
 The seven-fold shield of Ajax cannot keep  
 The battery from my heart. O, cleave, my sides!  
 Heart, once be stronger than thy continent,  
@@ -3782,8 +3799,7 @@ Madam, he will; I know't.
 
 *Flourish, and shout within, 'Make way there: Octavius Caesar!'*
 
-*Enter OCTAVIUS CAESAR, GALLUS, PROCULEIUS, MECAENAS, SELEUCUS, and others
-of his Train*
+*Enter OCTAVIUS CAESAR, GALLUS, PROCULEIUS, MECAENAS, SELEUCUS, and others of his Train*
 
 **OCTAVIUS CAESAR**  
 Which is the Queen of Egypt?
@@ -3881,6 +3897,9 @@ Where is the queen? /
 / Behold, sir.
 
 *Exit*
+
+**CLEOPATRA**  
+/ Dolabella!
 
 **DOLABELLA**  
 Madam, as thereto sworn by your command,  
@@ -4049,7 +4068,9 @@ I am fire and air; my other elements
 I give to baser life. So; have you done?  
 Come then, and take the last warmth of my lips.  
 Farewell, kind Charmian; Iras, long farewell.  
-*\[Kisses them. IRAS falls and dies]*
+*\[Kisses them]*
+
+*IRAS falls and dies.*
 
 Have I the aspic in my lips? Dost fall?  
 If thou and nature can so gently part,  
