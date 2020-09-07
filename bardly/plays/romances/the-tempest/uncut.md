@@ -1,46 +1,60 @@
-
+# The Tempest, Uncut
 
 ## ACT I
 
-### SCENE I. On a ship at sea:
+### SCENE I. On a ship at sea.
 
 *A tempestuous noise of thunder and lightning heard.*
 
-*Enter ARIEL, disguised as a Boatswain*
+*Enter a Master and a Boatswain*
 
-**ARIEL**  
+**Master**  
+Boatswain!
+
+**Boatswain**  
+Here, master: what cheer?
+
+**Master**  
+Good, speak to the mariners: fall to't, yarely,  
+or we run ourselves aground: bestir, bestir.
+
+*Exit*
+
+*Enter Mariners*
+
+**Boatswain**  
 Heigh, my hearts! cheerly, cheerly, my hearts!  
 yare, yare! Take in the topsail. Tend to the  
 master's whistle. Blow, till thou burst thy wind,  
 if room enough!
 
-*Enter ALONSO, SEBASTIAN, FERDINAND, ANTONIO, and GONZALO*
+*Enter ALONSO, SEBASTIAN, ANTONIO, FERDINAND, GONZALO, and others*
 
 **ALONSO**  
 Good boatswain, have care. Where's the master?  
 Play the men.
 
-**ARIEL**  
+**Boatswain**  
 I pray now, keep below.
 
 **ANTONIO**  
 Where is the master, boatswain?
 
-**ARIEL**  
+**Boatswain**  
 Do you not hear him? You mar our labour: keep your  
 cabins: you do assist the storm.
 
 **GONZALO**  
 Nay, good, be patient.
 
-**ARIEL**  
+**Boatswain**  
 When the sea is. Hence! What cares these roarers  
 for the name of king? To cabin: silence! trouble us not.
 
 **GONZALO**  
 Good, yet remember whom thou hast aboard.
 
-**ARIEL**  
+**Boatswain**  
 None that I more love than myself. You are a  
 counsellor; if you can command these elements to  
 silence, and work the peace of the present, we will  
@@ -64,7 +78,7 @@ born to be hanged, our case is miserable.
 
 *Re-enter Boatswain*
 
-**ARIEL**  
+**Boatswain**  
 Down with the topmast! yare! lower, lower! Bring  
 her to try with main-course.
 
@@ -75,14 +89,14 @@ the weather or our office.
 
 *Re-enter SEBASTIAN, ANTONIO, and GONZALO*
 
-Yet again! what do you here? Shall we give o 'er  
+Yet again! what do you here? Shall we give o'er  
 and drown? Have you a mind to sink?
 
 **SEBASTIAN**  
-A pox o'your throat, you bawling, blasphemous,  
+A pox o' your throat, you bawling, blasphemous,  
 incharitable dog!
 
-**ARIEL**  
+**Boatswain**  
 Work you then.
 
 **ANTONIO**  
@@ -94,13 +108,16 @@ I'll warrant him for drowning; though the ship were
 no stronger than a nutshell and as leaky as an  
 unstanched wench.
 
-**ARIEL**  
+**Boatswain**  
 Lay her a-hold, a-hold! set her two courses off to  
 sea again; lay her off.
 
-*A cry from off-stage:* *All lost! to prayers, to prayers! all lost!*
+*Enter Mariners wet*
 
-**ARIEL**  
+**Mariners**  
+All lost! to prayers, to prayers! all lost!
+
+**Boatswain**  
 What, must our mouths be cold?
 
 **GONZALO**  
@@ -112,13 +129,16 @@ I'm out of patience.
 
 **ANTONIO**  
 We are merely cheated of our lives by drunkards:  
-This wide-chapp'd rascal-would thou mightst lie drowning  
+This wide-chapp'd rascal--would thou mightst lie drowning  
 The washing of ten tides!
 
 **GONZALO**  
 He'll be hang'd yet,  
 Though every drop of water swear against it  
 And gape at widest to glut him.
+
+*A confused noise within: 'Mercy on us!'-- 'We split, we split!'--'Farewell, my wife and
+children!'-- 'Farewell, brother!'--'We split, we split, we split!'*
 
 **ANTONIO**  
 Let's all sink with the king.
@@ -136,7 +156,7 @@ die a dry death.
 
 *Exeunt*
 
-### SCENE II. The island. Before PROSPERA'S cell.
+### SCENE II. The island. Before PROSPERO'S cell.
 
 *Enter PROSPERO and MIRANDA*
 
@@ -169,7 +189,7 @@ I have done nothing but in care of thee,
 Of thee, my dear one, thee, my daughter, who  
 Art ignorant of what thou art, nought knowing  
 Of whence I am, nor that I am more better  
-Than Prospero master of a full poor cell,  
+Than Prospero, master of a full poor cell,  
 And thy no greater father. /
 
 **MIRANDA**  
@@ -181,12 +201,12 @@ Did never meddle with my thoughts. /
 I should inform thee farther. Lend thy hand,  
 And pluck my magic garment from me. So:
 
-*\[Lays down her mantle]*  
+*\[Lays down his mantle]*  
 Lie there, my art. Wipe thou thine eyes; have comfort.  
 The direful spectacle of the wreck, which touch'd  
 The very virtue of compassion in thee,  
 I have with such provision in mine art  
-So safely ordered that there is no soul-  
+So safely ordered that there is no soul--  
 No, not so much perdition as an hair  
 Betid to any creature in the vessel  
 Which thou heard'st cry, which thou saw'st sink. Sit down;  
@@ -196,7 +216,7 @@ For thou must now know further. /
 / You have often  
 Begun to tell me what I am, but stopp'd  
 And left me to a bootless inquisition,  
-Concluding'stay: not yet.' /
+Concluding 'stay: not yet.' /
 
 **PROSPERO**  
 / The hour's now come;  
@@ -232,11 +252,11 @@ How thou camest here thou mayst. /
 
 **PROSPERO**  
 Twelve year since, Miranda, twelve year since,  
-Thy father was Duke of Milan and  
-Prince of power. /
+Thy father was the Duke of Milan and  
+A prince of power. /
 
 **MIRANDA**  
-/ But, are not you my father?
+/ Sir, are not you my father?
 
 **PROSPERO**  
 Thy mother was a piece of virtue, and  
@@ -260,9 +280,9 @@ To think o'the teen that I have turn'd you to,
 Which is from my remembrance! Please you, father.
 
 **PROSPERO**  
-My brother and thy uncle, call'd Antonio-  
-I pray thee, mark me-that a brother should  
-Be so perfidious!-he whom next thyself  
+My brother and thy uncle, call'd Antonio--  
+I pray thee, mark me--that a brother should  
+Be so perfidious!--he whom next thyself  
 Of all the world I loved and to him put  
 The manage of my state; as at that time  
 Through all the signories it was the first  
@@ -275,9 +295,9 @@ And rapt in secret studies. Thy false uncle-
 Dost thou attend me? /
 
 **MIRANDA**  
-/ Yes, most heedfully.
+/ Sir, most heedfully.
 
-**PROSPERA**  
+**PROSPERO**  
 Being once perfected how to grant suits,  
 How to deny them, who to advance and who  
 To trash for over-topping, new created  
@@ -289,40 +309,48 @@ The ivy which had hid my princely trunk,
 And suck'd my verdure out on't. Thou attend'st not.
 
 **MIRANDA**  
-O, sir, I do. /
+O, good sir, I do. /
 
-**PROSPERA**  
+**PROSPERO**  
 / I pray thee, mark me.  
-He being thus lorded,  
+I, thus neglecting worldly ends, all dedicated  
+To closeness and the bettering of my mind  
+With that which, but by being so retired,  
+O'er-prized all popular rate, in my false brother  
+Awaked an evil nature; and my trust,  
+Like a good parent, did beget of him  
+A falsehood in its contrary as great  
+As my trust was; which had indeed no limit,  
+A confidence sans bound. He being thus lorded,  
 Not only with what my revenue yielded,  
 But what my power might else exact, like one  
 Who having into truth, by telling of it,  
 Made such a sinner of his memory,  
 To credit his own lie, he did believe  
-He was indeed the duke; out o'the substitution  
+He was indeed the duke; out o' the substitution  
 And executing the outward face of royalty,  
-With all prerogative: hence his ambition growing-  
+With all prerogative: hence his ambition growing--  
 Dost thou hear? /
 
 **MIRANDA**  
-/ Your story would cure deafness.
+/ Your tale, sir, would cure deafness.
 
-**PROSPERA**  
+**PROSPERO**  
 To have no screen between this part he play'd  
 And him he play'd it for, he needs will be  
-Absolute Milan. Me, poor soul, my library  
+Absolute Milan. Me, poor man, my library  
 Was dukedom large enough: of temporal royalties  
-He thinks me now incapable; confederates-  
-So dry he was for sway-wi' the King of Naples  
+He thinks me now incapable; confederates--  
+So dry he was for sway--wi' the King of Naples  
 To give him annual tribute, do him homage,  
 Subject his coronet to his crown and bend  
-The dukedom yet unbow'd-alas, poor Milan!-  
+The dukedom yet unbow'd--alas, poor Milan!--  
 To most ignoble stooping. /
 
 **MIRANDA**  
 / O the heavens!
 
-**PROSPERA**  
+**PROSPERO**  
 Mark his condition and the event; then tell me  
 If this might be a brother. /
 
@@ -331,11 +359,11 @@ If this might be a brother. /
 To think but nobly of my grandmother:  
 Good wombs have borne bad sons. /
 
-**PROSPERA**  
+**PROSPERO**  
 / Now the condition.  
 The King of Naples, being an enemy  
 To me inveterate, hearkens my brother's suit;  
-Which was, that he, in lieu o'the premises  
+Which was, that he, in lieu o' the premises  
 Of homage and I know not how much tribute,  
 Should presently extirpate me and mine  
 Out of the dukedom and confer fair Milan  
@@ -352,17 +380,22 @@ I, not remembering how I cried out then,
 Will cry it o 'er again: it is a hint  
 That wrings mine eyes to't. /
 
-**PROSPERA**  
+**PROSPERO**  
 / Hear a little further  
 And then I'll bring thee to the present business  
 Which now's upon's; without the which this story  
-Were most impertinent.
+Were most impertinent. /
 
 **MIRANDA**  
-Wherefore did they not  
-That hour destroy us?
+/ Wherefore did they not  
+That hour destroy us? /
 
 **PROSPERO**  
+/ Well demanded, wench:  
+My tale provokes that question. Dear, they durst not,  
+So dear the love my people bore me, nor set  
+A mark so bloody on the business, but  
+With colours fairer painted their foul ends.  
 In few, they hurried us aboard a bark,  
 Bore us some leagues to sea; where they prepared  
 A rotten carcass of a boat, not rigg'd,  
@@ -407,15 +440,15 @@ But ever see that man! /
 **PROSPERO**  
 / Now I arise:
 
-*\[Resumes her mantle]*  
+*\[Resumes his mantle]*  
 Sit still, and hear the last of our sea-sorrow.  
 Here in this island we arrived; and here  
-Have I, thy schoolmistress, made thee more profit  
+Have I, thy schoolmaster, made thee more profit  
 Than other princesses can that have more time  
 For vainer hours and tutors not so careful.
 
 **MIRANDA**  
-Heavens thank you for 't! And now, I pray you, please,  
+Heavens thank you for 't! And now, I pray you, sir,  
 For still 'tis beating in my mind, your reason  
 For raising this sea-storm? /
 
@@ -423,7 +456,11 @@ For raising this sea-storm? /
 / Know thus far forth.  
 By accident most strange, bountiful Fortune,  
 Now my dear lady, hath mine enemies  
-Brought to this shore. Here cease more questions:  
+Brought to this shore; and by my prescience  
+I find my zenith doth depend upon  
+A most auspicious star, whose influence  
+If now I court not but omit, my fortunes  
+Will ever after droop. Here cease more questions:  
 Thou art inclined to sleep; 'tis a good dulness,  
 And give it way: I know thou canst not choose.
 
@@ -435,11 +472,11 @@ Approach, my Ariel, come.
 *Enter ARIEL*
 
 **ARIEL**  
-All hail, great master! grave king, hail! I come  
-To answer thy best pleasure; be 't to fly,  
+All hail, great master! grave sir, hail! I come  
+To answer thy best pleasure; be't to fly,  
 To swim, to dive into the fire, to ride  
 On the curl'd clouds, to thy strong bidding task  
-Ariel and all her quality. /
+Ariel and all his quality. /
 
 **PROSPERO**  
 / Hast thou, spirit,  
@@ -453,7 +490,7 @@ I flamed amazement: sometime I'd divide,
 And burn in many places; on the topmast,  
 The yards and bowsprit, would I flame distinctly,  
 Then meet and join. Jove's lightnings, the precursors  
-o'the dreadful thunder-claps, more momentary  
+O' the dreadful thunder-claps, more momentary  
 And sight-outrunning were not; the fire and cracks  
 Of sulphurous roaring the most mighty Neptune  
 Seem to besiege and make his bold waves tremble,  
@@ -470,7 +507,7 @@ But felt a fever of the mad and play'd
 Some tricks of desperation. All but mariners  
 Plunged in the foaming brine and quit the vessel,  
 Then all afire with me: the king's son, Ferdinand,  
-With hair up-staring,-then like reeds, not hair,-  
+With hair up-staring,--then like reeds, not hair,--  
 Was the first man that leap'd; cried, 'Hell is empty  
 And all the devils are here.' /
 
@@ -497,7 +534,7 @@ His arms in this sad knot. /
 **PROSPERO**  
 / Of the king's ship  
 The mariners say how thou hast disposed  
-And all the rest o'the fleet. /
+And all the rest o' the fleet. /
 
 **ARIEL**  
 / Safely in harbour  
@@ -506,7 +543,7 @@ Thou call'dst me up at midnight to fetch dew
 From the still-vex'd Bermoothes, there she's hid:  
 The mariners all under hatches stow'd;  
 Who, with a charm join'd to their suffer'd labour,  
-I have left asleep; and for the rest o'the fleet  
+I have left asleep; and for the rest o' the fleet  
 Which I dispersed, they all have met again  
 And are upon the Mediterranean flote,  
 Bound sadly home for Naples,  
@@ -516,7 +553,7 @@ And his great person perish. /
 **PROSPERO**  
 / Ariel, thy charge  
 Exactly is perform'd: but there's more work.  
-What is the time o'the day? /
+What is the time o' the day? /
 
 **ARIEL**  
 / Past the mid season.
@@ -558,11 +595,11 @@ From what a torment I did free thee? /
 Thou dost, and think'st it much to tread the ooze  
 Of the salt deep,  
 To run upon the sharp wind of the north,  
-To do me business in the veins o'the earth  
+To do me business in the veins o' the earth  
 When it is baked with frost. /
 
 **ARIEL**  
-/ I do not, no.
+/ I do not, sir.
 
 **PROSPERO**  
 Thou liest, malignant thing! Hast thou forgot  
@@ -570,16 +607,16 @@ The foul witch Sycorax, who with age and envy
 Was grown into a hoop? hast thou forgot her?
 
 **ARIEL**  
-No, no.
+No, sir.
 
 **PROSPERO**  
 Thou hast. Where was she born? speak; tell me.
 
 **ARIEL**  
-She, in Argier. /
+Sir, in Argier. /
 
 **PROSPERO**  
-/ O, was she so? I must  
+O, was she so? I must  
 Once in a month recount what thou hast been,  
 Which thou forget'st. This damn'd witch Sycorax,  
 For mischiefs manifold and sorceries terrible  
@@ -588,7 +625,7 @@ Thou know'st, was banish'd: for one thing she did
 They would not take her life. Is not this true?
 
 **ARIEL**  
-Ay, 'tis.
+Ay, sir.
 
 **PROSPERO**  
 This blue-eyed hag was hither brought with child  
@@ -597,20 +634,22 @@ As thou report'st thyself, wast then her servant;
 And, for thou wast a spirit too delicate  
 To act her earthy and abhorr'd commands,  
 Refusing her grand hests, she did confine thee,  
+By help of her more potent ministers  
+And in her most unmitigable rage,  
 Into a cloven pine; within which rift  
 Imprison'd thou didst painfully remain  
 A dozen years; within which space she died  
 And left thee there; where thou didst vent thy groans  
-As fast as mill-wheels strike. Then was this island-  
-Save for the beast that she did litter here,  
-A freckled whelp hag-born-not honour'd with  
+As fast as mill-wheels strike. Then was this island--  
+Save for the son that she did litter here,  
+A freckled whelp hag-born--not honour'd with  
 A human shape. /
 
 **ARIEL**  
-/ Yes, Caliban her pup.
+/ Yes, Caliban her son.
 
 **PROSPERO**  
-Dull thing, I say so; she, that Caliban  
+Dull thing, I say so; he, that Caliban  
 Whom now I keep in service. Thou best know'st  
 What torment I did find thee in; thy groans  
 Did make wolves howl and penetrate the breasts  
@@ -629,20 +668,20 @@ And peg thee in his knotty entrails till
 Thou hast howl'd away twelve winters.
 
 **ARIEL**  
-Pardon, mistress;  
+Pardon, master;  
 I will be correspondent to command  
 And do my spiriting gently.
 
 **PROSPERO**  
 Do so, and after two days  
-I will discharge thee. /
+I will discharge thee.
 
 **ARIEL**  
-/ That's my noble master!  
+That's my noble master!  
 What shall I do? say what; what shall I do?
 
 **PROSPERO**  
-Go make thyself like a nymph o'the sea: be subject  
+Go make thyself like a nymph o' the sea: be subject  
 To no sight but thine and mine, invisible  
 To every eyeball else. Go take this shape  
 And hither come in't: go, hence with diligence!
@@ -656,12 +695,12 @@ The strangeness of your story put
 Heaviness in me. /
 
 **PROSPERO**  
-Shake it off. Come on;  
-/ We'll visit Caliban my slave, who never  
-Yields us kind answer. /
+/ Shake it off. Come on;  
+We'll visit Caliban my slave, who never  
+Yields us kind answer.
 
 **MIRANDA**  
-/ 'Tis a villain, sure,  
+/ 'Tis a villain, sir,  
 I do not love to look on. /
 
 **PROSPERO**  
@@ -682,7 +721,7 @@ Come, thou tortoise! when?
 *Re-enter ARIEL like a water-nymph*
 
 Fine apparition! My quaint Ariel,  
-Hark in thine ear . /
+Hark in thine ear. /
 
 **ARIEL**  
 / My lord it shall be done.
@@ -696,7 +735,7 @@ Upon thy wicked dam, come forth!
 *Enter CALIBAN*
 
 **CALIBAN**  
-As wicked dew as e 'er my mother brush'd  
+As wicked dew as e'er my mother brush'd  
 With raven's feather from unwholesome fen  
 Drop on you both! a south-west blow on ye  
 And blister you all o'er!
@@ -724,7 +763,7 @@ Of Sycorax, toads, beetles, bats, light on you!
 For I am all the subjects that you have,  
 Which first was mine own king: and here you sty me  
 In this hard rock, whiles you do keep from me  
-The rest o'the island. /
+The rest o' the island. /
 
 **PROSPERO**  
 / Thou most lying slave,  
@@ -735,7 +774,8 @@ The honour of my child.
 
 **CALIBAN**  
 O ho, O ho! would 't had been done!  
-Thou didst prevent me! /
+Thou didst prevent me; I had peopled else  
+This isle with Calibans. /
 
 **PROSPERO**  
 / Abhorred slave,  
@@ -758,7 +798,7 @@ For learning me your language! /
 
 **PROSPERO**  
 / Hag-seed, hence!  
-Fetch us in fuel; and be quick, thou 'rt best  
+Fetch us in fuel; and be quick, thou'rt best  
 To answer other business. Shrug'st thou, malice?  
 If thou neglect'st or dost unwillingly  
 What I command, I'll rack thee with old cramps,  
@@ -769,7 +809,7 @@ That beasts shall tremble at thy din. /
 / No, pray thee.
 
 *\[Aside]*  
-I must obey: her art is of such power,  
+I must obey: his art is of such power,  
 It would control my dam's god, Setebos,  
 and make a vassal of him.
 
@@ -780,7 +820,8 @@ So, slave; hence!
 
 *Re-enter ARIEL, invisible, playing and singing; FERDINAND following*
 
-**ARIEL'S** **SONG**  
+**ARIEL**
+*\[Singing]*  
 Come unto these yellow sands,  
 And then take hands:  
 Courtsied when you have and kiss'd  
@@ -800,9 +841,9 @@ The strain of strutting chanticleer
 Cry, Cock-a-diddle-dow.
 
 **FERDINAND**  
-Where should this music be? i'the air or the earth?  
+Where should this music be? i' the air or the earth?  
 It sounds no more: and sure, it waits upon  
-Some god o'the island. Sitting on a bank,  
+Some god o' the island. Sitting on a bank,  
 Weeping again the king my father's wreck,  
 This music crept by me upon the waters,  
 Allaying both their fury and my passion  
@@ -810,7 +851,8 @@ With its sweet air: thence I have follow'd it,
 Or it hath drawn me rather. But 'tis gone.  
 No, it begins again.
 
-**ARIEL sings:**  
+**ARIEL**
+*\[Singing]*  
 Full fathom five thy father lies;  
 Of his bones are coral made;  
 Those are pearls that were his eyes:  
@@ -821,7 +863,7 @@ Sea-nymphs hourly ring his knell
 
 *Burthen Ding-dong*
 
-Hark! now I hear them, -Ding-dong, bell.
+Hark! now I hear them,--Ding-dong, bell.
 
 **FERDINAND**  
 The ditty does remember my drown'd father.  
@@ -834,7 +876,7 @@ And say what thou seest yond.
 
 **MIRANDA**  
 What is't? a spirit?  
-Lord, how it looks about! Believe,sir  
+Lord, how it looks about! Believe me, sir,  
 It carries a brave form. But 'tis a spirit.
 
 **PROSPERO**  
@@ -880,8 +922,8 @@ What wert thou, if the King of Naples heard thee?
 
 **FERDINAND**  
 A single thing, as I am now, that wonders  
-To hear thee speak of Naples. She does hear me;  
-And that she does I weep: myself am Naples,  
+To hear thee speak of Naples. He does hear me;  
+And that he does I weep: myself am Naples,  
 Who with mine eyes, never since at ebb, beheld  
 The king my father wreck'd. /
 
@@ -906,7 +948,7 @@ I fear you have done yourself some wrong: a word.
 
 **MIRANDA**  
 Why speaks my father so ungently? This  
-Is the first man that e 'er I saw, the first  
+Is the third man that e'er I saw, the first  
 That e'er I sigh'd for: pity move my father  
 To be inclined my way! /
 
@@ -928,7 +970,7 @@ Make the prize light. /
 That thou attend me: thou dost here usurp  
 The name thou owest not; and hast put thyself  
 Upon this island as a spy, to win it  
-From me, the king on 't. /
+From me, the lord on 't. /
 
 **FERDINAND**  
 / No, as I am a man.
@@ -972,7 +1014,7 @@ And make thy weapon drop. /
 Hence! hang not on my garments. /
 
 **MIRANDA**  
-/ Please, have pity;  
+/ Sir, have pity;  
 I'll be his surety. /
 
 **PROSPERO**  
@@ -998,10 +1040,10 @@ And have no vigour in them. /
 / So they are;  
 My spirits, as in a dream, are all bound up.  
 My father's loss, the weakness which I feel,  
-The wreck of all my friends, nor this one's threats,  
+The wreck of all my friends, nor this man's threats,  
 To whom I am subdued, are but light to me,  
 Might I but through my prison once a day  
-Behold this maid: all corners else o'the earth  
+Behold this maid: all corners else o' the earth  
 Let liberty make use of; space enough  
 Have I in such a prison. /
 
@@ -1042,7 +1084,7 @@ Come, follow. Speak not for him.
 
 ### SCENE I. Another part of the island.
 
-*Enter ALONSO, SEBASTIAN, ANTONIO, and GONZALO*
+*Enter ALONSO, SEBASTIAN, ANTONIO, GONZALO, ADRIAN, FRANCISCO, and others*
 
 **GONZALO**  
 Beseech you, sir, be merry; you have cause,  
@@ -1062,21 +1104,21 @@ Our sorrow with our comfort. /
 He receives comfort like cold porridge.
 
 **ANTONIO**  
-The visitor will not give him o 'er so.
+The visitor will not give him o'er so.
 
 **SEBASTIAN**  
 Look he's winding up the watch of his wit;  
 by and by it will strike. /
 
 **GONZALO**  
-/ Sir, - /
+/ Sir,-- /
 
 **SEBASTIAN**  
 / One: tell.
 
 **GONZALO**  
 When every grief is entertain'd that's offer'd,  
-Comes to the entertainer- /
+Comes to the entertainer-- /
 
 **SEBASTIAN**  
 / A dollar.
@@ -1089,7 +1131,7 @@ have spoken truer than you purposed.
 You have taken it wiselier than I meant you should.
 
 **GONZALO**  
-Therefore, my lord, -
+Therefore, my lord,--
 
 **ANTONIO**  
 Fie, what a spendthrift is he of his tongue!
@@ -1098,25 +1140,49 @@ Fie, what a spendthrift is he of his tongue!
 I prithee, spare. /
 
 **GONZALO**  
-/ Well, I have done: but yet, - /
+/ Well, I have done: but yet,-- /
 
 **SEBASTIAN**  
 / He will be talking.
 
-**GONZALO**  
-Though this island seem to be desert,  
-Uninhabitable and almost inaccessible, -
+**ANTONIO**  
+Which, of he or Adrian, for a good  
+Wager, first begins to crow? /
 
 **SEBASTIAN**  
-Yet, - /
+/ The old cock.
 
-**GONZALO**  
-/ Yet, - /
+**ANTONIO**  
+The cockerel. /
+
+**SEBASTIAN**  
+/ Done. The wager? /
+
+**ANTONIO**  
+/ A laughter. /
+
+**SEBASTIAN**  
+/ A match!
+
+**ADRIAN**  
+Though this island seem to be desert,--
+
+**SEBASTIAN**  
+Ha, ha, ha! So, you're paid.
+
+**ADRIAN**  
+Uninhabitable and almost inaccessible,--
+
+**SEBASTIAN**  
+Yet,-- /
+
+**ADRIAN**  
+/ Yet,-- /
 
 **ANTONIO**  
 / He could not miss 't.
 
-**GONZALO**  
+**ADRIAN**  
 It must needs be of subtle, tender and delicate  
 temperance.
 
@@ -1126,7 +1192,7 @@ Temperance was a delicate wench.
 **SEBASTIAN**  
 Ay, and a subtle; as he most learnedly delivered.
 
-**GONZALO**  
+**ADRIAN**  
 The air breathes upon us here most sweetly.
 
 **SEBASTIAN**  
@@ -1160,8 +1226,8 @@ He misses not much.
 No; he doth but mistake the truth totally.
 
 **GONZALO**  
-But the rarity of it is, -which is indeed almost  
-beyond credit,-
+But the rarity of it is,--which is indeed almost  
+beyond credit,--
 
 **SEBASTIAN**  
 As many vouched rarities are.
@@ -1187,7 +1253,7 @@ the king's fair daughter Claribel to the King of Tunis.
 **SEBASTIAN**  
 'Twas a sweet marriage, and we prosper well in our return.
 
-**ANTONIO**  
+**ADRIAN**  
 Tunis was never graced before with such a paragon to  
 their queen.
 
@@ -1195,17 +1261,21 @@ their queen.
 Not since widow Dido's time.
 
 **ANTONIO**  
-Widow! a pox o'that! How came that widow in?  
+Widow! a pox o' that! How came that widow in?  
 widow Dido!
 
 **SEBASTIAN**  
-'Widow Dido'said you? you make me study of that:  
+What if he had said 'widower AEneas' too? Good Lord,  
+how you take it!
+
+**ADRIAN**  
+'Widow Dido' said you? you make me study of that:  
 she was of Carthage, not of Tunis.
 
 **GONZALO**  
-This Tunis, though, was Carthage. /
+This Tunis, sir, was Carthage. /
 
-**SEBASTIAN**  
+**ADRIAN**  
 / Carthage?
 
 **GONZALO**  
@@ -1226,7 +1296,7 @@ and give it his son for an apple.
 And, sowing the kernels of it in the sea, bring  
 forth more islands.
 
-**SEBASTIAN**  
+**GONZALO**  
 Ay.
 
 **ANTONIO**  
@@ -1238,7 +1308,7 @@ as fresh as when we were at Tunis at the marriage
 of your daughter, who is now queen.
 
 **ANTONIO**  
-And the rarest that e 'er came there.
+And the rarest that e'er came there.
 
 **SEBASTIAN**  
 Bate, I beseech you, widow Dido.
@@ -1262,11 +1332,11 @@ The stomach of my sense. Would I had never
 Married my daughter there! for, coming thence,  
 My son is lost and, in my rate, she too,  
 Who is so far from Italy removed  
-I ne 'er again shall see her. O thou mine heir  
+I ne'er again shall see her. O thou mine heir  
 Of Naples and of Milan, what strange fish  
 Hath made his meal on thee? /
 
-**GONZALO**  
+**FRANCISCO**  
 / Sir, he may live:  
 I saw him beat the surges under him,  
 And ride upon their backs; he trod the water,  
@@ -1295,17 +1365,17 @@ Who hath cause to wet the grief on't. /
 You were kneel'd to and importuned otherwise  
 By all of us, and the fair soul herself  
 Weigh'd between loathness and obedience, at  
-Which end o'the beam should bow. We have lost your son,  
+Which end o' the beam should bow. We have lost your son,  
 I fear, for ever: Milan and Naples have  
 More widows in them of this business' making  
 Than we bring men to comfort them:  
 The fault's your own. /
 
 **ALONSO**  
-/ So is the dear'st o'the loss.
+/ So is the dear'st o' the loss.
 
 **GONZALO**  
-My dear Sebastian,  
+My lord Sebastian,  
 The truth you speak doth lack some gentleness  
 And time to speak it in: you rub the sore,  
 When you should bring the plaster.
@@ -1317,7 +1387,7 @@ Very well. /
 / And most chirurgeonly.
 
 **GONZALO**  
-It is foul weather in us all, my dear,  
+It is foul weather in us all, good sir,  
 When you are cloudy. /
 
 **SEBASTIAN**  
@@ -1327,7 +1397,7 @@ When you are cloudy. /
 / Very foul.
 
 **GONZALO**  
-Had I plantation of this isle, my lord, -
+Had I plantation of this isle, my lord,--
 
 **ANTONIO**  
 He'd sow't with nettle-seed. /
@@ -1342,7 +1412,7 @@ And were the king on't, what would I do?
 'Scape being drunk for want of wine.
 
 **GONZALO**  
-I'the commonwealth I would by contraries  
+I' the commonwealth I would by contraries  
 Execute all things; for no kind of traffic  
 Would I admit; no name of magistrate;  
 Letters should not be known; riches, poverty,  
@@ -1351,14 +1421,13 @@ Bourn, bound of land, tilth, vineyard, none;
 No use of metal, corn, or wine, or oil;  
 No occupation; all men idle, all;  
 And women too, but innocent and pure;  
-No sovereignty;- /
+No sovereignty;-- /
 
 **SEBASTIAN**  
 / Yet he would be king on 't.
 
 **ANTONIO**  
-The latter end of his commonwealth forgets the  
-beginning.
+The latter end of his commonwealth forgets the beginning.
 
 **GONZALO**  
 All things in common nature should produce  
@@ -1372,7 +1441,7 @@ To feed my innocent people.
 No marrying 'mong his subjects?
 
 **ANTONIO**  
-None, sure; all idle: whores and knaves.
+None, man; all idle: whores and knaves.
 
 **GONZALO**  
 I would with such perfection govern, sir,  
@@ -1382,17 +1451,17 @@ To excel the golden age. /
 / God save his majesty!
 
 **ANTONIO**  
- Long live Gonzalo! /
+Long live Gonzalo! /
 
 **GONZALO**  
-/ And, -- do you mark me, sir?
+/ And,--do you mark me, sir?
 
 **ALONSO**  
 Prithee, no more: thou dost talk nothing to me.
 
 **GONZALO**  
 I do well believe your highness; and  
-did it to minister occasion to these gentlefolk,  
+did it to minister occasion to these gentlemen,  
 who are of such sensible and nimble lungs that  
 they always use to laugh at nothing.
 
@@ -1411,7 +1480,7 @@ What a blow was there given!
 An it had not fallen flat-long.
 
 **GONZALO**  
-You are gentlefolk of brave metal; you would lift  
+You are gentlemen of brave metal; you would lift  
 the moon out of her sphere, if she would continue  
 in it five weeks without changing.
 
@@ -1431,10 +1500,10 @@ me asleep, for I am very heavy?
 **ANTONIO**  
 Go sleep, and hear us.
 
-*GONZALO sleeps.*
+*All sleep except ALONSO, SEBASTIAN, and ANTONIO*
 
 **ALONSO**  
-What, he so soon asleep! I wish mine eyes  
+What, all so soon asleep! I wish mine eyes  
 Would, with themselves, shut up my thoughts: I find  
 They are inclined to do so. /
 
@@ -1458,7 +1527,7 @@ And watch your safety. /
 What a strange drowsiness possesses them!
 
 **ANTONIO**  
-It is the quality o'the climate. /
+It is the quality o' the climate. /
 
 **SEBASTIAN**  
 / Why  
@@ -1469,7 +1538,7 @@ Myself disposed to sleep.
 Nor I; my spirits are nimble.  
 They fell together all, as by consent;  
 They dropp'd, as by a thunder-stroke. What might,  
-Worthy Sebastia? O, what might?-No more:-  
+Worthy Sebastian? O, what might?--No more:--  
 And yet me thinks I see it in thy face,  
 What thou shouldst be: the occasion speaks thee, and  
 My strong imagination sees a crown  
@@ -1491,7 +1560,7 @@ And yet so fast asleep. /
 
 **ANTONIO**  
 / Noble Sebastian,  
-Thou let'st thy fortune sleep-die, rather; wink'st  
+Thou let'st thy fortune sleep--die, rather; wink'st  
 Whiles thou art waking. /
 
 **SEBASTIAN**  
@@ -1501,7 +1570,7 @@ There's meaning in thy snores.
 **ANTONIO**  
 I am more serious than my custom: you  
 Must be so too, if heed me; which to do  
-Trebles thee o 'er. /
+Trebles thee o'er. /
 
 **SEBASTIAN**  
 / Well, I am standing water.
@@ -1528,12 +1597,12 @@ A matter from thee, and a birth indeed
 Which throes thee much to yield. /
 
 **ANTONIO**  
-/ Thus, then:  
+/ Thus, sir:  
 Although this lord of weak remembrance, this,  
 Who shall be of as little memory  
-When he is earth'd, hath here almost persuade,-  
+When he is earth'd, hath here almost persuade,--  
 For he's a spirit of persuasion, only  
-Professes to persuade,-the king his son's alive,  
+Professes to persuade,--the king his son's alive,  
 'Tis as impossible that he's undrown'd  
 And he that sleeps here swims. /
 
@@ -1562,9 +1631,9 @@ Who's the next heir of Naples? /
 **ANTONIO**  
 She that is queen of Tunis; she that dwells  
 Ten leagues beyond man's life; she that from Naples  
-Can have no note, unless the sun were post-  
-The man i' the moon's too slow-till new-born chins  
-Be rough and razorable; she that-from whom?  
+Can have no note, unless the sun were post--  
+The man i' the moon's too slow--till new-born chins  
+Be rough and razorable; she that--from whom?  
 We all were sea-swallow'd, though some cast again,  
 And by that destiny to perform an act  
 Whereof what's past is prologue, what to come  
@@ -1580,7 +1649,7 @@ There is some space. /
 / A space whose every cubit  
 Seems to cry out, 'How shall that Claribel  
 Measure us back to Naples? Keep in Tunis,  
-And let Sebastia wake.' Say, this were death  
+And let Sebastian wake.' Say, this were death  
 That now hath seized them; why, they were no worse  
 Than now they are. There be that can rule Naples  
 As well as he that sleeps; lords that can prate  
@@ -1622,7 +1691,10 @@ Whom I, with this obedient steel, three inches of it,
 Can lay to bed for ever; whiles you, doing thus,  
 To the perpetual wink for aye might put  
 This ancient morsel, this Sir Prudence, who  
-Should not upbraid our course. /
+Should not upbraid our course. For all the rest,  
+They'll take suggestion as a cat laps milk;  
+They'll tell the clock to any business that  
+We say befits the hour. /
 
 **SEBASTIAN**  
 / Thy case, dear friend,  
@@ -1645,8 +1717,8 @@ To fall it on Gonzalo. /
 
 **ARIEL**  
 My master through his art foresees the danger  
-That you, his friend, are in; and sends me forth -  
-For else his project dies-to keep them living.
+That you, his friend, are in; and sends me forth--  
+For else his project dies--to keep them living.
 
 *\[Sings in GONZALO's ear]*  
 While you here do snoring lie,  
@@ -1662,7 +1734,7 @@ Then let us both be sudden.
 **GONZALO**  
 Now, good angels! Preserve the king!
 
-*ALONSO wakes*
+*They wake*
 
 **ALONSO**  
 Why, how now? ho, awake! Why are you drawn?  
@@ -1708,7 +1780,7 @@ For he is, sure, i'the island. /
 / Lead away.
 
 **ARIEL**  
-Prospero my king shall know what I have done:  
+Prospero my lord shall know what I have done:  
 So, king, go safely on to seek thy son.
 
 *Exeunt*
@@ -1722,7 +1794,7 @@ All the infections that the sun sucks up
 From bogs, fens, flats, on Prosper fall and make him  
 By inch-meal a disease! His spirits hear me  
 And yet I needs must curse. But they'll nor pinch,  
-Fright me with urchin-shows, pitch me i' the mire,  
+Fright me with urchin--shows, pitch me i' the mire,  
 Nor lead me, like a firebrand, in the dark  
 Out of my way, unless he bid 'em; but  
 For every trifle are they set upon me;  
@@ -1760,7 +1832,7 @@ man; any strange beast there makes a man:
 when they will not give a doit to relieve a lame  
 beggar, they will lazy out ten to see a dead  
 Indian. Legged like a man and his fins like  
-arms! Warm o'my troth! I do now let loose  
+arms! Warm o' my troth! I do now let loose  
 my opinion; hold it no longer: this is no fish,  
 but an islander, that hath lately suffered by a  
 thunderbolt.
@@ -1773,11 +1845,11 @@ shelter hereabouts: misery acquaints a man with
 strange bed-fellows. I will here shroud till the  
 dregs of the storm be past.
 
-*Enter STEPHANO, singing: a bottle in her hand*
+*Enter STEPHANO, singing: a bottle in his hand*
 
 **STEPHANO**  
 I shall no more to sea, to sea,  
-Here shall I die ashore -  
+Here shall I die ashore--  
 This is a very scurvy tune to sing at a man's  
 funeral: well, here's my comfort.  
 *\[Drinks]*
@@ -1785,49 +1857,49 @@ funeral: well, here's my comfort.
 *\[Sings]*  
 The master, the swabber, the boatswain and I,  
 The gunner and his mate  
-Loved Matt, Mike and Maurice and Maximus,  
-But none of us cared for Nate;  
-For He had a tongue with a tang,  
+Loved Mall, Meg and Marian and Margery,  
+But none of us cared for Kate;  
+For she had a tongue with a tang,  
 Would cry to a sailor, Go hang!  
-He loved not the savour of tar nor of pitch,  
-Yet a tailor might scratch him where 'er he did itch:  
-Then to sea, boys, and let him go hang!  
+She loved not the savour of tar nor of pitch,  
+Yet a tailor might scratch her where'er she did itch:  
+Then to sea, boys, and let her go hang!  
 This is a scurvy tune too: but here's my comfort.  
 *\[Drinks]*
 
 **CALIBAN**  
 Do not torment me: Oh!
 
-**STEPHANIO**  
+**STEPHANO**  
 What's the matter? Have we devils here? Do you put  
 tricks upon's with savages and men of Ind, ha? I  
 have not scaped drowning to be afeard now of your  
 four legs; for it hath been said, as proper a man as  
 ever went on four legs cannot make him give ground;  
 and it shall be said so again while Stephano  
-breathes at's nostrils. /
+breathes at's nostrils.
 
 **CALIBAN**  
-/ The spirit torments me; Oh!
+The spirit torments me; Oh!
 
 **STEPHANO**  
 This is some monster of the isle with four legs, who  
 hath got, as I take it, an ague. Where the devil  
-should it learn our language? I will give it some  
-relief, if it be but for that. if I can recover it  
-and keep it tame and get to Naples with it, there's a  
+should he learn our language? I will give him some  
+relief, if it be but for that. if I can recover him  
+and keep him tame and get to Naples with him, he's a  
 present for any emperor that ever trod on neat's leather.
 
 **CALIBAN**  
 Do not torment me, prithee; I'll bring my wood home faster.
 
 **STEPHANO**  
-It's in its fit now and does not talk after the  
-wisest. It shall taste of my bottle: if it have  
-never drunk wine afore will go near to remove its  
-fit. If I can recover it and keep it tame, I will  
-not take too much for it; it shall pay for him that  
-hath it, and that soundly.
+He's in his fit now and does not talk after the  
+wisest. He shall taste of my bottle: if he have  
+never drunk wine afore will go near to remove his  
+fit. If I can recover him and keep him tame, I will  
+not take too much for him; he shall pay for him that  
+hath him, and that soundly.
 
 **CALIBAN**  
 Thou dost me yet but little hurt; thou wilt anon, I  
@@ -1841,15 +1913,15 @@ and that soundly: you cannot tell who's your friend:
 open your chaps again.
 
 **TRINCULO**  
-I should know that voice: it should be -- but he is  
+I should know that voice: it should be--but he is  
 drowned; and these are devils: O defend me!
 
 **STEPHANO**  
 Four legs and two voices: a most delicate monster!  
-Its forward voice now is to speak well of its  
-friend; its backward voice is to utter foul speeches  
+His forward voice now is to speak well of his  
+friend; his backward voice is to utter foul speeches  
 and to detract. If all the wine in my bottle will  
-recover it, I will help its ague. Come. Amen! I  
+recover him, I will help his ague. Come. Amen! I  
 will pour some in thy other mouth.
 
 **TRINCULO**  
@@ -1857,12 +1929,12 @@ Stephano!
 
 **STEPHANO**  
 Doth thy other mouth call me? Mercy, mercy! This is  
-a devil, and no monster: I will leave it; I have no  
+a devil, and no monster: I will leave him; I have no  
 long spoon.
 
 **TRINCULO**  
 Stephano! If thou beest Stephano, touch me and  
-speak to me: for I am Trinculo -be not afeard-thy  
+speak to me: for I am Trinculo--be not afeard--thy  
 good friend Trinculo.
 
 **STEPHANO**  
@@ -1870,10 +1942,10 @@ If thou beest Trinculo, come forth: I'll pull thee
 by the lesser legs: if any be Trinculo's legs,  
 these are they. Thou art very Trinculo indeed! How  
 camest thou to be the siege of this moon-calf? can  
-it vent Trinculos?
+he vent Trinculos?
 
 **TRINCULO**  
-I took it to be killed with a thunder-stroke. But  
+I took him to be killed with a thunder-stroke. But  
 art thou not drowned, Stephano? I hope now thou art  
 not drowned. Is the storm overblown? I hid me  
 under the dead moon-calf's gaberdine for fear of  
@@ -1886,11 +1958,11 @@ Prithee, do not turn me about; my stomach is not constant.
 **CALIBAN**  
 *\[Aside]*  
 These be fine things, an if they be not sprites.  
-That's a brave goddess and bears celestial liquor.  
+That's a brave god and bears celestial liquor.  
 I will kneel to him.
 
 **STEPHANO**  
-How didst thou'scape? How camest thou hither?  
+How didst thou 'scape? How camest thou hither?  
 swear by this bottle how thou camest hither. I  
 escaped upon a butt of sack which the sailors  
 heaved o'erboard, by this bottle; which I made of  
@@ -1905,7 +1977,7 @@ for the liquor is not earthly.
 Here; swear then how thou escaped'st.
 
 **TRINCULO**  
-Swum ashore, friend; like a duck: I can swim like a  
+Swum ashore, man, like a duck: I can swim like a  
 duck, I'll be sworn.
 
 **STEPHANO**  
@@ -1924,30 +1996,30 @@ how does thine ague?
 Hast thou not dropp'd from heaven?
 
 **STEPHANO**  
-Out o'the moon, I do assure thee: I was the face i'
+Out o' the moon, I do assure thee: I was the face i'  
 the moon when Time was.
 
 **CALIBAN**  
 I have seen thee in her and I do adore thee:  
-My master show'd me thee and thy dog and thy bush.
+My mistress show'd me thee and thy dog and thy bush.
 
 **STEPHANO**  
 Come, swear to that; kiss the book: I will furnish  
-it anon with new contents -- swear.
+it anon with new contents--swear.
 
 **TRINCULO**  
 By this good light, this is a very shallow monster!  
-I'm afeard of it! A very weak monster! The face i'
+I'm afeard of him! A very weak monster! The man i'  
 the moon! A most poor credulous monster! Well  
 drawn, monster, in good sooth!
 
 **CALIBAN**  
-I'll show thee every fertile inch o'th' island;  
+I'll show thee every fertile inch o' th' island;  
 And I will kiss thy foot: I prithee, be my god.
 
 **TRINCULO**  
 By this light, a most perfidious and drunken  
-monster! when's god's asleep, it'll rob her bottle.
+monster! when 's god's asleep, he'll rob his bottle.
 
 **CALIBAN**  
 I'll kiss thy foot; I'll swear myself thy subject.
@@ -1958,7 +2030,7 @@ Come on then; down, and swear.
 **TRINCULO**  
 I shall laugh myself to death at this puppy-headed  
 monster. A most scurvy monster! I could find in my  
-heart to beat it, --
+heart to beat him,--
 
 **STEPHANO**  
 Come, kiss.
@@ -1994,7 +2066,7 @@ and by again.
 
 **CALIBAN**  
 *\[Sings drunkenly]*  
-Farewell misteress farewell, farewell!
+Farewell master; farewell, farewell!
 
 **TRINCULO**  
 A howling monster: a drunken monster!
@@ -2005,7 +2077,7 @@ Nor fetch in firing
 At requiring;  
 Nor scrape trencher, nor wash dish  
 'Ban, 'Ban, Cacaliban  
-Has a new master: a new man!  
+Has a new master: get a new man.  
 Freedom, hey-day! hey-day, freedom! freedom,  
 hey-day, freedom!
 
@@ -2030,8 +2102,8 @@ Point to rich ends. This my mean task
 Would be as heavy to me as odious, but  
 The mistress which I serve quickens what's dead  
 And makes my labours pleasures: O, she is  
-Ten times more gentle than her mother's crabbed,  
-And she's composed of harshness. I must remove  
+Ten times more gentle than her father's crabbed,  
+And he's composed of harshness. I must remove  
 Some thousands of these logs and pile them up,  
 Upon a sore injunction: my sweet mistress  
 Weeps when she sees me work, and says, such baseness  
@@ -2053,11 +2125,12 @@ He's safe for these three hours. /
 **FERDINAND**  
 / O most dear mistress,  
 The sun will set before I shall discharge  
-What I must strive to do.
+What I must strive to do. /
 
 **MIRANDA**  
-If you'll sit down,  
-I'll bear your logs the while: pray, give me that; I'll carry it to the pile.
+/ If you'll sit down,  
+I'll bear your logs the while: pray, give me that;  
+I'll carry it to the pile.
 
 **FERDINAND**  
 No, precious creature;  
@@ -2080,16 +2153,16 @@ This visitation shows it. /
 
 **FERDINAND**  
 No, noble mistress; 'tis fresh morning with me  
-When you are by at night. I do beseech you-  
-Chiefly that I might set it in my prayers-  
+When you are by at night. I do beseech you--  
+Chiefly that I might set it in my prayers--  
 What is your name? /
 
 **MIRANDA**  
-/ Miranda. -- O my father,  
-I have broke your hest to say so!
+/ Miranda.--O my father,  
+I have broke your hest to say so! /
 
 **FERDINAND**  
-Admired Miranda!  
+/ Admired Miranda!  
 Indeed the top of admiration! worth  
 What's dearest to the world! Full many a lady  
 I have eyed with best regard and many a time  
@@ -2103,33 +2176,39 @@ So perfect and so peerless, are created
 Of every creature's best! /
 
 **MIRANDA**  
-/ I would not wish  
+/ I do not know  
+One of my sex; no woman's face remember,  
+Save, from my glass, mine own; nor have I seen  
+More that I may call men than you, good friend,  
+And my dear father: how features are abroad,  
+I am skilless of; but, by my modesty,  
+The jewel in my dower, I would not wish  
 Any companion in the world but you,  
 Nor can imagination form a shape,  
 Besides yourself, to like of. But I prattle  
-Something too wildly and my mother's precepts  
+Something too wildly and my father's precepts  
 I therein do forget. /
 
 **FERDINAND**  
 / I am in my condition  
 A prince, Miranda; I do think, a king;  
-I would, not so! -and would no more endure  
+I would, not so!--and would no more endure  
 This wooden slavery than to suffer  
 The flesh-fly blow my mouth. Hear my soul speak:  
 The very instant that I saw you, did  
 My heart fly to your service; there resides,  
 To make me slave to it; and for your sake  
-Am I this patient log-man. /
+Am I this patient log--man. /
 
 **MIRANDA**  
-/ Do you love me?
+Do you love me?
 
 **FERDINAND**  
 O heaven, O earth, bear witness to this sound  
 And crown what I profess with kind event  
 If I speak true! if hollowly, invert  
 What best is boded me to mischief! I  
-Beyond all limit of what else i'the world  
+Beyond all limit of what else i' the world  
 Do love, prize, honour you. /
 
 **MIRANDA**  
@@ -2165,7 +2244,7 @@ My husband, then? /
 
 **FERDINAND**  
 Ay, with a heart as willing  
-As bondage e 'er of freedom: here's my hand.
+As bondage e'er of freedom: here's my hand.
 
 **MIRANDA**  
 And mine, with my heart in 't; and now farewell  
@@ -2205,21 +2284,21 @@ Drink, servant-monster, when I bid thee: thy eyes
 are almost set in thy head.
 
 **TRINCULO**  
-Where should they be set else? it were a brave  
-monster indeed, if they were set in its tail.
+Where should they be set else? he were a brave  
+monster indeed, if they were set in his tail.
 
 **STEPHANO**  
-My monster hath drown'd its tongue in sack:  
+My man-monster hath drown'd his tongue in sack:  
 for my part, the sea cannot drown me; I swam, ere I  
 could recover the shore, five and thirty leagues off  
 and on. By this light, thou shalt be my lieutenant,  
 monster, or my standard.
 
 **TRINCULO**  
-Your lieutenant, if you list; it's no standard.
+Your lieutenant, if you list; he's no standard.
 
 **STEPHANO**  
-We'll not run, Monster.
+We'll not run, Monsieur Monster.
 
 **TRINCULO**  
 Nor go neither; but you'll lie like dogs and yet say  
@@ -2241,21 +2320,21 @@ sack as I to-day? Wilt thou tell a monstrous lie,
 being but half a fish and half a monster?
 
 **CALIBAN**  
-Lo, how he mocks me! wilt thou let him, my master?
+Lo, how he mocks me! wilt thou let him, my lord?
 
 **TRINCULO**  
-'Master' quoth it! That a monster should be such a natural!
+'Lord' quoth he! That a monster should be such a natural!
 
 **CALIBAN**  
 Lo, lo, again! bite him to death, I prithee.
 
 **STEPHANO**  
 Trinculo, keep a good tongue in your head: if you  
-prove a mutineer, -- the next tree! The poor monster's  
-my subject and it shall not suffer indignity.
+prove a mutineer,--the next tree! The poor monster's  
+my subject and he shall not suffer indignity.
 
 **CALIBAN**  
-I thank noble sir. Wilt thou be pleased to  
+I thank my noble lord. Wilt thou be pleased to  
 hearken once again to the suit I made to thee?
 
 **STEPHANO**  
@@ -2276,7 +2355,7 @@ Thou liest, thou jesting monkey, thou: I would my
 valiant master would destroy thee! I do not lie.
 
 **STEPHANO**  
-Trinculo, if you trouble this beast any more in's tale, by  
+Trinculo, if you trouble him any more in's tale, by  
 this hand, I will supplant some of your teeth.
 
 **TRINCULO**  
@@ -2288,21 +2367,21 @@ Why, I said nothing. /
 **CALIBAN**  
 I say, by sorcery he got this isle;  
 From me he got it. if thy greatness will  
-Revenge it on him -- for I know thou darest,  
-But this thing dare not, -- /
+Revenge it on him,--for I know thou darest,  
+But this thing dare not,-- /
 
 **STEPHANO**  
-/ That's most certain.
+That's most certain.
 
 **CALIBAN**  
-Thou shalt be master of it and I'll serve thee.
+Thou shalt be lord of it and I'll serve thee.
 
 **STEPHANO**  
 How now shall this be compassed?  
 Canst thou bring me to the party?
 
 **CALIBAN**  
-Yea, yea, sir: I'll yield him thee asleep,  
+Yea, yea, my lord: I'll yield him thee asleep,  
 Where thou mayst knock a nail into his bead.
 
 **ARIEL**  
@@ -2318,7 +2397,7 @@ Where the quick freshes are.
 **STEPHANO**  
 Trinculo, run into no further danger:  
 interrupt the monster one word further, and,  
-by this hand, I'll turn my mercy out o'doors  
+by this hand, I'll turn my mercy out o' doors  
 and make a stock-fish of thee.
 
 **TRINCULO**  
@@ -2337,8 +2416,8 @@ Do I so? take thou that.
 As you like this, give me the lie another time.
 
 **TRINCULO**  
-I did not give the lie. Out o'your  
-wits and bearing too? A pox o'your bottle!  
+I did not give the lie. Out o' your  
+wits and bearing too? A pox o' your bottle!  
 this can sack and drinking do. A murrain on  
 your monster, and the devil take your fingers!
 
@@ -2358,24 +2437,34 @@ I'll beat him too. /
 
 **CALIBAN**  
 Why, as I told thee, 'tis a custom with him,  
-I'th'afternoon to sleep: there thou mayst brain him,  
-Having first seized her books, or with a log  
-Batter her skull, or paunch him with a stake,  
-Or cut him wezand with thy knife. Remember  
+I' th' afternoon to sleep: there thou mayst brain him,  
+Having first seized his books, or with a log  
+Batter his skull, or paunch him with a stake,  
+Or cut his wezand with thy knife. Remember  
 First to possess his books; for without them  
 He's but a sot, as I am, nor hath not  
 One spirit to command: they all do hate him  
 As rootedly as I. Burn but his books.  
-He has brave utensils,-for so he calls them-  
+He has brave utensils,--for so he calls them--  
 Which when he has a house, he'll deck withal  
 And that most deeply to consider is  
 The beauty of his daughter; he himself  
-Calls her a nonpareil.
+Calls her a nonpareil: I never saw a woman,  
+But only Sycorax my dam and she;  
+But she as far surpasseth Sycorax  
+As great'st does least. /
 
 **STEPHANO**  
-Monster, I will kill this man: you and her daughter  
-will be duke and duchess--myself the king! -and  
-Trinculo, thyself shall be viceroy. Dost thou  
+/ Is it so brave a lass?
+
+**CALIBAN**  
+Ay, lord; she will become thy bed, I warrant.  
+And bring thee forth brave brood.
+
+**STEPHANO**  
+Monster, I will kill this man: his daughter and I  
+will be king and queen--save our graces!--and  
+Trinculo and thyself shall be viceroys. Dost thou  
 like the plot, Trinculo?
 
 **TRINCULO**  
@@ -2462,7 +2551,7 @@ That shall be by and by: I remember the story.
 The sound is going away; let's follow it, and  
 after do our work.
 
-**Stephano**  
+**STEPHANO**  
 Lead, monster; we'll follow. I would I could see  
 this tabourer; he lays it on.
 
@@ -2473,10 +2562,10 @@ Wilt come? I'll follow, Stephano.
 
 ### SCENE III. Another part of the island.
 
-*Enter ALONSO, SEBASTIAN, ANTONIO, and GONZALO*
+*Enter ALONSO, SEBASTIAN, ANTONIO, GONZALO, ADRIAN, FRANCISCO, and others*
 
 **GONZALO**  
-By 'r lakin, I can go no further, sir;  
+By'r lakin, I can go no further, sir;  
 My old bones ache: here's a maze trod indeed  
 Through forth-rights and meanders! By your patience,  
 I needs must rest me.
@@ -2503,7 +2592,7 @@ Will we take throughly. /
 
 **ANTONIO**  
 *\[Aside to SEBASTIAN]*  
-/ Let it be to-night;  
+/ Let it be tonight;  
 For, now they are oppress'd with travel, they  
 Will not, nor cannot, use such vigilance  
 As when they are fresh. /
@@ -2520,9 +2609,9 @@ What harmony is this? My good friends, hark!
 **GONZALO**  
 Marvellous sweet music!
 
-*Enter PROSPERO above, invisible.*
-
-*Enter two strange Shapes, bringing in a banquet; they depart.*
+*Enter PROSPERO above, invisible. Enter several strange Shapes, bringing in
+a banquet; they dance about it with gentle actions of salutation; and,
+inviting the King, & c. to eat, they depart*
 
 **ALONSO**  
 Give us kind keepers, heavens! What were these?
@@ -2530,7 +2619,7 @@ Give us kind keepers, heavens! What were these?
 **SEBASTIAN**  
 A living drollery. Now I will believe  
 That there are unicorns, that in Arabia  
-There is one tree, the phoenix'throne, one phoenix  
+There is one tree, the phoenix' throne, one phoenix  
 At this hour reigning there. /
 
 **ANTONIO**  
@@ -2542,8 +2631,8 @@ Though fools at home condemn 'em. /
 **GONZALO**  
 / If in Naples  
 I should report this now, would they believe me?  
-If I should say, I saw such islanders -  
-For, certes, these are people of the island-  
+If I should say, I saw such islanders--  
+For, certes, these are people of the island--  
 Who, though they are of monstrous shape, yet, note,  
 Their manners are more gentle-kind than of  
 Our human generation you shall find  
@@ -2565,13 +2654,13 @@ Of excellent dumb discourse. /
 *\[Aside]*  
 / Praise in departing.
 
-**ANTONIO**  
+**FRANCISCO**  
 They vanish'd strangely. /
 
 **SEBASTIAN**  
 / No matter, since  
 They have left their viands behind; for we have stomachs.  
-Will 't please you taste of what is here? /
+Will't please you taste of what is here? /
 
 **ALONSO**  
 / Not I.
@@ -2588,7 +2677,7 @@ Good warrant of. /
 **ALONSO**  
 / I will stand to and feed,  
 Although my last: no matter, since I feel  
-The best is past. Sister, my lady true,  
+The best is past. Brother, my lord the duke,  
 Stand to and do as we.
 
 *Thunder and lightning.*
@@ -2597,7 +2686,7 @@ Stand to and do as we.
 device, the banquet vanishes*
 
 **ARIEL**  
-You are three fiends of sin, whom Destiny,  
+You are three men of sin, whom Destiny,  
 That hath to instrument this lower world  
 And what is in 't, the never-surfeited sea  
 Hath caused to belch up you; and on this island  
@@ -2606,7 +2695,7 @@ Being most unfit to live. I have made you mad;
 And even with such-like valour men hang and drown  
 Their proper selves.
 
-*ALONSO, SEBASTIA & c. draw their swords*
+*ALONSO, SEBASTIAN & c. draw their swords*
 
 You fools! I and my fellows  
 Are ministers of Fate: the elements,  
@@ -2616,23 +2705,23 @@ Kill the still-closing waters, as diminish
 One dowle that's in my plume: my fellow-ministers  
 Are like invulnerable. If you could hurt,  
 Your swords are now too massy for your strengths  
-And will not be uplifted. But remember-  
-For that's my business to you-that you three  
+And will not be uplifted. But remember--  
+For that's my business to you--that you three  
 From Milan did supplant good Prospero;  
 Exposed unto the sea, which hath requit it,  
-He and his innocent child: for which foul deed  
+Him and his innocent child: for which foul deed  
 The powers, delaying, not forgetting, have  
 Incensed the seas and shores, yea, all the creatures,  
 Against your peace. Thee of thy son, Alonso,  
 They have bereft; and do pronounce by me:  
 Lingering perdition, worse than any death  
 Can be at once, shall step by step attend  
-You and your ways; whose wraths to guard you from-  
+You and your ways; whose wraths to guard you from--  
 Which here, in this most desolate isle, else falls  
-Upon your heads-is nothing but heart-sorrow  
+Upon your heads--is nothing but heart-sorrow  
 And a clear life ensuing.
 
-*She vanishes in thunder; then, to soft music enter the Shapes again, and
+*He vanishes in thunder; then, to soft music enter the Shapes again, and
 dance, with mocks and mows, and carrying out the table*
 
 **PROSPERO**  
@@ -2651,7 +2740,7 @@ And his and mine loved darling.
 *Exit above*
 
 **GONZALO**  
-I'the name of something holy, sir, why stand you  
+I' the name of something holy, sir, why stand you  
 In this strange stare? /
 
 **ALONSO**  
@@ -2660,7 +2749,7 @@ Methought the billows spoke and told me of it;
 The winds did sing it to me, and the thunder,  
 That deep and dreadful organ-pipe, pronounced  
 The name of Prosper: it did bass my trespass.  
-Therefore my son i'the ooze is bedded, and  
+Therefore my son i' the ooze is bedded, and  
 I'll seek him deeper than e'er plummet sounded  
 And with him there lie mudded. /
 
@@ -2677,7 +2766,14 @@ I'll fight their legions o'er. /
 
 **GONZALO**  
 All three of them are desperate: their great guilt,  
-Like poison given to work a great time after!
+Like poison given to work a great time after,  
+Now 'gins to bite the spirits. I do beseech you  
+That are of suppler joints, follow them swiftly  
+And hinder them from what this ecstasy  
+May now provoke them to. /
+
+**ADRIAN**  
+/ Follow, I pray you.
 
 *Exeunt*
 
@@ -2773,7 +2869,7 @@ Till thou dost hear me call. /
 **PROSPERO**  
 Look thou be true; do not give dalliance  
 Too much the rein: the strongest oaths are straw  
-To the fire i'the blood: be more abstemious,  
+To the fire i' the blood: be more abstemious,  
 Or else, good night your vow! /
 
 **FERDINAND**  
@@ -2802,7 +2898,7 @@ To make cold nymphs chaste crowns; and thy broom -groves,
 Whose shadow the dismissed bachelor loves,  
 Being lass-lorn: thy pole-clipt vineyard;  
 And thy sea-marge, sterile and rocky-hard,  
-Where thou thyself dost air;-the queen o'the sky,  
+Where thou thyself dost air;--the queen o' the sky,  
 Whose watery arch and messenger am I,  
 Bids thee leave these, and with her sovereign grace,  
 Here on this grass-plot, in this very place,  
@@ -2888,8 +2984,36 @@ My present fancies. /
 
 **FERDINAND**  
 / Let me live here ever;  
-So rare a wonder'd mother and a wife  
-Makes this place Paradise.
+So rare a wonder'd father and a wife  
+Makes this place Paradise. /
+
+*Juno and Ceres whisper, and send Iris on employment*
+
+**PROSPERO**  
+/ Sweet, now, silence!  
+Juno and Ceres whisper seriously;  
+There's something else to do: hush, and be mute,  
+Or else our spell is marr'd.
+
+**IRIS**  
+You nymphs, call'd Naiads, of the windring brooks,  
+With your sedged crowns and ever-harmless looks,  
+Leave your crisp channels and on this green land  
+Answer your summons; Juno does command:  
+Come, temperate nymphs, and help to celebrate  
+A contract of true love; be not too late.
+
+*Enter certain Nymphs*
+
+You sunburnt sicklemen, of August weary,  
+Come hither from the furrow and be merry:  
+Make holiday; your rye-straw hats put on  
+And these fresh nymphs encounter every one  
+In country footing.
+
+*Enter certain Reapers, properly habited: they join with the Nymphs in a
+graceful dance; towards the end whereof PROSPERO starts suddenly, and speaks;
+after which, to a strange, hollow, and confused noise, they heavily vanish*
 
 **PROSPERO**  
 *\[Aside]*  
@@ -2929,7 +3053,7 @@ If you be pleased, retire into my cell
 And there repose: a turn or two I'll walk,  
 To still my beating mind. /
 
-**FERDINAND** **MIRANDA**  
+**FERDINAND & MIRANDA**  
 / We wish your peace.
 
 *Exeunt*
@@ -3012,19 +3136,19 @@ which my nose is in great indignation.
 
 **STEPHANO**  
 So is mine. Do you hear, monster? If I should take  
-a displeasure against you, look you, -
+a displeasure against you, look you,--
 
 **TRINCULO**  
 Thou wert but a lost monster.
 
 **CALIBAN**  
-Good master, give me thy favour still.  
+Good my lord, give me thy favour still.  
 Be patient, for the prize I'll bring thee to  
 Shall hoodwink this mischance: therefore speak softly.  
 All's hush'd as midnight yet.
 
 **TRINCULO**  
-Ay, but to lose our bottles in the pool, --
+Ay, but to lose our bottles in the pool,--
 
 **STEPHANO**  
 There is not only disgrace and dishonour in that,  
@@ -3035,12 +3159,12 @@ That's more to me than my wetting: yet this is your
 harmless fairy, monster.
 
 **STEPHANO**  
-I will fetch off my bottle, though I be o 'er ears  
+I will fetch off my bottle, though I be o'er ears  
 for my labour.
 
 **CALIBAN**  
 Prithee, my king, be quiet. Seest thou here,  
-This is the mouth o'the cell: no noise, and enter.  
+This is the mouth o' the cell: no noise, and enter.  
 Do that good mischief which may make this island  
 Thine own for ever, and I, thy Caliban,  
 For aye thy foot-licker.
@@ -3074,7 +3198,7 @@ From toe to crown he'll fill our skins with pinches,
 Make us strange stuff.
 
 **STEPHANO**  
-Be you quiet, monster. Master line,  
+Be you quiet, monster. Mistress line,  
 is not this my jerkin? Now is the jerkin under  
 the line: now, jerkin, you are like to lose your  
 hair and prove a bald jerkin.
@@ -3085,7 +3209,7 @@ Do, do: we steal by line and level, an 't like your grace.
 **STEPHANO**  
 I thank thee for that jest; here's a garment for't:  
 wit shall not go unrewarded while I am king of this  
-country.'steal by line and level' is an excellent  
+country. 'Steal by line and level' is an excellent  
 pass of pate; there's another garment for't.
 
 **TRINCULO**  
@@ -3111,7 +3235,7 @@ Ay, and this.
 *A noise of hunters heard.*
 
 *Enter divers Spirits, in shape of dogs and hounds, and hunt them about,
-PROSPERA and ARIEL setting them on.*
+PROSPERO and ARIEL setting them on.*
 
 **PROSPERO**  
 Hey, Mountain, hey!
@@ -3127,7 +3251,7 @@ Fury, Fury! there, Tyrant, there! hark! hark!
 Go charge my goblins that they grind their joints  
 With dry convulsions, shorten up their sinews  
 With aged cramps, and more pinch-spotted make them  
-Than pard or cat o'mountain.
+Than pard or cat o' mountain.
 
 **ARIEL**  
 Hark, they roar!
@@ -3145,7 +3269,7 @@ Follow, and do me service.
 
 ### SCENE I. Before PROSPERO'S cell.
 
-*Enter PROSPERO in her magic robes, and ARIEL*
+*Enter PROSPERO in his magic robes, and ARIEL*
 
 **PROSPERO**  
 Now does my project gather to a head:  
@@ -3153,7 +3277,7 @@ My charms crack not; my spirits obey; and time
 Goes upright with his carriage. How's the day?
 
 **ARIEL**  
-On the sixth hour; at which time, master,  
+On the sixth hour; at which time, my lord,  
 You said our work should cease. /
 
 **PROSPERO**  
@@ -3164,11 +3288,13 @@ How fares the king and's followers? /
 **ARIEL**  
 / Confined together  
 In the same fashion as you gave in charge,  
-Just as you left them; all prisoners, true,  
+Just as you left them; all prisoners, sir,  
 In the line-grove which weather-fends your cell;  
 They cannot budge till your release. The king,  
-His brother, and your brother abide distracted.  
-Him that you term'd, ma'am, 'The good old lord Gonzalo;'  
+His brother, and yours, abide all three distracted  
+And the remainder mourning over them,  
+Brimful of sorrow and dismay; but chiefly  
+Him that you term'd, sir, 'The good old lord Gonzalo;'  
 His tears run down his beard, like winter's drops  
 From eaves of reeds. Your charm so strongly works 'em  
 That if you now beheld them, your affections  
@@ -3196,12 +3322,29 @@ My charms I'll break, their senses I'll restore,
 And they shall be themselves. /
 
 **ARIEL**  
-/ I'll fetch them, then.
+/ I'll fetch them, sir.
 
 *Exit*
 
 **PROSPERO**  
-This rough magic  
+Ye elves of hills, brooks, standing lakes and groves,  
+And ye that on the sands with printless foot  
+Do chase the ebbing Neptune and do fly him  
+When he comes back; you demi-puppets that  
+By moonshine do the green sour ringlets make,  
+Whereof the ewe not bites, and you whose pastime  
+Is to make midnight mushrooms, that rejoice  
+To hear the solemn curfew; by whose aid,  
+Weak masters though ye be, I have bedimm'd  
+The noontide sun, call'd forth the mutinous winds,  
+And 'twixt the green sea and the azured vault  
+Set roaring war: to the dread rattling thunder  
+Have I given fire and rifted Jove's stout oak  
+With his own bolt; the strong-based promontory  
+Have I made shake and by the spurs pluck'd up  
+The pine and cedar: graves at my command  
+Have waked their sleepers, oped, and let 'em forth  
+By my so potent art. But this rough magic  
 I here abjure, and, when I have required  
 Some heavenly music, which even now I do,  
 To work mine end upon their senses that  
@@ -3224,6 +3367,12 @@ To an unsettled fancy cure thy brains,
 Now useless, boil'd within thy skull! There stand,  
 For you are spell-stopp'd.  
 Holy Gonzalo, honourable man,  
+Mine eyes, even sociable to the show of thine,  
+Fall fellowly drops. The charm dissolves apace,  
+And as the morning steals upon the night,  
+Melting the darkness, so their rising senses  
+Begin to chase the ignorant fumes that mantle  
+Their clearer reason. O good Gonzalo,  
 My true preserver, and a loyal sir  
 To him you follow'st! I will pay thy graces  
 Home both in word and deed. Most cruelly  
@@ -3244,8 +3393,8 @@ I will discase me, and myself present
 As I was sometime Milan: quickly, spirit;  
 Thou shalt ere long be free.
 
-**ARIEL:**
-*\[sings and helps to attire him]*  
+**ARIEL**  
+*\[Sings and helps to attire him]*  
 Where the bee sucks. there suck I:  
 In a cowslip's bell I lie;  
 There I couch when owls do cry.  
@@ -3259,8 +3408,8 @@ Why, that's my dainty Ariel! I shall miss thee:
 But yet thou shalt have freedom: so, so, so.  
 To the king's ship, invisible as thou art:  
 There shalt thou find the mariners asleep  
-Under the hatches. So return as the boatswain  
-Who now awakes. Enforce them to this place,  
+Under the hatches; the master and the boatswain  
+Being awake, enforce them to this place,  
 And presently, I prithee.
 
 **ARIEL**  
@@ -3276,7 +3425,7 @@ Out of this fearful country! /
 
 **PROSPERO**  
 / Behold, sir king,  
-The wronged Duke Milan, Prospero:  
+The wronged Duke of Milan, Prospero:  
 For more assurance that a living prince  
 Does now speak to thee, I embrace thy body;  
 And to thee and thy company I bid  
@@ -3305,18 +3454,18 @@ Or be not, I'll not swear. /
 
 **PROSPERO**  
 / You do yet taste  
-Some subtleties o'the isle, that will not let you  
+Some subtleties o' the isle, that will not let you  
 Believe things certain. Welcome, my friends all!
 
 *\[Aside to SEBASTIAN and ANTONIO]*  
 But you, my brace of lords, were I so minded,  
-I here could pluck his highness'frown upon you  
+I here could pluck his highness' frown upon you  
 And justify you traitors: at this time  
 I will tell no tales. /
 
 **SEBASTIAN**  
 *\[Aside]*  
-/ The devil speaks in her. /
+/ The devil speaks in him. /
 
 **PROSPERO**  
 / No.  
@@ -3374,6 +3523,9 @@ That I am Prospero and that very duke
 Which was thrust forth of Milan, who most strangely  
 Upon this shore, where you were wreck'd, was landed,  
 To be the lord on't. No more yet of this;  
+For 'tis a chronicle of day by day,  
+Not a relation for a breakfast nor  
+Befitting this first meeting. Welcome, sir;  
 This cell's my court: here have I few attendants  
 And subjects none abroad: pray you, look in.  
 My dukedom since you have given me again,  
@@ -3432,7 +3584,7 @@ And brought us thus together? /
 But by immortal Providence she's mine:  
 I chose her when I could not ask my father  
 For his advice, nor thought I had one. She  
-Is daughter to this famous Duke Milan,  
+Is daughter to this famous Duke of Milan,  
 Of whom so often I have heard renown,  
 But never saw before; of whom I have  
 Received a second life; and second father  
@@ -3478,7 +3630,7 @@ That doth not wish you joy! /
 **GONZALO**  
 / Be it so! Amen!
 
-*Re-enter ARIEL, attired as the Boatswain*
+*Re-enter ARIEL, with the Master and Boatswain amazedly following*
 
 O, look, sir, look, sir! here is more of us:  
 I prophesied, if a gallows were on land,  
@@ -3486,13 +3638,14 @@ This fellow could not drown. Now, blasphemy,
 That swear'st grace o'erboard, not an oath on shore?  
 Hast thou no mouth by land? What is the news?
 
-**ARIEL**  
+**Boatswain**  
 The best news is, that we have safely found  
-Our king and company; the next, our ship -  
-Which, but three glasses since, we gave out split-  
+Our king and company; the next, our ship--  
+Which, but three glasses since, we gave out split--  
 Is tight and yare and bravely rigg'd as when  
 We first put out to sea. /
 
+**ARIEL**  
 *\[Aside to PROSPERO]*  
 / Sir, all this service  
 Have I done since I went. /
@@ -3505,10 +3658,10 @@ Have I done since I went. /
 These are not natural events; they strengthen  
 From strange to stranger. Say, how came you hither?
 
-**ARIEL**  
+**Boatswain**  
 If I did think, sir, I were well awake,  
-I 'ld strive to tell you. We were dead of sleep,  
-And-how we know not-all clapp'd under hatches;  
+I'ld strive to tell you. We were dead of sleep,  
+And--how we know not--all clapp'd under hatches;  
 Where but even now with strange and several noises  
 Of roaring, shrieking, howling, jingling chains,  
 And more diversity of sounds, all horrible,  
@@ -3527,7 +3680,7 @@ And were brought moping hither. /
 Bravely, my diligence. Thou shalt be free.
 
 **ALONSO**  
-This is as strange a maze as e 'er men trod  
+This is as strange a maze as e'er men trod  
 And there is in this business more than nature  
 Was ever conduct of: some oracle  
 Must rectify our knowledge. /
@@ -3578,14 +3731,14 @@ Very like; one of them
 Is a plain fish, and, no doubt, marketable.
 
 **PROSPERO**  
-Mark but the badges of these fools, my lords,  
+Mark but the badges of these men, my lords,  
 Then say if they be true. This mis-shapen knave,  
 His mother was a witch, and one so strong  
 That could control the moon, make flows and ebbs,  
 And deal in her command without her power.  
-These three have robb'd me; and this demi-devil-  
-For he's a bastard one-had plotted with them  
-To take my life. Two of these others you  
+These three have robb'd me; and this demi-devil--  
+For he's a bastard one--had plotted with them  
+To take my life. Two of these fellows you  
 Must know and own; this thing of darkness!  
 Acknowledge mine. /
 
@@ -3615,19 +3768,19 @@ Why, how now, Stephano!
 O, touch me not; I am not Stephano, but a cramp.
 
 **PROSPERO**  
-You 'ld be king o'the isle, sir?
+You'ld be king o' the isle, sirrah?
 
 **STEPHANO**  
 I should have been a sore one then.
 
 **ALONSO**  
-This is a strange thing as e 'er I look'd on.
+This is a strange thing as e'er I look'd on.
 
 *Pointing to Caliban*
 
 **PROSPERO**  
 He is as disproportion'd in his manners  
-As in his shape. Go, sir, to my cell;  
+As in his shape. Go, sirrah, to my cell;  
 Take with you your companions; as you look  
 To have my pardon, trim it handsomely.
 
@@ -3657,6 +3810,8 @@ Go quick away; the story of my life
 And the particular accidents gone by  
 Since I came to this isle: and in the morn  
 I'll bring you to your ship and so to Naples,  
+Where I have hope to see the nuptial  
+Of these our dear-beloved solemnized;  
 And thence retire me to my Milan, where  
 Every third thought shall be my grave. /
 
@@ -3678,10 +3833,10 @@ Be free, and fare thou well! Please you, draw near.
 
 *Exeunt*
 
-## EPILOGUE
+# EPILOGUE
 
 **PROSPERO**  
-Now my charms are all o 'erthrown,  
+Now my charms are all o'erthrown,  
 And what strength I have's mine own,  
 Which is most faint: now, 'tis true,  
 I must be here confined by you,  

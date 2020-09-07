@@ -2183,7 +2183,7 @@ till thy return: well, harken at the end.
 **FALSTAFF**  
 Some sack, Francis.
 
-**PRINCE HENRY** **POINS**  
+**PRINCE HENRY & POINS**  
 Anon, anon, sir.
 
 *Coming forward*
@@ -4670,7 +4670,7 @@ O God, I fear all will be overturn'd!
 **LANCASTER**  
 Good morrow, cousin Warwick, good morrow.
 
-**GLOUCESTER** **CLARENCE**  
+**GLOUCESTER & CLARENCE**  
 Good morrow, cousin.
 
 **LANCASTER**  
