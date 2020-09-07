@@ -1,8 +1,6 @@
-# ACT I
+## ACT I
 
-### PROLOGUE
-
-*Before the palace of Antioch.*
+### PROLOGUE. Before the palace of Antioch.
 
 *Enter GOWER*
 
@@ -19,7 +17,7 @@ The purchase is to make men glorious;
 Et bonum quo antiquius, eo melius.  
 If you, born in these latter times,  
 When wit's more ripe, accept my rhymes.  
-And that to hear a lady sing  
+And that to hear an old man sing  
 May to your wishes pleasure bring  
 I life would wish, and that I might  
 Waste it for you, like taper-light.  
@@ -87,7 +85,7 @@ As I am son and servant to your will,
 To compass such a boundless happiness!
 
 **ANTIOCHUS**  
-Prince Pericles, -
+Prince Pericles,--
 
 **PERICLES**  
 That would be son to great Antiochus.
@@ -151,6 +149,7 @@ I mother, wife, and yet his child.
 How they may be, and yet in two,  
 As you will live, resolve it you.
 
+*\[Speaks]*  
 Sharp physic is the last: but, O you powers  
 That give heaven countless eyes to view men's acts,  
 Why cloud they not their sights perpetually,  
@@ -172,7 +171,7 @@ Then give my tongue like leave to love my head.
 **ANTIOCHUS**  
 *\[Aside]*  
 Heaven, that I had thy head! he has found the meaning:  
-But I will gloze with him. -Young prince of Tyre,  
+But I will gloze with him.--Young prince of Tyre,  
 Though by the tenor of our strict edict,  
 Your exposition misinterpreting,  
 We might proceed to cancel of your days;  
@@ -226,10 +225,11 @@ And for your faithfulness we will advance you.
 Thaliard, behold, here's poison, and here's gold;  
 We hate the prince of Tyre, and thou must kill him:  
 It fits thee not to ask the reason why,  
-Because we bid it. Say, is it done?
+Because we bid it. Say, is it done? /
 
 **THALIARD**  
-My lord, 'Tis done. /
+/ My lord,  
+'Tis done. /
 
 **ANTIOCHUS**  
 / Enough.
@@ -248,7 +248,7 @@ My lord, prince Pericles is fled. /
 Wilt live, fly after: and like an arrow shot  
 From a well-experienced archer hits the mark  
 His eye doth level at, so thou ne'er return  
-Unless thou say'Prince Pericles is dead.'
+Unless thou say 'Prince Pericles is dead.'
 
 **THALIARD**  
 My lord,  
@@ -256,11 +256,11 @@ If I can get him within my pistol's length,
 I'll make him sure enough: so, farewell to your highness.
 
 **ANTIOCHUS**  
-Thaliard, adieu!
+Thaliard, adieu! /
 
 *Exit THALIARD*
 
-Till Pericles be dead,  
+/ Till Pericles be dead,  
 My heart can lend no succor to my head.
 
 *Exit*
@@ -331,7 +331,7 @@ Attend me, then: I went to Antioch,
 Where as thou know'st, against the face of death,  
 I sought the purchase of a glorious beauty.  
 Her face was to mine eye beyond all wonder;  
-The rest - hark in thine ear - as black as incest:  
+The rest--hark in thine ear--as black as incest:  
 Which by my knowledge found, the sinful father  
 Seem'd not to strike, but smooth: but thou know'st this,  
 'Tis time to fear when tyrants seem to kiss.  
@@ -348,10 +348,10 @@ And make pretence of wrong that I have done him:
 When all, for mine, if I may call offence,  
 Must feel war's blow, who spares not innocence:  
 Which love to all, of which thyself art one,  
-Who now reprovest me for it,-
+Who now reprovest me for it,-- /
 
 **HELICANUS**  
-Alas, sir!
+/ Alas, sir!
 
 **PERICLES**  
 Drew sleep out of mine eyes, blood from my cheeks,  
@@ -425,14 +425,14 @@ How! the king gone!
 If further yet you will be satisfied,  
 Why, as it were unlicensed of your love,  
 He would depart, I'll give some light unto you.  
-Being at Antioch-
+Being at Antioch-- /
 
 **THALIARD**  
 *\[Aside]*  
-What from Antioch?
+/ What from Antioch?
 
 **HELICANUS**  
-Royal Antiochus -on what cause I know not-  
+Royal Antiochus--on what cause I know not--  
 Took some displeasure at him; at least he judged so:  
 And doubting lest that he had err'd or sinn'd,  
 To show his sorrow, he'ld correct himself;  
@@ -444,7 +444,7 @@ With whom each minute threatens life or death.
 Well, I perceive  
 I shall not be hang'd now, although I would;  
 But since he's gone, the king's seas must please:  
-He'scaped the land, to perish at the sea.  
+He 'scaped the land, to perish at the sea.  
 I'll present myself. Peace to the lords of Tyre!
 
 **HELICANUS**  
@@ -471,8 +471,8 @@ As friends to Antioch, we may feast in Tyre.
 
 **CLEON**  
 My Dionyza, shall we rest us here,  
-And by relating tales of others ' griefs,  
-See if'twill teach us to forget our own?
+And by relating tales of others' griefs,  
+See if 'twill teach us to forget our own?
 
 **DIONYZA**  
 That were to blow at fire in hope to quench it;  
@@ -619,7 +619,7 @@ The which when any shall not gratify,
 Or pay you with unthankfulness in thought,  
 Be it our wives, our children, or ourselves,  
 The curse of heaven and men succeed their evils!  
-Till when, -the which I hope shall ne'er be seen,-  
+Till when,--the which I hope shall ne'er be seen,--  
 Your grace is welcome to our town and us.
 
 **PERICLES**  
@@ -628,7 +628,7 @@ Until our stars that frown lend us a smile.
 
 *Exeunt*
 
-# ACT II
+## ACT II
 
 ### PROLOGUE
 
@@ -683,7 +683,7 @@ Ne aught escapen but himself;
 Till fortune, tired with doing bad,  
 Threw him ashore, to give him glad:  
 And here he comes. What shall be next,  
-Pardon old Gower,-this longs the text.
+Pardon old Gower,--this longs the text.
 
 *Exit*
 
@@ -737,10 +737,10 @@ marvel how the fishes live in the sea.
 **First Fisherman**  
 Why, as men do a-land; the great ones eat up the  
 little ones: I can compare our rich misers to  
-nothing so fitly as to a whale; a ' plays and  
+nothing so fitly as to a whale; a' plays and  
 tumbles, driving the poor fry before him, and at  
 last devours them all at a mouthful: such whales  
-have I heard on o ' the land, who never leave gaping  
+have I heard on o' the land, who never leave gaping  
 till they've swallowed the whole parish, church,  
 steeple, bells, and all.
 
@@ -761,7 +761,7 @@ had been in his belly, I would have kept such a
 jangling of the bells, that he should never have  
 left, till he cast bells, steeple, church, and  
 parish up again. But if the good King Simonides  
-were of my mind, -
+were of my mind,--
 
 **PERICLES**  
 *\[Aside]*  
@@ -840,7 +840,7 @@ I did but crave.
 
 **Second Fisherman**  
 But crave! Then I'll turn craver too, and so I  
-shall'scape whipping.
+shall 'scape whipping.
 
 **PERICLES**  
 Why, are all your beggars whipped, then?
@@ -890,13 +890,13 @@ to make one there.
 
 **First Fisherman**  
 O, sir, things must be as they may; and what a man  
-cannot get, he may lawfully deal for -his wife's soul.
+cannot get, he may lawfully deal for his wife's soul.
 
 *Re-enter Second Fisherman, drawing up a net*
 
 **Second Fisherman**  
 Help, master, help! here's a fish hangs in the net,  
-like a poor man's right in the law;'twill hardly  
+like a poor man's right in the law; 'twill hardly  
 come out. Ha! bots on't, 'tis come at last, and  
 'tis turned to a rusty armour.
 
@@ -932,7 +932,7 @@ Why, wilt thou tourney for the lady?
 I'll show the virtue I have borne in arms.
 
 **First Fisherman**  
-Why, do'e take it, and the gods give thee good on't!
+Why, do 'e take it, and the gods give thee good on't!
 
 **Second Fisherman**  
 Ay, but hark you, my friend; 'twas we that made up  
@@ -942,7 +942,7 @@ hope, sir, if you thrive, you'll remember from
 whence you had it.
 
 **PERICLES**  
-Believe't, I will.  
+Believe 't, I will.  
 By your furtherance I am clothed in steel;  
 And, spite of all the rapture of the sea,  
 This jewel holds his building on my arm:  
@@ -964,7 +964,7 @@ This day I'll rise, or else add ill to ill.
 
 ### SCENE II. The same. A public way or platform leading to the lists. A pavilion by the side of it for the reception of King, Princess, and a Lord.
 
-*Enter SIMONIDES, First Lord, and THAISA*
+*Enter SIMONIDES, Lord of Pentapolis, and THAISA*
 
 **SIMONIDES**  
 Are the knights ready to begin the triumph?
@@ -1003,7 +1003,7 @@ Who is the first that doth prefer himself?
 A knight of Sparta, my renowned father;  
 And the device he bears upon his shield  
 Is a black Ethiope reaching at the sun  
-The word,'Lux tua vita mihi.'
+The word, 'Lux tua vita mihi.'
 
 **SIMONIDES**  
 He loves you well that holds his life of you.
@@ -1016,7 +1016,7 @@ Who is the second that presents himself?
 A prince of Macedon, my royal father;  
 And the device he bears upon his shield  
 Is an arm'd knight that's conquer'd by a lady;  
-The motto thus, in Spanish,'Piu por dulzura que por fuerza.'
+The motto thus, in Spanish, 'Piu por dulzura que por fuerza.'
 
 *The Third Knight passes over*
 
@@ -1026,7 +1026,7 @@ And what's the third? /
 **THAISA**  
 / The third of Antioch;  
 And his device, a wreath of chivalry;  
-The word,'Me pompae provexit apex.' /
+The word, 'Me pompae provexit apex.' /
 
 *The Fourth Knight, PERICLES, passes over*
 
@@ -1038,7 +1038,7 @@ With such a graceful courtesy deliver'd?
 **THAISA**  
 He seems to be a stranger; but his present is  
 A wither'd branch, that's only green at top;  
-The motto,'In hac spe vivo.' /
+The motto, 'In hac spe vivo.' /
 
 **SIMONIDES**  
 / A pretty moral;  
@@ -1059,7 +1059,7 @@ Into the gallery.
 
 *Exeunt*
 
-*Great shouts within and all cry'The mean knight!'*
+*Great shouts within and all cry 'The mean knight!'*
 
 ### SCENE III. The same. A hall of state: a banquet prepared.
 
@@ -1088,8 +1088,8 @@ Call it by what you will, the day is yours;
 And here, I hope, is none that envies it.  
 In framing an artist, art hath thus decreed,  
 To make some good, but others to exceed;  
-And you are her laboured scholar.  
-Come, queen o' the feast,- for, daughter, so you are,-  
+And you are her labour'd scholar. Come, queen o' the feast,--  
+For, daughter, so you are,--here take your place:  
 Marshal the rest, as they deserve their grace.
 
 **First Knight**  
@@ -1153,8 +1153,8 @@ What, are you merry, knights?
 Who can be other in this royal presence?
 
 **SIMONIDES**  
-Here, with a cup that's stored unto the brim,-  
-As you do love, fill to your mistress' lips,-  
+Here, with a cup that's stored unto the brim,--  
+As you do love, fill to your mistress' lips,--  
 We drink this health to you. /
 
 **Third Knight**  
@@ -1244,14 +1244,15 @@ Since they love men in arms as well as beds.
 Unclasp, unclasp:  
 Thanks, gentlemen, to all; all have done well.
 
-*To PERICLES*
+*\[To PERICLES]*  
+But you the best. /
 
-But you the best. Pages and lights, to conduct  
-These knights unto their several lodgings!
+*\[To Knights]*  
+/ Pages and lights, to conduct  
+These knights unto their several lodgings! /
 
-*To PERICLES*
-
-Yours, sir,  
+*\[To PERICLES]*  
+/ Yours, sir,  
 We have given order to be next our own.
 
 **PERICLES**  
@@ -1329,11 +1330,11 @@ And leave us to our free election.
 
 **Second Lord**  
 Whose death indeed's the strongest in our censure:  
-And knowing this kingdom is without a head,-  
+And knowing this kingdom is without a head,--  
 Like goodly buildings left without a roof  
-Soon fall to ruin,-your noble self,  
+Soon fall to ruin,--your noble self,  
 That best know how to rule and how to reign,  
-We thus submit unto,-our sovereign.
+We thus submit unto,--our sovereign.
 
 **Both Lords**  
 Live, noble Helicane!
@@ -1389,12 +1390,12 @@ This by the eye of Cynthia hath she vow'd
 And on her virgin honour will not break it.
 
 **Second Knight**  
-Loath to bid farewell, we'll take our leaves.
+Loath to bid farewell, we'll take our leaves. /
 
 *Exit Knight*
 
 **SIMONIDES**  
-So,  
+/ So,  
 They are well dispatch'd; now to my daughter's letter:  
 She tells me here, she'd wed the stranger knight,  
 Or never more to view nor day nor light.  
@@ -1462,10 +1463,10 @@ But bent all offices to honour her.
 
 **SIMONIDES**  
 Thou hast bewitch'd my daughter, and thou art  
-A villain.
+A villain. /
 
 **PERICLES**  
-By the gods, I have not:  
+/ By the gods, I have not:  
 Never did thought of mine levy offence;  
 Nor never did my actions yet commence  
 A deed might gain her love or your displeasure.
@@ -1480,7 +1481,7 @@ Traitor, thou liest. /
 / Ay, traitor.
 
 **PERICLES**  
-Even in his throat -unless it be the king-  
+Even in his throat--unless it be the king--  
 That calls me traitor, I return the lie.
 
 **SIMONIDES**  
@@ -1493,10 +1494,10 @@ That never relish'd of a base descent.
 I came unto your court for honour's cause,  
 And not to be a rebel to her state;  
 And he that otherwise accounts of me,  
-This sword shall prove he's honour's enemy.
+This sword shall prove he's honour's enemy. /
 
 **SIMONIDES**  
-No?  
+/ No?  
 Here comes my daughter, she can witness it.
 
 *Enter THAISA*
@@ -1515,23 +1516,32 @@ Who takes offence at that would make me glad?
 Yea, mistress, are you so peremptory?
 
 *\[Aside]*  
-I am glad on't with all my heart.-  
+I am glad on't with all my heart.--
+
+*\[To THAISA]*  
 I'll tame you; I'll bring you in subjection.  
 Will you, not having my consent,  
 Bestow your love and your affections  
-Upon a stranger?
+Upon a stranger? /
 
 *\[Aside]*  
-who, for aught I know,  
+/ who, for aught I know,  
 May be, nor can I think the contrary,  
-As great in blood as I myself. -  
+As great in blood as I myself.--
+
+*\[To THAISA]*  
 Therefore hear you, mistress; either frame  
-Your will to mine,-and you, sir, hear you,  
-Either be ruled by me, or I will make you-  
-Man and wife:  
+Your will to mine, /
+
+*\[To PERICLES]*  
+/ --and you, sir, hear you,  
+Either be ruled by me, or I will make you--  
+Man and wife:
+
+*\[To Both]*  
 Nay, come, your hands and lips must seal it too:  
 And being join'd, I'll thus your hopes destroy;  
-And for a further grief,-God give you joy!-  
+And for a further grief,--God give you joy!--  
 What, are you both pleased? /
 
 **THAISA**  
@@ -1552,7 +1562,7 @@ And then with what haste you can get you to bed.
 
 *Exeunt*
 
-# ACT III
+## ACT III
 
 ### PROLOGUE
 
@@ -1599,8 +1609,8 @@ Antiochus and his daughter dead;
 The men of Tyrus on the head  
 Of Helicanus would set on  
 The crown of Tyre, but he will none:  
-The mutiny he there hastes t ' oppress;  
-Says to'em, if King Pericles  
+The mutiny he there hastes t' oppress;  
+Says to 'em, if King Pericles  
 Come not home in twice six moons,  
 He, obedient to their dooms,  
 Will take the crown. The sum of this,  
@@ -1610,8 +1620,8 @@ And every one with claps can sound,
 'Our heir-apparent is a king!  
 Who dream'd, who thought of such a thing?'  
 Brief, he must hence depart to Tyre:  
-His queen with child makes her desire-  
-Which who shall cross?-along to go:  
+His queen with child makes her desire--  
+Which who shall cross?--along to go:  
 Omit we all their dole and woe:  
 Lychorida, her nurse, she takes,  
 And so to sea. Their vessel shakes  
@@ -1642,7 +1652,7 @@ The sea-tost Pericles appears to speak.
 How does my queen? Thou stormest venomously;  
 Wilt thou spit all thyself? The seaman's whistle  
 Is as a whisper in the ears of death,  
-Unheard. Lychorida!-Lucina, O  
+Unheard. Lychorida!--Lucina, O  
 Divinest patroness, and midwife gentle  
 To those that cry by night, convey thy deity  
 Aboard our dancing boat; make swift the pangs  
@@ -1919,7 +1929,7 @@ Well said, well said; the fire and cloths.
 The rough and woeful music that we have,  
 Cause it to sound, beseech you.  
 The viol once more: how thou stirr'st, thou block!  
-The music there!-I pray you, give her air.  
+The music there!--I pray you, give her air.  
 Gentlemen.  
 This queen will live: nature awakes; a warmth  
 Breathes out of her: she hath not been entranced  
@@ -1980,10 +1990,10 @@ Yet glance full wanderingly on us.
 **DIONYZA**  
 O your sweet queen!  
 That the strict fates had pleased you had brought her hither,  
-To have bless'd mine eyes with her!
+To have bless'd mine eyes with her! /
 
 **PERICLES**  
-We cannot but obey  
+/ We cannot but obey  
 The powers above us. Could I rage and roar  
 As doth the sea she lies in, yet the end  
 Must be as 'tis. My gentle babe Marina, whom,  
@@ -2066,7 +2076,7 @@ Yet my good will is great, though the gift small.
 
 # INTERMISSION
 
-# ACT IV
+## ACT IV
 
 ### PROLOGUE
 
@@ -2147,7 +2157,7 @@ I will do't; but yet she is a goodly creature.
 
 **DIONYZA**  
 The fitter, then, the gods should have her. Here  
-she comes weeping for her only mistress ' death.  
+she comes weeping for her only mistress' death.  
 Thou art resolved? /
 
 **LEONINE**  
@@ -2229,7 +2239,7 @@ When I was born, the wind was north. /
 
 **MARINA**  
 My father, as nurse said, did never fear,  
-But cried'Good seaman!' to the sailors, galling  
+But cried 'Good seaman!' to the sailors, galling  
 His kingly hands, haling ropes;  
 And, clasping to the mast, endured a sea  
 That almost burst the deck. /
@@ -2241,7 +2251,7 @@ That almost burst the deck. /
 When I was born:  
 Never was waves nor wind more violent;  
 And from the ladder-tackle washes off  
-A canvas-climber.'Ha!' says one,'wilt out?'  
+A canvas-climber. 'Ha!' says one, 'wilt out?'  
 And with a dropping industry they skip  
 From stem to stern: the boatswain whistles, and  
 The master calls, and trebles their confusion.
@@ -2351,7 +2361,7 @@ every trade, we shall never prosper.
 
 **Bawd**  
 Thou sayest true: 'tis not our bringing up of poor  
-bastards,-as, I think, I have brought up some eleven-
+bastards,--as, I think, I have brought up some eleven--
 
 **BOULT**  
 Ay, to eleven; and brought them down again. But  
@@ -2434,7 +2444,7 @@ entertainment.
 **Bawd**  
 Boult, take you the marks of her, the colour of her  
 hair, complexion, height, age, with warrant of her  
-virginity; and cry'He that will give most shall  
+virginity; and cry 'He that will give most shall  
 have her first.' Such a maidenhead were no cheap  
 thing, if men were as they have been. Get this done  
 as I command you.
@@ -2526,7 +2536,7 @@ We shall have him here to-morrow with his best ruff on.
 
 **BOULT**  
 To-night, to-night. But, mistress, do you know the  
-French knight that cowers i ' the hams?
+French knight that cowers i' the hams?
 
 **Bawd**  
 Who, Monsieur Veroles?
@@ -2564,13 +2574,13 @@ O, take her home, mistress, take her home: these
 blushes of hers must be quenched with some present practise.
 
 **Bawd**  
-Thou sayest true, i ' faith, so they must; for your  
+Thou sayest true, i' faith, so they must; for your  
 bride goes to that with shame which is her way to go  
 with warrant.
 
 **BOULT**  
 'Faith, some do, and some do not. But, mistress, if  
-I have bargained for the joint,-
+I have bargained for the joint,--
 
 **Bawd**  
 Thou mayst cut a morsel off the spit.
@@ -2632,7 +2642,7 @@ Much less in blood than virtue, yet a princess
 To equal any single crown o' the earth  
 I' the justice of compare! O villain Leonine!  
 Whom thou hast poison'd too:  
-If thou hadst drunk to him,'t had been a kindness  
+If thou hadst drunk to him, 't had been a kindness  
 Becoming well thy fact: what canst thou say  
 When noble Pericles shall demand his child?
 
@@ -2722,8 +2732,8 @@ Advanced in time to great and high estate,
 Is left to govern. Bear you it in mind,  
 Old Helicanus goes along behind.  
 Well-sailing ships and bounteous winds have brought  
-This king to Tarsus,-think his pilot thought;  
-So with his steerage shall your thoughts grow on,-  
+This king to Tarsus,--think his pilot thought;  
+So with his steerage shall your thoughts grow on,--  
 To fetch his daughter home, who first is gone.  
 Like motes and shadows see them move awhile;  
 Your ears unto your eyes I'll reconcile.
@@ -2739,8 +2749,7 @@ in a mighty passion departs.*
 See how belief may suffer by foul show!  
 This borrow'd passion stands for true old woe;  
 And Pericles, in sorrow all devour'd,  
-With sighs shot through, and biggest tears  
-o'ershower'd,  
+With sighs shot through, and biggest tears o'ershower'd,  
 Leaves Tarsus and again embarks. He swears  
 Never to wash his face, nor cut his hairs:  
 He puts on sackcloth, and to sea. He bears  
@@ -2771,7 +2780,7 @@ And think you now are all in Mytilene.
 
 *Exit*
 
-### SCENE V. The same. A room in the brothel.
+### SCENE VI. Mytilene. A room in the brothel.
 
 *Enter Pandar, Bawd, and BOULT*
 
@@ -2822,7 +2831,7 @@ wholesome iniquity have you that a man may deal
 withal, and defy the surgeon?
 
 **Bawd**  
-We have here one, sir, if she would -but there never  
+We have here one, sir, if she would--but there never  
 came her like in Mytilene.
 
 **LYSIMACHUS**  
@@ -2836,7 +2845,7 @@ Well, call forth, call forth.
 
 **BOULT**  
 For flesh and blood, sir, white and red, you shall  
-see a rose; and she were a rose indeed, if she had but -
+see a rose; and she were a rose indeed, if she had but--
 
 **LYSIMACHUS**  
 What, prithee?
@@ -2870,7 +2879,7 @@ I'll have done presently.
 I beseech you, do.
 
 **Bawd**  
-*\[To MARINA]*
+*\[To MARINA]*  
 First, I would have you note, this is an honourable man.
 
 **MARINA**  
@@ -2908,7 +2917,7 @@ Now, pretty one, how long have you been at this trade?
 What trade, sir?
 
 **LYSIMACHUS**  
-Why, I cannot name't but I shall offend.
+Why, I cannot name 't but I shall offend.
 
 **MARINA**  
 I cannot be offended with my trade. Please you to name it.
@@ -2920,7 +2929,7 @@ How long have you been of this profession?
 E'er since I can remember.
 
 **LYSIMACHUS**  
-Did you go to't so young? Were you a gamester at  
+Did you go to 't so young? Were you a gamester at  
 five or at seven?
 
 **MARINA**  
@@ -2932,7 +2941,7 @@ creature of sale.
 
 **MARINA**  
 Do you know this house to be a place of such resort,  
-and will come into't? I hear say you are of  
+and will come into 't? I hear say you are of  
 honourable parts, and are the governor of this place.
 
 **LYSIMACHUS**  
@@ -2966,7 +2975,7 @@ Diseases have been sold dearer than physic,
 O, that the gods  
 Would set me free from this unhallow'd place,  
 Though they did change me to the meanest bird  
-That flies i'the purer air! /
+That flies i' the purer air! /
 
 **LYSIMACHUS**  
 / I did not think  
@@ -3139,14 +3148,14 @@ Come, I'll do for thee what I can; come your ways.
 
 *Exeunt*
 
-# ACT V
+## ACT V
 
 ### PROLOGUE
 
 *Enter GOWER*
 
 **GOWER**  
-Marina thus the brothel'scapes, and chances  
+Marina thus the brothel 'scapes, and chances  
 Into an honest house, our story says.  
 She sings like one immortal, and she dances  
 As goddess-like to her admired lays;  
@@ -3173,7 +3182,10 @@ Shall be discover'd; please you, sit and hark.
 
 *Exit*
 
-### SCENE I. On board PERICLES' ship, off Mytilene. A close pavilion on deck, with a curtain before it; PERICLES within it, reclined on a couch. A barge lying beside the Tyrian vessel.
+### SCENE I. On board PERICLES' ship, off Mytilene.
+
+*A close pavilion on deck, with a curtain before it; PERICLES within it, reclined on a
+couch. A barge lying beside the Tyrian vessel.*
 
 *Enter a Sailor*
 
@@ -3238,11 +3250,11 @@ To any. /
 / Yet let me obtain my wish.
 
 **HELICANUS**  
-Behold him.
+Behold him. /
 
 *PERICLES discovered*
 
-This was a goodly person,  
+/ This was a goodly person,  
 Till the disaster that, one mortal night,  
 Drove him to this.
 
@@ -3348,16 +3360,16 @@ My derivation was from ancestors
 Who stood equivalent with mighty kings:  
 But time hath rooted out my parentage,  
 And to the world and awkward casualties  
-Bound me in servitude.
+Bound me in servitude. /
 
 *\[Aside]*  
-I will desist;  
+/ I will desist;  
 But there is something glows upon my cheek,  
-And whispers in mine ear,'Go not till he speak.'
+And whispers in mine ear, 'Go not till he speak.'
 
 **PERICLES**  
-My fortunes -parentage-good parentage-  
-To equal mine!-was it not thus? what say you?
+My fortunes--parentage--good parentage--  
+To equal mine!--was it not thus? what say you?
 
 **MARINA**  
 I said, my lord, if you did know my parentage,  
@@ -3365,7 +3377,7 @@ You would not do me violence.
 
 **PERICLES**  
 I do think so. Pray you, turn your eyes upon me.  
-You are like something that -What country-woman?  
+You are like something that--What country-woman?  
 Here of these shores? /
 
 **MARINA**  
@@ -3404,8 +3416,8 @@ For the crown'd Truth to dwell in: I will believe thee,
 And make my senses credit thy relation  
 To points that seem impossible; for thou look'st  
 Like one I loved indeed. What were thy friends?  
-Didst thou not say, when I did push thee back-  
-Which was when I perceived thee-that thou camest  
+Didst thou not say, when I did push thee back--  
+Which was when I perceived thee--that thou camest  
 From good descending? /
 
 **MARINA**  
@@ -3703,7 +3715,9 @@ Is by your fancy's thankful doom.
 
 *Exit*
 
-### SCENE III. The temple of Diana at Ephesus; THAISA standing near the altar, as high priestess; CERIMON attending.
+### SCENE III. The temple of Diana at Ephesus.
+
+*THAISA standing near the altar, as high priestess; CERIMON attending.*
 
 *Enter PERICLES, with his train; LYSIMACHUS, HELICANUS, and MARINA*
 
@@ -3717,14 +3731,14 @@ A maid-child call'd Marina; who, O goddess,
 Wears yet thy silver livery. She at Tarsus  
 Was nursed with Cleon; who at fourteen years  
 He sought to murder: but her better stars  
-Brought her to Mytilene;'gainst whose shore  
+Brought her to Mytilene; 'gainst whose shore  
 Riding, her fortunes brought the maid aboard us,  
 Where, by her own most clear remembrance, she  
 Made known herself my daughter. /
 
 **THAISA**  
 / Voice and favour!  
-You are, you are -O royal Pericles!
+You are, you are--O royal Pericles!
 
 *Faints*
 
@@ -3777,14 +3791,13 @@ That Thaisa am I, supposed dead
 And drown'd. /
 
 **PERICLES**  
-/ Immortal Dian!
+/ Immortal Dian! /
 
 **THAISA**  
-Now I know you better.  
+/ Now I know you better.  
 When we with tears parted Pentapolis,  
-The king my father gave you such a ring.
-
-*Shows a ring*
+The king my father gave you such a ring.  
+*\[Shows a ring]*
 
 **PERICLES**  
 This, this: no more, you gods! your present kindness  
@@ -3795,9 +3808,8 @@ A second time within these arms. /
 
 **MARINA**  
 / My heart  
-Leaps to be gone into my mother's bosom.
-
-*Kneels to THAISA*
+Leaps to be gone into my mother's bosom.  
+*\[Kneels to THAISA]*
 
 **PERICLES**  
 Look, who kneels here! Flesh of thy flesh, Thaisa;  
@@ -3851,7 +3863,8 @@ No needful thing omitted.
 Pure Dian, bless thee for thy vision! I  
 Will offer night-oblations to thee. Thaisa,  
 This prince, the fair-betrothed of your daughter,  
-Shall marry her at Pentapolis. And now, This ornament  
+Shall marry her at Pentapolis. And now,  
+This ornament
 Makes me look dismal will I clip to form;  
 And what this fourteen years no razor touch'd,  
 To grace thy marriage-day, I'll beautify.
@@ -3869,6 +3882,8 @@ Lord Cerimon, we do our longing stay
 To hear the rest untold: sir, lead's the way.
 
 *Exeunt*
+
+## EPILOGUE
 
 *Enter GOWER*
 
