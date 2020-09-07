@@ -1,10 +1,12 @@
+# Titus Andronicus, Uncut
+
 ## ACT I
 
 ### SCENE I. Rome. Before the Capitol.
 
-*The Tomb of the ANDRONICI appearing; the Tribunes and Senators aloft.*  
-*Enter, below, from one side, SATURNINUS and his Followers;*  
-*and, from the other side, BASSIANUS and his Followers; with drum and colours.*
+*The Tomb of the ANDRONICI appearing; the Tribunes and Senators aloft.
+Enter, below, from one side, SATURNINUS and his Followers; and, from the other
+side, BASSIANUS and his Followers; with drum and colours*
 
 **SATURNINUS**  
 Noble patricians, patrons of my right,  
@@ -13,12 +15,12 @@ And, countrymen, my loving followers,
 Plead my successive title with your swords:  
 I am his first-born son, that was the last  
 That wore the imperial diadem of Rome;  
-Then let my father 's honours live in me,  
+Then let my father's honours live in me,  
 Nor wrong mine age with this indignity.
 
 **BASSIANUS**  
 Romans, friends, followers, favorers of my right,  
-If ever Bassianus, Caesar 's son,  
+If ever Bassianus, Caesar's son,  
 Were gracious in the eyes of royal Rome,  
 Keep then this passage to the Capitol  
 And suffer not dishonour to approach  
@@ -27,9 +29,9 @@ To justice, continence and nobility;
 But let desert in pure election shine,  
 And, Romans, fight for freedom in your choice.
 
-*Enter MARTA ANDRONICUS, aloft, with the crown*
+*Enter MARCUS ANDRONICUS, aloft, with the crown*
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 Princes, that strive by factions and by friends  
 Ambitiously for rule and empery,  
 Know that the people of Rome, for whom we stand  
@@ -39,7 +41,7 @@ Chosen Andronicus, surnamed Pius
 For many good and great deserts to Rome:  
 A nobler man, a braver warrior,  
 Lives not this day within the city walls:  
-He by the senate is accit 'd home  
+He by the senate is accit'd home  
 From weary wars against the barbarous Goths;  
 That, with his sons, a terror to our foes,  
 Hath yoked a nation strong, train'd up in arms.  
@@ -63,12 +65,12 @@ Plead your deserts in peace and humbleness.
 How fair the tribune speaks to calm my thoughts!
 
 **BASSIANUS**  
-Marta Andronicus, so I do ally  
+Marcus Andronicus, so I do ally  
 In thy uprightness and integrity,  
 And so I love and honour thee and thine,  
 Thy noble brother Titus and his sons,  
 And her to whom my thoughts are humbled all,  
-Gracious Lavinia, Rome 's rich ornament,  
+Gracious Lavinia, Rome's rich ornament,  
 That I will here dismiss my loving friends,  
 And to my fortunes and the people's favor  
 Commit my cause in balance to be weigh'd.
@@ -81,7 +83,8 @@ I thank you all and here dismiss you all,
 And to the love and favor of my country  
 Commit myself, my person and the cause.
 
-*Exeunt the followers of SATURNINUS*  
+*Exeunt the followers of SATURNINUS*
+
 Rome, be as just and gracious unto me  
 As I am confident and kind to thee.  
 Open the gates, and let me in.
@@ -89,16 +92,29 @@ Open the gates, and let me in.
 **BASSIANUS**  
 Tribunes, and me, a poor competitor.
 
-*Flourish. SATURNINUS and BASSIANUS go up into the Capitol*  
-*Drums and trumpets sounded. Enter MARTIUS and MUTIUS; bearing a coffin;*  
-*then LUCIUS and QUINTUS. After them, TITUS ANDRONICUS; and then TAMORA, with ALARBUS.*  
-*The Bearers set down the coffin, and TITUS speaks*
+*Flourish. SATURNINUS and BASSIANUS go up into the Capitol*
+
+*Enter a Captain*
+
+**Captain**  
+Romans, make way: the good Andronicus.  
+Patron of virtue, Rome's best champion,  
+Successful in the battles that he fights,  
+With honour and with fortune is return'd  
+From where he circumscribed with his sword,  
+And brought to yoke, the enemies of Rome.
+
+*Drums and trumpets sounded. Enter MARTIUS and MUTIUS; After them, two Men
+bearing a coffin covered with black; then LUCIUS and QUINTUS. After them,
+TITUS ANDRONICUS; and then TAMORA, with ALARBUS, DEMETRIUS, CHIRON, AARON, and
+other Goths, prisoners; Soldiers and people following. The Bearers set down
+the coffin, and TITUS speaks*
 
 **TITUS ANDRONICUS**  
 Hail, Rome, victorious in thy mourning weeds!  
 Lo, as the bark, that hath discharged her fraught,  
 Returns with precious jading to the bay  
-From whence at first she weigh 'd her anchorage,  
+From whence at first she weigh'd her anchorage,  
 Cometh Andronicus, bound with laurel boughs,  
 To re-salute his country with his tears,  
 Tears of true joy for his return to Rome.  
@@ -119,7 +135,7 @@ Make way to lay them by their brethren.
 *The tomb is opened*
 
 There greet in silence, as the dead are wont,  
-And sleep in peace, slain in your country 's wars!  
+And sleep in peace, slain in your country's wars!  
 O sacred receptacle of my joys,  
 Sweet cell of virtue and nobility,  
 How many sons of mine hast thou in store,  
@@ -131,7 +147,7 @@ That we may hew his limbs, and on a pile
 Ad manes fratrum sacrifice his flesh,  
 Before this earthy prison of their bones;  
 That so the shadows be not unappeased,  
-Nor we disturb 'd with prodigies on earth.
+Nor we disturb'd with prodigies on earth.
 
 **TITUS ANDRONICUS**  
 I give him you, the noblest that survives,  
@@ -140,7 +156,7 @@ The eldest son of this distressed queen.
 **TAMORA**  
 Stay, Roman brethren! Gracious conqueror,  
 Victorious Titus, rue the tears I shed,  
-A mother 's tears in passion for her son:  
+A mother's tears in passion for her son:  
 And if thy sons were ever dear to thee,  
 O, think my son to be as dear to me!  
 Sufficeth not that we are brought to Rome,  
@@ -161,35 +177,38 @@ Patient yourself, madam, and pardon me.
 These are their brethren, whom you Goths beheld  
 Alive and dead, and for their brethren slain  
 Religiously they ask a sacrifice:  
-To this your son is mark 'd, and die he must,  
+To this your son is mark'd, and die he must,  
 To appease their groaning shadows that are gone.
 
 **LUCIUS**  
 Away with him! and make a fire straight;  
 And with our swords, upon a pile of wood,  
-Let 's hew his limbs till they be clean consumed.
+Let's hew his limbs till they be clean consumed.
 
 *Exeunt LUCIUS, QUINTUS, MARTIUS, and MUTIUS, with ALARBUS*
 
 **TAMORA**  
 O cruel, irreligious piety!
 
+**CHIRON**  
+Was ever Scythia half so barbarous?
+
 **DEMETRIUS**  
 Oppose not Scythia to ambitious Rome.  
 Alarbus goes to rest; and we survive  
-To tremble under Titus ' threatening looks.  
+To tremble under Titus' threatening looks.  
 Then, madam, stand resolved, but hope withal  
 The self-same gods that arm'd the Queen of Troy  
 With opportunity of sharp revenge  
 Upon the Thracian tyrant in his tent,  
-May favor Tamora, the Queen of Goths-  
-When Goths were Goths and Tamora was queen-  
+May favor Tamora, the Queen of Goths--  
+When Goths were Goths and Tamora was queen--  
 To quit the bloody wrongs upon her foes.
 
 *Re-enter LUCIUS, QUINTUS, MARTIUS and MUTIUS, with their swords bloody*
 
 **LUCIUS**  
-See, lord and father, how we have perform 'd  
+See, lord and father, how we have perform'd  
 Our Roman rites: Alarbus' limbs are lopp'd,  
 And entrails feed the sacrificing fire,  
 Whose smoke, like incense, doth perfume the sky.  
@@ -203,7 +222,7 @@ Make this his latest farewell to their souls.
 *Trumpets sounded, and the coffin laid in the tomb*
 
 In peace and honour rest you here, my sons;  
-Rome 's readiest champions, repose you here in rest,  
+Rome's readiest champions, repose you here in rest,  
 Secure from worldly chances and mishaps!  
 Here lurks no treason, here no envy swells,  
 Here grow no damned grudges; here are no storms,  
@@ -216,7 +235,7 @@ In peace and honour rest you here, my sons!
 In peace and honour live Lord Titus long;  
 My noble lord and father, live in fame!  
 Lo, at this tomb my tributary tears  
-I render, for my brethren 's obsequies;  
+I render, for my brethren's obsequies;  
 And at thy feet I kneel, with tears of joy,  
 Shed on the earth, for thy return to Rome:  
 O, bless me here with thy victorious hand,  
@@ -225,23 +244,24 @@ Whose fortunes Rome's best citizens applaud!
 **TITUS ANDRONICUS**  
 Kind Rome, that hast thus lovingly reserved  
 The cordial of mine age to glad my heart!  
-Lavinia, live; outlive thy father 's days,  
+Lavinia, live; outlive thy father's days,  
 And fame's eternal date, for virtue's praise!
 
-*Enter, below, MARTA ANDRONICUS; re-enter SATURNINUS and BASSIANUS, attended*
+*Enter, below, MARCUS ANDRONICUS and Tribunes; re-enter SATURNINUS and
+BASSIANUS, attended*
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 Long live Lord Titus, my beloved brother,  
 Gracious triumpher in the eyes of Rome!
 
 **TITUS ANDRONICUS**  
-Thanks, gentle tribune, noble sister Marta.
+Thanks, gentle tribune, noble brother Marcus.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 And welcome, nephews, from successful wars,  
 You that survive, and you that sleep in fame!  
 Fair lords, your fortunes are alike in all,  
-That in your country 's service drew your swords:  
+That in your country's service drew your swords:  
 But safer triumph is this funeral pomp,  
 That hath aspired to Solon's happiness  
 And triumphs over chance in honour's bed.  
@@ -258,11 +278,11 @@ And help to set a head on headless Rome.
 A better head her glorious body fits  
 Than his that shakes for age and feebleness:  
 What should I don this robe, and trouble you?  
-Be chosen with proclamations to-day,  
-To-morrow yield up rule, resign my life,  
+Be chosen with proclamations today,  
+Tomorrow yield up rule, resign my life,  
 And set abroad new business for you all?  
 Rome, I have been thy soldier forty years,  
-And led my country 's strength successfully,  
+And led my country's strength successfully,  
 And buried one and twenty valiant sons,  
 Knighted in field, slain manfully in arms,  
 In right and service of their noble country  
@@ -270,19 +290,19 @@ Give me a staff of honour for mine age,
 But not a sceptre to control the world:  
 Upright he held it, lords, that held it last.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 Titus, thou shalt obtain and ask the empery.
 
 **SATURNINUS**  
 Proud and ambitious tribune, canst thou tell?
 
 **TITUS ANDRONICUS**  
-Patience, Prince Saturninus.
+Patience, Prince Saturninus. /
 
 **SATURNINUS**  
-Romans, do me right:  
+/ Romans, do me right:  
 Patricians, draw your swords: and sheathe them not  
-Till Saturninus be Rome 's emperor.  
+Till Saturninus be Rome's emperor.  
 Andronicus, would thou wert shipp'd to hell,  
 Rather than rob me of the people's hearts!
 
@@ -292,7 +312,7 @@ That noble-minded Titus means to thee!
 
 **TITUS ANDRONICUS**  
 Content thee, prince; I will restore to thee  
-The people 's hearts, and wean them from themselves.
+The people's hearts, and wean them from themselves.
 
 **BASSIANUS**  
 Andronicus, I do not flatter thee,  
@@ -302,18 +322,28 @@ I will most thankful be; and thanks to men
 Of noble minds is honourable meed.
 
 **TITUS ANDRONICUS**  
+People of Rome, and people's tribunes here,  
+I ask your voices and your suffrages:  
+Will you bestow them friendly on Andronicus?
+
+**Tribunes**  
+To gratify the good Andronicus,  
+And gratulate his safe return to Rome,  
+The people will accept whom he admits.
+
+**TITUS ANDRONICUS**  
 Tribunes, I thank you: and this suit I make,  
-That you create your emperor 's eldest son,  
+That you create your emperor's eldest son,  
 Lord Saturnine; whose virtues will, I hope,  
 Reflect on Rome as Titan's rays on earth,  
 And ripen justice in this commonweal:  
 Then, if you will elect by my advice,  
 Crown him and say 'Long live our emperor!'
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 With voices and applause of every sort,  
 Patricians and plebeians, we create  
-Lord Saturninus Rome 's great emperor,  
+Lord Saturninus Rome's great emperor,  
 And say 'Long live our Emperor Saturnine!'
 
 *A long flourish till they come down*
@@ -326,13 +356,13 @@ And will with deeds requite thy gentleness:
 And, for an onset, Titus, to advance  
 Thy name and honourable family,  
 Lavinia will I make my empress,  
-Rome 's royal mistress, mistress of my heart,  
+Rome's royal mistress, mistress of my heart,  
 And in the sacred Pantheon her espouse:  
 Tell me, Andronicus, doth this motion please thee?
 
 **TITUS ANDRONICUS**  
 It doth, my worthy lord; and in this match  
-I hold me highly honour 'd of your grace:  
+I hold me highly honour'd of your grace:  
 And here in sight of Rome to Saturnine,  
 King and commander of our commonweal,  
 The wide world's emperor, do I consecrate  
@@ -349,8 +379,8 @@ The least of these unspeakable deserts,
 Romans, forget your fealty to me.
 
 **TITUS ANDRONICUS**  
-\[To TAMORA] Now, madam, are you prisoner to  
-an emperor;  
+*\[To TAMORA]*  
+Now, madam, are you prisoner to an emperor;  
 To him that, for your honour and your state,  
 Will use you nobly and your followers.
 
@@ -378,9 +408,8 @@ Proclaim our honours, lords, with trump and drum.
 *Flourish. SATURNINUS courts TAMORA in dumb show*
 
 **BASSIANUS**  
-Lord Titus, by your leave, this maid is mine.
-
-*Seizing LAVINIA*
+Lord Titus, by your leave, this maid is mine.  
+*\[Seizing LAVINIA]*
 
 **TITUS ANDRONICUS**  
 How, sir! are you in earnest then, my lord?
@@ -389,7 +418,7 @@ How, sir! are you in earnest then, my lord?
 Ay, noble Titus; and resolved withal  
 To do myself this reason and this right.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 'Suum cuique' is our Roman justice:  
 This prince in justice seizeth but his own.
 
@@ -397,42 +426,41 @@ This prince in justice seizeth but his own.
 And that he will, and shall, if Lucius live.
 
 **TITUS ANDRONICUS**  
-Traitors, avaunt! Where is the emperor 's guard?  
+Traitors, avaunt! Where is the emperor's guard?  
 Treason, my lord! Lavinia is surprised!
 
 **SATURNINUS**  
-Surprised! by whom?
+Surprised! by whom? /
 
 **BASSIANUS**  
-By him that justly may  
-Bear his betroth 'd from all the world away.
+/ By him that justly may  
+Bear his betroth'd from all the world away.
 
-*Exeunt BASSIANUS and MARTA with LAVINIA*
+*Exeunt BASSIANUS and MARCUS with LAVINIA*
 
 **MUTIUS**  
 Brothers, help to convey her hence away,  
-And with my sword I 'll keep this door safe.
+And with my sword I'll keep this door safe.
 
 *Exeunt LUCIUS, QUINTUS, and MARTIUS*
 
 **TITUS ANDRONICUS**  
-Follow, my lord, and I 'll soon bring her back.
+Follow, my lord, and I'll soon bring her back.
 
 **MUTIUS**  
-My lord, you pass not here.
+My lord, you pass not here. /
 
 **TITUS ANDRONICUS**  
-What, villain boy!  
-Barr 'st me my way in Rome?
-
-*Stabbing MUTIUS*
+/ What, villain boy!  
+Barr'st me my way in Rome? /  
+*\[Stabbing MUTIUS]*
 
 **MUTIUS**  
-Help, Lucius, help!
+/ Help, Lucius, help!  
+*\[Dies]*
 
-*Dies*
-
-*During the fray, SATURNINUS, TAMORA, and DEMETRIUS go out and re-enter, above*
+*During the fray, SATURNINUS, TAMORA, DEMETRIUS, CHIRON and AARON go out and
+re-enter, above*
 
 *Re-enter LUCIUS*
 
@@ -447,14 +475,14 @@ Traitor, restore Lavinia to the emperor.
 
 **LUCIUS**  
 Dead, if you will; but not to be his wife,  
-That is another 's lawful promised love.
+That is another's lawful promised love.
 
 *Exit*
 
 **SATURNINUS**  
 No, Titus, no; the emperor needs her not,  
 Nor her, nor thee, nor any of thy stock:  
-I 'll trust, by leisure, him that mocks me once;  
+I'll trust, by leisure, him that mocks me once;  
 Thee never, nor thy traitorous haughty sons,  
 Confederates all thus to dishonour me.  
 Was there none else in Rome to make a stale,  
@@ -467,7 +495,7 @@ O monstrous! what reproachful words are these?
 
 **SATURNINUS**  
 But go thy ways; go, give that changing piece  
-To him that flourish 'd for her with his sword  
+To him that flourish'd for her with his sword  
 A valiant son-in-law thou shalt enjoy;  
 One fit to bandy with thy lawless sons,  
 To ruffle in the commonwealth of Rome.
@@ -485,7 +513,7 @@ And will create thee empress of Rome,
 Speak, Queen of Goths, dost thou applaud my choice?  
 And here I swear by all the Roman gods,  
 Sith priest and holy water are so near  
-And tapers burn so bright and every thing  
+And tapers burn so bright and everything  
 In readiness for Hymenaeus stand,  
 I will not re-salute the streets of Rome,  
 Or climb my palace, till from forth this place  
@@ -509,19 +537,19 @@ There shall we consummate our spousal rites.
 **TITUS ANDRONICUS**  
 I am not bid to wait upon this bride.  
 Titus, when wert thou wont to walk alone,  
-Dishonour 'd thus, and challenged of wrongs?
+Dishonour'd thus, and challenged of wrongs?
 
-*Re-enter MARTA, LUCIUS, QUINTUS, and MARTIUS*
+*Re-enter MARCUS, LUCIUS, QUINTUS, and MARTIUS*
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 O Titus, see, O, see what thou hast done!  
 In a bad quarrel slain a virtuous son.
 
 **TITUS ANDRONICUS**  
 No, foolish tribune, no; no son of mine,  
 Nor thou, nor these, confederates in the deed  
-That hath dishonour 'd all our family;  
-Unworthy sister, and unworthy sons!
+That hath dishonour'd all our family;  
+Unworthy brother, and unworthy sons!
 
 **LUCIUS**  
 But let us give him burial, as becomes;  
@@ -531,16 +559,16 @@ Give Mutius burial with our brethren.
 Traitors, away! he rests not in this tomb:  
 This monument five hundred years hath stood,  
 Which I have sumptuously re-edified:  
-Here none but soldiers and Rome 's servitors  
+Here none but soldiers and Rome's servitors  
 Repose in fame; none basely slain in brawls:  
 Bury him where you can; he comes not here.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 My lord, this is impiety in you:  
-My nephew Mutius ' deeds do plead for him  
+My nephew Mutius' deeds do plead for him  
 He must be buried with his brethren.
 
-**QUINTUS**  
+**QUINTUS & MARTIUS**  
 And shall, or him we will accompany.
 
 **TITUS ANDRONICUS**  
@@ -553,12 +581,12 @@ He that would vouch it in any place but here.
 **TITUS ANDRONICUS**  
 What, would you bury him in my despite?
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 No, noble Titus, but entreat of thee  
 To pardon Mutius and to bury him.
 
 **TITUS ANDRONICUS**  
-Marta, even thou hast struck upon my crest,  
+Marcus, even thou hast struck upon my crest,  
 And, with these boys, mine honour thou hast wounded:  
 My foes I do repute you every one;  
 So, trouble me no more, but get you gone.
@@ -567,28 +595,28 @@ So, trouble me no more, but get you gone.
 He is not with himself; let us withdraw.
 
 **QUINTUS**  
-Not I, till Mutius ' bones be buried.
+Not I, till Mutius' bones be buried.
 
-*MARTA and the Sons of TITUS kneel*
+*MARCUS and the Sons of TITUS kneel*
 
-**MARTA ANDRONICUS**  
-Brother, for in that name doth nature plead, -
+**MARCUS ANDRONICUS**  
+Brother, for in that name doth nature plead,--
 
 **QUINTUS**  
-Father, and in that name doth nature speak, -
+Father, and in that name doth nature speak,--
 
 **TITUS ANDRONICUS**  
 Speak thou no more, if all the rest will speed.
 
-**MARTA ANDRONICUS**  
-Renowned Titus, more than half my soul, -
+**MARCUS ANDRONICUS**  
+Renowned Titus, more than half my soul,--
 
 **LUCIUS**  
-Dear father, soul and substance of us all, -
+Dear father, soul and substance of us all,--
 
-**MARTA ANDRONICUS**  
-Suffer thy sister Marta to inter  
-Her noble nephew here in virtue 's nest,  
+**MARCUS ANDRONICUS**  
+Suffer thy brother Marcus to inter  
+His noble nephew here in virtue's nest,  
 That died in honour and Lavinia's cause.  
 Thou art a Roman; be not barbarous:  
 The Greeks upon advice did bury Ajax  
@@ -598,8 +626,8 @@ Let not young Mutius, then, that was thy joy
 Be barr'd his entrance here.
 
 **TITUS ANDRONICUS**  
-Rise, Marta, rise.  
-The dismall 'st day is this that e'er I saw,  
+Rise, Marcus, rise.  
+The dismall'st day is this that e'er I saw,  
 To be dishonour'd by my sons in Rome!  
 Well, bury him, and bury me the next.
 
@@ -610,26 +638,27 @@ There lie thy bones, sweet Mutius, with thy friends,
 Till we with trophies do adorn thy tomb.
 
 **All**  
-\[Kneeling] No man shed tears for noble Mutius;  
-He lives in fame that died in virtue 's cause.
+*\[Kneeling]*  
+No man shed tears for noble Mutius;  
+He lives in fame that died in virtue's cause.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 My lord, to step out of these dreary dumps,  
 How comes it that the subtle Queen of Goths  
 Is of a sudden thus advanced in Rome?
 
 **TITUS ANDRONICUS**  
-I know not, Marta; but I know it is,  
+I know not, Marcus; but I know it is,  
 Whether by device or no, the heavens can tell:  
 Is she not then beholding to the man  
 That brought her for this high good turn so far?  
 Yes, and will nobly him remunerate.
 
-*Flourish. Re-enter, from one side, SATURNINUS attended, TAMORA, and DEMETRIUS;*  
-*from the other, BASSIANUS, LAVINIA, and others*
+*Flourish. Re-enter, from one side, SATURNINUS attended, TAMORA, DEMETRIUS,
+CHIRON and AARON; from the other, BASSIANUS, LAVINIA, and others*
 
 **SATURNINUS**  
-So, Bassianus, you have play 'd your prize:  
+So, Bassianus, you have play'd your prize:  
 God give you joy, sir, of your gallant bride!
 
 **BASSIANUS**  
@@ -644,7 +673,7 @@ Thou and thy faction shall repent this rape.
 Rape, call you it, my lord, to seize my own,  
 My truth-betrothed love and now my wife?  
 But let the laws of Rome determine all;  
-Meanwhile I am possess 'd of that is mine.
+Meanwhile I am possess'd of that is mine.
 
 **SATURNINUS**  
 'Tis good, sir: you are very short with us;  
@@ -656,7 +685,7 @@ Answer I must and shall do with my life.
 Only thus much I give your grace to know:  
 By all the duties that I owe to Rome,  
 This noble gentleman, Lord Titus here,  
-Is in opinion and in honour wrong 'd;  
+Is in opinion and in honour wrong'd;  
 That in the rescue of Lavinia  
 With his own hand did slay his youngest son,  
 In zeal to you and highly moved to wrath  
@@ -678,25 +707,24 @@ Then hear me speak in indifferently for all;
 And at my suit, sweet, pardon what is past.
 
 **SATURNINUS**  
-What, madam! be dishonour 'd openly,  
+What, madam! be dishonour'd openly,  
 And basely put it up without revenge?
 
 **TAMORA**  
 Not so, my lord; the gods of Rome forfend  
 I should be author to dishonour you!  
 But on mine honour dare I undertake  
-For good Lord Titus ' innocence in all;  
+For good Lord Titus' innocence in all;  
 Whose fury not dissembled speaks his griefs:  
 Then, at my suit, look graciously on him;  
 Lose not so noble a friend on vain suppose,  
 Nor with sour looks afflict his gentle heart.
 
 *\[Aside to SATURNINUS]*  
-be won at last;  
 Dissemble all your griefs and discontents:  
 You are but newly planted in your throne;  
 Lest, then, the people, and patricians too,  
-Upon a just survey, take Titus ' part,  
+Upon a just survey, take Titus' part,  
 And so supplant you for ingratitude,  
 Which Rome reputes to be a heinous sin,  
 Yield at entreats; and then let me alone:  
@@ -713,7 +741,7 @@ Take up this good old man, and cheer the heart
 That dies in tempest of thy angry frown.
 
 **SATURNINUS**  
-Rise, Titus, rise; my empress hath prevail 'd.
+Rise, Titus, rise; my empress hath prevail'd.
 
 **TITUS ANDRONICUS**  
 I thank your majesty, and her, my lord:  
@@ -726,7 +754,7 @@ And must advise the emperor for his good.
 This day all quarrels die, Andronicus;  
 And let it be mine honour, good my lord,  
 That I have reconciled your friends and you.  
-For you, Prince Bassianus, I have pass 'd  
+For you, Prince Bassianus, I have pass'd  
 My word and promise to the emperor,  
 That you will be more mild and tractable.  
 And fear not lords, and you, Lavinia;  
@@ -736,9 +764,9 @@ You shall ask pardon of his majesty.
 **LUCIUS**  
 We do, and vow to heaven and to his highness,  
 That what we did was mildly as we might,  
-Tendering our sister 's honour and our own.
+Tendering our sister's honour and our own.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 That, on mine honour, here I do protest.
 
 **SATURNINUS**  
@@ -746,11 +774,11 @@ Away, and talk not; trouble us no more.
 
 **TAMORA**  
 Nay, nay, sweet emperor, we must all be friends:  
-The tribune and her nephews kneel for grace;  
+The tribune and his nephews kneel for grace;  
 I will not be denied: sweet heart, look back.
 
 **SATURNINUS**  
-Marta, for thy sake and thy brother 's here,  
+Marcus, for thy sake and thy brother's here,  
 And at my lovely Tamora's entreats,  
 I do remit these young men's heinous faults: Stand up.  
 Lavinia, though you left me like a churl,  
@@ -761,9 +789,9 @@ You are my guest, Lavinia, and your friends.
 This day shall be a love-day, Tamora.
 
 **TITUS ANDRONICUS**  
-To-morrow, an it please your majesty  
+Tomorrow, an it please your majesty  
 To hunt the panther and the hart with me,  
-With horn and hound we 'll give your grace bonjour.
+With horn and hound we'll give your grace bonjour.
 
 **SATURNINUS**  
 Be it so, Titus, and gramercy too.
@@ -777,7 +805,7 @@ Be it so, Titus, and gramercy too.
 *Enter AARON*
 
 **AARON**  
-Now climbeth Tamora Olympus ' top,  
+Now climbeth Tamora Olympus' top,  
 Safe out of fortune's shot; and sits aloft,  
 Secure of thunder's crack or lightning flash;  
 Advanced above pale envy's threatening reach.  
@@ -808,7 +836,7 @@ Holloa! what storm is this?
 **DEMETRIUS**  
 Chiron, thy years want wit, thy wit wants edge,  
 And manners, to intrude where I am graced;  
-And may, for aught thou know 'st, affected be.
+And may, for aught thou know'st, affected be.
 
 **CHIRON**  
 Demetrius, thou dost over-ween in all;  
@@ -821,8 +849,8 @@ And that my sword upon thee shall approve,
 And plead my passions for Lavinia's love.
 
 **AARON**  
-\[Aside] Clubs, clubs! these lovers will not keep  
-the peace.
+*\[Aside]*  
+Clubs, clubs! these lovers will not keep the peace.
 
 **DEMETRIUS**  
 Why, boy, although our mother, unadvised,  
@@ -836,38 +864,39 @@ Meanwhile, sir, with the little skill I have,
 Full well shalt thou perceive how much I dare.
 
 **DEMETRIUS**  
-Ay, boy, grow ye so brave?
+Ay, boy, grow ye so brave? /
 
 *They draw*
 
 **AARON**  
-\[Coming forward] Why, how now, lords!  
-So near the emperor 's palace dare you draw,  
+*\[Coming forward]*  
+/ Why, how now, lords!  
+So near the emperor's palace dare you draw,  
 And maintain such a quarrel openly?  
 Full well I wot the ground of all this grudge:  
 I would not for a million of gold  
 The cause were known to them it most concerns;  
 Nor would your noble mother for much more  
 Be so dishonour'd in the court of Rome.  
-For shame, put up.
+For shame, put up. /
 
 **DEMETRIUS**  
-Not I, till I have sheathed  
+/ Not I, till I have sheathed  
 My rapier in his bosom and withal  
 Thrust these reproachful speeches down his throat  
 That he hath breathed in my dishonour here.
 
 **CHIRON**  
 For that I am prepared and full resolved.  
-Foul-spoken coward, that thunder 'st with thy tongue,  
-And with thy weapon nothing darest perform!
+Foul-spoken coward, that thunder'st with thy tongue,  
+And with thy weapon nothing darest perform! /
 
 **AARON**  
-Away, I say!  
+/ Away, I say!  
 Now, by the gods that warlike Goths adore,  
 This petty brabble will undo us all.  
 Why, lords, and think you not how dangerous  
-It is to jet upon a prince 's right?  
+It is to jet upon a prince's right?  
 What, is Lavinia then become so loose,  
 Or Bassianus so degenerate,  
 That for her love such quarrels may be broach'd  
@@ -881,25 +910,25 @@ I love Lavinia more than all the world.
 
 **DEMETRIUS**  
 Youngling, learn thou to make some meaner choice:  
-Lavinia is thine elder brother 's hope.
+Lavinia is thine elder brother's hope.
 
 **AARON**  
 Why, are ye mad? or know ye not, in Rome  
 How furious and impatient they be,  
 And cannot brook competitors in love?  
 I tell you, lords, you do but plot your deaths  
-By this device.
+By this device. /
 
 **CHIRON**  
-Aaron, a thousand deaths  
+/ Aaron, a thousand deaths  
 Would I propose to achieve her whom I love.
 
 **AARON**  
-To achieve her! how?
+To achieve her! how? /
 
 **DEMETRIUS**  
-Why makest thou it so strange?  
-She is a woman, therefore may be woo 'd;  
+/ Why makest thou it so strange?  
+She is a woman, therefore may be woo'd;  
 She is a woman, therefore may be won;  
 She is Lavinia, therefore must be loved.  
 What, man! more water glideth by the mill  
@@ -909,36 +938,37 @@ Though Bassianus be the emperor's brother.
 Better than he have worn Vulcan's badge.
 
 **AARON**  
-\[Aside] Ay, and as good as Saturninus may.
+*\[Aside]*  
+Ay, and as good as Saturninus may.
 
 **DEMETRIUS**  
 Then why should he despair that knows to court it  
 With words, fair looks and liberality?  
 What, hast not thou full often struck a doe,  
-And borne her cleanly by the keeper 's nose?
+And borne her cleanly by the keeper's nose?
 
 **AARON**  
 Why, then, it seems, some certain snatch or so  
-Would serve your turns.
+Would serve your turns. /
 
 **CHIRON**  
-Ay, so the turn were served.
+/ Ay, so the turn were served.
 
 **DEMETRIUS**  
-Aaron, thou hast hit it.
+Aaron, thou hast hit it. /
 
 **AARON**  
-Would you had hit it too!  
+/ Would you had hit it too!  
 Then should not we be tired with this ado.  
 Why, hark ye, hark ye! and are you such fools  
 To square for this? would it offend you, then  
 That both should speed?
 
 **CHIRON**  
-Faith, not me.
+Faith, not me. /
 
 **DEMETRIUS**  
-Nor me, so I were one.
+/ Nor me, so I were one.
 
 **AARON**  
 For shame, be friends, and join for that you jar:  
@@ -946,6 +976,8 @@ For shame, be friends, and join for that you jar:
 That you affect; and so must you resolve,  
 That what you cannot as you would achieve,  
 You must perforce accomplish as you may.  
+Take this of me: Lucrece was not more chaste  
+Than this Lavinia, Bassianus' love.  
 A speedier course than lingering languishment  
 Must we pursue, and I have found the path.  
 My lords, a solemn hunting is in hand;  
@@ -965,8 +997,7 @@ But to your wishes' height advance you both.
 The emperor's court is like the house of Fame,  
 The palace full of tongues, of eyes, and ears:  
 The woods are ruthless, dreadful, deaf, and dull;  
-There speak, and strike, brave boys, and take  
-your turns;  
+There speak, and strike, brave boys, and take your turns;  
 There serve your lusts, shadow'd from heaven's eye,  
 And revel in Lavinia's treasury.
 
@@ -975,20 +1006,22 @@ Thy counsel, lad, smells of no cowardice,
 
 **DEMETRIUS**  
 Sit fas aut nefas, till I find the stream  
-To cool this heat, a charm to calm these fits.
+To cool this heat, a charm to calm these fits.  
+Per Styga, per manes vehor.
 
 *Exeunt*
 
 ### SCENE II. A forest near Rome. Horns and cry of hounds heard.
 
-*Enter TITUS ANDRONICUS, clad to hunt, MARTA, LUCIUS, QUINTUS, and MARTIUS*
+*Enter TITUS ANDRONICUS, with Hunters, & c., MARCUS, LUCIUS, QUINTUS, and
+MARTIUS*
 
 **TITUS ANDRONICUS**  
 The hunt is up, the morn is bright and grey,  
 The fields are fragrant and the woods are green:  
 Uncouple here and let us make a bay  
 And wake the emperor and his lovely bride  
-And rouse the prince and ring a hunter 's peal,  
+And rouse the prince and ring a hunter's peal,  
 That all the court may echo with the noise.  
 Sons, let it be your charge, as it is ours,  
 To attend the emperor's person carefully:  
@@ -1001,35 +1034,35 @@ But dawning day new comfort hath inspired.
 
 Many good morrows to your majesty;  
 Madam, to you as many and as good:  
-I promised your grace a hunter 's peal.
+I promised your grace a hunter's peal.
 
 **SATURNINUS**  
 And you have rung it lustily, my lord;  
 Somewhat too early for new-married ladies.
 
 **BASSIANUS**  
-Lavinia, how say you?
+Lavinia, how say you? /
 
 **LAVINIA**  
-I say, no;  
+/ I say, no;  
 I have been broad awake two hours and more.
 
 **SATURNINUS**  
 Come on, then; horse and chariots let us have,  
-And to our sport.
+And to our sport. /
 
 *\[To TAMORA]*  
-Madam, now shall ye see  
-Our Roman hunting.
+/ Madam, now shall ye see  
+Our Roman hunting. /
 
-**MARTA ANDRONICUS**  
-I have dogs, my lord,  
+**MARCUS ANDRONICUS**  
+/ I have dogs, my lord,  
 Will rouse the proudest panther in the chase,  
 And climb the highest promontory top.
 
 **TITUS ANDRONICUS**  
 And I have horse will follow where the game  
-Makes way, and run like swallows o 'er the plain.
+Makes way, and run like swallows o'er the plain.
 
 **DEMETRIUS**  
 Chiron, we hunt not, we, with horse nor hound,  
@@ -1049,17 +1082,16 @@ Let him that thinks of me so abjectly
 Know that this gold must coin a stratagem,  
 Which, cunningly effected, will beget  
 A very excellent piece of villany:  
-And so repose, sweet gold, for their unrest
+And so repose, sweet gold, for their unrest  
+*\[Hides the gold]*
 
-*Hides the gold*
-
-That have their alms out of the empress ' chest.
+That have their alms out of the empress' chest.
 
 *Enter TAMORA*
 
 **TAMORA**  
-My lovely Aaron, wherefore look 'st thou sad,  
-When every thing doth make a gleeful boast?  
+My lovely Aaron, wherefore look'st thou sad,  
+When everything doth make a gleeful boast?  
 The birds chant melody on every bush,  
 The snake lies rolled in the cheerful sun,  
 The green leaves quiver with the cooling wind  
@@ -1095,7 +1127,7 @@ Which never hopes more heaven than rests in thee,
 This is the day of doom for Bassianus:  
 His Philomel must lose her tongue to-day,  
 Thy sons make pillage of her chastity  
-And wash their hands in Bassianus ' blood.  
+And wash their hands in Bassianus' blood.  
 Seest thou this letter? take it up, I pray thee,  
 And give the king this fatal plotted scroll.  
 Now question me no more; we are espied;  
@@ -1107,7 +1139,7 @@ Ah, my sweet Moor, sweeter to me than life!
 
 **AARON**  
 No more, great empress; Bassianus comes:  
-Be cross with him; and I 'll go fetch thy sons  
+Be cross with him; and I'll go fetch thy sons  
 To back thy quarrels, whatsoe'er they be.
 
 *Exit*
@@ -1115,7 +1147,7 @@ To back thy quarrels, whatsoe'er they be.
 *Enter BASSIANUS and LAVINIA*
 
 **BASSIANUS**  
-Who have we here? Rome 's royal empress,  
+Who have we here? Rome's royal empress,  
 Unfurnish'd of her well-beseeming troop?  
 Or is it Dian, habited like her,  
 Who hath abandoned her holy groves  
@@ -1125,7 +1157,7 @@ To see the general hunting in this forest?
 Saucy controller of our private steps!  
 Had I the power that some say Dian had,  
 Thy temples should be planted presently  
-With horns, as was Actaeon 's; and the hounds  
+With horns, as was Actaeon's; and the hounds  
 Should drive upon thy new-transformed limbs,  
 Unmannerly intruder as thou art!
 
@@ -1134,12 +1166,12 @@ Under your patience, gentle empress,
 'Tis thought you have a goodly gift in horning;  
 And to be doubted that your Moor and you  
 Are singled forth to try experiments:  
-Jove shield your husband from his hounds to-day!  
+Jove shield your husband from his hounds today!  
 'Tis pity they should take him for a stag.
 
 **BASSIANUS**  
 Believe me, queen, your swarth Cimmerian  
-Doth make your honour of his body 's hue,  
+Doth make your honour of his body's hue,  
 Spotted, detested, and abominable.  
 Why are you sequester'd from all your train,  
 Dismounted from your snow-white goodly steed.  
@@ -1151,7 +1183,7 @@ If foul desire had not conducted you?
 And, being intercepted in your sport,  
 Great reason that my noble lord be rated  
 For sauciness. I pray you, let us hence,  
-And let her joy her raven-colour 'd love;  
+And let her joy her raven-colour'd love;  
 This valley fits the purpose passing well.
 
 **BASSIANUS**  
@@ -1198,14 +1230,12 @@ Revenge it, as you love your mother's life,
 Or be ye not henceforth call'd my children.
 
 **DEMETRIUS**  
-This is a witness that I am thy son.
-
-*Stabs BASSIANUS*
+This is a witness that I am thy son.  
+*\[Stabs BASSIANUS]*
 
 **CHIRON**  
-And this for me, struck home to show my strength.
-
-*Also stabs BASSIANUS, who dies*
+And this for me, struck home to show my strength.  
+*\[Also stabs BASSIANUS, who dies]*
 
 **LAVINIA**  
 Ay, come, Semiramis, nay, barbarous Tamora,  
@@ -1213,7 +1243,7 @@ For no name fits thy nature but thy own!
 
 **TAMORA**  
 Give me thy poniard; you shall know, my boys  
-Your mother 's hand shall right your mother's wrong.
+Your mother's hand shall right your mother's wrong.
 
 **DEMETRIUS**  
 Stay, madam; here is more belongs to her;  
@@ -1238,7 +1268,7 @@ Come, mistress, now perforce we will enjoy
 That nice-preserved honesty of yours.
 
 **LAVINIA**  
-O Tamora! thou bear 'st a woman's face,-
+O Tamora! thou bear'st a woman's face,--
 
 **TAMORA**  
 I will not hear her speak; away with her!
@@ -1252,7 +1282,7 @@ To see her tears; but be your heart to them
 As unrelenting flint to drops of rain.
 
 **LAVINIA**  
-When did the tiger 's young ones teach the dam?  
+When did the tiger's young ones teach the dam?  
 O, do not learn her wrath; she taught it thee;  
 The milk thou suck'dst from her did turn to marble;  
 Even at thy teat thou hadst thy tyranny.  
@@ -1266,7 +1296,7 @@ What, wouldst thou have me prove myself a bastard?
 
 **LAVINIA**  
 'Tis true; the raven doth not hatch a lark:  
-Yet have I heard,-O, could I find it now!-  
+Yet have I heard,--O, could I find it now!--  
 The lion moved with pity did endure  
 To have his princely paws pared all away:  
 Some say that ravens foster forlorn children,  
@@ -1278,13 +1308,12 @@ Nothing so kind, but something pitiful!
 I know not what it means; away with her!
 
 **LAVINIA**  
-O, let me teach thee! for my father 's sake,  
-That gave thee life, when well he might have  
-slain thee,  
+O, let me teach thee! for my father's sake,  
+That gave thee life, when well he might have slain thee,  
 Be not obdurate, open thy deaf ears.
 
 **TAMORA**  
-Hadst thou in person ne 'er offended me,  
+Hadst thou in person ne'er offended me,  
 Even for his sake am I pitiless.  
 Remember, boys, I pour'd forth tears in vain,  
 To save your brother from the sacrifice;  
@@ -1293,13 +1322,13 @@ Therefore, away with her, and use her as you will,
 The worse to her, the better loved of me.
 
 **LAVINIA**  
-O Tamora, be call 'd a gentle queen,  
+O Tamora, be call'd a gentle queen,  
 And with thine own hands kill me in this place!  
 For 'tis not life that I have begg'd so long;  
 Poor I was slain when Bassianus died.
 
 **TAMORA**  
-What begg 'st thou, then? fond woman, let me go.
+What begg'st thou, then? fond woman, let me go.
 
 **LAVINIA**  
 'Tis present death I beg; and one thing more  
@@ -1314,24 +1343,24 @@ So should I rob my sweet sons of their fee:
 No, let them satisfy their lust on thee.
 
 **DEMETRIUS**  
-Away! for thou hast stay 'd us here too long.
+Away! for thou hast stay'd us here too long.
 
 **LAVINIA**  
 No grace? no womanhood? Ah, beastly creature!  
 The blot and enemy to our general name!  
-Confusion fall -
+Confusion fall--
 
 **CHIRON**  
-Nay, then I 'll stop your mouth. Bring thou her husband:  
+Nay, then I'll stop your mouth. Bring thou her husband:  
 This is the hole where Aaron bid us hide him.
 
-*DEMETRIUS throws the body of BASSIANUS into the pit.*
+*DEMETRIUS throws the body of BASSIANUS into the pit*
 
 *Exeunt DEMETRIUS and CHIRON, dragging off LAVINIA*
 
 **TAMORA**  
 Farewell, my sons: see that you make her sure.  
-Ne 'er let my heart know merry cheer indeed,  
+Ne'er let my heart know merry cheer indeed,  
 Till all the Andronici be made away.  
 Now will I hence to seek my lovely Moor,  
 And let my spleenful sons this trull deflow'r.
@@ -1346,16 +1375,15 @@ Straight will I bring you to the loathsome pit
 Where I espied the panther fast asleep.
 
 **QUINTUS**  
-My sight is very dull, whate 'er it bodes.
+My sight is very dull, whate'er it bodes.
 
 **MARTIUS**  
-And mine, I promise you; were 't not for shame,  
-Well could I leave our sport to sleep awhile.
-
-*Falls into the pit*
+And mine, I promise you; were't not for shame,  
+Well could I leave our sport to sleep awhile.  
+*\[Falls into the pit]*
 
 **QUINTUS**  
-What art thou fall 'n? What subtle hole is this,  
+What art thou fall'n? What subtle hole is this,  
 Whose mouth is cover'd with rude-growing briers,  
 Upon whose leaves are drops of new-shed blood  
 As fresh as morning dew distill'd on flowers?  
@@ -1363,11 +1391,12 @@ A very fatal place it seems to me.
 Speak, brother, hast thou hurt thee with the fall?
 
 **MARTIUS**  
-O brother, with the dismall 'st object hurt  
+O brother, with the dismall'st object hurt  
 That ever eye with sight made heart lament!
 
 **AARON**  
-\[Aside] Now will I fetch the king to find them here,  
+*\[Aside]*  
+Now will I fetch the king to find them here,  
 That he thereby may give a likely guess  
 How these were they that made away his brother.
 
@@ -1379,7 +1408,7 @@ From this unhallowed and blood-stained hole?
 
 **QUINTUS**  
 I am surprised with an uncouth fear;  
-A chilling sweat o 'er-runs my trembling joints:  
+A chilling sweat o'er-runs my trembling joints:  
 My heart suspects more than mine eye can see.
 
 **MARTIUS**  
@@ -1391,12 +1420,12 @@ And see a fearful sight of blood and death.
 Aaron is gone; and my compassionate heart  
 Will not permit mine eyes once to behold  
 The thing whereat it trembles by surmise;  
-O, tell me how it is; for ne 'er till now  
+O, tell me how it is; for ne'er till now  
 Was I a child to fear I know not what.
 
 **MARTIUS**  
 Lord Bassianus lies embrewed here,  
-All on a heap, like to a slaughter 'd lamb,  
+All on a heap, like to a slaughter'd lamb,  
 In this detested, dark, blood-drinking pit.
 
 **QUINTUS**  
@@ -1406,19 +1435,19 @@ If it be dark, how dost thou know 'tis he?
 Upon his bloody finger he doth wear  
 A precious ring, that lightens all the hole,  
 Which, like a taper in some monument,  
-Doth shine upon the dead man 's earthy cheeks,  
+Doth shine upon the dead man's earthy cheeks,  
 And shows the ragged entrails of the pit:  
 So pale did shine the moon on Pyramus  
 When he by night lay bathed in maiden blood.  
-O brother, help me with thy fainting hand-  
-If fear hath made thee faint, as me it hath-  
+O brother, help me with thy fainting hand--  
+If fear hath made thee faint, as me it hath--  
 Out of this fell devouring receptacle,  
 As hateful as Cocytus' misty mouth.
 
 **QUINTUS**  
 Reach me thy hand, that I may help thee out;  
 Or, wanting strength to do thee so much good,  
-I may be pluck 'd into the swallowing womb  
+I may be pluck'd into the swallowing womb  
 Of this deep pit, poor Bassianus' grave.  
 I have no strength to pluck thee to the brink.
 
@@ -1428,14 +1457,13 @@ Nor I no strength to climb without thy help.
 **QUINTUS**  
 Thy hand once more; I will not loose again,  
 Till thou art here aloft, or I below:  
-Thou canst not come to me: I come to thee.
-
-*Falls in*
+Thou canst not come to me: I come to thee.  
+*\[Falls in]*
 
 *Enter SATURNINUS with AARON*
 
 **SATURNINUS**  
-Along with me: I 'll see what hole is here,  
+Along with me: I'll see what hole is here,  
 And what he is that now is leap'd into it.  
 Say who art thou that lately didst descend  
 Into this gaping hollow of the earth?
@@ -1455,7 +1483,7 @@ Upon the north side of this pleasant chase;
 We know not where you left him all alive;  
 But, out, alas! here have we found him dead.
 
-*Re-enter TAMORA; TITUS ANDRONICUS, and LUCIUS*
+*Re-enter TAMORA, with Attendants; TITUS ANDRONICUS, and Lucius*
 
 **TAMORA**  
 Where is my lord the king?
@@ -1473,20 +1501,22 @@ Poor Bassianus here lies murdered.
 **TAMORA**  
 Then all too late I bring this fatal writ,  
 The complot of this timeless tragedy;  
-And wonder greatly that man 's face can fold  
-In pleasing smiles such murderous tyranny.
-
-*She giveth SATURNINUS a letter*
+And wonder greatly that man's face can fold  
+In pleasing smiles such murderous tyranny.  
+*\[She giveth SATURNINUS a letter]*
 
 **SATURNINUS**  
-\[Reads] 'An if we miss to meet him handsomely-  
-Sweet huntsman, Bassianus 'tis we mean-  
+*\[Reads]*  
+'An if we miss to meet him handsomely--  
+Sweet huntsman, Bassianus 'tis we mean--  
 Do thou so much as dig the grave for him:  
 Thou know'st our meaning. Look for thy reward  
 Among the nettles at the elder-tree  
 Which overshades the mouth of that same pit  
 Where we decreed to bury Bassianus.  
-Do this, and purchase us thy lasting friends.'  
+Do this, and purchase us thy lasting friends.'
+
+*\[Aside]*  
 O Tamora! was ever heard the like?  
 This is the pit, and this the elder-tree.  
 Look, sirs, if you can find the huntsman out  
@@ -1496,8 +1526,8 @@ That should have murdered Bassianus here.
 My gracious lord, here is the bag of gold.
 
 **SATURNINUS**  
-\[To TITUS] Two of thy whelps, fell curs of  
-bloody kind,  
+*\[To TITUS]*  
+Two of thy whelps, fell curs of bloody kind,  
 Have here bereft my brother of his life.  
 Sirs, drag them from the pit unto the prison:  
 There let them bide until we have devised  
@@ -1511,7 +1541,7 @@ How easily murder is discovered!
 High emperor, upon my feeble knee  
 I beg this boon, with tears not lightly shed,  
 That this fell fault of my accursed sons,  
-Accursed if the fault be proved in them, -
+Accursed if the fault be proved in them,--
 
 **SATURNINUS**  
 If it be proved! you see it is apparent.  
@@ -1522,12 +1552,13 @@ Andronicus himself did take it up.
 
 **TITUS ANDRONICUS**  
 I did, my lord: yet let me be their bail;  
-For, by my father 's reverend tomb, I vow  
+For, by my father's reverend tomb, I vow  
 They shall be ready at your highness' will  
 To answer their suspicion with their lives.
 
 **SATURNINUS**  
 Thou shalt not bail them: see thou follow me.  
+Some bring the murder'd body, some the murderers:  
 Let them not speak a word; the guilt is plain;  
 For, by my soul, were there worse end than death,  
 That end upon them should be executed.
@@ -1543,7 +1574,8 @@ Come, Lucius, come; stay not to talk with them.
 
 ### SCENE IV. Another part of the forest.
 
-*Enter DEMETRIUS and CHIRON with LAVINIA, ravished; her hands cut off, and her tongue cut out*
+*Enter DEMETRIUS and CHIRON with LAVINIA, ravished; her hands cut off,
+and her tongue cut out*
 
 **DEMETRIUS**  
 So, now go tell, an if thy tongue can speak,  
@@ -1561,7 +1593,7 @@ Go home, call for sweet water, wash thy hands.
 
 **DEMETRIUS**  
 She hath no tongue to call, nor hands to wash;  
-And so let 's leave her to her silent walks.
+And so let's leave her to her silent walks.
 
 **CHIRON**  
 An 'twere my case, I should go hang myself.
@@ -1571,16 +1603,16 @@ If thou hadst hands to help thee knit the cord.
 
 *Exeunt DEMETRIUS and CHIRON*
 
-*Enter MARTA*
+*Enter MARCUS*
 
-**MARTA**  
-Who is this my niece, that flies away so fast!?  
+**MARCUS**  
+Who is this? my niece, that flies away so fast!  
 Cousin, a word; where is your husband?  
 If I do dream, would all my wealth would wake me!  
 If I do wake, some planet strike me down,  
 That I may slumber in eternal sleep!  
 Speak, gentle niece, what stern ungentle hands  
-Have lopp 'd and hew'd and made thy body bare  
+Have lopp'd and hew'd and made thy body bare  
 Of her two branches, those sweet ornaments,  
 Whose circling shadows kings have sought to sleep in,  
 And might not gain so great a happiness  
@@ -1601,6 +1633,20 @@ O, that I knew thy heart; and knew the beast,
 That I might rail at him, to ease my mind!  
 Sorrow concealed, like an oven stopp'd,  
 Doth burn the heart to cinders where it is.  
+Fair Philomela, she but lost her tongue,  
+And in a tedious sampler sew'd her mind:  
+But, lovely niece, that mean is cut from thee;  
+A craftier Tereus, cousin, hast thou met,  
+And he hath cut those pretty fingers off,  
+That could have better sew'd than Philomel.  
+O, had the monster seen those lily hands  
+Tremble, like aspen-leaves, upon a lute,  
+And make the silken strings delight to kiss them,  
+He would not then have touch'd them for his life!  
+Or, had he heard the heavenly harmony  
+Which that sweet tongue hath made,  
+He would have dropp'd his knife, and fell asleep  
+As Cerberus at the Thracian poet's feet.  
 Come, let us go, and make thy father blind;  
 For such a sight will blind a father's eye:  
 One hour's storm will drown the fragrant meads;  
@@ -1614,23 +1660,24 @@ O, could our mourning ease thy misery!
 
 ### SCENE I. Rome. A street.
 
-*Enter a Guard, with MARTIUS and QUINTUS, bound, passing on to the place of execution;*  
-*TITUS going before, pleading*
+*Enter Judges, Senators and Tribunes, with MARTIUS and QUINTUS, bound,
+passing on to the place of execution; TITUS going before, pleading*
 
 **TITUS ANDRONICUS**  
 Hear me, grave fathers! noble tribunes, stay!  
 For pity of mine age, whose youth was spent  
 In dangerous wars, whilst you securely slept;  
-For all my blood in Rome 's great quarrel shed;  
+For all my blood in Rome's great quarrel shed;  
 For all the frosty nights that I have watch'd;  
 And for these bitter tears, which now you see  
 Filling the aged wrinkles in my cheeks;  
 Be pitiful to my condemned sons,  
 Whose souls are not corrupted as 'tis thought.  
 For two and twenty sons I never wept,  
-Because they died in honour's lofty bed.
+Because they died in honour's lofty bed.  
+*\[Lieth down]*
 
-*Lieth down; the Judges, & c., pass by him, and Exeunt*
+*Exuent all, passing by him.*
 
 For these, these, tribunes, in the dust I write  
 My heart's deep languor and my soul's sad tears:  
@@ -1658,7 +1705,7 @@ And you recount your sorrows to a stone.
 
 **TITUS ANDRONICUS**  
 Ah, Lucius, for thy brothers let me plead.  
-Grave tribunes, once more I entreat of you, -
+Grave tribunes, once more I entreat of you,--
 
 **LUCIUS**  
 My gracious lord, no tribune hears you speak.
@@ -1675,13 +1722,12 @@ When I do weep, they humbly at my feet
 Receive my tears and seem to weep with me;  
 And, were they but attired in grave weeds,  
 Rome could afford no tribune like to these.  
-A stone is soft as wax, -tribunes more hard than stones;  
+A stone is soft as wax,--tribunes more hard than stones;  
 A stone is silent, and offendeth not,  
 And tribunes with their tongues doom men to death.
 
-*Rises*
-
-But wherefore stand 'st thou with thy weapon drawn?
+*\[Rises]*  
+But wherefore stand'st thou with thy weapon drawn?
 
 **LUCIUS**  
 To rescue my two brothers from their death:  
@@ -1695,11 +1741,11 @@ That Rome is but a wilderness of tigers?
 Tigers must prey, and Rome affords no prey  
 But me and mine: how happy art thou, then,  
 From these devourers to be banished!  
-But who comes with our sister Marta here?
+But who comes with our brother Marcus here?
 
-*Enter MARTA and LAVINIA*
+*Enter MARCUS and LAVINIA*
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 Titus, prepare thy aged eyes to weep;  
 Or, if not so, thy noble heart to break:  
 I bring consuming sorrow to thine age.
@@ -1707,11 +1753,11 @@ I bring consuming sorrow to thine age.
 **TITUS ANDRONICUS**  
 Will it consume me? let me see it, then.
 
-**MARTA ANDRONICUS**  
-This was thy daughter.
+**MARCUS ANDRONICUS**  
+This was thy daughter. /
 
 **TITUS ANDRONICUS**  
-Why, Marta, so she is.
+/ Why, Marcus, so she is.
 
 **LUCIUS**  
 Ay me, this object kills me!
@@ -1719,7 +1765,11 @@ Ay me, this object kills me!
 **TITUS ANDRONICUS**  
 Faint-hearted boy, arise, and look upon her.  
 Speak, Lavinia, what accursed hand  
-Hath made thee handless in thy father 's sight?  
+Hath made thee handless in thy father's sight?  
+What fool hath added water to the sea,  
+Or brought a faggot to bright-burning Troy?  
+My grief was at the height before thou camest,  
+And now like Nilus, it disdaineth bounds.  
 Give me a sword, I'll chop off my hands too;  
 For they have fought for Rome, and all in vain;  
 And they have nursed this woe, in feeding life;  
@@ -1731,11 +1781,11 @@ Is that the one will help to cut the other.
 For hands, to do Rome service, are but vain.
 
 **LUCIUS**  
-Speak, gentle sister, who hath martyr 'd thee?
+Speak, gentle sister, who hath martyr'd thee?
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 O, that delightful engine of her thoughts  
-That blabb 'd them with such pleasing eloquence,  
+That blabb'd them with such pleasing eloquence,  
 Is torn from forth that pretty hollow cage,  
 Where, like a sweet melodious bird, it sung  
 Sweet varied notes, enchanting every ear!
@@ -1743,7 +1793,7 @@ Sweet varied notes, enchanting every ear!
 **LUCIUS**  
 O, say thou for her, who hath done this deed?
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 O, thus I found her, straying in the park,  
 Seeking to hide herself, as doth the deer  
 That hath received some unrecuring wound.
@@ -1758,33 +1808,33 @@ Expecting ever when some envious surge
 Will in his brinish bowels swallow him.  
 This way to death my wretched sons are gone;  
 Here stands my other son, a banished man,  
-And here my sister, weeping at my woes.  
+And here my brother, weeping at my woes.  
 But that which gives my soul the greatest spurn,  
 Is dear Lavinia, dearer than my soul.  
 Had I but seen thy picture in this plight,  
 It would have madded me: what shall I do  
 Now I behold thy lively body so?  
 Thou hast no hands, to wipe away thy tears:  
-Nor tongue, to tell me who hath martyr 'd thee:  
+Nor tongue, to tell me who hath martyr'd thee:  
 Thy husband he is dead: and for his death  
 Thy brothers are condemn'd, and dead by this.  
-Look, Marta! ah, son Lucius, look on her!  
+Look, Marcus! ah, son Lucius, look on her!  
 When I did name her brothers, then fresh tears  
 Stood on her cheeks, as doth the honey-dew  
 Upon a gather'd lily almost wither'd.
 
-**MARTA ANDRONICUS**  
-Perchance she weeps because they kill 'd her husband;  
+**MARCUS ANDRONICUS**  
+Perchance she weeps because they kill'd her husband;  
 Perchance because she knows them innocent.
 
 **TITUS ANDRONICUS**  
 If they did kill thy husband, then be joyful  
-Because the law hath ta 'en revenge on them.  
+Because the law hath ta'en revenge on them.  
 No, no, they would not do so foul a deed;  
 Witness the sorrow that their sister makes.  
 Gentle Lavinia, let me kiss thy lips.  
 Or make some sign how I may do thee ease:  
-Shall thy good cousin, and thy brother Lucius,  
+Shall thy good uncle, and thy brother Lucius,  
 And thou, and I, sit round about some fountain,  
 Looking all downwards to behold our cheeks  
 How they are stain'd, as meadows, yet not dry,  
@@ -1803,19 +1853,19 @@ To make us wonder'd at in time to come.
 Sweet father, cease your tears; for, at your grief,  
 See how my wretched sister sobs and weeps.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 Patience, dear niece. Good Titus, dry thine eyes.
 
 **TITUS ANDRONICUS**  
-Ah, Marta, Marta! sister, well I wot  
+Ah, Marcus, Marcus! brother, well I wot  
 Thy napkin cannot drink a tear of mine,  
-For thou, poor soul, hast drown 'd it with thine own.
+For thou, poor man, hast drown'd it with thine own.
 
 **LUCIUS**  
 Ah, my Lavinia, I will wipe thy cheeks.
 
 **TITUS ANDRONICUS**  
-Mark, Marta, mark! I understand her signs:  
+Mark, Marcus, mark! I understand her signs:  
 Had she a tongue to speak, now would she say  
 That to her brother which I said to thee:  
 His napkin, with his true tears all bewet,  
@@ -1827,8 +1877,8 @@ As far from help as Limbo is from bliss!
 
 **AARON**  
 Titus Andronicus, my lord the emperor  
-Sends thee this word, -that, if thou love thy sons,  
-Let Marta, Lucius, or thyself, old Titus,  
+Sends thee this word,--that, if thou love thy sons,  
+Let Marcus, Lucius, or thyself, old Titus,  
 Or any one of you, chop off your hand,  
 And send it to the king: he for the same  
 Will send thee hither both thy sons alive;  
@@ -1837,7 +1887,7 @@ And that shall be the ransom for their fault.
 **TITUS ANDRONICUS**  
 O gracious emperor! O gentle Aaron!  
 Did ever raven sing so like a lark,  
-That gives sweet tidings of the sun 's uprise?  
+That gives sweet tidings of the sun's uprise?  
 With all my heart, I'll send the emperor my hand:  
 Good Aaron, wilt thou help to chop it off?
 
@@ -1846,11 +1896,11 @@ Stay, father! for that noble hand of thine,
 That hath thrown down so many enemies,  
 Shall not be sent: my hand will serve the turn:  
 My youth can better spare my blood than you;  
-And therefore mine shall save my brothers ' lives.
+And therefore mine shall save my brothers' lives.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 Which of your hands hath not defended Rome,  
-And rear 'd aloft the bloody battle-axe,  
+And rear'd aloft the bloody battle-axe,  
 Writing destruction on the enemy's castle?  
 O, none of both but are of high desert:  
 My hand hath been but idle; let it serve  
@@ -1861,51 +1911,52 @@ Then have I kept it to a worthy end.
 Nay, come, agree whose hand shall go along,  
 For fear they die before their pardon come.
 
-**MARTA ANDRONICUS**  
-My hand shall go.
+**MARCUS ANDRONICUS**  
+My hand shall go. /
 
 **LUCIUS**  
-By heaven, it shall not go!
+/ By heaven, it shall not go!
 
 **TITUS ANDRONICUS**  
-Sir, strive no more: such wither 'd herbs as these  
+Sirs, strive no more: such wither'd herbs as these  
 Are meet for plucking up, and therefore mine.
 
 **LUCIUS**  
 Sweet father, if I shall be thought thy son,  
 Let me redeem my brothers both from death.
 
-**MARTA ANDRONICUS**  
-And, for our father 's sake and mother's care,  
-Now let me show a sister's love to thee.
+**MARCUS ANDRONICUS**  
+And, for our father's sake and mother's care,  
+Now let me show a brother's love to thee.
 
 **TITUS ANDRONICUS**  
 Agree between you; I will spare my hand.
 
 **LUCIUS**  
-Then I 'll go fetch an axe.
+Then I'll go fetch an axe.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 But I will use the axe.
 
-*Exeunt LUCIUS and MARTA*
+*Exeunt LUCIUS and MARCUS*
 
 **TITUS ANDRONICUS**  
-Come hither, Aaron; I 'll deceive them both:  
+Come hither, Aaron; I'll deceive them both:  
 Lend me thy hand, and I will give thee mine.
 
 **AARON**  
-\[Aside] If that be call 'd deceit, I will be honest,  
+*\[Aside]*  
+If that be call'd deceit, I will be honest,  
 And never, whilst I live, deceive men so:  
 But I'll deceive you in another sort,  
 And that you'll say, ere half an hour pass.
 
-*Cuts off TITUS 's hand*
+*Cuts off TITUS's hand*
 
-*Re-enter LUCIUS and MARTA*
+*Re-enter LUCIUS and MARCUS*
 
 **TITUS ANDRONICUS**  
-Now stay your strife: what shall be is dispatch 'd.  
+Now stay your strife: what shall be is dispatch'd.  
 Good Aaron, give his majesty my hand:  
 Tell him it was a hand that warded him  
 From thousand dangers; bid him bury it  
@@ -1935,11 +1986,11 @@ To that I call!
 *\[To LAVINIA]*  
 What, wilt thou kneel with me?  
 Do, then, dear heart; for heaven shall hear our prayers;  
-Or with our sighs we 'll breathe the welkin dim,  
+Or with our sighs we'll breathe the welkin dim,  
 And stain the sun with fog, as sometime clouds  
 When they do hug him in their melting bosoms.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 O brother, speak with possibilities,  
 And do not break into these deep extremes.
 
@@ -1947,13 +1998,13 @@ And do not break into these deep extremes.
 Is not my sorrow deep, having no bottom?  
 Then be my passions bottomless with them.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 But yet let reason govern thy lament.
 
 **TITUS ANDRONICUS**  
 If there were reason for these miseries,  
 Then into limits could I bind my woes:  
-When heaven doth weep, doth not the earth o 'erflow?  
+When heaven doth weep, doth not the earth o'erflow?  
 If the winds rage, doth not the sea wax mad,  
 Threatening the welkin with his big-swoln face?  
 And wilt thou have a reason for this coil?  
@@ -1971,7 +2022,7 @@ To ease their stomachs with their bitter tongues.
 
 **Messenger**  
 Worthy Andronicus, ill art thou repaid  
-For that good hand thou sent 'st the emperor.  
+For that good hand thou sent'st the emperor.  
 Here are the heads of thy two noble sons;  
 And here's thy hand, in scorn to thee sent back;  
 Thy griefs their sports, thy resolution mock'd;  
@@ -1980,7 +2031,7 @@ More than remembrance of my father's death.
 
 *Exit*
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 Now let hot Aetna cool in Sicily,  
 And be my heart an ever-burning hell!  
 These miseries are more than may be borne.  
@@ -1995,19 +2046,19 @@ Where life hath no more interest but to breathe!
 
 *LAVINIA kisses TITUS*
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 Alas, poor heart, that kiss is comfortless  
 As frozen water to a starved snake.
 
 **TITUS ANDRONICUS**  
 When will this fearful slumber have an end?
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 Now, farewell, flattery: die, Andronicus;  
-Thou dost not slumber: see, thy two sons ' heads,  
+Thou dost not slumber: see, thy two sons' heads,  
 Thy warlike hand, thy mangled daughter here:  
 Thy other banish'd son, with this dear sight  
-Struck pale and bloodless; and thy sister, I,  
+Struck pale and bloodless; and thy brother, I,  
 Even like a stony image, cold and numb.  
 Ah, now no more will I control thy griefs:  
 Rend off thy silver hair, thy other hand  
@@ -2018,7 +2069,7 @@ Now is a time to storm; why art thou still?
 **TITUS ANDRONICUS**  
 Ha, ha, ha!
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 Why dost thou laugh? it fits not with this hour.
 
 **TITUS ANDRONICUS**  
@@ -2026,7 +2077,7 @@ Why, I have not another tear to shed:
 Besides, this sorrow is an enemy,  
 And would usurp upon my watery eyes  
 And make them blind with tributary tears:  
-Then which way shall I find Revenge 's cave?  
+Then which way shall I find Revenge's cave?  
 For these two heads do seem to speak to me,  
 And threat me I shall never come to bliss  
 Till all these mischiefs be return'd again  
@@ -2035,7 +2086,7 @@ Come, let me see what task I have to do.
 You heavy people, circle me about,  
 That I may turn me to each one of you,  
 And swear unto my soul to right your wrongs.  
-The vow is made. Come, sister, take a head;  
+The vow is made. Come, brother, take a head;  
 And in this hand the other I will bear.  
 Lavinia, thou shalt be employ'd: these arms!  
 Bear thou my hand, sweet wench, between thy teeth.  
@@ -2045,11 +2096,11 @@ Hie to the Goths, and raise an army there:
 And, if you love me, as I think you do,  
 Let's kiss and part, for we have much to do.
 
-*Exeunt TITUS, MARTA, and LAVINIA*
+*Exeunt TITUS, MARCUS, and LAVINIA*
 
 **LUCIUS**  
 Farewell Andronicus, my noble father,  
-The wofull 'st man that ever lived in Rome:  
+The wofull'st man that ever lived in Rome:  
 Farewell, proud Rome; till Lucius come again,  
 He leaves his pledges dearer than his life:  
 Farewell, Lavinia, my noble sister;  
@@ -2064,17 +2115,15 @@ To be revenged on Rome and Saturnine.
 
 *Exit*
 
-## INTERMISSION
-
 ### SCENE II. A room in Titus's house. A banquet set out.
 
-*Enter TITUS, MARTA, LAVINIA and Young LUCIUS, a boy*
+*Enter TITUS, MARCUS, LAVINIA and Young LUCIUS, a boy*
 
 **TITUS ANDRONICUS**  
 So, so; now sit: and look you eat no more  
 Than will preserve just so much strength in us  
 As will revenge these bitter woes of ours.  
-Marta, unknit that sorrow-wreathen knot:  
+Marcus, unknit that sorrow-wreathen knot:  
 Thy niece and I, poor creatures, want our hands,  
 And cannot passionate our tenfold grief  
 With folded arms. This poor right hand of mine  
@@ -2094,20 +2143,24 @@ That all the tears that thy poor eyes let fall
 May run into that sink, and soaking in  
 Drown the lamenting fool in sea-salt tears.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 Fie, brother, fie! teach her not thus to lay  
 Such violent hands upon her tender life.
 
 **TITUS ANDRONICUS**  
 How now! has sorrow made thee dote already?  
+Why, Marcus, no man should be mad but I.  
 What violent hands can she lay on her life?  
+Ah, wherefore dost thou urge the name of hands;  
+To bid AEneas tell the tale twice o'er,  
+How Troy was burnt and he made miserable?  
 O, handle not the theme, to talk of hands,  
 Lest we remember still that we have none.  
 Fie, fie, how franticly I square my talk,  
 As if we should forget we had no hands,  
-If Marta did not name the word of hands!  
-Come, let 's fall to; and, gentle girl, eat this:  
-Here is no drink! Hark, Marta, what she says;  
+If Marcus did not name the word of hands!  
+Come, let's fall to; and, gentle girl, eat this:  
+Here is no drink! Hark, Marcus, what she says;  
 I can interpret all her martyr'd signs;  
 She says she drinks no other drink but tears,  
 Brew'd with her sorrow, mesh'd upon her cheeks:  
@@ -2123,30 +2176,30 @@ And by still practise learn to know thy meaning.
 Good grandsire, leave these bitter deep laments:  
 Make my aunt merry with some pleasing tale.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 Alas, the tender boy, in passion moved,  
-Doth weep to see his grandsire 's heaviness.
+Doth weep to see his grandsire's heaviness.
 
 **TITUS ANDRONICUS**  
 Peace, tender sapling; thou art made of tears,  
 And tears will quickly melt thy life away.
 
-*MARTA strikes the dish with a knife*
+*MARCUS strikes the dish with a knife*
 
-What dost thou strike at, Marta, with thy knife?
+What dost thou strike at, Marcus, with thy knife?
 
-**MARTA ANDRONICUS**  
-At that that I have kill 'd, my lord; a fly.
+**MARCUS ANDRONICUS**  
+At that that I have kill'd, my lord; a fly.
 
 **TITUS ANDRONICUS**  
-Out on thee, murderer! thou kill 'st my heart;  
+Out on thee, murderer! thou kill'st my heart;  
 Mine eyes are cloy'd with view of tyranny:  
 A deed of death done on the innocent  
-Becomes not Titus' sister: get thee gone:  
+Becomes not Titus' brother: get thee gone:  
 I see thou art not for my company.
 
-**MARTA ANDRONICUS**  
-Alas, my lord, I have but kill 'd a fly.
+**MARCUS ANDRONICUS**  
+Alas, my lord, I have but kill'd a fly.
 
 **TITUS ANDRONICUS**  
 But how, if that fly had a father and mother?  
@@ -2154,11 +2207,10 @@ How would he hang his slender gilded wings,
 And buzz lamenting doings in the air!  
 Poor harmless fly,  
 That, with his pretty buzzing melody,  
-Came here to make us merry! and thou hast  
-kill 'd him.
+Came here to make us merry! and thou hast kill'd him.
 
-**MARTA ANDRONICUS**  
-Pardon me, sir; it was a black ill-favor 'd fly,  
+**MARCUS ANDRONICUS**  
+Pardon me, sir; it was a black ill-favor'd fly,  
 Like to the empress' Moor; therefore I kill'd him.
 
 **TITUS ANDRONICUS**  
@@ -2167,40 +2219,45 @@ Then pardon me for reprehending thee,
 For thou hast done a charitable deed.  
 Give me thy knife, I will insult on him;  
 Flattering myself, as if it were the Moor  
-Come hither purposely to poison me. -  
+Come hither purposely to poison me.--  
 There's for thyself, and that's for Tamora.  
 Ah, sirrah!  
 Yet, I think, we are not brought so low,  
 But that between us we can kill a fly  
 That comes in likeness of a coal-black Moor.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
+*\[Aside]*  
 Alas, poor man! grief has so wrought on him,  
 He takes false shadows for true substances.
 
 **TITUS ANDRONICUS**  
 Come, take away. Lavinia, go with me:  
-I 'll to thy closet; and go read with thee  
+I'll to thy closet; and go read with thee  
 Sad stories chanced in the times of old.  
 Come, boy, and go with me: thy sight is young,  
 And thou shalt read when mine begin to dazzle.
 
 *Exeunt*
 
+## INTERMISSION
+
 ## ACT IV
 
 ### SCENE I. Rome. Titus's garden.
 
-*Enter young LUCIUS, LAVINIA running after him, and the boy flies from her, with books under his arm.*  
-*Then enter TITUS and MARTA*
+*Enter young LUCIUS, and LAVINIA running after him, and the boy flies
+from her, with books under his arm.*
+
+*Enter TITUS and MARCUS*
 
 **Young LUCIUS**  
 Help, grandsire, help! my aunt Lavinia  
-Follows me every where, I know not why:  
-Good cousin Marta, see how swift she comes.  
+Follows me everywhere, I know not why:  
+Good uncle Marcus, see how swift she comes.  
 Alas, sweet aunt, I know not what you mean.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 Stand by me, Lucius; do not fear thine aunt.
 
 **TITUS ANDRONICUS**  
@@ -2209,7 +2266,7 @@ She loves thee, boy, too well to do thee harm.
 **Young LUCIUS**  
 Ay, when my father was in Rome she did.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 What means my niece Lavinia by these signs?
 
 **TITUS ANDRONICUS**  
@@ -2218,42 +2275,42 @@ See, Lucius, see how much she makes of thee:
 Somewhither would she have thee go with her.  
 Ah, boy, Cornelia never with more care  
 Read to her sons than she hath read to thee  
-Sweet poetry and Tully 's Orator.
+Sweet poetry and Tully's Orator.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 Canst thou not guess wherefore she plies thee thus?
 
 **Young LUCIUS**  
-For truth, I know not, I, nor can I guess,  
+My lord, I know not, I, nor can I guess,  
 Unless some fit or frenzy do possess her:  
 For I have heard my grandsire say full oft,  
 Extremity of griefs would make men mad;  
 And I have read that Hecuba of Troy  
 Ran mad through sorrow: that made me to fear;  
-Although, madam, I know my noble aunt  
-Loves me as dear as e 'er my mother did,  
+Although, my lord, I know my noble aunt  
+Loves me as dear as e'er my mother did,  
 And would not, but in fury, fright my youth:  
-Which made me down to throw my books, and fly-  
+Which made me down to throw my books, and fly--  
 Causeless, perhaps. But pardon me, sweet aunt:  
-And, madam, if my cousin Marta go,  
+And, madam, if my uncle Marcus go,  
 I will most willingly attend your ladyship.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 Lucius, I will.
 
 *LAVINIA turns over with her stumps the books which LUCIUS has let fall*
 
 **TITUS ANDRONICUS**  
-How now, Lavinia! Marta, what means this?  
+How now, Lavinia! Marcus, what means this?  
 Some book there is that she desires to see.  
 Which is it, girl, of these? Open them, boy.  
-But thou art deeper read, and better skill 'd  
+But thou art deeper read, and better skill'd  
 Come, and take choice of all my library,  
 And so beguile thy sorrow, till the heavens  
 Reveal the damn'd contriver of this deed.  
 Why lifts she up her arms in sequence thus?
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 I think she means that there was more than one  
 Confederate in the fact: ay, more there was;  
 Or else to heaven she heaves them for revenge.
@@ -2265,65 +2322,66 @@ Lucius, what book is that she tosseth so?
 Grandsire, 'tis Ovid's Metamorphoses;  
 My mother gave it me.
 
-**MARTA ANDRONICUS**  
-For love of her that 's gone,  
+**MARCUS ANDRONICUS**  
+For love of her that's gone,  
 Perhaps she cull'd it from among the rest.
 
 **TITUS ANDRONICUS**  
 Soft! see how busily she turns the leaves!
 
-*Helping her*
-
+*\[Helping her]*  
 What would she find? Lavinia, shall I read?  
 This is the tragic tale of Philomel,  
-And treats of Tereus ' treason and his rape:  
+And treats of Tereus' treason and his rape:  
 And rape, I fear, was root of thine annoy.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 See, brother, see; note how she quotes the leaves.
 
 **TITUS ANDRONICUS**  
 Lavinia, wert thou thus surprised, sweet girl,  
-Ravish 'd and wrong'd, as Philomela was,  
+Ravish'd and wrong'd, as Philomela was,  
 Forced in the ruthless, vast, and gloomy woods? See, see!  
-Ay, such a place there is, where we did hunt-  
-O, had we never, never hunted there!-  
+Ay, such a place there is, where we did hunt--  
+O, had we never, never hunted there!--  
 Pattern'd by that the poet here describes,  
 By nature made for murders and for rapes.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 O, why should nature build so foul a den,  
 Unless the gods delight in tragedies?
 
 **TITUS ANDRONICUS**  
-Give signs, sweet girl, for here are none  
-but friends,  
+Give signs, sweet girl, for here are none but friends,  
 What Roman lord it was durst do the deed:  
 Or slunk not Saturnine, as Tarquin erst,  
-That left the camp to sin in Lucrece ' bed?
+That left the camp to sin in Lucrece' bed?
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 Sit down, sweet niece: brother, sit down by me.  
+Apollo, Pallas, Jove, or Mercury,  
+Inspire me, that I may this treason find!  
 My lord, look here: look here, Lavinia:  
 This sandy plot is plain; guide, if thou canst  
 This after me, when I have writ my name  
 Without the help of any hand at all.
 
-*She writes her name with her staff, and guides it with feet and mouth*
+*He writes his name with his staff, and guides it with feet and mouth*
 
 Cursed be that heart that forced us to this shift!  
 Write thou good niece; and here display, at last,  
-What God will have discover 'd for revenge;  
+What God will have discover'd for revenge;  
 Heaven guide thy pen to print thy sorrows plain,  
 That we may know the traitors and the truth!
 
-*She takes the staff in her mouth, and guides it with her stumps, and writes*
+*She takes the staff in her mouth, and guides it with her stumps, and
+writes*
 
 **TITUS ANDRONICUS**  
-O, do ye read, madam, what she hath writ?  
+O, do ye read, my lord, what she hath writ?  
 'Stuprum. Chiron. Demetrius.'
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 What, what! the lustful sons of Tamora  
 Performers of this heinous, bloody deed?
 
@@ -2331,13 +2389,13 @@ Performers of this heinous, bloody deed?
 Magni Dominator poli,  
 Tam lentus audis scelera? tam lentus vides?
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 O, calm thee, gentle lord; although I know  
 There is enough written upon this earth  
 To stir a mutiny in the mildest thoughts  
 And arm the minds of infants to exclaims.  
 My lord, kneel down with me; Lavinia, kneel;  
-And kneel, sweet boy, the Roman Hector 's hope;  
+And kneel, sweet boy, the Roman Hector's hope;  
 And swear with me, as, with the woful fere  
 And father of that chaste dishonour'd dame,  
 Lord Junius Brutus sware for Lucrece' rape,  
@@ -2352,7 +2410,7 @@ The dam will wake; and, if she wind you once,
 She's with the lion deeply still in league,  
 And lulls him whilst she playeth on her back,  
 And when he sleeps will she do what she list.  
-You are a young hunter, Marta; let it alone;  
+You are a young huntsman, Marcus; let it alone;  
 And, come, I will go get a leaf of brass,  
 And with a gad of steel will write these words,  
 And lay it by: the angry northern wind  
@@ -2361,19 +2419,19 @@ And where's your lesson, then? Boy, what say you?
 
 **Young LUCIUS**  
 I say, my lord, that if I were a man,  
-Their mother 's bed-chamber should not be safe  
+Their mother's bed-chamber should not be safe  
 For these bad bondmen to the yoke of Rome.
 
-**MARTA ANDRONICUS**  
-Ay, that 's my boy! thy father hath full oft  
+**MARCUS ANDRONICUS**  
+Ay, that's my boy! thy father hath full oft  
 For his ungrateful country done the like.
 
 **Young LUCIUS**  
-And, madam, so will I, an if I live.
+And, uncle, so will I, an if I live.
 
 **TITUS ANDRONICUS**  
 Come, go with me into mine armoury;  
-Lucius, I 'll fit thee; and withal, my boy,  
+Lucius, I'll fit thee; and withal, my boy,  
 Shalt carry from me to the empress' sons  
 Presents that I intend to send them both:  
 Come, come; thou'lt do thy message, wilt thou not?
@@ -2382,19 +2440,19 @@ Come, come; thou'lt do thy message, wilt thou not?
 Ay, with my dagger in their bosoms, grandsire.
 
 **TITUS ANDRONICUS**  
-No, boy, not so; I 'll teach thee another course.  
-Lavinia, come. Marta, look to my house:  
+No, boy, not so; I'll teach thee another course.  
+Lavinia, come. Marcus, look to my house:  
 Lucius and I'll go brave it at the court:  
-Ay, marry, we will, and we'll be waited on.
+Ay, marry, will we, sir; and we'll be waited on.
 
 *Exeunt TITUS, LAVINIA, and Young LUCIUS*
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 O heavens, can you hear a good man groan,  
 And not relent, or not compassion him?  
-Marta, attend him in his ecstasy,  
+Marcus, attend him in his ecstasy,  
 That hath more scars of sorrow in his heart  
-Than foemen 's marks upon his batter'd shield;  
+Than foemen's marks upon his batter'd shield;  
 But yet so just that he will not revenge.  
 Revenge, ye heavens, for old Andronicus!
 
@@ -2402,11 +2460,12 @@ Revenge, ye heavens, for old Andronicus!
 
 ### SCENE II. The same. A room in the palace.
 
-*Enter, from one side, AARON, DEMETRIUS, and CHIRON;*  
-*from the other side, Young LUCIUS, with a bundle of weapons, and verses writ upon them*
+*Enter, from one side, AARON, DEMETRIUS, and CHIRON; from the other side,
+Young LUCIUS, and an Attendant, with a bundle of weapons, and verses writ upon
+them*
 
 **CHIRON**  
-Demetrius, here 's the son of Lucius;  
+Demetrius, here's the son of Lucius;  
 He hath some message to deliver us.
 
 **AARON**  
@@ -2420,11 +2479,15 @@ I greet your honours from Andronicus.
 And pray the Roman gods confound you both!
 
 **DEMETRIUS**  
-Gramercy, lovely Lucius: what 's the news?
+Gramercy, lovely Lucius: what's the news?
 
 **Young LUCIUS**  
-\[Aside] That you are both decipher 'd, that's the news,  
-For villains mark'd with rape.-May it please you,  
+*\[Aside]*  
+That you are both decipher'd, that's the news,  
+For villains mark'd with rape. /
+
+*\[To DEMETRIUS]*  
+/ May it please you,  
 My grandsire, well advised, hath sent by me  
 The goodliest weapons of his armoury  
 To gratify your honourable youth,  
@@ -2432,19 +2495,19 @@ The hope of Rome; for so he bade me say;
 And so I do, and with his gifts present  
 Your lordships, that, whenever you have need,  
 You may be armed and appointed well:  
-And so I leave you both:
+And so I leave you both: /
 
 *\[Aside]*  
-like bloody villains.
+/ like bloody villains.
 
-*Exeunt Young LUCIUS*
+*Exeunt Young LUCIUS, and Attendant*
 
 **DEMETRIUS**  
-What 's here? A scroll; and written round about?  
-Let's see;
+What's here? A scroll; and written round about?  
+Let's see; /
 
 *\[Reads]*  
-'Integer vitae, scelerisque purus,  
+/ 'Integer vitae, scelerisque purus,  
 Non eget Mauri jaculis, nec arcu.'
 
 **CHIRON**  
@@ -2456,12 +2519,14 @@ Ay, just; a verse in Horace; right, you have it.
 
 *\[Aside]*  
 Now, what a thing it is to be an ass!  
-Here 's no sound jest! the old man hath found their guilt;  
+Here's no sound jest! the old man hath found their guilt;  
 And sends them weapons wrapped about with lines,  
 That wound, beyond their feeling, to the quick.  
 But were our witty empress well afoot,  
 She would applaud Andronicus' conceit:  
-But let her rest in her unrest awhile.  
+But let her rest in her unrest awhile.
+
+*\[To DEMETRIUS]*  
 And now, young lords, was't not a happy star  
 Led us to Rome, strangers, and more than so,  
 Captives, to be advanced to this height?  
@@ -2500,22 +2565,22 @@ Pray to the devils; the gods have given us over.
 *Trumpets sound within*
 
 **DEMETRIUS**  
-Why do the emperor 's trumpets flourish thus?
+Why do the emperor's trumpets flourish thus?
 
 **CHIRON**  
 Belike, for joy the emperor hath a son.
 
 **DEMETRIUS**  
-Soft! who comes here?
+Soft! who comes here? /
 
 *Enter a Nurse, with a blackamoor Child in her arms*
 
 **Nurse**  
-Good morrow, lords:  
+/ Good morrow, lords:  
 O, tell me, did you see Aaron the Moor?
 
 **AARON**  
-Well, more or less, or ne 'er a whit at all,  
+Well, more or less, or ne'er a whit at all,  
 Here Aaron is; and what with Aaron now?
 
 **Nurse**  
@@ -2527,15 +2592,15 @@ Why, what a caterwauling dost thou keep!
 What dost thou wrap and fumble in thine arms?
 
 **Nurse**  
-O, that which I would hide from heaven 's eye,  
+O, that which I would hide from heaven's eye,  
 Our empress' shame, and stately Rome's disgrace!  
 She is deliver'd, lords; she is deliver'd.
 
 **AARON**  
-To whom?
+To whom? /
 
 **Nurse**  
-I mean, she is brought a-bed.
+/ I mean, she is brought a-bed.
 
 **AARON**  
 Well, God give her good rest! What hath he sent her?
@@ -2544,14 +2609,14 @@ Well, God give her good rest! What hath he sent her?
 A devil.
 
 **AARON**  
-Why, then she is the devil 's dam; a joyful issue.
+Why, then she is the devil's dam; a joyful issue.
 
 **Nurse**  
 A joyless, dismal, black, and sorrowful issue:  
 Here is the babe, as loathsome as a toad  
 Amongst the fairest breeders of our clime:  
 The empress sends it thee, thy stamp, thy seal,  
-And bids thee christen it with thy dagger 's point.
+And bids thee christen it with thy dagger's point.
 
 **AARON**  
 'Zounds, ye whore! is black so base a hue?  
@@ -2571,14 +2636,14 @@ Villain, I have done thy mother.
 
 **DEMETRIUS**  
 And therein, hellish dog, thou hast undone.  
-Woe to her chance, and damn 'd her loathed choice!  
+Woe to her chance, and damn'd her loathed choice!  
 Accursed the offspring of so foul a fiend!
 
 **CHIRON**  
-It shall not live.
+It shall not live. /
 
 **AARON**  
-It shall not die.
+/ It shall not die.
 
 **Nurse**  
 Aaron, it must; the mother wills it so.
@@ -2588,22 +2653,25 @@ What, must it, nurse? then let no man but I
 Do execution on my flesh and blood.
 
 **DEMETRIUS**  
-I 'll broach the tadpole on my rapier's point:  
+I'll broach the tadpole on my rapier's point:  
 Nurse, give it me; my sword shall soon dispatch it.
 
 **AARON**  
 Sooner this sword shall plough thy bowels up.
 
-*Takes the Child from the Nurse, and draws*
+*\[Takes the Child from the Nurse, and draws]*
 
 Stay, murderous villains! will you kill your brother?  
 Now, by the burning tapers of the sky,  
 That shone so brightly when this boy was got,  
-He dies upon my scimitar 's sharp point  
+He dies upon my scimitar's sharp point  
 That touches this my first-born son and heir!  
 I tell you, younglings, not Enceladus,  
+With all his threatening band of Typhon's brood,  
 Nor great Alcides, nor the god of war,  
 Shall seize this prey out of his father's hands.  
+What, what, ye sanguine, shallow-hearted boys!  
+Ye white-limed walls! ye alehouse painted signs!  
 Coal-black is better than another hue,  
 In that it scorns to bear another hue;  
 For all the water in the ocean  
@@ -2635,7 +2703,7 @@ The emperor, in his rage, will doom her death.
 I blush to think upon this ignomy.
 
 **AARON**  
-Why, there 's the privilege your beauty bears:  
+Why, there's the privilege your beauty bears:  
 Fie, treacherous hue, that will betray with blushing  
 The close enacts and counsels of the heart!  
 Here's a young lad framed of another leer:  
@@ -2666,21 +2734,28 @@ Keep there: now talk at pleasure of your safety.
 **DEMETRIUS**  
 How many women saw this child of his?
 
+**AARON**  
+Why, so, brave lords! when we join in league,  
+I am a lamb: but if you brave the Moor,  
+The chafed boar, the mountain lioness,  
+The ocean swells not so as Aaron storms.  
+But say, again; how many saw the child?
+
 **Nurse**  
 Cornelia the midwife and myself;  
-And no one else but the deliver 'd empress.
+And no one else but the deliver'd empress.
 
 **AARON**  
 The empress, the midwife, and yourself:  
-Two may keep counsel when the third 's away:  
+Two may keep counsel when the third's away:  
 Go to the empress, tell her this I said.
 
-*He kills the nurse*
+*\[He kills the nurse]*
 
 Weke, weke! so cries a pig prepared to the spit.
 
 **DEMETRIUS**  
-What mean 'st thou, Aaron? wherefore didst thou this?
+What mean'st thou, Aaron? wherefore didst thou this?
 
 **AARON**  
 O Lord, sir, 'tis a deed of policy:  
@@ -2699,8 +2774,7 @@ To calm this tempest whirling in the court;
 And let the emperor dandle him for his own.  
 Hark ye, lords; ye see I have given her physic,
 
-*Pointing to the nurse*
-
+*\[Pointing to the nurse]*  
 And you must needs bestow her funeral;  
 The fields are near, and you are gallant grooms:  
 This done, see that you take no longer days,  
@@ -2710,18 +2784,18 @@ Then let the ladies tattle what they please.
 
 **CHIRON**  
 Aaron, I see thou wilt not trust the air  
-With secrets.
+With secrets. /
 
 **DEMETRIUS**  
-For this care of Tamora,  
+/ For this care of Tamora,  
 Herself and hers are highly bound to thee.
 
-*Exeunt DEMETRIUS and CHIRON bearing off the Nurse 's body*
+*Exeunt DEMETRIUS and CHIRON bearing off the Nurse's body*
 
 **AARON**  
 Now to the Goths, as swift as swallow flies;  
 There to dispose this treasure in mine arms,  
-And secretly to greet the empress ' friends.  
+And secretly to greet the empress' friends.  
 Come on, you thick lipp'd slave, I'll bear you hence;  
 For it is you that puts us to our shifts:  
 I'll make you feed on berries and on roots,  
@@ -2733,14 +2807,16 @@ To be a warrior, and command a camp.
 
 ### SCENE III. The same. A public place.
 
-*Enter TITUS, bearing arrows with letters at the ends of them;*  
-*with him, MARTA, Young LUCIUS, PUBLIUS, and SEMPRONIUS, with bows*
+*Enter TITUS, bearing arrows with letters at the ends of them; with him,
+MARCUS, Young LUCIUS, PUBLIUS, SEMPRONIUS, CAIUS, and other Gentlemen, with
+bows*
 
 **TITUS ANDRONICUS**  
-Come, Marta; come, kinsmen; this is the way.  
+Come, Marcus; come, kinsmen; this is the way.  
 Sir boy, now let me see your archery;  
 Look ye draw home enough, and 'tis there straight.  
-Be you remember'd, Marta, she's gone, she's fled.  
+Terras Astraea reliquit:  
+Be you remember'd, Marcus, she's gone, she's fled.  
 Sirs, take you to your tools. You, cousins, shall  
 Go sound the ocean, and cast your nets;  
 Happily you may catch her in the sea;  
@@ -2761,17 +2837,17 @@ And leave you not a man-of-war unsearch'd:
 This wicked emperor may have shipp'd her hence;  
 And, kinsmen, then we may go pipe for justice.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 O Publius, is not this a heavy case,  
 To see thy noble uncle thus distract?
 
 **PUBLIUS**  
-Therefore, madam, it highly us concerns  
+Therefore, my lord, it highly us concerns  
 By day and night to attend him carefully,  
 And feed his humour kindly as we may,  
 Till time beget some careful remedy.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 Kinsmen, his sorrows are past remedy.  
 Join with the Goths; and with revengeful war  
 Take wreak on Rome for this ingratitude,  
@@ -2784,58 +2860,57 @@ What, have you met with her?
 **PUBLIUS**  
 No, my good lord; but Pluto sends you word,  
 If you will have Revenge from hell, you shall:  
-Marry, for Justice, she is so employ 'd,  
+Marry, for Justice, she is so employ'd,  
 He thinks, with Jove in heaven, or somewhere else,  
 So that perforce you must needs stay a time.
 
 **TITUS ANDRONICUS**  
 He doth me wrong to feed me with delays.  
-I 'll dive into the burning lake below,  
+I'll dive into the burning lake below,  
 And pull her out of Acheron by the heels.  
-Marta, we are but shrubs, no cedars we  
+Marcus, we are but shrubs, no cedars we  
 No big-boned men framed of the Cyclops' size;  
-But metal, Marta, steel to the very back,  
+But metal, Marcus, steel to the very back,  
 Yet wrung with wrongs more than our backs can bear:  
 And, sith there's no justice in earth nor hell,  
 We will solicit heaven and move the gods  
 To send down Justice for to wreak our wrongs.  
-Come, to this gear. You are a good archer, Marta;
+Come, to this gear. You are a good archer, Marcus;
 
-*He gives them the arrows*
-
+*\[He gives them the arrows]*  
 'Ad Jovem,' that's for you: here, 'Ad Apollinem:'  
 'Ad Martem,' that's for myself:  
 Here, boy, to Pallas: here, to Mercury:  
 To Saturn, Caius, not to Saturnine;  
 You were as good to shoot against the wind.  
-To it, boy! Marta, loose when I bid.  
+To it, boy! Marcus, loose when I bid.  
 Of my word, I have written to effect;  
 There's not a god left unsolicited.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 Kinsmen, shoot all your shafts into the court:  
 We will afflict the emperor in his pride.
 
 **TITUS ANDRONICUS**  
-Now, masters, draw.
+Now, masters, draw. /
 
 *They shoot*
 
-O, well said, Lucius!  
-Good boy, in Virgo 's lap; give it Pallas.
+/ O, well said, Lucius!  
+Good boy, in Virgo's lap; give it Pallas.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 My lord, I aim a mile beyond the moon;  
-Your letter is with Jupiter by this.
+Your letter is with Jupiter by this. /
 
 **TITUS ANDRONICUS**  
-Ha, ha!  
+/ Ha, ha!  
 Publius, Publius, what hast thou done?  
-See, see, thou hast shot off one of Taurus ' horns.
+See, see, thou hast shot off one of Taurus' horns.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 This was the sport, my lord: when Publius shot,  
-The Bull, being gall 'd, gave Aries such a knock  
+The Bull, being gall'd, gave Aries such a knock  
 That down fell both the Ram's horns in the court;  
 And who should find them but the empress' villain?  
 She laugh'd, and told the Moor he should not choose  
@@ -2846,7 +2921,7 @@ Why, there it goes: God give his lordship joy!
 
 *Enter a Clown, with a basket, and two pigeons in it*
 
-News, news from heaven! Marta, the post is come.  
+News, news from heaven! Marcus, the post is come.  
 Sirrah, what tidings? have you any letters?  
 Shall I have justice? what says Jupiter?
 
@@ -2876,9 +2951,9 @@ From heaven! alas, sir, I never came there. God
 forbid I should be so bold to press to heaven in my  
 young days. Why, I am going with my pigeons to the  
 tribunal plebs, to take up a matter of brawl  
-betwixt my uncle and one of the emperial 's men.
+betwixt my uncle and one of the emperial's men.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 Why, sir, that is as fit as can be to serve for  
 your oration; and let him deliver the pigeons to  
 the emperor from you.
@@ -2894,9 +2969,11 @@ Nay, truly, sir, I could never say grace in all my life.
 Sirrah, come hither: make no more ado,  
 But give your pigeons to the emperor:  
 By me thou shalt have justice at his hands.  
-Hold, hold; meanwhile here 's money for thy charges.  
-Give me pen and ink. Sirrah, can you with a grace  
-deliver a supplication?
+Hold, hold; meanwhile here's money for thy charges.  
+Give me pen and ink.
+
+*\[To Clown]*  
+Sirrah, can you with a grace deliver a supplication?
 
 **Clown**  
 Ay, sir.
@@ -2905,7 +2982,7 @@ Ay, sir.
 Then here is a supplication for you. And when you  
 come to him, at the first approach you must kneel,  
 then kiss his foot, then deliver up your pigeons, and  
-then look for your reward. I 'll be at hand, sir; see  
+then look for your reward. I'll be at hand, sir; see  
 you do it bravely.
 
 **Clown**  
@@ -2913,7 +2990,7 @@ I warrant you, sir, let me alone.
 
 **TITUS ANDRONICUS**  
 Sirrah, hast thou a knife? come, let me see it.  
-Here, Marta, fold it in the oration;  
+Here, Marcus, fold it in the oration;  
 For thou hast made it like an humble suppliant.  
 And when thou hast given it the emperor,  
 Knock at my door, and tell me what he says.
@@ -2922,13 +2999,14 @@ Knock at my door, and tell me what he says.
 God be with you, sir; I will.
 
 **TITUS ANDRONICUS**  
-Come, Marta, let us go. Publius, follow me.
+Come, Marcus, let us go. Publius, follow me.
 
 *Exeunt*
 
 ### SCENE IV. The same. Before the palace.
 
-*Enter SATURNINUS, TAMORA, DEMETRIUS, and CHIRON; SATURNINUS with the arrows in his hand*
+*Enter SATURNINUS, TAMORA, DEMETRIUS, CHIRON, Lords, and others; SATURNINUS
+with the arrows in his hand that TITUS shot*
 
 **SATURNINUS**  
 Why, lords, what wrongs are these! was ever seen  
@@ -2937,7 +3015,7 @@ Troubled, confronted thus; and, for the extent
 Of egal justice, used in such contempt?  
 My lords, you know, as know the mightful gods,  
 However these disturbers of our peace  
-Buz in the people 's ears, there nought hath pass'd,  
+Buz in the people's ears, there nought hath pass'd,  
 But even with law, against the willful sons  
 Of old Andronicus. And what an if  
 His sorrows have so overwhelm'd his wits,  
@@ -2961,19 +3039,19 @@ Cut off the proud'st conspirator that lives.
 **TAMORA**  
 My gracious lord, my lovely Saturnine,  
 Lord of my life, commander of my thoughts,  
-Calm thee, and bear the faults of Titus ' age,  
+Calm thee, and bear the faults of Titus' age,  
 The effects of sorrow for his valiant sons,  
 Whose loss hath pierced him deep and scarr'd his heart;  
 And rather comfort his distressed plight  
 Than prosecute the meanest or the best  
-For these contempts.
+For these contempts. /
 
 *\[Aside]*  
-Why, thus it shall become  
+/ Why, thus it shall become  
 High-witted Tamora to gloze with all:  
 But, Titus, I have touched thee to the quick,  
 Thy life-blood out: if Aaron now be wise,  
-Then is all safe, the anchor 's in the port.
+Then is all safe, the anchor's in the port.
 
 *Enter Clown*
 
@@ -3001,16 +3079,16 @@ How much money must I have?
 Come, sirrah, you must be hanged.
 
 **Clown**  
-Hanged! by 'r lady, then I have brought up a neck to  
+Hanged! by'r lady, then I have brought up a neck to  
 a fair end.
 
-*Exit with CHIRON and DEMETRIUS*
+*Exit, guarded*
 
 **SATURNINUS**  
 Despiteful and intolerable wrongs!  
 Shall I endure this monstrous villany?  
 I know from whence this same device proceeds:  
-May this be borne? -as if his traitorous sons,  
+May this be borne?--as if his traitorous sons,  
 That died by law for murder of our brother,  
 Have by my means been butcher'd wrongfully!  
 Go, drag the villain hither by the hair;  
@@ -3024,7 +3102,7 @@ In hope thyself should govern Rome and me.
 What news with thee, AEmilius?
 
 **AEMILIUS**  
-Arm, arm, my lord; -Rome never had more cause.  
+Arm, arm, my lord;--Rome never had more cause.  
 The Goths have gather'd head; and with a power  
 high-resolved men, bent to the spoil,  
 They hither march amain, under conduct  
@@ -3052,7 +3130,7 @@ And will revolt from me to succor him.
 
 **TAMORA**  
 King, be thy thoughts imperious, like thy name.  
-Is the sun dimm 'd, that gnats do fly in it?  
+Is the sun dimm'd, that gnats do fly in it?  
 The eagle suffers little birds to sing,  
 And is not careful what they mean thereby,  
 Knowing that with the shadow of his wings  
@@ -3079,7 +3157,7 @@ Yet should both ear and heart obey my tongue.
 Go thou before, be our ambassador:  
 Say that the emperor requests a parley  
 Of warlike Lucius, and appoint the meeting  
-Even at his father 's house, the old Andronicus.
+Even at his father's house, the old Andronicus.
 
 **SATURNINUS**  
 AEmilius, do this message honourably:  
@@ -3124,18 +3202,22 @@ Brave slip, sprung from the great Andronicus,
 Whose name was once our terror, now our comfort;  
 Whose high exploits and honourable deeds  
 Ingrateful Rome requites with foul contempt,  
-Be bold in us: we 'll follow where thou lead'st,  
+Be bold in us: we'll follow where thou lead'st,  
 Like stinging bees in hottest summer's day  
 Led by their master to the flowered fields,  
 And be avenged on cursed Tamora.
 
+**All the Goths**  
+And as he saith, so say we all with him.
+
 **LUCIUS**  
+I humbly thank him, and I thank you all.  
 But who comes here, led by a lusty Goth?
 
 *Enter a Goth, leading AARON with his Child in his arms*
 
 **Second Goth**  
-Renowned Lucius, from our troops I stray 'd  
+Renowned Lucius, from our troops I stray'd  
 To gaze upon a ruinous monastery;  
 And, as I earnestly did fix mine eye  
 Upon the wasted building, suddenly  
@@ -3148,8 +3230,7 @@ Had nature lent thee but thy mother's look,
 Villain, thou mightst have been an emperor:  
 But where the bull and cow are both milk-white,  
 They never do beget a coal-black calf.  
-Peace, villain, peace!'-even thus he rates  
-the babe,-  
+Peace, villain, peace!'--even thus he rates the babe,--  
 'For I must bear thee to a trusty Goth;  
 Who, when he knows thou art the empress' babe,  
 Will hold thee dearly for thy mother's sake.'  
@@ -3159,7 +3240,7 @@ To use as you think needful of the man.
 
 **LUCIUS**  
 O worthy Goth, this is the incarnate devil  
-That robb 'd Andronicus of his good hand;  
+That robb'd Andronicus of his good hand;  
 This is the pearl that pleased your empress' eye,  
 And here's the base fruit of his burning lust.  
 Say, wall-eyed slave, whither wouldst thou convey  
@@ -3174,21 +3255,21 @@ Touch not the boy; he is of royal blood.
 **LUCIUS**  
 Too like the sire for ever being good.  
 First hang the child, that he may see it sprawl;  
-A sight to vex the father 's soul withal.  
-Get me a ladder.
+A sight to vex the father's soul withal.  
+Get me a ladder. /
 
 *A ladder brought, which AARON is made to ascend*
 
 **AARON**  
-Lucius, save the child,  
+/ Lucius, save the child,  
 And bear it from me to the empress.  
-If thou do this, I 'll show thee wondrous things,  
+If thou do this, I'll show thee wondrous things,  
 That highly may advantage thee to hear:  
 If thou wilt not, befall what may befall,  
 I'll speak no more but 'Vengeance rot you all!'
 
 **LUCIUS**  
-Say on: an if it please me which thou speak 'st  
+Say on: an if it please me which thou speak'st  
 Thy child shall live, and I will see it nourish'd.
 
 **AARON**  
@@ -3220,7 +3301,7 @@ Which I have seen thee careful to observe,
 Therefore I urge thy oath; for that I know  
 An idiot holds his bauble for a god  
 And keeps the oath which by that god he swears,  
-To that I 'll urge him: therefore thou shalt vow  
+To that I'll urge him: therefore thou shalt vow  
 By that same god, what god soe'er it be,  
 That thou adorest and hast in reverence,  
 To save my boy, to nourish and bring him up;  
@@ -3243,10 +3324,10 @@ They cut thy sister's tongue and ravish'd her
 And cut her hands and trimm'd her as thou saw'st.
 
 **LUCIUS**  
-O detestable villain! call 'st thou that trimming?
+O detestable villain! call'st thou that trimming?
 
 **AARON**  
-Why, she was wash 'd and cut and trimm'd, and 'twas  
+Why, she was wash'd and cut and trimm'd, and 'twas  
 Trim sport for them that had the doing of it.
 
 **LUCIUS**  
@@ -3256,7 +3337,7 @@ O barbarous, beastly villains, like thyself!
 Indeed, I was their tutor to instruct them:  
 That codding spirit had they from their mother,  
 As sure a card as ever won the set;  
-That bloody mind, I think, they learn 'd of me,  
+That bloody mind, I think, they learn'd of me,  
 As true a dog as ever fought at head.  
 Well, let my deeds be witness of my worth.  
 I train'd thy brethren to that guileful hole  
@@ -3288,8 +3369,8 @@ Art thou not sorry for these heinous deeds?
 
 **AARON**  
 Ay, that I had not done a thousand more.  
-Even now I curse the day -and yet, I think,  
-Few come within the compass of my curse,-  
+Even now I curse the day--and yet, I think,  
+Few come within the compass of my curse,--  
 Wherein I did not some notorious ill,  
 As kill a man, or else devise his death,  
 Ravish a maid, or plot the way to do it,  
@@ -3322,15 +3403,24 @@ But to torment you with my bitter tongue!
 **LUCIUS**  
 Sirs, stop his mouth, and let him speak no more.
 
+*Enter a Goth*
+
+**Third Goth**  
+My lord, there is a messenger from Rome  
+Desires to be admitted to your presence.
+
+**LUCIUS**  
+Let him come near.
+
 *Enter AEMILIUS*
 
-Welcome, AEmilius what 's the news from Rome?
+Welcome, AEmilius what's the news from Rome?
 
 **AEMILIUS**  
 Lord Lucius, and you princes of the Goths,  
 The Roman emperor greets you all by me;  
 And, for he understands you are in arms,  
-He craves a parley at your father 's house,  
+He craves a parley at your father's house,  
 Willing you to demand your hostages,  
 And they shall be immediately deliver'd.
 
@@ -3339,7 +3429,7 @@ What says our general?
 
 **LUCIUS**  
 AEmilius, let the emperor give his pledges  
-Unto my father and my cousin Marta,  
+Unto my father and my uncle Marcus,  
 And we will come. March away.
 
 *Exeunt*
@@ -3397,7 +3487,7 @@ She is thy enemy, and I thy friend:
 I am Revenge: sent from the infernal kingdom,  
 To ease the gnawing vulture of thy mind,  
 By working wreakful vengeance on thy foes.  
-Come down, and welcome me to this world 's light;  
+Come down, and welcome me to this world's light;  
 Confer with me of murder and of death:  
 There's not a hollow cave or lurking-place,  
 No vast obscurity or misty vale,  
@@ -3418,7 +3508,7 @@ Do me some service, ere I come to thee.
 Lo, by thy side where Rape and Murder stands;  
 Now give me some surance that thou art Revenge,  
 Stab them, or tear them on thy chariot-wheels;  
-And then I 'll come and be thy waggoner,  
+And then I'll come and be thy waggoner,  
 And whirl along with thee about the globe.  
 Provide thee two proper palfreys, black as jet,  
 To hale thy vengeful waggon swift away,  
@@ -3435,14 +3525,14 @@ So thou destroy Rapine and Murder there.
 These are my ministers, and come with me.
 
 **TITUS ANDRONICUS**  
-Are these thy ministers? what are they call 'd?
+Are these thy ministers? what are they call'd?
 
 **TAMORA**  
 Rapine and Murder; therefore called so,  
 Cause they take vengeance of such kind of men.
 
 **TITUS ANDRONICUS**  
-Good Lord, how like the empress ' sons they are!  
+Good Lord, how like the empress' sons they are!  
 And you, the empress! but we worldly men  
 Have miserable, mad, mistaking eyes.  
 O sweet Revenge, now do I come to thee;  
@@ -3453,7 +3543,7 @@ I will embrace thee in it by and by.
 
 **TAMORA**  
 This closing with him fits his lunacy  
-Whate 'er I forge to feed his brain-sick fits,  
+Whate'er I forge to feed his brain-sick fits,  
 Do you uphold and maintain in your speeches,  
 For now he firmly takes me for Revenge;  
 And, being credulous in this mad thought,  
@@ -3483,7 +3573,7 @@ But welcome, as you are. What shall we do?
 What wouldst thou have us do, Andronicus?
 
 **DEMETRIUS**  
-Show me a murderer, I 'll deal with him.
+Show me a murderer, I'll deal with him.
 
 **CHIRON**  
 Show me a villain that hath done a rape,  
@@ -3495,7 +3585,7 @@ And I will be revenged on them all.
 
 **TITUS ANDRONICUS**  
 Look round about the wicked streets of Rome;  
-And when thou find 'st a man that's like thyself.  
+And when thou find'st a man that's like thyself.  
 Good Murder, stab him; he's a murderer.  
 Go thou with him; and when it is thy hap  
 To find another that is like to thee,  
@@ -3508,7 +3598,7 @@ I pray thee, do on them some violent death;
 They have been violent to me and mine.
 
 **TAMORA**  
-Well hast thou lesson 'd us; this shall we do.  
+Well hast thou lesson'd us; this shall we do.  
 But would it please thee, good Andronicus,  
 To send for Lucius, thy thrice-valiant son,  
 Who leads towards Rome a band of warlike Goths,  
@@ -3521,11 +3611,11 @@ And on them shalt thou ease thy angry heart.
 What says Andronicus to this device?
 
 **TITUS ANDRONICUS**  
-Marta, my sister! 'tis sad Titus calls.
+Marcus, my brother! 'tis sad Titus calls.
 
-*Enter MARTA*
+*Enter MARCUS*
 
-Go, gentle Marta, to thy nephew Lucius;  
+Go, gentle Marcus, to thy nephew Lucius;  
 Thou shalt inquire him out among the Goths:  
 Bid him repair to me, and bring with him  
 Some of the chiefest princes of the Goths;  
@@ -3533,9 +3623,9 @@ Bid him encamp his soldiers where they are:
 Tell him the emperor and the empress too  
 Feast at my house, and he shall feast with them.  
 This do thou for my love; and so let him,  
-As he regards his aged father 's life.
+As he regards his aged father's life.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 This will I do, and soon return again.
 
 *Exit*
@@ -3546,20 +3636,21 @@ And take my ministers along with me.
 
 **TITUS ANDRONICUS**  
 Nay, nay, let Rape and Murder stay with me;  
-Or else I 'll call my sister back again,  
+Or else I'll call my brother back again,  
 And cleave to no revenge but Lucius.
 
 **TAMORA**  
-\[Aside to her sons] What say you, boys? will you  
-bide with him,  
+*\[Aside to her sons]*  
+What say you, boys? will you bide with him,  
 Whiles I go tell my lord the emperor  
-How I have govern 'd our determined jest?  
+How I have govern'd our determined jest?  
 Yield to his humour, smooth and speak him fair,  
 And tarry with him till I turn again.
 
 **TITUS ANDRONICUS**  
-\[Aside] I know them all, though they suppose me mad,  
-And will o 'erreach them in their own devices:  
+*\[Aside]*  
+I know them all, though they suppose me mad,  
+And will o'erreach them in their own devices:  
 A pair of cursed hell-hounds and their dam!
 
 **DEMETRIUS**  
@@ -3575,38 +3666,38 @@ I know thou dost; and, sweet Revenge, farewell.
 *Exit TAMORA*
 
 **CHIRON**  
-Tell us, old man, how shall we be employ 'd?
+Tell us, old man, how shall we be employ'd?
 
 **TITUS ANDRONICUS**  
 Tut, I have work enough for you to do.  
-Publius, come hither, Caius!
+Publius, come hither, Caius, and Valentine!
 
-*Enter PUBLIUS and CAIUS*
+*Enter PUBLIUS and others*
 
 **PUBLIUS**  
-What is your will?
+What is your will? /
 
 **TITUS ANDRONICUS**  
-Know you these two?
+/ Know you these two?
 
 **PUBLIUS**  
-The empress ' sons, I take them, Chiron and Demetrius.
+The empress' sons, I take them, Chiron and Demetrius.
 
 **TITUS ANDRONICUS**  
 Fie, Publius, fie! thou art too much deceived;  
-The one is Murder, Rape is the other 's name;  
+The one is Murder, Rape is the other's name;  
 And therefore bind them, gentle Publius.  
-Caius and Publius, lay hands on them.  
+Caius and Valentine, lay hands on them.  
 Oft have you heard me wish for such an hour,  
 And now I find it; therefore bind them sure,  
 And stop their mouths, if they begin to cry.
 
 *Exit*
 
-*PUBLIUS, & CAIUS lay hold on CHIRON and DEMETRIUS*
+*PUBLIUS, & c. lay hold on CHIRON and DEMETRIUS*
 
 **CHIRON**  
-Villains, forbear! we are the empress ' sons.
+Villains, forbear! we are the empress' sons.
 
 **PUBLIUS**  
 And therefore do we what we are commanded.  
@@ -3620,7 +3711,7 @@ Come, come, Lavinia; look, thy foes are bound.
 Sirs, stop their mouths, let them not speak to me;  
 But let them hear what fearful words I utter.  
 O villains, Chiron and Demetrius!  
-Here stands the spring whom you have stain 'd with mud,  
+Here stands the spring whom you have stain'd with mud,  
 This goodly summer with your winter mix'd.  
 You kill'd her husband, and for that vile fault  
 Two of her brothers were condemn'd to death,  
@@ -3644,17 +3735,18 @@ And bid that strumpet, your unhallow'd dam,
 Like to the earth swallow her own increase.  
 This is the feast that I have bid her to,  
 And this the banquet she shall surfeit on;  
+For worse than Philomel you used my daughter,  
+And worse than Progne I will be revenged:  
 And now prepare your throats. Lavinia, come,
 
-*He cuts their throats*
-
+*\[He cuts their throats]*  
 Receive the blood: and when that they are dead,  
 Let me go grind their bones to powder small  
 And with this hateful liquor temper it;  
 And in that paste let their vile heads be baked.  
 Come, come, be every one officious  
 To make this banquet; which I wish may prove  
-More stern and bloody than the Centaurs ' feast.  
+More stern and bloody than the Centaurs' feast.  
 So, now bring them in, for I'll play the cook,  
 And see them ready 'gainst their mother comes.
 
@@ -3662,20 +3754,20 @@ And see them ready 'gainst their mother comes.
 
 ### SCENE III. Court of TITUS's house. A banquet set out.
 
-*Enter LUCIUS, MARTA, and Second Goth, with AARON prisoner*
+*Enter LUCIUS, MARCUS, and Goths, with AARON prisoner*
 
 **LUCIUS**  
-Madam Marta, since it is my father 's mind  
+Uncle Marcus, since it is my father's mind  
 That I repair to Rome, I am content.
 
-**Second Goth**  
+**First Goth**  
 And ours with thine, befall what fortune will.
 
 **LUCIUS**  
-Good cousin, take you in this barbarous Moor,  
+Good uncle, take you in this barbarous Moor,  
 This ravenous tiger, this accursed devil;  
 Let him receive no sustenance, fetter him  
-Till he be brought unto the empress ' face,  
+Till he be brought unto the empress' face,  
 For testimony of her foul proceedings:  
 And see the ambush of our friends be strong;  
 I fear the emperor means no good to us.
@@ -3686,14 +3778,14 @@ And prompt me, that my tongue may utter forth
 The venomous malice of my swelling heart!
 
 **LUCIUS**  
-Away, inhuman dog! unhallow 'd slave!  
-Sir, help our cousin to convey him in.
+Away, inhuman dog! unhallow'd slave!  
+Sirs, help our uncle to convey him in.
 
-*Exeunt Goth, with AARON. Flourish within*
+*Exeunt Goths, with AARON. Flourish within*
 
 The trumpets show the emperor is at hand.
 
-*Enter SATURNINUS and TAMORA, with AEMILIUS*
+*Enter SATURNINUS and TAMORA, with AEMILIUS, Tribunes, Senators, and others*
 
 **SATURNINUS**  
 What, hath the firmament more suns than one?
@@ -3701,8 +3793,8 @@ What, hath the firmament more suns than one?
 **LUCIUS**  
 What boots it thee to call thyself a sun?
 
-**MARTA ANDRONICUS**  
-Rome 's emperor, and nephew, break the parle;  
+**MARCUS ANDRONICUS**  
+Rome's emperor, and nephew, break the parle;  
 These quarrels must be quietly debated.  
 The feast is ready, which the careful Titus  
 Hath ordain'd to an honourable end,  
@@ -3710,16 +3802,17 @@ For peace, for love, for league, and good to Rome:
 Please you, therefore, draw nigh, and take your places.
 
 **SATURNINUS**  
-Marta, we will.
+Marcus, we will.
 
 *Hautboys sound. The Company sit down at table*
 
-*Enter TITUS dressed like a Cook, LAVINIA veiled, and Young LUCIUS.*
+*Enter TITUS dressed like a Cook, LAVINIA veiled, Young LUCIUS, and others.*
 
 *TITUS places the dishes on the table*
 
 **TITUS ANDRONICUS**  
 Welcome, my gracious lord; welcome, dread queen;  
+Welcome, ye warlike Goths; welcome, Lucius;  
 And welcome, all: although the cheer be poor,  
 'Twill fill your stomachs; please you eat of it.
 
@@ -3738,13 +3831,13 @@ An if your highness knew my heart, you were.
 My lord the emperor, resolve me this:  
 Was it well done of rash Virginius  
 To slay his daughter with his own right hand,  
-Because she was enforced, stain 'd, and deflower'd?
+Because she was enforced, stain'd, and deflower'd?
 
 **SATURNINUS**  
-It was, Andronicus.
+It was, Andronicus. /
 
 **TITUS ANDRONICUS**  
-Your reason, mighty lord?
+/ Your reason, mighty lord?
 
 **SATURNINUS**  
 Because the girl should not survive her shame,  
@@ -3756,25 +3849,23 @@ A pattern, precedent, and lively warrant,
 For me, most wretched, to perform the like.  
 Die, die, Lavinia, and thy shame with thee;
 
-*Kills LAVINIA*
-
-And, with thy shame, thy father 's sorrow die!
+*\[Kills LAVINIA]*  
+And, with thy shame, thy father's sorrow die!
 
 **SATURNINUS**  
 What hast thou done, unnatural and unkind?
 
 **TITUS ANDRONICUS**  
-Kill 'd her, for whom my tears have made me blind.  
+Kill'd her, for whom my tears have made me blind.  
 I am as woful as Virginius was,  
 And have a thousand times more cause than he  
 To do this outrage: and it now is done.
 
 **SATURNINUS**  
-What, was she ravish 'd? tell who did the deed.
+What, was she ravish'd? tell who did the deed.
 
 **TITUS ANDRONICUS**  
-Will 't please you eat? will't please your  
-highness feed?
+Will't please you eat? Will't please your highness feed?
 
 **TAMORA**  
 Why hast thou slain thine only daughter thus?
@@ -3791,24 +3882,23 @@ Go fetch them hither to us presently.
 Why, there they are both, baked in that pie;  
 Whereof their mother daintily hath fed,  
 Eating the flesh that she herself hath bred.  
-'Tis true, 'tis true; witness my knife's sharp point.
-
-*Kills TAMORA*
+'Tis true, 'tis true; witness my knife's sharp point.  
+*\[Kills TAMORA]*
 
 **SATURNINUS**  
-Die, frantic wretch, for this accursed deed!
-
-*Kills TITUS*
+Die, frantic wretch, for this accursed deed!  
+*\[Kills TITUS]*
 
 **LUCIUS**  
-Can the son 's eye behold his father bleed?  
-There's meed for meed, death for a deadly deed!
+Can the son's eye behold his father bleed?  
+There's meed for meed, death for a deadly deed!  
+*\[Kills SATURNINUS]*
 
-*Kills SATURNINUS. A great tumult. LUCIUS, MARTA, and others go up into the balcony*
+*A great tumult. LUCIUS, MARCUS, and others go up into the balcony*
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 You sad-faced men, people and sons of Rome,  
-By uproar sever 'd, like a flight of fowl  
+By uproar sever'd, like a flight of fowl  
 Scatter'd by winds and high tempestuous gusts,  
 O, let me teach you how to knit again  
 This scatter'd corn into one mutual sheaf,  
@@ -3821,9 +3911,8 @@ But if my frosty signs and chaps of age,
 Grave witnesses of true experience,  
 Cannot induce you to attend my words,
 
-*To LUCIUS*
-
-Speak, Rome 's dear friend, as erst our ancestor,  
+*\[To LUCIUS]*  
+Speak, Rome's dear friend, as erst our ancestor,  
 When with his solemn tongue he did discourse  
 To love-sick Dido's sad attending ear  
 The story of that baleful burning night  
@@ -3843,7 +3932,7 @@ Your hearts will throb and weep to hear him speak.
 **LUCIUS**  
 Then, noble auditory, be it known to you,  
 That cursed Chiron and Demetrius  
-Were they that murdered our emperor 's brother;  
+Were they that murdered our emperor's brother;  
 And they it were that ravished our sister:  
 For their fell faults our brothers were beheaded;  
 Our father's tears despised, and basely cozen'd  
@@ -3865,21 +3954,20 @@ But, soft! methinks I do digress too much,
 Citing my worthless praise: O, pardon me;  
 For when no friends are by, men praise themselves.
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 Now is my turn to speak. Behold this child:
 
-*Pointing to the Child in the arms of an AMILIUS*
-
+*\[Pointing to the Child in the arms of an AMILIUS]*  
 Of this was Tamora delivered;  
 The issue of an irreligious Moor,  
 Chief architect and plotter of these woes:  
-The villain is alive in Titus ' house,  
+The villain is alive in Titus' house,  
 And as he is, to witness this is true.  
 Now judge what cause had Titus to revenge  
 These wrongs, unspeakable, past patience,  
 Or more than any living man could bear.  
 Now you have heard the truth, what say you, Romans?  
-Have we done aught amiss,-show us wherein,  
+Have we done aught amiss,--show us wherein,  
 And, from the place where you behold us now,  
 The poor remainder of Andronici  
 Will, hand in hand, all headlong cast us down.  
@@ -3889,46 +3977,45 @@ Speak, Romans, speak; and if you say we shall,
 Lo, hand in hand, Lucius and I will fall.
 
 **AEMILIUS**  
-Come, come, thou reverend voice of Rome,  
+Come, come, thou reverend man of Rome,  
 And bring our emperor gently in thy hand,  
 Lucius our emperor; for well I know  
 The common voice do cry it shall be so.
 
 **All**  
-Lucius, all hail, Rome 's royal emperor!
+Lucius, all hail, Rome's royal emperor!
 
-**MARTA ANDRONICUS**  
-Go, go into old Titus ' sorrowful house,
+**MARCUS ANDRONICUS**  
+Go, go into old Titus' sorrowful house,
 
-*\[To AMILIUS and the Goth]*  
+*\[To Attendants]*  
 And hither hale that misbelieving Moor,  
 To be adjudged some direful slaughtering death,  
 As punishment for his most wicked life.
 
-*Exeunt AMILIUS and the Goth*
+*Exeunt Attendants*
 
-*LUCIUS and MARTA descend*
+*LUCIUS, MARCUS, and the others descend*
 
 **All**  
-Lucius, all hail, Rome 's gracious governor!
+Lucius, all hail, Rome's gracious governor!
 
 **LUCIUS**  
 Thanks, gentle Romans: may I govern so,  
-To heal Rome 's harms, and wipe away her woe!  
+To heal Rome's harms, and wipe away her woe!  
 But, gentle people, give me aim awhile,  
 For nature puts me to a heavy task:  
 Stand all aloof: but, uncle, draw you near,  
 To shed obsequious tears upon this trunk.  
 O, take this warm kiss on thy pale cold lips,
 
-*Kissing TITUS*
-
-These sorrowful drops upon thy blood-stain 'd face,  
+*\[Kissing TITUS]*  
+These sorrowful drops upon thy blood-stain'd face,  
 The last true duties of thy noble son!
 
-**MARTA ANDRONICUS**  
+**MARCUS ANDRONICUS**  
 Tear for tear, and loving kiss for kiss,  
-Thy sister Marta tenders on thy lips:  
+Thy brother Marcus tenders on thy lips:  
 O were the sum of these that I should pay  
 Countless and infinite, yet would I pay them!
 
@@ -3952,7 +4039,7 @@ Would I were dead, so you did live again!
 O Lord, I cannot speak to him for weeping;  
 My tears will choke me, if I ope my mouth.
 
-*Re-enter AEMILIUS, the Goth with AARON*
+*Re-enter Attendants with AARON*
 
 **AEMILIUS**  
 You sad Andronici, have done with woes:  
@@ -3964,7 +4051,7 @@ Set him breast-deep in earth, and famish him;
 There let him stand, and rave, and cry for food;  
 If any one relieves or pities him,  
 For the offence he dies. This is our doom:  
-Some stay to see him fasten 'd in the earth.
+Some stay to see him fasten'd in the earth.
 
 **AARON**  
 O, why should wrath be mute, and fury dumb?  
@@ -3977,7 +4064,7 @@ I do repent it from my very soul.
 
 **LUCIUS**  
 Some loving friends convey the emperor hence,  
-And give him burial in his father 's grave:  
+And give him burial in his father's grave:  
 My father and Lavinia shall forthwith  
 Be closed in our household's monument.  
 As for that heinous tiger, Tamora,  
