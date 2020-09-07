@@ -1,17 +1,16 @@
+# Two Noble Kinsmen, Uncut
+
 ## ACT I
 
 ### SCENE I: Athens. Before a Temple.
 
-*Enter with a torch burning; Theseus in wedding pomp;
-then Hippolyta, the bride, led by Pirithous;
-after her, Emilia, holding up her train.*
+*Enter with a torch burning; Theseus in wedding pomp; then Hippolyta, the bride, led by
+Pirithous; after her, Emilia, holding up her train.*
 
-*Enter three Queens, in black, with veils stain'd,
-with imperial crowns.*
+*Enter three Queens, in black, with veils stain'd, with imperial crowns.*
 
-*The first Queen falls down at the foot of Theseus;
-the second falls down at the foot of Hippolyta;
-the third before Emilia.*
+*The first Queen falls down at the foot of Theseus; the second falls down at the foot of
+Hippolyta; the third before Emilia.*
 
 **FIRST QUEEN**  
 For pity's sake and true gentility's,  
@@ -19,8 +18,7 @@ Hear and respect me. /
 
 **SECOND QUEEN**  
 / For your mother's sake,  
-And as you wish your womb  
-may thrive with fair ones,  
+And as you wish your womb may thrive with fair ones,  
 Hear and respect me.
 
 **THIRD QUEEN**  
@@ -80,9 +78,8 @@ Our undertaker. /
 / O, no knees, none, widow!  
 Unto the helmeted Bellona use them,  
 And pray for me your soldier.  
-Troubled I am. /
-
-*Turns away.*
+Troubled I am. /  
+*\[Turns away.]*
 
 **SECOND QUEEN**  
 / Honored Hippolyta,  
@@ -93,7 +90,7 @@ And his love too, who is a servant for
 The tenor of thy speech; dear glass of ladies,  
 Bid him that we, whom flaming war doth scorch,  
 Require him he advance it o'er our heads;  
-Speak't in a woman's key—like such a woman  
+Speak't in a woman's key--like such a woman  
 As any of us three; weep ere you fail;  
 Lend us a knee;  
 Tell him, if he i' th' blood-siz'd field lay swoll'n,  
@@ -228,7 +225,7 @@ Or futurely can cope. /
 / The more proclaiming  
 Our suit shall be neglected. When her arms,  
 Able to lock Jove from a synod, shall  
-By warranting moonlight corslet thee—O, when  
+By warranting moonlight corslet thee--O, when  
 Her twinning cherries shall their sweetness fall  
 Upon thy tasteful lips, what wilt thou think  
 Of rotten kings or blubber'd queens? What care  
@@ -244,8 +241,7 @@ That banquet bids thee to! /
 You should be so transported, as much sorry  
 I should be such a suitor; therefore, sir,
 
-*Kneels.*
-
+*\[Kneels.]*  
 As I shall here make trial of my pray'rs,  
 Either presuming them to have some force,  
 Or sentencing for aye their vigor dumb,  
@@ -389,7 +385,7 @@ The follow'd make pursuit? Either I am
 The forehorse in the team, or I am none  
 That draw i' th' sequent trace. These poor slight sores  
 Need not a plantin; that which rips my bosom  
-Almost to th' heart's— /
+Almost to th' heart's-- /
 
 **ARCITE**  
 / Our uncle Creon. /
@@ -414,7 +410,7 @@ Off me with that corruption! /
 Let's leave his court, that we may nothing share  
 Of his loud infamy; for our milk  
 Will relish of the pasture, and we must  
-Be vile, or disobedient—not his kinsmen  
+Be vile, or disobedient--not his kinsmen  
 In blood unless in quality. /
 
 **PALAMON**  
@@ -631,7 +627,7 @@ When I inquired their names? /
 Arcite and Palamon. /
 
 **THESEUS**  
-/ 'Tis right—those, those.  
+/ 'Tis right--those, those.  
 They are not dead?
 
 **HERALD**  
@@ -993,7 +989,7 @@ I saw her too. /
 / Yes, but you must not love her.
 
 **ARCITE**  
-I will not, as you do—to worship her  
+I will not, as you do--to worship her  
 As she is heavenly and a blessed goddess;  
 I love her as a woman, to enjoy her.  
 So both may love. /
@@ -1069,7 +1065,7 @@ A branded villain. /
 / You are mad. /
 
 **PALAMON**  
-/ I must be—  
+/ I must be--  
 Till thou art worthy, Arcite, it concerns me,  
 And in this madness if I hazard thee  
 And take thy life, I deal but truly. /
@@ -1077,7 +1073,7 @@ And take thy life, I deal but truly. /
 **ARCITE**  
 / Fie, sir!  
 You play the child extremely. I will love her,  
-I must, I ought to do so, and I dare—  
+I must, I ought to do so, and I dare--  
 And all this justly. /
 
 **PALAMON**  
@@ -1151,7 +1147,6 @@ Upon his oath and life, must he set foot
 Upon this kingdom. /
 
 **PALAMON**  
-*\[Aside].*  
 / He's a blessed man!  
 He shall see Thebes again, and call to arms  
 The bold young men that when he bids 'em charge,  
@@ -1166,7 +1161,7 @@ And seek to ravish me. /
 
 **JAILER**  
 / My lord, for you  
-I have this charge too— /
+I have this charge too-- /
 
 **PALAMON**  
 / To discharge my life?
@@ -1213,7 +1208,7 @@ There is no remedy. /
 / Farewell, kind window.  
 May rude wind never hurt thee! O my lady,  
 If ever thou hast felt what sorrow was,  
-Dream how I suffer!—Come; now bury me.
+Dream how I suffer!--Come; now bury me.
 
 *Exeunt Palamon and Jailer.*
 
@@ -1224,7 +1219,7 @@ Dream how I suffer!—Come; now bury me.
 **ARCITE**  
 Banish'd the kingdom? 'Tis a benefit,  
 A mercy I must thank 'em for; but banish'd  
-The free enjoying of that face I die for—  
+The free enjoying of that face I die for--  
 O, 'twas a studied punishment, a death  
 Beyond imagination! Such a vengeance  
 That were I old and wicked, all my sins  
@@ -1286,7 +1281,7 @@ Will be in person there. /
 / What pastimes are they?
 
 **SECOND COUNTRYMAN**  
-Wrastling and running.—'Tis a pretty fellow.
+Wrastling and running.--'Tis a pretty fellow.
 
 **THIRD COUNTRYMAN**  
 Thou wilt not go along? /
@@ -1351,8 +1346,8 @@ And yet his songs are sad ones. Fairer spoken
 Was never gentleman. When I come in  
 To bring him water in a morning, first  
 He bows his noble body, then salutes me thus:  
-“Fair gentle maid, good morrow. May thy goodness  
-Get thee a happy husband!” Once he kiss'd me—  
+"Fair gentle maid, good morrow. May thy goodness  
+Get thee a happy husband!" Once he kiss'd me--  
 I lov'd my lips the better ten days after.  
 Would he would do so ev'ry day! He grieves much,  
 And me as much to see his misery.  
@@ -1396,9 +1391,9 @@ Nor shall you lose your wish. Pirithous,
 Dispose of this fair gentleman. /
 
 **PIRITHOUS**  
-/ Thanks, Theseus.—  
+/ Thanks, Theseus.--  
 What e'er you are, y' are mine, and I shall give you  
-To a most noble service—to this lady,  
+To a most noble service--to this lady,  
 This bright young virgin. Pray observe her goodness.  
 You have honor'd her fair birthday with your virtues,  
 And as your due y' are hers. Kiss her fair hand, sir.
@@ -1519,10 +1514,10 @@ What passion would enclose thee! /
 Thou shouldst perceive my passion, if these signs  
 Of prisonment were off me, and this hand  
 But owner of a sword! Had I a sword,  
-And these house-clogs away— /
+And these house-clogs away-- /
 
 **ARCITE**  
-/ Dear cousin Palamon—
+/ Dear cousin Palamon--
 
 **PALAMON**  
 Cozener Arcite, give me language such  
@@ -1565,7 +1560,7 @@ That Emily is thine, I will forgive
 The trespass thou hast done me, yea, my life  
 If then thou carry't, and brave souls in shades  
 That have died manly, which will seek of me  
-Some news from earth, they shall get none but this—  
+Some news from earth, they shall get none but this--  
 That thou art brave and noble. /
 
 **ARCITE**  
@@ -1574,8 +1569,8 @@ Again betake you to your hawthorn house.
 With counsel of the night, I will be here  
 With wholesome viands; these impediments  
 Will I file off; you shall have garments, and  
-When you shall stretch yourself, and say but, “Arcite,  
-I am in plight,” there shall be at your choice  
+When you shall stretch yourself, and say but, "Arcite,  
+I am in plight," there shall be at your choice  
 Both sword and armor. /
 
 **PALAMON**  
@@ -1585,7 +1580,7 @@ But only Arcite; therefore none but Arcite
 In this kind is so bold. /
 
 **ARCITE**  
-/ Sweet Palamon—
+/ Sweet Palamon--
 
 **PALAMON**  
 I do embrace you and your offer. For  
@@ -1627,13 +1622,13 @@ I have an office there. /
 Cannot please heaven, and I know your office  
 Unjustly is achiev'd. But this one word:  
 You are going now to gaze upon my mistress,  
-For note you, mine she is— /
+For note you, mine she is-- /
 
 **ARCITE**  
-/ Nay then— /
+/ Nay then-- /
 
 **PALAMON**  
-/ Nay, pray you—  
+/ Nay, pray you--  
 You talk of feeding me to breed me strength;  
 You are going now to look upon a sun  
 That strengthens what it looks on; there you have  
@@ -1663,14 +1658,14 @@ A sense to know a man unarm'd, and can
 Smell where resistance is. I'll set it down  
 He's torn to pieces. They howl'd many together,  
 And then they fed on him. How stand I then?  
-Food took I none these two days—  
+Food took I none these two days--  
 Sipp'd some water. I have not clos'd mine eyes  
 Save when my lids scour'd off their brine. Alas,  
 Dissolve, my life, let not my sense unsettle  
 Lest I should drown, or stab, or hang myself.  
 The moon is down, the crickets chirp, the screech owl  
 Calls in the dawn! All offices are done  
-Save what I fail in. But the point is this—  
+Save what I fail in. But the point is this--  
 An end, and that is all.
 
 *Exit.*
@@ -1697,8 +1692,8 @@ Nor none so honest, Arcite. /
 **ARCITE**  
 / That's no matter,  
 We'll argue that hereafter. Come, take courage,  
-You shall not die thus beastly. Here, sir, drink—  
-I know you are faint—then I'll talk further with you.
+You shall not die thus beastly. Here, sir, drink--  
+I know you are faint--then I'll talk further with you.
 
 **PALAMON**  
 Arcite, thou mightst now poison me. /
@@ -1761,7 +1756,7 @@ What is this? /
 **PALAMON**  
 / 'Tis a lusty meat.  
 Give me more wine. Here, Arcite, to the wenches  
-We have known in our days! The Lord Steward's daughter—  
+We have known in our days! The Lord Steward's daughter--  
 Do you remember her? /
 
 **ARCITE**  
@@ -1774,7 +1769,7 @@ She lov'd a black-hair'd man. /
 / She did so; well, sir?
 
 **PALAMON**  
-And I have heard some call him Arcite, and—
+And I have heard some call him Arcite, and--
 
 **ARCITE**  
 Out with't, faith! /
@@ -1810,7 +1805,7 @@ Fear me not. You are now too foul; farewell.
 Get off your trinkets, you shall want nought. /
 
 **PALAMON**  
-/ Sirrah—
+/ Sirrah--
 
 **ARCITE**  
 I'll hear no more. /
@@ -1829,7 +1824,7 @@ I'll hear no more. /
 **DAUGHTER**  
 Yonder's the sea, and there's a ship. How't tumbles!  
 And there's a rock lies watching under water;  
-Now, now, it beats upon it—now, now, now!  
+Now, now, it beats upon it--now, now, now!  
 There's a leak sprung, a sound one. How they cry!  
 Open her before the wind! You'll lose all else.  
 Up with a course or two, and tack about, boys!  
@@ -1990,7 +1985,11 @@ Thou wor'st that day the three kings fell, but lighter.
 
 **ARCITE**  
 That was a very good one, and that day,  
-I well remember, you outdid me, cousin.
+I well remember, you outdid me, cousin;  
+I never saw such valor. When you charg'd  
+Upon the left wing of the enemy,  
+I spurr'd hard to come up, and under me  
+I had a right good horse.
 
 **PALAMON**  
 You are modest, cousin. /
@@ -2084,7 +2083,7 @@ I will no more be hidden, nor put off
 This great adventure to a second trial.  
 I know your cunning, and I know your cause.  
 He that faints now, shame take him! Put thyself  
-Upon thy present guard— /
+Upon thy present guard-- /
 
 **ARCITE**  
 / You are not mad?
@@ -2118,7 +2117,7 @@ By Castor, both shall die. /
 / Hold thy word, Theseus.  
 We are certainly both traitors, both despisers  
 Of thee and of thy goodness. I am Palamon,  
-That cannot love thee, he that broke thy prison—  
+That cannot love thee, he that broke thy prison--  
 Think well what that deserves; and this is Arcite,  
 A bolder traitor never trod thy ground,  
 A falser nev'r seem'd friend. This is the man  
@@ -2133,7 +2132,7 @@ This treachery, like a most trusty lover,
 I call'd him now to answer. If thou be'st,  
 As thou art spoken, great and virtuous,  
 The true decider of all injuries,  
-Say, “Fight again!” and thou shalt see me, Theseus,  
+Say, "Fight again!" and thou shalt see me, Theseus,  
 Do such a justice thou thyself wilt envy.  
 Then take my life, I'll woo thee to't. /
 
@@ -2154,7 +2153,7 @@ In service of so excellent a beauty,
 So let me be most traitor, and ye please me.  
 For scorning thy edict, Duke, ask that lady  
 Why she is fair, and why her eyes command me  
-Stay here to love her; and if she say “traitor,”  
+Stay here to love her; and if she say "traitor,"  
 I am a villain fit to lie unburied.
 
 **PALAMON**  
@@ -2183,19 +2182,19 @@ For these lost cousins. /
 I find no anger to 'em, nor no ruin.  
 Help me, dear sister, in a deed so virtuous  
 The powers of all women will be with us.  
-Most royal brother— /
+Most royal brother-- /
 
 *They kneel.*
 
 **HIPPOLYTA**  
-/ Sir, by our tie of marriage—
+/ Sir, by our tie of marriage--
 
 **EMILIA**  
-By your own spotless honor— /
+By your own spotless honor-- /
 
 **HIPPOLYTA**  
 / By that faith,  
-That fair hand, and that honest heart you gave me—
+That fair hand, and that honest heart you gave me--
 
 **THESEUS**  
 These are strange conjurings. /
@@ -2205,7 +2204,7 @@ These are strange conjurings. /
 
 *\[Kneels.]*  
 By all our friendship, sir, by all our dangers,  
-By all you love most—wars, and this sweet lady—  
+By all you love most--wars, and this sweet lady--  
 To crown all this, by your most noble soul,  
 Which cannot want due mercy, I beg first.
 
@@ -2399,8 +2398,8 @@ Good news. /
 / Palamon has clear'd you,  
 And got your pardon, and discover'd how  
 And by whose means he escap'd, which was your daughter's,  
-Whose pardon is procur'd too; and the prisoner—  
-Not to be held ungrateful to her goodness—  
+Whose pardon is procur'd too; and the prisoner--  
+Not to be held ungrateful to her goodness--  
 Has given a sum of money to her marriage,  
 A large one, I'll assure you. /
 
@@ -2508,15 +2507,15 @@ I saw it was your daughter. /
 
 **WOOER**  
 She sung much, but no sense; only I heard her  
-Repeat this often, “Palamon is gone,  
+Repeat this often, "Palamon is gone,  
 Is gone to th' wood to gather mulberries.  
-I'll find him out tomorrow.” /
+I'll find him out tomorrow." /
 
 **FIRST FRIEND**  
 / Pretty soul!
 
 **WOOER**  
-“His shackles will betray him, he'll be taken.”
+"His shackles will betray him, he'll be taken."
 
 **SECOND FRIEND**  
 Alas, what pity it is! /
@@ -2528,7 +2527,7 @@ And set her safe to land; when presently
 She slipp'd away, and to the city made  
 With such a cry and swiftness that, believe me,  
 She left me far behind her. Three or four  
-I saw from far off cross her—one of 'em  
+I saw from far off cross her--one of 'em  
 I knew to be your brother; where she stay'd,  
 And fell, scarce to be got away. I left them with her,  
 And hither came to tell you. /
@@ -2539,7 +2538,7 @@ And hither came to tell you. /
 
 **DAUGHTER**  
 *\[Sings]*  
-“May you never more enjoy the light,” etc.  
+"May you never more enjoy the light," etc.  
 Is not this a fine song? /
 
 **JAILER'S BROTHER**  
@@ -2552,8 +2551,8 @@ I can sing twenty more. /
 / I think you can.
 
 **DAUGHTER**  
-Yes, truly, can I. I can sing “The Broom,”  
-And “Bonny Robin.” Are not you a tailor?
+Yes, truly, can I. I can sing "The Broom,"  
+And "Bonny Robin." Are not you a tailor?
 
 **JAILER'S BROTHER**  
 Yes. /
@@ -2572,7 +2571,7 @@ For I must lose my maidenhead by cocklight,
 
 *Sings.*
 
-“O fair, O sweet,” etc.
+"O fair, O sweet," etc.
 
 **JAILER'S BROTHER**  
 You must ev'n take it patiently. /
@@ -2608,7 +2607,7 @@ O, is he so? You have a sister? /
 
 **DAUGHTER**  
 But she shall never have him, tell her so.  
-There is at least two hundred now with child by him—  
+There is at least two hundred now with child by him--  
 There must be four. Yet I keep close for all this,  
 Close as a cockle. And all these must be boys,  
 He has the trick on't; and at ten years old  
@@ -2677,7 +2676,7 @@ Where's your whistle, master? /
 
 *Sings.*
 
-“When Cynthia with her borrowed light,” etc.
+"When Cynthia with her borrowed light," etc.
 
 *Exeunt.*
 
@@ -2734,9 +2733,9 @@ And this the noble body. I am sotted,
 Utterly lost. My virgin's faith has fled me;  
 For if my brother but even now had ask'd me  
 Whether I lov'd, I had run mad for Arcite;  
-Now if my sister—more for Palamon.  
-Stand both together: now, come ask me, brother—  
-Alas, I know not! Ask me now, sweet sister—  
+Now if my sister--more for Palamon.  
+Stand both together: now, come ask me, brother--  
+Alas, I know not! Ask me now, sweet sister--  
 I may go look! What a mere child is fancy,  
 That having two fair gauds of equal sweetness,  
 Cannot distinguish, but must cry for both!
@@ -2762,16 +2761,16 @@ To end the quarrel? /
 What sins have I committed, chaste Diana,  
 That my unspotted youth must now be soil'd  
 With blood of princes? And my chastity  
-Be made the altar where the lives of lovers—  
+Be made the altar where the lives of lovers--  
 Two greater and two better never yet  
-Made mothers joy—must be the sacrifice  
+Made mothers joy--must be the sacrifice  
 To my unhappy beauty? /
 
 *Enter Theseus, Hippolyta, and Pirithous*
 
 **THESEUS**  
 / Bring 'em in  
-Quickly, by any means, I long to see 'em.—  
+Quickly, by any means, I long to see 'em.--  
 Your two contending lovers are return'd,  
 And with them their fair knights. Now, my fair sister,  
 You must love one of them. /
@@ -2792,7 +2791,7 @@ O my soft-hearted sister, what think you?
 Weep not, till they weep blood. Wench, it must be.
 
 **THESEUS**  
-You have steel'd 'em with your beauty.—Honor'd friend,  
+You have steel'd 'em with your beauty.--Honor'd friend,  
 To you I give the field; pray order it,  
 Fitting the persons that must use it. /
 
@@ -2800,8 +2799,8 @@ Fitting the persons that must use it. /
 / Yes, sir.
 
 **THESEUS**  
-Come, I'll go visit 'em. I cannot stay—  
-Their fame has fir'd me so—till they appear.  
+Come, I'll go visit 'em. I cannot stay--  
+Their fame has fir'd me so--till they appear.  
 Good friend, be royal. /
 
 **PIRITHOUS**  
@@ -2869,7 +2868,7 @@ success, which doubt not will bring forth comfort.
 
 ### SCENE I: Before the Temples of Mars, Venus, and Diana
 
-*Three altars erected—to Mars, Venus, and Diana.*
+*Three altars erected--to Mars, Venus, and Diana.*
 
 *Flourish. Enter Theseus, Pirithous, and Hippolyta*
 
@@ -2936,7 +2935,7 @@ Which still is farther off it, go with me
 Before the god of our profession. There  
 Require of him the hearts of lions and  
 The breath of tigers, yea, the fierceness too,  
-Yea, the speed also—to go on, I mean,  
+Yea, the speed also--to go on, I mean,  
 Else wish we to be snails. You know my prize  
 Must be dragg'd out of blood; force and great feat  
 Must put my garland on, where she sticks  
@@ -2966,7 +2965,7 @@ Of dusty and old titles, that heal'st with blood
 The earth when it is sick, and cur'st the world  
 O' th' plurisy of people! I do take  
 Thy signs auspiciously, and in thy name  
-To my design march boldly.—Let us go.
+To my design march boldly.--Let us go.
 
 *Exeunt.*
 
@@ -3000,7 +2999,7 @@ In mortal bosoms, whose chase is this world,
 And we in herds thy game, I give thee thanks  
 For this fair token, which being laid unto  
 Mine innocent true heart, arms in assurance  
-My body to this business.—Let us rise  
+My body to this business.--Let us rise  
 And bow before the goddess. Time comes on.
 
 *They bow. Exeunt.*
@@ -3014,8 +3013,8 @@ As wind-fann'd snow, who to thy female knights
 Allow'st no more blood than will make a blush,  
 Which is their order's robe: I here, thy priest,  
 Am humbled 'fore thine altar. O, vouchsafe,  
-With that thy rare green eye—which never yet  
-Beheld thing maculate—look on thy virgin,  
+With that thy rare green eye--which never yet  
+Beheld thing maculate--look on thy virgin,  
 And, sacred silver mistress, lend thine ear  
 (Which nev'r heard scurril term, into whose port  
 Ne'er ent'red wanton sound) to my petition,  
@@ -3048,7 +3047,7 @@ Must grow alone, unpluck'd.
 The flow'r is fall'n, the tree descends. O mistress,  
 Thou here dischargest me. I shall be gather'd,  
 I think so, but I know not thine own will:  
-Unclasp thy mystery.—I hope she's pleas'd,  
+Unclasp thy mystery.--I hope she's pleas'd,  
 Her signs were gracious.
 
 *She curtsies and exits.*
@@ -3135,7 +3134,7 @@ Methinks you are i' th' wrong still. /
 **DOCTOR**  
 / Go, go!  
 You fathers are fine fools. Her honesty!  
-And we should give her physic till we find that—
+And we should give her physic till we find that--
 
 **WOOER**  
 Why, do you think she is not honest, sir?
@@ -3151,7 +3150,7 @@ How old is she? /
 But that's all one, 'tis nothing to our purpose.  
 What e'er her father says, if you perceive  
 Her mood inclining that way that I spoke of,  
-Videlicet, the way of flesh—you have me?
+Videlicet, the way of flesh--you have me?
 
 **WOOER**  
 Yet very well, sir. /
@@ -3208,7 +3207,7 @@ He turns ye like a top. /
 He'll dance the morris twenty mile an hour,  
 And that will founder the best hobby-horse  
 (If I have any skill) in all the parish,  
-And gallops to the tune of “Light a' love.”  
+And gallops to the tune of "Light a' love."  
 What think you of this horse? /
 
 **JAILER**  
@@ -3338,7 +3337,7 @@ Yes, without doubt. /
 / Yes.
 
 **DAUGHTER**  
-We shall have many children.—Lord, how y' are grown!  
+We shall have many children.--Lord, how y' are grown!  
 My Palamon I hope will grow too, finely,  
 Now he's at liberty. Alas, poor chicken,  
 He was kept down with hard meat and ill lodging,  
@@ -3435,8 +3434,8 @@ Threats a brave life, each stroke laments
 The place whereon it falls, and sounds more like  
 A bell than blade. I will stay here,  
 It is enough my hearing shall be punish'd  
-With what shall happen—'gainst the which there is  
-No deafing—but to hear, not taint mine eye  
+With what shall happen--'gainst the which there is  
+No deafing--but to hear, not taint mine eye  
 With dread sights it may shun. /
 
 **PIRITHOUS**  
@@ -3530,14 +3529,14 @@ Which crav'd that very time. It is much better
 I am not there. O, better never born  
 Than minister to such harm! /
 
-*Cornets. A great cry and noise within, crying “A Palamon! "*
+*Cornets. A great cry and noise within, crying "A Palamon! "*
 
 *Enter Servant.*
 
 / What is the chance?
 
 **SERVANT**  
-The cry's “A Palamon!”
+The cry's "A Palamon!"
 
 **EMILIA**  
 Then he has won. 'Twas ever likely:  
@@ -3545,10 +3544,10 @@ He look'd all grace and success, and he is
 Doubtless the prim'st of men. I prithee run  
 And tell me how it goes.
 
-*Shout and cornets. Crying “A Palamon!” within.*
+*Shout and cornets. Crying "A Palamon!" within.*
 
 **SERVANT**  
-Still “Palamon!”
+Still "Palamon!"
 
 **EMILIA**  
 Run and inquire. /
@@ -3572,36 +3571,36 @@ Is sure th' end o' th' combat.
 **SERVANT**  
 They said that Palamon had Arcite's body  
 Within an inch o' th' pyramid, that the cry  
-Was general “A Palamon!”; but anon  
+Was general "A Palamon!"; but anon  
 Th' assistants made a brave redemption, and  
 The two bold titlers at this instant are  
 Hand to hand at it. /
 
 **EMILIA**  
 / Were they metamorphis'd  
-Both into one—O why? There were no woman  
+Both into one--O why? There were no woman  
 Worth so compos'd a man! Their single share,  
 Their nobleness peculiar to them, gives  
 The prejudice of disparity, value's shortness,  
 To any lady breathing. /
 
-*Cornets. Cry within, “Arcite, Arcite! "*
+*Cornets. Cry within, "Arcite, Arcite! "*
 
 / More exulting?  
-“Palamon” still? /
+"Palamon" still? /
 
 **SERVANT**  
-/ Nay, now the sound is “Arcite.”
+/ Nay, now the sound is "Arcite."
 
 **EMILIA**  
 I prithee lay attention to the cry;  
 Set both thine ears to th' business. /
 
-*Cornets. A great shout and cry, “Arcite! Victory! "*
+*Cornets. A great shout and cry, "Arcite! Victory! "*
 
 **SERVANT**  
 / The cry is  
-“Arcite!” and “victory!” Hark, “Arcite! Victory!”  
+"Arcite!" and "victory!" Hark, "Arcite! Victory!"  
 The combat's consummation is proclaim'd  
 By the wind instruments. /
 
@@ -3642,12 +3641,12 @@ As I do rate your value. /
 / O loved sister,  
 He speaks now of as brave a knight as e'er  
 Did spur a noble steed. Wear the girlond  
-With joy that you have won.—For the subdu'd,  
+With joy that you have won.--For the subdu'd,  
 Give them our present justice, since I know  
 Their lives but pinch 'em. Let it here be done.  
 The scene's not for our seeing, go we hence,  
-Right joyful, with some sorrow.—Arm your prize,  
-I know you will not loose her.—Hippolyta,  
+Right joyful, with some sorrow.--Arm your prize,  
+I know you will not loose her.--Hippolyta,  
 I see one eye of yours conceives a tear,  
 The which it will deliver. /
 
@@ -3755,7 +3754,7 @@ As my leave-taking.
 
 *Lies on the block.*
 
-*A great noise within crying “Run! Save! Hold! "*
+*A great noise within crying "Run! Save! Hold! "*
 
 *Enter in haste a Messenger.*
 
@@ -3788,7 +3787,7 @@ Hath wak'd us from our dream? /
 **PIRITHOUS**  
 / List then: your cousin,  
 Mounted upon a steed that Emily  
-Did first bestow on him—on this horse is Arcite  
+Did first bestow on him--on this horse is Arcite  
 Trotting the stones of Athens, which the calkins  
 Did rather tell than trample; for the horse  
 Would make his length a mile, if't pleas'd his rider  
@@ -3799,7 +3798,7 @@ Came music's origin), what envious flint,
 Cold as old Saturn, and like him possess'd  
 With fire malevolent, darted a spark,  
 Or what fierce sulphur else, to this end made,  
-I comment not—the hot horse, hot as fire,  
+I comment not--the hot horse, hot as fire,  
 Took toy at this, and fell to what disorder  
 His power could give his will, bounds, comes on end,  
 Disroots his rider whence he grew, but that  
@@ -3828,7 +3827,7 @@ One that yet loves thee dying. /
 And with her all the world's joy. Reach thy hand;  
 Farewell. I have told my last hour; I was false,  
 Yet never treacherous. Forgive me, cousin.  
-One kiss from fair Emilia.—'Tis done.  
+One kiss from fair Emilia.--'Tis done.  
 Take her. I die. /  
 *\[Dies.]*
 
@@ -3846,6 +3845,7 @@ This day I give to tears. /
 *Arcite is carried out.*
 
 **PALAMON**  
+O cousin,  
 That we should things desire which do cost us  
 The loss of our desire! That nought could buy  
 Dear love but loss of dear love! /
