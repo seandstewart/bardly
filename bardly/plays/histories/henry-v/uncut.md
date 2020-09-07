@@ -998,7 +998,7 @@ Out of appearance?
 I do confess my fault;  
 And do submit me to your highness' mercy.
 
-**GREY** **SCROOP**  
+**GREY & SCROOP**  
 To which we all appeal.
 
 **KING HENRY V**  
