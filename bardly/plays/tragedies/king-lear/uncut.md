@@ -5240,7 +5240,8 @@ No, sir, you must not kneel. /
 / Pray, do not mock me:  
 I am a very foolish fond old man,  
 Fourscore and upward, not an hour more nor less;  
-And, to deal plainly, I fear I am not in my perfect mind.  
+And, to deal plainly,  
+I fear I am not in my perfect mind.  
 Methinks I should know you, and know this man;  
 Yet I am doubtful for I am mainly ignorant  
 What place this is; and all the skill I have  
