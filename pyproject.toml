@@ -14,7 +14,6 @@ iambic = "^2.3"
 mkdocs = "^1.1"
 mkdocs-material = "^7.0"
 mkdocs-awesome-pages-plugin = "^2.2.1"
-tablib = {extras = ["cli"], version = "^2.0.0"}
 fontawesome-markdown = "^0.2.6"
 
 [tool.poetry.dev-dependencies]

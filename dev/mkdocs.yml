@@ -1,5 +1,6 @@
 site_name: Bardly
 site_author: Sean D Stewart
+site_description: The Free, Open Source Shakespeare Resource.
 copyright: "Copyright &copy; 2019 - 2020 Sean Stewart"
 site_url: https://bardly.org
 repo_url: https://github.com/seandstewart/bardly
@@ -24,6 +25,7 @@ plugins:
   - awesome-pages
   - bardly
 markdown_extensions:
+  - meta
   - toc:
       permalink: 📃
   - smarty

@@ -24,6 +24,7 @@ plugins:
   - awesome-pages
   - bardly
 markdown_extensions:
+  - meta
   - toc:
       permalink: 📃
   - smarty

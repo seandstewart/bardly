@@ -75,7 +75,7 @@ python-versions = ">=3.5"
 
 [[package]]
 name = "iambic"
-version = "2.3.3"
+version = "2.4.0"
 description = "Data extraction and rendering library for Shakespearean text."
 category = "main"
 optional = false
@@ -85,7 +85,7 @@ python-versions = ">=3.7,<4.0"
 html2text = ">=2020.1.16,<2021.0.0"
 markdown = ">=3.2.2,<4.0.0"
 pymdown-extensions = ">=7.1,<8.0"
-tablib = {version = ">=2.0.0,<3.0.0", extras = ["cli"]}
+tabulate = ">=0.8.9,<0.9.0"
 typical = ">=2.0.27,<3.0.0"
 ujson = ">=2.0,<3.0"
 
@@ -373,22 +373,15 @@ optional = false
 python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*"
 
 [[package]]
-name = "tablib"
-version = "2.0.0"
-description = "Format agnostic tabular data library (XLS, JSON, YAML, CSV)"
+name = "tabulate"
+version = "0.8.9"
+description = "Pretty-print tabular data"
 category = "main"
 optional = false
-python-versions = ">=3.5"
+python-versions = "*"
 
 [package.extras]
-all = ["markuppy", "odfpy", "openpyxl (>=2.6.0)", "pandas", "pyyaml", "tabulate", "xlrd", "xlwt"]
-cli = ["tabulate"]
-html = ["markuppy"]
-ods = ["odfpy"]
-pandas = ["pandas"]
-xls = ["xlrd", "xlwt"]
-xlsx = ["openpyxl (>=2.6.0)"]
-yaml = ["pyyaml"]
+widechars = ["wcwidth"]
 
 [[package]]
 name = "toml"
@@ -499,7 +492,7 @@ testing = ["pytest (>=3.5,<3.7.3 || >3.7.3)", "pytest-checkdocs (>=1.2.3)", "pyt
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.7"
-content-hash = "8ebfd4584ea067f5e425e27552164415b7154c275d0149119e19ec519fc44f3d"
+content-hash = "5f95377daa284066f78bba4e05df88a96612e72930b8c2609a0c7de405813282"
 
 [metadata.files]
 appdirs = [
@@ -537,8 +530,8 @@ html2text = [
     {file = "html2text-2020.1.16.tar.gz", hash = "sha256:e296318e16b059ddb97f7a8a1d6a5c1d7af4544049a01e261731d2d5cc277bbb"},
 ]
 iambic = [
-    {file = "iambic-2.3.3-py3-none-any.whl", hash = "sha256:74edb472b8c4636d85d84d92ed870867c9a6461c15f87682a2e52471b4713533"},
-    {file = "iambic-2.3.3.tar.gz", hash = "sha256:dc85f24fbaa1ada2085e4b610478fd7d2224c6f2ae3e722db4623a670b46fee7"},
+    {file = "iambic-2.4.0-py3-none-any.whl", hash = "sha256:8b7809c0649e98bba3cb77f57d8668533225f3cee58f016cdda3aac8dd1f5db2"},
+    {file = "iambic-2.4.0.tar.gz", hash = "sha256:de35f7d7025102c255496bac8a364f703866c9106c7fd4d9d1bfaa45d49a8a8e"},
 ]
 identify = [
     {file = "identify-1.5.14-py2.py3-none-any.whl", hash = "sha256:e0dae57c0397629ce13c289f6ddde0204edf518f557bfdb1e56474aa143e77c3"},
@@ -741,9 +734,9 @@ six = [
     {file = "six-1.15.0-py2.py3-none-any.whl", hash = "sha256:8b74bedcbbbaca38ff6d7491d76f2b06b3592611af620f8426e82dddb04a5ced"},
     {file = "six-1.15.0.tar.gz", hash = "sha256:30639c035cdb23534cd4aa2dd52c3bf48f06e5f4a941509c8bafd8ce11080259"},
 ]
-tablib = [
-    {file = "tablib-2.0.0-py3-none-any.whl", hash = "sha256:c5a77c96ad306d5b380def1309d521ad5e98b4f83726f84857ad87e142d13279"},
-    {file = "tablib-2.0.0.tar.gz", hash = "sha256:8cc2fa10bc37219ac5e76850eb7fbd50de313c7a1a7895c44af2a8dd206b7be7"},
+tabulate = [
+    {file = "tabulate-0.8.9-py3-none-any.whl", hash = "sha256:d7c013fe7abbc5e491394e10fa845f8f32fe54f8dc60c6622c6cf482d25d47e4"},
+    {file = "tabulate-0.8.9.tar.gz", hash = "sha256:eb1d13f25760052e8931f2ef80aaf6045a6cceb47514db8beab24cded16f13a7"},
 ]
 toml = [
     {file = "toml-0.10.2-py2.py3-none-any.whl", hash = "sha256:806143ae5bfb6a3c6e736a764057db0e6a0e05e338b5630894a5f779cabb4f9b"},

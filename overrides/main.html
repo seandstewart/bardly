@@ -1,5 +1,18 @@
 {% extends "base.html" %}
-
+{% block extrahead %}
+    {% set title = config.site_name %}
+    {% if page and page.meta and page.meta.title %}
+        {% set title = title ~ " - " ~ page.meta.title %}
+    {% elif page and page.title and not page.is_homepage %}
+        {% set title = title ~ " - " ~ page.title | striptags %}
+    {% endif %}
+    <meta property="og:type" content="book"/>
+    <meta property="og:book:author" content="William Shakespeare">
+    <meta property="og:title" content="{{ title }}"/>
+    <meta property="og:description" content="{{ config.site_description }}"/>
+    <meta property="og:image" content="/static/img/apple-touch-icon.png">
+    <meta property="og:image:type" content="image/png">
+{% endblock %}
 {% block fonts %}
     {{ super() }}
     <link
