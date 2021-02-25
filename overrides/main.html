@@ -1,5 +1,6 @@
 {% extends "base.html" %}
 {% block extrahead %}
+    {% set image = config.site_url + "/static/img/apple-touch-icon.png" %}
     {% set title = config.site_name %}
     {% if page and page.meta and page.meta.title %}
         {% set title = title ~ " - " ~ page.meta.title %}
@@ -10,7 +11,7 @@
     <meta property="og:book:author" content="William Shakespeare">
     <meta property="og:title" content="{{ title }}"/>
     <meta property="og:description" content="{{ config.site_description }}"/>
-    <meta property="og:image" content="/static/img/apple-touch-icon.png">
+    <meta property="og:image" content={{ image }}>
     <meta property="og:image:type" content="image/png">
 {% endblock %}
 {% block fonts %}
