@@ -1,6 +1,6 @@
 site_name: Bardly
 site_author: Sean D Stewart
-site_description: The Free, Open Source Shakespeare Resource.
+site_description: The Free, Open-Source Shakespeare Resource.
 copyright: "Copyright &copy; 2019 - 2020 Sean Stewart"
 site_url: https://bardly.org
 repo_url: https://github.com/seandstewart/bardly
@@ -17,7 +17,7 @@ theme:
     text: "IBM Plex Serif"
     code: "IBM Plex Mono"
   icon:
-    logo: fontawesome/solid/hat-wizard
+    logo: flaticon/storytelling-black
   features:
     - tabs
 plugins:
@@ -33,6 +33,12 @@ markdown_extensions:
   - footnotes
   - pymdownx.details
   - pymdownx.magiclink
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons
   - pymdownx.tabbed
   - attr_list
 extra:
@@ -43,6 +49,9 @@ extra:
       link: "https://twitter.com/MrSeanStewart"
     - icon: "fontawesome/brands/linkedin"
       link: "https://linkedin.com/in/seandstewart"
+    - icon: "flaticon/logo"
+      link: "https://www.flaticon.com"
+      name: Icons made by Freepik on Flaticon
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/sorts/tablesort.number.min.js
