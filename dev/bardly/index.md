@@ -1,3 +1,5 @@
+# Bardly, the Open-Source Shakespeare Resource
+
 ## Welcome to Bardly!
 
 This is a free online resource for the works of William Shakespeare, featuring a library

@@ -1,4 +1,4 @@
-# The Taming of the Shrew - Uncut
+# The Taming of the Shrew,  Uncut
 
 ## PROLOGUE
 

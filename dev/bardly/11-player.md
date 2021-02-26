@@ -1,4 +1,4 @@
-# The Taming of the Shrew - 11 Players
+# The Taming of the Shrew,  11 Players
 
 ## PROLOGUE
 
