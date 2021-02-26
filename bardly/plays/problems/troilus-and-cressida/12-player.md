@@ -1,4 +1,4 @@
-# Troilus and Cressida - 12 Players
+# Troilus and Cressida,  12 Players
 
 ## ACT I
 

@@ -1,4 +1,4 @@
-# Henry VI, Part 3 - Uncut
+# Henry VI, Part 3,  Uncut
 
 ## ACT I
 

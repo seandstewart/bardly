@@ -1,4 +1,4 @@
-# Hamlet - Uncut
+# Hamlet,  Uncut
 
 ## ACT I
 

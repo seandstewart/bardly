@@ -1,4 +1,4 @@
-# Henry VI, Part 1 - 11 Players
+# Henry VI, Part 1,  11 Players
 
 ## ACT I
 

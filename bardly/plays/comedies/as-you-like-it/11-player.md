@@ -1,4 +1,4 @@
-# As You Like It - 11 Players
+# As You Like It,  11 Players
 
 ## ACT I
 

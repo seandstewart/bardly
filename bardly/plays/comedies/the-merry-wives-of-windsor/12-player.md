@@ -1,4 +1,4 @@
-# The Merry Wives of Windsor - 12 Players
+# The Merry Wives of Windsor,  12 Players
 
 ## ACT I
 

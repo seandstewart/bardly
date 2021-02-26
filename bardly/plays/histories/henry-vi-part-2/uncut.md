@@ -1,4 +1,4 @@
-# Henry VI, Part 2 - Uncut
+# Henry VI, Part 2,  Uncut
 
 ## ACT I
 

@@ -1,4 +1,4 @@
-# Othello - 11 Players
+# Othello,  11 Players
 
 ## ACT I
 

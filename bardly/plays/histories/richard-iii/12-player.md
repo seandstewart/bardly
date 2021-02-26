@@ -1,4 +1,4 @@
-# Richard III - 12 Players
+# Richard III,  12 Players
 
 ## ACT I
 

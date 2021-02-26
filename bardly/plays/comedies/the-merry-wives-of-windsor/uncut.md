@@ -1,4 +1,4 @@
-# The Merry Wives of Windsor - Uncut
+# The Merry Wives of Windsor,  Uncut
 
 ## ACT I
 

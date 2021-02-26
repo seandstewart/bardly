@@ -1,4 +1,4 @@
-# Henry IV, Part 1 - 11 Players
+# Henry IV, Part 1,  11 Players
 
 ## ACT I
 

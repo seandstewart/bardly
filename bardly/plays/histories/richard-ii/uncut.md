@@ -1,4 +1,4 @@
-# Richard II - Uncut
+# Richard II,  Uncut
 
 ## ACT I
 

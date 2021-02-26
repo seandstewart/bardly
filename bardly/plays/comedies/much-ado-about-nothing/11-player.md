@@ -1,4 +1,4 @@
-# Much Ado About Nothing - 11 Players
+# Much Ado About Nothing,  11 Players
 
 ## ACT I
 

@@ -1,4 +1,4 @@
-# Double Falsehood - 11 Players
+# Double Falsehood,  11 Players
 
 ## ACT I
 

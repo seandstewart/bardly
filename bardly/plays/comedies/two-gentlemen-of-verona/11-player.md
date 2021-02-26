@@ -1,4 +1,4 @@
-# Two Gentlemen of Verona - 11 Players
+# Two Gentlemen of Verona,  11 Players
 
 ## ACT I
 

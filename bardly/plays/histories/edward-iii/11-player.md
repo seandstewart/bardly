@@ -1,4 +1,4 @@
-# Edward III - 11 Players
+# Edward III,  11 Players
 
 ## ACT I
 

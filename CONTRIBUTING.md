@@ -140,7 +140,7 @@ play in the `/pending/` directory:
    `12-player.md`. Then compare it to the `uncut.md`
    you've just verified.
 4. Once all this is done, just add the full title to the
-   top of the plays (e.g., `# Hamlet - 11 Players`).
+   top of the plays (e.g., `# Hamlet,  11 Players`).
 
 ## Adding a Genre to the Site
 

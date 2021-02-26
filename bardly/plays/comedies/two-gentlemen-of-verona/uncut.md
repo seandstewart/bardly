@@ -1,4 +1,4 @@
-# Two Gentlemen of Verona - Uncut
+# Two Gentlemen of Verona,  Uncut
 
 ## ACT I
 

@@ -1,4 +1,4 @@
-# Romeo and Juliet - 11 Players
+# Romeo and Juliet,  11 Players
 
 ## ACT I
 

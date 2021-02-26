@@ -1,4 +1,4 @@
-# Hamlet - 11 Players
+# Hamlet,  11 Players
 
 ## ACT I
 

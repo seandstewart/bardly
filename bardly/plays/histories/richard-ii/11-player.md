@@ -1,4 +1,4 @@
-# Richard II - 11 Players
+# Richard II,  11 Players
 
 ## ACT I
 

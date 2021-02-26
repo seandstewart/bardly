@@ -1,4 +1,4 @@
-# King John - 12 Players
+# King John,  12 Players
 
 ## ACT I
 

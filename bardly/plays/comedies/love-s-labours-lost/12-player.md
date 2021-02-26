@@ -1,4 +1,4 @@
-# Love's Labours Lost - 12 Players
+# Love's Labours Lost,  12 Players
 
 ## ACT I
 

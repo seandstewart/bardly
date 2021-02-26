@@ -1,4 +1,4 @@
-# Othello - Uncut
+# Othello,  Uncut
 
 ## ACT I
 

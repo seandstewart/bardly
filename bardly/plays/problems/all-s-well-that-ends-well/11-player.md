@@ -1,4 +1,4 @@
-# All's Well That Ends Well - 11 Players
+# All's Well That Ends Well,  11 Players
 
 ## ACT I
 

@@ -1,4 +1,4 @@
-# The Comedy of Errors - Uncut
+# The Comedy of Errors,  Uncut
 
 ## ACT I
 

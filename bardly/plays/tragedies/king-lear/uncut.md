@@ -1,4 +1,4 @@
-# King Lear - Uncut
+# King Lear,  Uncut
 
 ## ACT I
 

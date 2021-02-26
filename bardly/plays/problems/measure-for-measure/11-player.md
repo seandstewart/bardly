@@ -1,4 +1,4 @@
-# Measure for Measure - 11 Players
+# Measure for Measure,  11 Players
 
 ## ACT I
 

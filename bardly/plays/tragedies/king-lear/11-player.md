@@ -1,4 +1,4 @@
-# King Lear - 11 Players
+# King Lear,  11 Players
 
 ## ACT I
 

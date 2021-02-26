@@ -1,4 +1,4 @@
-# Henry IV, Part 2 - Uncut
+# Henry IV, Part 2,  Uncut
 
 ## PROLOGUE. Warkworth. Before the castle
 
