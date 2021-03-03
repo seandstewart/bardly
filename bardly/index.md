@@ -1,4 +1,4 @@
-# Bardly, the Open-Source Shakespeare Resource
+# The Open-Source Shakespeare Resource
 
 ## Welcome to Bardly!
 
