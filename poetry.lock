@@ -75,7 +75,7 @@ python-versions = ">=3.5"
 
 [[package]]
 name = "iambic"
-version = "2.4.2"
+version = "2.4.3"
 description = "Data extraction and rendering library for Shakespearean text."
 category = "main"
 optional = false
@@ -91,18 +91,18 @@ ujson = ">=2.0,<3.0"
 
 [[package]]
 name = "identify"
-version = "1.5.14"
+version = "2.1.1"
 description = "File identification library for Python"
 category = "dev"
 optional = false
-python-versions = "!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.7"
+python-versions = ">=3.6.1"
 
 [package.extras]
 license = ["editdistance"]
 
 [[package]]
 name = "importlib-metadata"
-version = "3.5.0"
+version = "3.7.2"
 description = "Read metadata from Python packages"
 category = "main"
 optional = false
@@ -176,7 +176,7 @@ languages = ["nltk (>=3.2.5,<3.5)", "nltk (>=3.2.5)"]
 
 [[package]]
 name = "markdown"
-version = "3.3.3"
+version = "3.3.4"
 description = "Python implementation of Markdown."
 category = "main"
 optional = false
@@ -227,7 +227,7 @@ wcmatch = ">=7"
 
 [[package]]
 name = "mkdocs-material"
-version = "7.0.0"
+version = "7.0.5"
 description = "A Material Design theme for MkDocs"
 category = "main"
 optional = false
@@ -295,7 +295,7 @@ pytzdata = ">=2020.1"
 
 [[package]]
 name = "pre-commit"
-version = "2.10.1"
+version = "2.11.0"
 description = "A framework for managing and maintaining multi-language pre-commit hooks."
 category = "dev"
 optional = false
@@ -312,7 +312,7 @@ virtualenv = ">=20.0.8"
 
 [[package]]
 name = "pygments"
-version = "2.8.0"
+version = "2.8.1"
 description = "Pygments is a syntax highlighting package written in Python."
 category = "main"
 optional = false
@@ -401,7 +401,7 @@ python-versions = ">= 3.5"
 
 [[package]]
 name = "tqdm"
-version = "4.57.0"
+version = "4.59.0"
 description = "Fast, Extensible Progress Meter"
 category = "main"
 optional = false
@@ -409,6 +409,7 @@ python-versions = "!=3.0.*,!=3.1.*,!=3.2.*,!=3.3.*,>=2.7"
 
 [package.extras]
 dev = ["py-make (>=0.1.0)", "twine", "wheel"]
+notebook = ["ipywidgets (>=6)"]
 telegram = ["requests"]
 
 [[package]]
@@ -479,15 +480,15 @@ bracex = ">=2.1.1"
 
 [[package]]
 name = "zipp"
-version = "3.4.0"
+version = "3.4.1"
 description = "Backport of pathlib-compatible object wrapper for zip files"
 category = "main"
 optional = false
 python-versions = ">=3.6"
 
 [package.extras]
-docs = ["sphinx", "jaraco.packaging (>=3.2)", "rst.linker (>=1.9)"]
-testing = ["pytest (>=3.5,<3.7.3 || >3.7.3)", "pytest-checkdocs (>=1.2.3)", "pytest-flake8", "pytest-cov", "jaraco.test (>=3.2.0)", "jaraco.itertools", "func-timeout", "pytest-black (>=0.3.7)", "pytest-mypy"]
+docs = ["sphinx", "jaraco.packaging (>=8.2)", "rst.linker (>=1.9)"]
+testing = ["pytest (>=4.6)", "pytest-checkdocs (>=1.2.3)", "pytest-flake8", "pytest-cov", "pytest-enabler", "jaraco.itertools", "func-timeout", "pytest-black (>=0.3.7)", "pytest-mypy"]
 
 [metadata]
 lock-version = "1.1"
@@ -530,16 +531,16 @@ html2text = [
     {file = "html2text-2020.1.16.tar.gz", hash = "sha256:e296318e16b059ddb97f7a8a1d6a5c1d7af4544049a01e261731d2d5cc277bbb"},
 ]
 iambic = [
-    {file = "iambic-2.4.2-py3-none-any.whl", hash = "sha256:2965d9bde069e16b9c6203f89dcf72c2f33c0ab4ef3cd91f8511d8823626b747"},
-    {file = "iambic-2.4.2.tar.gz", hash = "sha256:35768701e64f508e534cfeab979ed25f00ae22cabf56feccd33425c7b491d305"},
+    {file = "iambic-2.4.3-py3-none-any.whl", hash = "sha256:49b088d08aa22b752d86676764bf91e90e93ad8139f269d3cf80b8a326648100"},
+    {file = "iambic-2.4.3.tar.gz", hash = "sha256:54f6a3f8e06072ecc2b8725bd115d2b1fb1b28fec70ac19db0c50cf81219baa3"},
 ]
 identify = [
-    {file = "identify-1.5.14-py2.py3-none-any.whl", hash = "sha256:e0dae57c0397629ce13c289f6ddde0204edf518f557bfdb1e56474aa143e77c3"},
-    {file = "identify-1.5.14.tar.gz", hash = "sha256:de7129142a5c86d75a52b96f394d94d96d497881d2aaf8eafe320cdbe8ac4bcc"},
+    {file = "identify-2.1.1-py2.py3-none-any.whl", hash = "sha256:220169a38a0c977c8fef377dc808d6a3330641b5211ec7356c7bbe73cda487c7"},
+    {file = "identify-2.1.1.tar.gz", hash = "sha256:da3d757c94596c50865aae63db6ba4e2e5e3f666c3ea6a6da0cd09a8b2d34abc"},
 ]
 importlib-metadata = [
-    {file = "importlib_metadata-3.5.0-py3-none-any.whl", hash = "sha256:31c5c29f17d064cc71bf6a005a8b25b3332787ab2e7362d5d258800ac825f471"},
-    {file = "importlib_metadata-3.5.0.tar.gz", hash = "sha256:2a851a30a1fd847cedd68c7c6bfb90e765db6265852f574e9d88bb40f96924ab"},
+    {file = "importlib_metadata-3.7.2-py3-none-any.whl", hash = "sha256:407d13f55dc6f2a844e62325d18ad7019a436c4bfcaee34cda35f2be6e7c3e34"},
+    {file = "importlib_metadata-3.7.2.tar.gz", hash = "sha256:18d5ff601069f98d5d605b6a4b50c18a34811d655c55548adc833e687289acde"},
 ]
 inflection = [
     {file = "inflection-0.3.1.tar.gz", hash = "sha256:18ea7fb7a7d152853386523def08736aa8c32636b047ade55f7578c4edeb16ca"},
@@ -560,8 +561,8 @@ lunr = [
     {file = "lunr-0.5.8.tar.gz", hash = "sha256:c4fb063b98eff775dd638b3df380008ae85e6cb1d1a24d1cd81a10ef6391c26e"},
 ]
 markdown = [
-    {file = "Markdown-3.3.3-py3-none-any.whl", hash = "sha256:c109c15b7dc20a9ac454c9e6025927d44460b85bd039da028d85e2b6d0bcc328"},
-    {file = "Markdown-3.3.3.tar.gz", hash = "sha256:5d9f2b5ca24bc4c7a390d22323ca4bad200368612b5aaa7796babf971d2b2f18"},
+    {file = "Markdown-3.3.4-py3-none-any.whl", hash = "sha256:96c3ba1261de2f7547b46a00ea8463832c921d3f9d6aba3f255a6f71386db20c"},
+    {file = "Markdown-3.3.4.tar.gz", hash = "sha256:31b5b491868dcc87d6c24b7e3d19a0d730d59d3e46f4eea6430a321bed387a49"},
 ]
 markupsafe = [
     {file = "MarkupSafe-1.1.1-cp27-cp27m-macosx_10_6_intel.whl", hash = "sha256:09027a7803a62ca78792ad89403b1b7a73a01c8cb65909cd876f7fcebd79b161"},
@@ -626,8 +627,8 @@ mkdocs-awesome-pages-plugin = [
     {file = "mkdocs_awesome_pages_plugin-2.5.0-py3-none-any.whl", hash = "sha256:a215eab780757734a84e33dfa3f7d1141e43576d47aadc1b8f869a7463162c69"},
 ]
 mkdocs-material = [
-    {file = "mkdocs-material-7.0.0.tar.gz", hash = "sha256:1016e4f2207c23683c7074d826eb549a5aabd95811aaa09bd2cfea1c1ea831f4"},
-    {file = "mkdocs_material-7.0.0-py2.py3-none-any.whl", hash = "sha256:0af576868e25cc0e3f67c2c1175cc0a8bde10d8e3a105ae3f10455411ad0cac6"},
+    {file = "mkdocs-material-7.0.5.tar.gz", hash = "sha256:d0693f911752f02ef1a9f9d5dd91c1018f85fd1536d749ece99c4321888089c4"},
+    {file = "mkdocs_material-7.0.5-py2.py3-none-any.whl", hash = "sha256:09a374d92e213af4b81e558537b4b3f70911b749c3840560d84a7383fa9e60b1"},
 ]
 mkdocs-material-extensions = [
     {file = "mkdocs-material-extensions-1.0.1.tar.gz", hash = "sha256:6947fb7f5e4291e3c61405bad3539d81e0b3cd62ae0d66ced018128af509c68f"},
@@ -664,12 +665,12 @@ pendulum = [
     {file = "pendulum-2.1.2.tar.gz", hash = "sha256:b06a0ca1bfe41c990bbf0c029f0b6501a7f2ec4e38bfec730712015e8860f207"},
 ]
 pre-commit = [
-    {file = "pre_commit-2.10.1-py2.py3-none-any.whl", hash = "sha256:16212d1fde2bed88159287da88ff03796863854b04dc9f838a55979325a3d20e"},
-    {file = "pre_commit-2.10.1.tar.gz", hash = "sha256:399baf78f13f4de82a29b649afd74bef2c4e28eb4f021661fc7f29246e8c7a3a"},
+    {file = "pre_commit-2.11.0-py2.py3-none-any.whl", hash = "sha256:c4853e29c24b27d81359357fae891e00bc83e6a0575c93d815e0e8077bd53b3b"},
+    {file = "pre_commit-2.11.0.tar.gz", hash = "sha256:06f8cb95e29e56788fb5dc98d7ca7a714969dc96633e1ba654ccd5953b64c195"},
 ]
 pygments = [
-    {file = "Pygments-2.8.0-py3-none-any.whl", hash = "sha256:b21b072d0ccdf29297a82a2363359d99623597b8a265b8081760e4d0f7153c88"},
-    {file = "Pygments-2.8.0.tar.gz", hash = "sha256:37a13ba168a02ac54cc5891a42b1caec333e59b66addb7fa633ea8a6d73445c0"},
+    {file = "Pygments-2.8.1-py3-none-any.whl", hash = "sha256:534ef71d539ae97d4c3a4cf7d6f110f214b0e687e92f9cb9d2a3b0d3101289c8"},
+    {file = "Pygments-2.8.1.tar.gz", hash = "sha256:2656e1a6edcdabf4275f9a3640db59fd5de107d88e8663c5d4e9a0fa62f77f94"},
 ]
 pymdown-extensions = [
     {file = "pymdown-extensions-7.1.tar.gz", hash = "sha256:5bf93d1ccd8281948cd7c559eb363e59b179b5373478e8a7195cf4b78e3c11b6"},
@@ -690,18 +691,26 @@ pyyaml = [
     {file = "PyYAML-5.4.1-cp27-cp27mu-manylinux1_x86_64.whl", hash = "sha256:bb4191dfc9306777bc594117aee052446b3fa88737cd13b7188d0e7aa8162185"},
     {file = "PyYAML-5.4.1-cp36-cp36m-macosx_10_9_x86_64.whl", hash = "sha256:6c78645d400265a062508ae399b60b8c167bf003db364ecb26dcab2bda048253"},
     {file = "PyYAML-5.4.1-cp36-cp36m-manylinux1_x86_64.whl", hash = "sha256:4e0583d24c881e14342eaf4ec5fbc97f934b999a6828693a99157fde912540cc"},
+    {file = "PyYAML-5.4.1-cp36-cp36m-manylinux2014_aarch64.whl", hash = "sha256:72a01f726a9c7851ca9bfad6fd09ca4e090a023c00945ea05ba1638c09dc3347"},
+    {file = "PyYAML-5.4.1-cp36-cp36m-manylinux2014_s390x.whl", hash = "sha256:895f61ef02e8fed38159bb70f7e100e00f471eae2bc838cd0f4ebb21e28f8541"},
     {file = "PyYAML-5.4.1-cp36-cp36m-win32.whl", hash = "sha256:3bd0e463264cf257d1ffd2e40223b197271046d09dadf73a0fe82b9c1fc385a5"},
     {file = "PyYAML-5.4.1-cp36-cp36m-win_amd64.whl", hash = "sha256:e4fac90784481d221a8e4b1162afa7c47ed953be40d31ab4629ae917510051df"},
     {file = "PyYAML-5.4.1-cp37-cp37m-macosx_10_9_x86_64.whl", hash = "sha256:5accb17103e43963b80e6f837831f38d314a0495500067cb25afab2e8d7a4018"},
     {file = "PyYAML-5.4.1-cp37-cp37m-manylinux1_x86_64.whl", hash = "sha256:e1d4970ea66be07ae37a3c2e48b5ec63f7ba6804bdddfdbd3cfd954d25a82e63"},
+    {file = "PyYAML-5.4.1-cp37-cp37m-manylinux2014_aarch64.whl", hash = "sha256:cb333c16912324fd5f769fff6bc5de372e9e7a202247b48870bc251ed40239aa"},
+    {file = "PyYAML-5.4.1-cp37-cp37m-manylinux2014_s390x.whl", hash = "sha256:fe69978f3f768926cfa37b867e3843918e012cf83f680806599ddce33c2c68b0"},
     {file = "PyYAML-5.4.1-cp37-cp37m-win32.whl", hash = "sha256:dd5de0646207f053eb0d6c74ae45ba98c3395a571a2891858e87df7c9b9bd51b"},
     {file = "PyYAML-5.4.1-cp37-cp37m-win_amd64.whl", hash = "sha256:08682f6b72c722394747bddaf0aa62277e02557c0fd1c42cb853016a38f8dedf"},
     {file = "PyYAML-5.4.1-cp38-cp38-macosx_10_9_x86_64.whl", hash = "sha256:d2d9808ea7b4af864f35ea216be506ecec180628aced0704e34aca0b040ffe46"},
     {file = "PyYAML-5.4.1-cp38-cp38-manylinux1_x86_64.whl", hash = "sha256:8c1be557ee92a20f184922c7b6424e8ab6691788e6d86137c5d93c1a6ec1b8fb"},
+    {file = "PyYAML-5.4.1-cp38-cp38-manylinux2014_aarch64.whl", hash = "sha256:fd7f6999a8070df521b6384004ef42833b9bd62cfee11a09bda1079b4b704247"},
+    {file = "PyYAML-5.4.1-cp38-cp38-manylinux2014_s390x.whl", hash = "sha256:bfb51918d4ff3d77c1c856a9699f8492c612cde32fd3bcd344af9be34999bfdc"},
     {file = "PyYAML-5.4.1-cp38-cp38-win32.whl", hash = "sha256:fa5ae20527d8e831e8230cbffd9f8fe952815b2b7dae6ffec25318803a7528fc"},
     {file = "PyYAML-5.4.1-cp38-cp38-win_amd64.whl", hash = "sha256:0f5f5786c0e09baddcd8b4b45f20a7b5d61a7e7e99846e3c799b05c7c53fa696"},
     {file = "PyYAML-5.4.1-cp39-cp39-macosx_10_9_x86_64.whl", hash = "sha256:294db365efa064d00b8d1ef65d8ea2c3426ac366c0c4368d930bf1c5fb497f77"},
     {file = "PyYAML-5.4.1-cp39-cp39-manylinux1_x86_64.whl", hash = "sha256:74c1485f7707cf707a7aef42ef6322b8f97921bd89be2ab6317fd782c2d53183"},
+    {file = "PyYAML-5.4.1-cp39-cp39-manylinux2014_aarch64.whl", hash = "sha256:d483ad4e639292c90170eb6f7783ad19490e7a8defb3e46f97dfe4bacae89122"},
+    {file = "PyYAML-5.4.1-cp39-cp39-manylinux2014_s390x.whl", hash = "sha256:fdc842473cd33f45ff6bce46aea678a54e3d21f1b61a7750ce3c498eedfe25d6"},
     {file = "PyYAML-5.4.1-cp39-cp39-win32.whl", hash = "sha256:49d4cdd9065b9b6e206d0595fee27a96b5dd22618e7520c33204a4a3239d5b10"},
     {file = "PyYAML-5.4.1-cp39-cp39-win_amd64.whl", hash = "sha256:c20cfa2d49991c8b4147af39859b167664f2ad4561704ee74c1de03318e898db"},
     {file = "PyYAML-5.4.1.tar.gz", hash = "sha256:607774cbba28732bfa802b54baa7484215f530991055bb562efbed5b2f20a45e"},
@@ -805,8 +814,8 @@ tornado = [
     {file = "tornado-6.1.tar.gz", hash = "sha256:33c6e81d7bd55b468d2e793517c909b139960b6c790a60b7991b9b6b76fb9791"},
 ]
 tqdm = [
-    {file = "tqdm-4.57.0-py2.py3-none-any.whl", hash = "sha256:70657337ec104eb4f3fb229285358f23f045433f6aea26846cdd55f0fd68945c"},
-    {file = "tqdm-4.57.0.tar.gz", hash = "sha256:65185676e9fdf20d154cffd1c5de8e39ef9696ff7e59fe0156b1b08e468736af"},
+    {file = "tqdm-4.59.0-py2.py3-none-any.whl", hash = "sha256:9fdf349068d047d4cfbe24862c425883af1db29bcddf4b0eeb2524f6fbdb23c7"},
+    {file = "tqdm-4.59.0.tar.gz", hash = "sha256:d666ae29164da3e517fcf125e41d4fe96e5bb375cd87ff9763f6b38b5592fe33"},
 ]
 typical = [
     {file = "typical-2.1.2-py3-none-any.whl", hash = "sha256:f04e5c6c38dd2245bd3e110ac7c388e944d3f02f57b03b710ffe77a7068fbf68"},
@@ -835,6 +844,6 @@ wcmatch = [
     {file = "wcmatch-8.1.1.tar.gz", hash = "sha256:7ba09191f9582e82d864829bdfbab02df46e26a46a304e57c7fe5652f07f297a"},
 ]
 zipp = [
-    {file = "zipp-3.4.0-py3-none-any.whl", hash = "sha256:102c24ef8f171fd729d46599845e95c7ab894a4cf45f5de11a44cc7444fb1108"},
-    {file = "zipp-3.4.0.tar.gz", hash = "sha256:ed5eee1974372595f9e416cc7bbeeb12335201d8081ca8a0743c954d4446e5cb"},
+    {file = "zipp-3.4.1-py3-none-any.whl", hash = "sha256:51cb66cc54621609dd593d1787f286ee42a5c0adbb4b29abea5a63edc3e03098"},
+    {file = "zipp-3.4.1.tar.gz", hash = "sha256:3607921face881ba3e026887d8150cca609d517579abe052ac81fc5aeffdbd76"},
 ]
