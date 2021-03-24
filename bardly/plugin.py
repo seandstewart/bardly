@@ -11,7 +11,6 @@ from mkdocs.structure.pages import Page
 class IambicPlugin(BasePlugin):
 
     _rendered = {}
-    _pool = ProcessPoolExecutor(10)
 
     @staticmethod
     def _process_file(file: File):
@@ -22,12 +21,12 @@ class IambicPlugin(BasePlugin):
         return file.abs_src_path, None
 
     def on_files(self, files: Files, config: Config):
-
-        self._rendered = {
-            path: md
-            for path, md in self._pool.map(self._process_file, files)
-            if md
-        }
+        with ProcessPoolExecutor(10) as pool:
+            self._rendered = {
+                path: md
+                for path, md in pool.map(self._process_file, files)
+                if md
+            }
 
     def on_page_read_source(self, page: Page, config: Config):
         file: File = page.file
