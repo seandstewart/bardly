@@ -4,7 +4,7 @@
 
 ### SCENE I. London. The palace.
 
-*Enter KING HENRY, the COUNTESS of WESTMORELAND, and LADY WENDY BLUNT*
+*Enter KING HENRY, the EARL of WESTMORELAND, and SIR WALTER BLUNT*
 
 **KING HENRY IV**  
 So shaken as we are, so wan with care,  
@@ -59,13 +59,13 @@ Uncertain of the issue any way.
 
 **KING HENRY IV**  
 Here is a dear, a true industrious friend,  
-Sweet Wendy Blunt, new lighted from her horse.  
+Sir Walter Blunt, new lighted from his horse.  
 Stain'd with the variation of each soil  
 Betwixt that Holmedon and this seat of ours;  
-And she hath brought us smooth and welcome news.  
+And he hath brought us smooth and welcome news.  
 The Earl of Douglas is discomfited:  
 Ten thousand bold Scots, two and twenty knights,  
-Balk'd in their own blood did dear Wendy see  
+Balk'd in their own blood did Sir Walter see  
 On Holmedon's plains. Of prisoners, Hotspur took  
 Mordake the Earl of Fife, and eldest son  
 To beaten Douglas; and the Earl of Athol,  
@@ -79,8 +79,8 @@ It is a conquest for a prince to boast of.
 
 **KING HENRY IV**  
 Yea, there thou makest me sad and makest me sin  
-In envy that Lady Northumberland  
-Should be the mother to so blest a son,  
+In envy that my Lord Northumberland  
+Should be the father to so blest a son,  
 A son who is the theme of honour's tongue;  
 Amongst a grove, the very straightest plant;  
 Who is sweet Fortune's minion and her pride:  
@@ -90,7 +90,7 @@ Of my young Harry. O that it could be proved
 That some night-tripping fairy had exchanged  
 In cradle-clothes our children where they lay,  
 And call'd mine Percy, his Plantagenet!  
-Then would I have her Harry, and she mine.  
+Then would I have his Harry, and he mine.  
 But let him from my thoughts. What think you, coz,  
 Of this young Percy's pride? the prisoners,  
 Which he in this adventure hath surprised,  
@@ -249,7 +249,7 @@ man to labour in his vocation.
 *Enter POINS*
 
 Poins! O, if men were to be saved by merit, what  
-hole in hell were hot enough for her? This is the  
+hole in hell were hot enough for him? This is the  
 most omnipotent villain that ever cried 'Stand' to  
 a true man.
 
@@ -284,7 +284,7 @@ your purses full of crowns; if you will not, tarry
 at home and be hanged.
 
 **FALSTAFF**  
-Hear ye, Elizabeth; if I tarry at home and go not,  
+Hear ye, Edward; if I tarry at home and go not,  
 I'll hang you for going.
 
 **POINS**  
@@ -414,7 +414,7 @@ Redeeming time when men think least I will.
 
 ### SCENE III. London. The palace.
 
-*Enter the KING, LADY NORTHUMBERLAND, WORCESTER, HOTSPUR, and LADY WENDY
+*Enter the KING, LADY NORTHUMBERLAND, WORCESTER, HOTSPUR, and SIR WALTER
 BLUNT*
 
 **KING HENRY IV**  
@@ -489,7 +489,7 @@ And I beseech you, let not his report
 Come current for an accusation  
 Betwixt my love and your high majesty.
 
-**LADY WENDY BLUNT**  
+**SIR WALTER BLUNT**  
 The circumstance consider'd, good my lord,  
 Whate'er Lord Harry Percy then had said  
 To such a person and in such a place,  
@@ -548,7 +548,7 @@ Art thou not ashamed? But, sirrah, henceforth
 Let me not hear you speak of Mortimer:  
 Send me your prisoners with the speediest means,  
 Or you shall hear in such a kind from me  
-As will displease you. My good Northumberland,  
+As will displease you. My Lord Northumberland,  
 We licence your departure with your son.  
 Send us your prisoners, or you will hear of it.
 
@@ -719,7 +719,7 @@ Deliver them up without their ransom straight,
 And make the Douglas' son your only mean  
 For powers in Scotland; which, for divers reasons  
 Which I shall send you written, be assured,  
-Will easily be granted. You, madam,  
+Will easily be granted. You, my lord,  
 *\[To Northumberland]*  
 Your son in Scotland being thus employ'd,  
 Shall secretly into the bosom creep  
@@ -810,7 +810,7 @@ thou keep!
 Where's Poins, Hal?
 
 **PRINCE HENRY**  
-She is walked up to the top of the hill: I'll go seek her.
+He is walked up to the top of the hill: I'll go seek him.
 
 **FALSTAFF**  
 I am accursed to rob in that thief's company: the  
@@ -819,10 +819,10 @@ not where. If I travel but four foot by the squier
 further afoot, I shall break my wind. Well, I doubt  
 not but to die a fair death for all this, if I  
 'scape hanging for killing that rogue. I have  
-forsworn her company hourly any time this two and  
+forsworn his company hourly any time this two and  
 twenty years, and yet I am bewitched with the  
 rogue's company. If the rascal hath not given me  
-medicines to make me love her, I'll be hanged; it  
+medicines to make me love him, I'll be hanged; it  
 could not be else: I have drunk medicines. Poins!
 
 *A whistle*
@@ -866,7 +866,7 @@ Stand.
 **FALSTAFF**  
 So I do, against my will.
 
-*POINS reveals herself*
+*POINS reveals himself*
 
 **POINS**  
 Bardolph, what news?
@@ -915,10 +915,10 @@ when thou needest him, there thou shalt find him.
 Farewell, and stand fast.
 
 **FALSTAFF**  
-Now cannot I strike her, if I should be hanged.
+Now cannot I strike him, if I should be hanged.
 
 **PRINCE HENRY**  
-Beth, where are our disguises?
+Ned, where are our disguises?
 
 **POINS**  
 Here, hard by: stand close.
@@ -972,16 +972,16 @@ Your money!
 **POINS**  
 Villains!
 
-*As they are sharing, the Prince and Poins set upon them; they all run
-away; and Falstaff, after a blow or two, runs away too, leaving the
-booty behind them*
+*As they are sharing, the Prince and Poins set upon them;
+they all run away; and Falstaff, after a blow or two, runs
+away too, leaving the booty behind them*
 
 **PRINCE HENRY**  
 Got with much ease. Now merrily to horse:  
 The thieves are all scatter'd and possess'd with fear  
 So strongly that they dare not meet each other;  
 Each takes his fellow for an officer.  
-Away, good Beth. Falstaff sweats to death,  
+Away, good Ned. Falstaff sweats to death,  
 And lards the lean earth as he walks along:  
 Were 't not for laughing, I should pity him.
 
@@ -1162,7 +1162,7 @@ Will this content you, Kate? /
 *Enter PRINCE HENRY and POINS*
 
 **PRINCE HENRY**  
-Beth, prithee, come out of that fat room, and lend me  
+Ned, prithee, come out of that fat room, and lend me  
 thy hand to laugh a little.
 
 **POINS**  
@@ -1170,7 +1170,7 @@ Where hast been, Hal?
 
 **PRINCE HENRY**  
 With three or four loggerheads amongst three or four  
-score hogsheads. Madam, I am sworn brother  
+score hogsheads. Sirrah, I am sworn brother  
 to a leash of drawers; and can call them all by  
 their christen names, as Tom, Dick, and Francis.  
 They take it already upon their salvation, that  
@@ -1182,15 +1182,15 @@ am king of England, I shall command all the good
 lads in Eastcheap. To conclude, I  
 am so good a proficient in one quarter of an hour,  
 that I can drink with any tinker in his own language  
-during my life. I tell thee, Beth, thou hast lost  
+during my life. I tell thee, Ned, thou hast lost  
 much honour, that thou wert not with me in this sweet  
-action. But, sweet Beth,--to sweeten which name of  
-Beth, I give thee this pennyworth of sugar, clapped  
+action. But, sweet Ned,--to sweeten which name of  
+Ned, I give thee this pennyworth of sugar, clapped  
 even now into my hand by an under-skinker, one that  
 never spake other English in his life than 'Eight  
 shillings and sixpence' and 'You are welcome,' with  
 this shrill addition, 'Anon, anon, sir! Score a pint  
-of bastard in the Half-Moon,' or so. But, Beth, to  
+of bastard in the Half-Moon,' or so. But, Ned, to  
 drive away the time till Falstaff come, I prithee,  
 do thou stand in some by-room, while I question my  
 puny drawer to what end he gave me the sugar; and do  
@@ -1209,7 +1209,7 @@ Thou art perfect.
 *Enter FRANCIS*
 
 **FRANCIS**  
-Anon, anon, madam.
+Anon, anon, sir.
 
 **PRINCE HENRY**  
 Come hither, Francis.
@@ -1228,7 +1228,7 @@ Forsooth, five years, and as much as to--
 Francis!
 
 **FRANCIS**  
-Anon, anon, madam.
+Anon, anon, sir.
 
 **PRINCE HENRY**  
 Five year! by'r lady, a long lease for the clinking  
@@ -1245,7 +1245,7 @@ England, I could find in my heart.
 Francis!
 
 **FRANCIS**  
-Anon, madam.
+Anon, sir.
 
 **PRINCE HENRY**  
 How old art thou, Francis?
@@ -1258,7 +1258,7 @@ Let me see--about Michaelmas next I shall be--
 Francis!
 
 **FRANCIS**  
-Anon, madam. Pray stay a little, my lord.
+Anon, sir. Pray stay a little, my lord.
 
 **PRINCE HENRY**  
 Nay, but hark you, Francis: for the sugar thou  
@@ -1297,8 +1297,8 @@ Francis!
 **PRINCE HENRY**  
 Away, you rogue! dost thou not hear them call?
 
-*Here they both call him; the drawer stands amazed, not knowing which
-way to go*
+*Here they both call him; the drawer stands amazed, not
+knowing which way to go*
 
 *Enter Hostess*
 
@@ -1324,7 +1324,7 @@ Poins!
 Anon, anon, sir.
 
 **PRINCE HENRY**  
-Madam, Falstaff and the rest of the thieves are at  
+Sirrah, Falstaff and the rest of the thieves are at  
 the door: shall we be merry?
 
 **POINS**  
@@ -2093,7 +2093,7 @@ Which being sealed interchangeably,
 A business that this night may execute,  
 To-morrow, cousin Percy, you and I  
 And my good Lord of Worcester will set forth  
-To meet your mother and the Scottish power,  
+To meet your father and the Scottish power,  
 As is appointed us, at Shrewsbury.  
 My father Glendower is not ready yet,  
 Not shall we need his help these fourteen days.  
@@ -2510,7 +2510,7 @@ Thou shalt have charge and sovereign trust herein.
 
 How now, good Blunt? thy looks are full of speed.
 
-**LADY WENDY BLUNT**  
+**SIR WALTER BLUNT**  
 So hath the business that I come to speak of.  
 Lord Mortimer of Scotland hath sent word  
 That Douglas and the English rebels met  
@@ -2520,8 +2520,8 @@ If promises be kept on every hand,
 As ever offer'd foul play in the state.
 
 **KING HENRY IV**  
-The Lady Westmoreland set forth to-day;  
-With her my son, Lord John of Lancaster;  
+The Earl of Westmoreland set forth to-day;  
+With him my son, Lord John of Lancaster;  
 For this advertisement is five days old:  
 On Wednesday next, Harry, you shall set forward;  
 On Thursday we ourselves will march: our meeting  
@@ -2644,8 +2644,8 @@ How! the prince is a Jack, a sneak-cup: 'sblood, an
 he were here, I would cudgel him like a dog, if he  
 would say so.
 
-*Enter PRINCE HENRY and PETO, marching, and FALSTAFF meets them playing
-on his truncheon like a life*
+*Enter PRINCE HENRY and PETO, marching, and FALSTAFF meets
+them playing on his truncheon like a life*
 
 How now, lad! is the wind in that door, i' faith?  
 must we all march?
@@ -2815,7 +2815,7 @@ do it with unwashed hands too.
 
 **PRINCE HENRY**  
 Go bear this letter to Lord John of Lancaster, to my  
-brother John; this to my Lady Westmoreland.
+brother John; this to my Lord of Westmoreland.
 
 *Exit Bardolph*
 
@@ -2869,59 +2869,59 @@ But I will beard him. /
 What letters hast thou there?--I can but thank you.
 
 **Messenger**  
-These letters come from your mother.
+These letters come from your father.
 
 **HOTSPUR**  
-Letters from her! why comes she not herself?
+Letters from him! why comes he not himself?
 
 **Messenger**  
-She cannot come, my lord; she is grievous sick.
+He cannot come, my lord; he is grievous sick.
 
 **HOTSPUR**  
-'Zounds! how has she the leisure to be sick  
-In such a rustling time? Who leads her power?  
+'Zounds! how has he the leisure to be sick  
+In such a rustling time? Who leads his power?  
 Under whose government come they along?
 
 **Messenger**  
-Her letters bear her mind, not I, my lord.
+His letters bear his mind, not I, my lord.
 
 **EARL OF WORCESTER**  
-I prithee, tell me, doth she keep her bed?
+I prithee, tell me, doth he keep his bed?
 
 **Messenger**  
-She did, my lord, four days ere I set forth;  
+He did, my lord, four days ere I set forth;  
 And at the time of my departure thence  
-She was much fear'd by her physicians.
+He was much fear'd by his physicians.
 
 *Exit Messenger*
 
 **EARL OF WORCESTER**  
 I would the state of time had first been whole  
-Ere she by sickness had been visited:  
-Her health was never better worth than now.
+Ere he by sickness had been visited:  
+His health was never better worth than now.
 
 **HOTSPUR**  
 Sick now! droop now! this sickness doth infect  
 The very life-blood of our enterprise;  
 'Tis catching hither, even to our camp.  
-She writes me here, that inward sickness--  
-And that her friends by deputation could not  
-So soon be drawn, nor did she think it meet  
+He writes me here, that inward sickness--  
+And that his friends by deputation could not  
+So soon be drawn, nor did he think it meet  
 To lay so dangerous and dear a trust  
-On any soul removed but on her own.  
-Yet doth she give us bold advertisement,  
+On any soul removed but on his own.  
+Yet doth he give us bold advertisement,  
 That with our small conjunction we should on,  
 To see how fortune is disposed to us;  
-For, as she writes, there is no quailing now.  
+For, as he writes, there is no quailing now.  
 Because the king is certainly possess'd  
 Of all our purposes. What say you to it?
 
 **EARL OF WORCESTER**  
-Your mother's sickness is a maim to us.
+Your father's sickness is a maim to us.
 
 **HOTSPUR**  
 A perilous gash, a very limb lopp'd off:  
-And yet, in faith, it is not; her present want  
+And yet, in faith, it is not; his present want  
 Seems more than we shall find it: were it good  
 To set the exact wealth of all our states  
 All at one cast? to set so rich a main  
@@ -2932,24 +2932,24 @@ The very list, the very utmost bound
 Of all our fortunes.
 
 **EARL OF WORCESTER**  
-But yet I would your mother had been here.  
+But yet I would your father had been here.  
 The quality and hair of our attempt  
 Brooks no division: it will be thought  
-By some, that know not why she is away,  
+By some, that know not why he is away,  
 That wisdom, loyalty and mere dislike  
-Of our proceedings kept her far from hence:  
-This absence of your mother's draws a curtain,  
+Of our proceedings kept the earl from hence:  
+This absence of your father's draws a curtain,  
 That shows the ignorant a kind of fear  
 Before not dreamt of. /
 
 **HOTSPUR**  
 / You strain too far.  
-I rather of her absence make this use:  
+I rather of his absence make this use:  
 It lends a lustre and more great opinion,  
 A larger dare to our great enterprise,  
-Than if she would be here; for men must think,  
-If we without her help can make a head  
-To push against a kingdom, with her help  
+Than if the earl were here; for men must think,  
+If we without his help can make a head  
+To push against a kingdom, with his help  
 We shall o'erturn it topsy-turvy down.  
 Yet all goes well, yet all our joints are whole.
 
@@ -2957,7 +2957,7 @@ Yet all goes well, yet all our joints are whole.
 As heart can think: there is not such a word  
 Spoke of in Scotland as this term of fear.
 
-*Enter LADY RACHEL VERNON*
+*Enter SIR RICHARD VERNON*
 
 **HOTSPUR**  
 My cousin Vernon, welcome, by my soul.
@@ -3018,7 +3018,7 @@ To thirty thousand. /
 
 **HOTSPUR**  
 / Forty let it be:  
-My mother and Glendower being both away,  
+My father and Glendower being both away,  
 The powers of us may serve so great a day  
 Come, let us take a muster speedily:  
 Doomsday is near; die all, die merrily.
@@ -3169,17 +3169,17 @@ For God's sake. cousin, stay till all come in.
 
 *The trumpet sounds a parley*
 
-*Enter LADY WENDY BLUNT*
+*Enter SIR WALTER BLUNT*
 
-**LADY WENDY BLUNT**  
+**SIR WALTER BLUNT**  
 I come with gracious offers from the king,  
 if you vouchsafe me hearing and respect.
 
 **HOTSPUR**  
-Welcome, good Wendy Blunt; and would to God  
+Welcome, Sir Walter Blunt; and would to God  
 You were of our determination!
 
-**LADY WENDY BLUNT**  
+**SIR WALTER BLUNT**  
 The king hath sent to know  
 The nature of your griefs, and whereupon  
 You conjure from the breast of civil peace  
@@ -3195,20 +3195,20 @@ Herein misled by your suggestion.
 **HOTSPUR**  
 The king is kind; and well we know the king  
 Knows at what time to promise, when to pay.  
-My mother and my uncle and myself  
+My father and my uncle and myself  
 Did give him that same royalty he wears;  
 And when he was not six and twenty strong,  
 Sick in the world's regard, wretched and low,  
 A poor unminded outlaw sneaking home,  
-My mother gave him welcome to the shore;  
-And when she heard him swear and vow to God  
+My father gave him welcome to the shore;  
+And when he heard him swear and vow to God  
 He came but to be Duke of Lancaster,  
 To sue his livery and beg his peace,  
 With tears of innocency and terms of zeal,  
-My mother, in kind heart and pity moved,  
+My father, in kind heart and pity moved,  
 Swore him assistance and perform'd it too.
 
-**LADY WENDY BLUNT**  
+**SIR WALTER BLUNT**  
 Tut, I came not to hear this.
 
 **HOTSPUR**  
@@ -3223,30 +3223,30 @@ There without ransom to lie forfeited;
 Disgraced me in my happy victories,  
 Sought to entrap me by intelligence;  
 Rated mine uncle from the council-board;  
-In rage dismiss'd my mother from the court;  
+In rage dismiss'd my father from the court;  
 Broke oath on oath, committed wrong on wrong,  
 And in conclusion drove us to seek out  
 This head of safety; and withal to pry  
 Into his title, the which we find  
 Too indirect for long continuance.
 
-**LADY WENDY BLUNT**  
+**SIR WALTER BLUNT**  
 Shall I return this answer to the king?
 
 **HOTSPUR**  
-Not so, good Wendy: we'll withdraw awhile.  
+Not so, Sir Walter: we'll withdraw awhile.  
 Go to the king; and let there be impawn'd  
 Some surety for a safe return again,  
 And in the morning early shall my uncle  
 Bring him our purposes: and so farewell.
 
-**LADY WENDY BLUNT**  
+**SIR WALTER BLUNT**  
 I would you would accept of grace and love.
 
 **HOTSPUR**  
 And may be so we shall. /
 
-**LADY WENDY BLUNT**  
+**SIR WALTER BLUNT**  
 / Pray God you do.
 
 *Exeunt*
@@ -3255,8 +3255,8 @@ And may be so we shall. /
 
 ### SCENE I. KING HENRY IV's camp near Shrewsbury.
 
-*Enter KING HENRY, PRINCE HENRY, Lord John of LANCASTER, the COUNTESS OF
-WESTMORELAND, LADY WENDY BLUNT, and FALSTAFF*
+*Enter KING HENRY, PRINCE HENRY, Lord John of LANCASTER, EARL OF WESTMORELAND, SIR
+WALTER BLUNT, and FALSTAFF*
 
 *The trumpet sounds*
 
@@ -3293,7 +3293,7 @@ It pleased your majesty to turn your looks
 Of favour from myself and all our house;  
 And yet I must remember you, my lord,  
 We were the first and dearest of your friends.  
-It was myself, my sister and her son,  
+It was myself, my brother and his son,  
 That brought you home and boldly did outdare  
 The dangers of the time. You swore to us,  
 That you did nothing purpose 'gainst the state;  
@@ -3403,7 +3403,7 @@ ends my catechism.
 *Enter WORCESTER and VERNON*
 
 **EARL OF WORCESTER**  
-O, no, my nephew must not know, good Rachel,  
+O, no, my nephew must not know, Sir Richard,  
 The liberal and kind offer of the king.
 
 **VERNON**  
@@ -3426,7 +3426,7 @@ Uncle, what news?
 The king will bid you battle presently.
 
 **EARL OF DOUGLAS**  
-Defy him by the Lady Westmoreland.
+Defy him by the Lord of Westmoreland.
 
 **HOTSPUR**  
 Lord Douglas, go you and tell him so.
@@ -3523,8 +3523,8 @@ A second time do such a courtesy.
 
 ### SCENE IV. Another part of the field.
 
-*Alarum. Excursions. Enter PRINCE HENRY, LORD JOHN OF LANCASTER, and the
-COUNTESS OF WESTMORELAND*
+*Alarum. Excursions. Enter PRINCE HENRY, LORD JOHN OF
+LANCASTER, and EARL OF WESTMORELAND*
 
 **KING HENRY IV**  
 I prithee,  
@@ -3540,13 +3540,13 @@ Lest your retirement do amaze your friends.
 
 **KING HENRY IV**  
 I will do so.  
-My Lady Westmoreland, lead him to his tent.
+My Lord of Westmoreland, lead him to his tent.
 
 **WESTMORELAND**  
 Come, my lord, I'll lead you to your tent.
 
 **PRINCE HENRY**  
-Lead me, madam? I do not need your help:  
+Lead me, my lord? I do not need your help:  
 And God forbid a shallow scratch should drive  
 The Prince of Wales from such a field as this,  
 Where stain'd nobility lies trodden on,  
@@ -3788,9 +3788,9 @@ live cleanly as a nobleman should do.
 
 ### SCENE V. Another part of the field.
 
-*The trumpets sound. Enter KING HENRY IV, PRINCE HENRY, LORD JOHN
-LANCASTER, COUNTESS OF WESTMORELAND, with WORCESTER and VERNON
-prisoners*
+*The trumpets sound. Enter KING HENRY IV, PRINCE HENRY,
+LORD JOHN LANCASTER, EARL OF WESTMORELAND, with WORCESTER
+and VERNON prisoners*
 
 **KING HENRY IV**  
 Thus ever did rebellion find rebuke.  

@@ -349,7 +349,7 @@ your purses full of crowns; if you will not, tarry
 at home and be hanged.
 
 **FALSTAFF**  
-Hear ye, Yedward; if I tarry at home and go not,  
+Hear ye, Edward; if I tarry at home and go not,  
 I'll hang you for going.
 
 **POINS**  
@@ -516,12 +516,11 @@ Your use and counsel, we shall send for you.
 
 *Exit Worcester*
 
-You were about to speak.
-
-*To North*
+You were about to speak. /  
+*\[To Northumberland]*
 
 **NORTHUMBERLAND**  
-Yea, my good lord.  
+/ Yea, my good lord.  
 Those prisoners in your highness' name demanded,  
 Which Harry Percy here at Holmedon took,  
 Were, as he says, not with such strength denied  
@@ -727,10 +726,10 @@ Revenge the jeering and disdain'd contempt
 Of this proud king, who studies day and night  
 To answer all the debt he owes to you  
 Even with the bloody payment of your deaths:  
-Therefore, I say--
+Therefore, I say-- /
 
 **EARL OF WORCESTER**  
-Peace, cousin, say no more:  
+/ Peace, cousin, say no more:  
 And now I will unclasp a secret book,  
 And to your quick-conceiving discontents  
 I'll read you matter deep and dangerous,  
@@ -765,20 +764,20 @@ But not the form of what he should attend.
 Good cousin, give me audience for a while.
 
 **HOTSPUR**  
-I cry you mercy.
+I cry you mercy. /
 
 **EARL OF WORCESTER**  
-Those same noble Scots  
-That are your prisoners,--
+/ Those same noble Scots  
+That are your prisoners,-- /
 
 **HOTSPUR**  
-I'll keep them all;  
+/ I'll keep them all;  
 By God, he shall not have a Scot of them;  
 No, if a Scot would save his soul, he shall not:  
-I'll keep them, by this hand.
+I'll keep them, by this hand. /
 
 **EARL OF WORCESTER**  
-You start away  
+/ You start away  
 And lend no ear unto my purposes.  
 Those prisoners you shall keep.
 
@@ -850,10 +849,8 @@ Deliver them up without their ransom straight,
 And make the Douglas' son your only mean  
 For powers in Scotland; which, for divers reasons  
 Which I shall send you written, be assured,  
-Will easily be granted. You, my lord,
-
-*To Northumberland*
-
+Will easily be granted. You, my lord,  
+*\[To Northumberland]*  
 Your son in Scotland being thus employ'd,  
 Shall secretly into the bosom creep  
 Of that same noble prelate, well beloved,  
@@ -1182,6 +1179,8 @@ Stand.
 **FALSTAFF**  
 So I do, against my will.
 
+*POINS reveals himself*
+
 **POINS**  
 O, 'tis our setter: I know his voice. Bardolph,  
 what news?
@@ -1411,10 +1410,10 @@ One horse, my lord, he brought even now.
 What horse? a roan, a crop-ear, is it not?
 
 **Servant**  
-It is, my lord.
+It is, my lord. /
 
 **HOTSPUR**  
-That roan shall by my throne.  
+/ That roan shall by my throne.  
 Well, I will back him straight: O esperance!  
 Bid Butler lead him forth into the park.
 
@@ -1488,10 +1487,10 @@ How! so far?
 Not an inch further. But hark you, Kate:  
 Whither I go, thither shall you go too;  
 To-day will I set forth, to-morrow you.  
-Will this content you, Kate?
+Will this content you, Kate? /
 
 **LADY PERCY**  
-It must of force.
+/ It must of force.
 
 *Exeunt*
 
@@ -1728,9 +1727,8 @@ A plague of all cowards, I say, and a vengeance too!
 marry, and amen! Give me a cup of sack, boy. Ere I  
 lead this life long, I'll sew nether stocks and mend  
 them and foot them too. A plague of all cowards!  
-Give me a cup of sack, rogue. Is there no virtue extant?
-
-*He drinks*
+Give me a cup of sack, rogue. Is there no virtue extant?  
+*\[He drinks]*
 
 **PRINCE HENRY**  
 Didst thou never see Titan kiss a dish of butter?  
@@ -1776,7 +1774,7 @@ could run as fast as thou canst. You are straight
 enough in the shoulders, you care not who sees your  
 back: call you that backing of your friends? A  
 plague upon such backing! give me them that will  
-face me. Give me a cup of sack: I am a rogue, if I  
+face me. Give me a cup of sack: I am a rogue, if I'm  
 drunk to-day.
 
 **PRINCE HENRY**  
@@ -1784,9 +1782,8 @@ O villain! thy lips are scarce wiped since thou
 drunkest last.
 
 **FALSTAFF**  
-All's one for that.
-
-*He drinks*
+All's one for that.  
+*\[He drinks]*
 
 A plague of all cowards, still say I.
 
@@ -2452,10 +2449,8 @@ Falstaff!--Fast asleep behind the arras, and
 snorting like a horse.
 
 **PRINCE HENRY**  
-Hark, how hard he fetches breath. Search his pockets.
-
-*He searcheth his pockets, and findeth certain papers*
-
+Hark, how hard he fetches breath. Search his pockets.  
+*\[He searcheth his pockets, and findeth certain papers]*  
 What hast thou found?
 
 **PETO**  
@@ -2910,10 +2905,10 @@ Swear me, Kate, like a lady as thou art,
 A good mouth-filling oath, and leave 'in sooth,'  
 And such protest of pepper-gingerbread,  
 To velvet-guards and Sunday-citizens.  
-Come, sing.
+Come, sing. /
 
 **LADY PERCY**  
-I will not sing.
+/ I will not sing.
 
 **HOTSPUR**  
 'Tis the next way to turn tailor, or be red-breast  
@@ -2932,6 +2927,8 @@ And then to horse immediately.
 With all my heart.
 
 *Exeunt*
+
+## Intermission
 
 ### SCENE II. London. The palace.
 
@@ -3039,10 +3036,10 @@ Make blind itself with foolish tenderness.
 
 **PRINCE HENRY**  
 I shall hereafter, my thrice gracious lord,  
-Be more myself.
+Be more myself. /
 
 **KING HENRY IV**  
-For all the world  
+/ For all the world  
 As thou art to this hour was Richard then  
 When I from France set foot at Ravenspurgh,  
 And even as I was then is Percy now.  
@@ -3144,15 +3141,14 @@ Advantage feeds him fat, while men delay.
 
 *Exeunt*
 
-**Scene III**  
-Eastcheap. The Boar's-Head Tavern.
+### SCENE III. Eastcheap. The Boar's-Head Tavern.
 
 *Enter FALSTAFF and BARDOLPH*
 
 **FALSTAFF**  
 Bardolph, am I not fallen away vilely since this last  
 action? do I not bate? do I not dwindle? Why my  
-skin hangs about me like an like an old lady's loose  
+skin hangs about me like an old lady's loose  
 gown; I am withered like an old apple-john. Well,  
 I'll repent, and that suddenly, while I am in some  
 liking; I shall be out of heart shortly, and then I  
@@ -3534,10 +3530,10 @@ Nay, task me to my word; approve me, lord.
 **EARL OF DOUGLAS**  
 Thou art the king of honour:  
 No man so potent breathes upon the ground  
-But I will beard him.
+But I will beard him. /
 
 **HOTSPUR**  
-Do so, and 'tis well.
+/ Do so, and 'tis well.
 
 *Enter a Messenger with letters*
 
@@ -3567,6 +3563,8 @@ I prithee, tell me, doth he keep his bed?
 He did, my lord, four days ere I set forth;  
 And at the time of my departure thence  
 He was much fear'd by his physicians.
+
+*Exit Messenger*
 
 **EARL OF WORCESTER**  
 I would the state of time had first been whole  
@@ -3632,10 +3630,10 @@ And stop all sight-holes, every loop from whence
 The eye of reason may pry in upon us:  
 This absence of your father's draws a curtain,  
 That shows the ignorant a kind of fear  
-Before not dreamt of.
+Before not dreamt of. /
 
 **HOTSPUR**  
-You strain too far.  
+/ You strain too far.  
 I rather of his absence make this use:  
 It lends a lustre and more great opinion,  
 A larger dare to our great enterprise,  
@@ -3660,10 +3658,10 @@ The Earl of Westmoreland, seven thousand strong,
 Is marching hitherwards; with him Prince John.
 
 **HOTSPUR**  
-No harm: what more?
+No harm: what more? /
 
 **VERNON**  
-And further, I have learn'd,  
+/ And further, I have learn'd,  
 The king himself in person is set forth,  
 Or hitherwards intended speedily,  
 With strong and mighty preparation.
@@ -3672,10 +3670,10 @@ With strong and mighty preparation.
 He shall be welcome too. Where is his son,  
 The nimble-footed madcap Prince of Wales,  
 And his comrades, that daff'd the world aside,  
-And bid it pass?
+And bid it pass? /
 
 **VERNON**  
-All furnish'd, all in arms;  
+/ All furnish'd, all in arms;  
 All plumed like estridges that with the wind  
 Baited like eagles having lately bathed;  
 Glittering in golden coats, like images;  
@@ -3704,10 +3702,10 @@ Who is to bear me like a thunderbolt
 Against the bosom of the Prince of Wales:  
 Harry to Harry shall, hot horse to horse,  
 Meet and ne'er part till one drop down a corse.  
-O that Glendower were come!
+O that Glendower were come! /
 
 **VERNON**  
-There is more news:  
+/ There is more news:  
 I learn'd in Worcester, as I rode along,  
 He cannot draw his power this fourteen days.
 
@@ -3721,10 +3719,10 @@ Ay, by my faith, that bears a frosty sound.
 What may the king's whole battle reach unto?
 
 **VERNON**  
-To thirty thousand.
+To thirty thousand. /
 
 **HOTSPUR**  
-Forty let it be:  
+/ Forty let it be:  
 My father and Glendower being both away,  
 The powers of us may serve so great a day  
 Come, let us take a muster speedily:  
@@ -3898,10 +3896,10 @@ His is certain, ours is doubtful.
 Good cousin, be advised; stir not tonight.
 
 **VERNON**  
-Do not, my lord.
+Do not, my lord. /
 
 **EARL OF DOUGLAS**  
-You do not counsel well:  
+/ You do not counsel well:  
 You speak it out of fear and cold heart.
 
 **VERNON**  
@@ -3911,19 +3909,19 @@ If well-respected honour bid me on,
 I hold as little counsel with weak fear  
 As you, my lord, or any Scot that this day lives:  
 Let it be seen to-morrow in the battle  
-Which of us fears.
+Which of us fears. /
 
 **EARL OF DOUGLAS**  
-Yea, or to-night.
+/ Yea, or to-night. /
 
 **VERNON**  
-Content.
+/ Content.
 
 **HOTSPUR**  
 To-night, say I.
 
 **VERNON**  
-Come, come it nay not be. I wonder much,  
+Come, come it may not be. I wonder much,  
 Being men of such great leading as you are,  
 That you foresee not what impediments  
 Drag back our expedition: certain horse  
@@ -4773,9 +4771,8 @@ And time, that takes survey of all the world,
 Must have a stop. O, I could prophesy,  
 But that the earthy and cold hand of death  
 Lies on my tongue: no, Percy, thou art dust  
-And food for--
-
-*Dies*
+And food for--  
+*\[Dies]*
 
 **PRINCE HENRY**  
 For worms, brave Percy: fare thee well, great heart!  
@@ -4792,10 +4789,8 @@ And, even in thy behalf, I'll thank myself
 For doing these fair rites of tenderness.  
 Adieu, and take thy praise with thee to heaven!  
 Thy ignominy sleep with thee in the grave,  
-But not remember'd in thy epitaph!
-
-*He spieth FALSTAFF on the ground*
-
+But not remember'd in thy epitaph!  
+*\[He spiteth FALSTAFF on the ground]*  
 What, old acquaintance! could not all this flesh  
 Keep in a little life? Poor Jack, farewell!  
 I could have better spared a better man:  
@@ -4828,13 +4823,10 @@ afraid he would prove the better counterfeit.
 Therefore I'll make him sure; yea, and I'll swear I  
 killed him. Why may not he rise as well as I?  
 Nothing confutes me but eyes, and nobody sees me.  
-Therefore, sirrah,
-
-*Stabbing him*
-
-with a new wound in your thigh, come you along with me.
-
-*Takes up HOTSPUR on his back*
+Therefore, sirrah,  
+*\[Stabbing him]*  
+with a new wound in your thigh, come you along with me.  
+*\[Takes up HOTSPUR on his back]*
 
 *Re-enter PRINCE HENRY and LORD JOHN OF LANCASTER*
 
@@ -4856,10 +4848,8 @@ Without our ears: thou art not what thou seem'st.
 
 **FALSTAFF**  
 No, that's certain; I am not a double man: but if I  
-be not Jack Falstaff, then am I a Jack. There is Percy:
-
-*Throwing the body down*
-
+be not Jack Falstaff, then am I a Jack. There is Percy:  
+*\[Throwing the body down]*  
 if your father will do me any honour, so; if not, let  
 him kill the next Percy himself. I look to be either  
 earl or duke, I can assure you.
@@ -4942,10 +4932,10 @@ Upon the foot of fear, fled with the rest;
 And falling from a hill, he was so bruised  
 That the pursuers took him. At my tent  
 The Douglas is; and I beseech your grace  
-I may dispose of him.
+I may dispose of him. /
 
 **KING HENRY IV**  
-With all my heart.
+/ With all my heart.
 
 **PRINCE HENRY**  
 Then, brother John of Lancaster, to you  
