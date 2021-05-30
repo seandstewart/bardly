@@ -27,26 +27,6 @@
     <meta property="og:image:width" content="1200">
     <meta property="og:image:alt" content="Storytelling.">
 {% endblock %}
-{% set extracopyright %}
-    <div>Icons made by <a
-            href="https://www.freepik.com"
-            target="_blank"
-            rel="noopener"
-            title="Freepik">Freepik</a>
-        from <a href="https://www.flaticon.com/"
-                target="_blank"
-                rel="noopener"
-                title="Flaticon">www.flaticon.com
-        </a>
-    </div>
-    <div>Site powered by
-        <a href="https://app.netlify.com/sites/iambic/deploys" target="_blank">
-            <img src="https://api.netlify.com/api/v1/badges/91ace14b-e26e-4026-ac5c-3e5640f2910f/deploy-status"
-                 alt="Deploy status badge">
-        </a>
-    </div>
-    {{ super() }}
-{% endset %}
 {% block fonts %}
     {{ super() }}
     <link
@@ -54,3 +34,22 @@
             rel="stylesheet"
     >
 {% endblock %}
+{% set extracopyright %}
+<div>Icons made by <a
+        href="https://www.freepik.com"
+        target="_blank"
+        rel="noopener"
+        title="Freepik">Freepik</a>
+    from <a href="https://www.flaticon.com/"
+            target="_blank"
+            rel="noopener"
+            title="Flaticon">www.flaticon.com
+    </a>
+</div>
+<div>
+    <a href="https://app.netlify.com/sites/iambic/deploys" target="_blank">
+        <img src="https://api.netlify.com/api/v1/badges/91ace14b-e26e-4026-ac5c-3e5640f2910f/deploy-status"
+             alt="Deploy status badge">
+    </a>
+</div>
+{% endset %}

@@ -50,9 +50,6 @@ extra:
       link: "https://twitter.com/MrSeanStewart"
     - icon: "fontawesome/brands/linkedin"
       link: "https://linkedin.com/in/seandstewart"
-    - icon: "flaticon/logo"
-      link: "https://www.flaticon.com"
-      name: Icons made by Freepik on Flaticon
 extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
   - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/sorts/tablesort.number.min.js
