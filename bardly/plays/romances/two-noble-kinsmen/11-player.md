@@ -1,4 +1,4 @@
-# Two Noble Kinsmen, Uncut
+# Two Noble Kinsmen, 11 Players
 
 ## ACT I
 
