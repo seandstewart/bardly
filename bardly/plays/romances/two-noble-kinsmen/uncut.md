@@ -122,7 +122,7 @@ We are three queens, whose sovereigns fell before
 The wrath of cruel Creon; who endured  
 The beaks of ravens, talents of the kites,  
 And pecks of crows in the foul fields of Thebes.  
-He will not suffer us to bum their bones,  
+He will not suffer us to burn their bones,  
 To urn their ashes, nor to take th' offense  
 Of mortal loathsomeness from the blest eye  
 Of holy Phoebus, but infects the winds  
@@ -393,9 +393,10 @@ More bigger-look'd. /
 / Since that our theme is haste,  
 I stamp this kiss upon thy currant lip.  
 Sweet, keep it as my token. Set you forward,  
-For I will see you gone. /
+For I will see you gone.
 
-*\[Exeunt slowly towards the temple.]*  
+*Exeunt slowly towards the temple.*
+
 Farewell, my beauteous sister. Pirithous,  
 Keep the feast full, bate not an hour on't. /
 
@@ -430,9 +431,7 @@ Thus should we do, being sensually subdu'd
 We lose our human title. Good cheer, ladies.  
 Now turn we towards your comforts.
 
-*Flourish.*
-
-*Exeunt.*
+*Flourish. Exeunt.*
 
 
 ### SCENE II. Thebes. The palace.
@@ -1784,7 +1783,6 @@ And this night, or tomorrow, he shall love me.
 
 *Exit.*
 
-
 ### SCENE V. Athens. An open place.
 
 *This short flourish of cornets, and shouts within. Enter Theseus, Hippolyta, Pirithous,
@@ -2918,7 +2916,7 @@ But I shall make it serve. /
 / I'll buckle't close.
 
 **Palamon**  
-By any means.
+By any means. /
 
 **Arcite**  
 / You care not for a grand-guard?

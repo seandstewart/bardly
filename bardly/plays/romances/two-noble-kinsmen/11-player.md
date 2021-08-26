@@ -468,7 +468,7 @@ The becking of our chance.
 
 *Enter Pirithous, Hippolyta, Emilia.*
 
-**PIRITHOUS**
+**PIRITHOUS**  
 No further. /
 
 **HIPPOLYTA**  
@@ -1030,10 +1030,10 @@ Let me deal coldly with you: am not I
 Part of your blood, part of your soul? You have told me  
 That I was Palamon, and you were Arcite.
 
-**PALAMON**
+**PALAMON**  
 / Yes.
 
-**ARCITE**
+**ARCITE**  
 / Why then would you deal so cunningly,  
 So strangely, so unlike a noble kinsman,  
 To love alone? Speak truly: do you think me  
@@ -1318,7 +1318,7 @@ Where I may ever dwell in sight of her?
 
 *Exit Arcite.*
 
-### SCENE IV: Athens. A Room in the Prison.
+### SCENE IV. Athens. A room in the prison.
 
 *Enter Jailer's Daughter alone.*
 
@@ -1361,7 +1361,8 @@ And this night, or tomorrow, he shall love me.
 
 ### SCENE V: Athens. An Open Place.
 
-*This short flourish of cornets, and shouts within. Enter Theseus, Hippolyta, Pirithous, Emilia, Arcite disguised, with a garland.*
+*This short flourish of cornets, and shouts within. Enter Theseus, Hippolyta, Pirithous,
+Emilia, Arcite disguised, with a garland.*
 
 **THESEUS**  
 You have done worthily. I have not seen,  
