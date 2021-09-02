@@ -164,8 +164,7 @@ Our undertaker./
 / O, no knees, none, widow!  
 Unto the helmeted Bellona use them,  
 And pray for me your soldier.  
-Troubled I am. /
-
+Troubled I am. /  
 *\[Turns away.]*
 
 **Second Queen**  
@@ -357,7 +356,7 @@ To do these poor queens service. /
 **All Queens**  
 *\[To Emilia.]*  
 / O, help now!  
-Our cause cries for your knee.
+Our cause cries for your knee. /
 
 **Emilia**  
 *\[Kneels.]*  
@@ -366,7 +365,7 @@ My sister her petition, in that force,
 With that celerity and nature, which  
 She makes it in, from henceforth I'll not dare  
 To ask you any thing, nor be so hardy  
-Ever to take a husband.
+Ever to take a husband. /
 
 **Theseus**  
 / Pray stand up.
@@ -621,7 +620,7 @@ The becking of our chance.
 *Enter Pirithous, Hippolyta, Emilia.*
 
 **Pirithous**  
-No further.
+No further. /
 
 **Hippolyta**  
 / Sir, farewell. Repeat my wishes  
@@ -775,7 +774,7 @@ Against your faith, yet I continue mine.
 *The three Queens meet him and fall on their faces before him.*
 
 **First Queen**  
-To thee no star be dark.
+To thee no star be dark. /
 
 **Second Queen**  
 / Both heaven and earth  
@@ -951,7 +950,8 @@ I never saw 'em.
 **Jailer**  
 The Duke himself came privately in the night, and so did they. What the reason of it is, I know not.
 
-*\[Enter Palamon and Arcite above.]*  
+*Enter Palamon and Arcite above.*
+
 Look yonder they are! That's Arcite looks out.
 
 **Jailer's Daughter**  
@@ -963,7 +963,7 @@ Go to, leave your pointing. They would not make us their object. Out of their si
 **Jailer's Daughter**  
 It is a holiday to look on them. Lord, the diff'rence of men!
 
-Exeunt Jailer, Wooer, and Daughter.
+*Exeunt Jailer, Wooer, and Daughter.*
 
 
 ### SCENE II. The prison.
@@ -1169,7 +1169,7 @@ I think I should not, madam. /
 
 **Emilia**  
 / That's a good wench!  
-But take heed to your kindness though.
+But take heed to your kindness though. /
 
 **Waiting-Woman**  
 / Why, madam?
@@ -1262,7 +1262,7 @@ That's as we bargain, madam. /
 **Emilia**  
 / Well, agree then.
 
-Exeunt Emilia and Woman.
+*Exeunt Emilia and Woman.*
 
 **Palamon**  
 What think you of this beauty? /
@@ -1588,8 +1588,7 @@ I know mine own is but a heap of ruins,
 And no redress there. If I go, he has her.  
 I am resolv'd another shape shall make me,  
 Or end my fortunes. Either way, I am happy:  
-I'll see her, and be near her, or no more.
-
+I'll see her, and be near her, or no more.  
 *\[Retires.]*
 
 *Enter four Country People, and one with a garland before them.*
@@ -3430,7 +3429,9 @@ Who loses, yet I'll weep upon his bier.
 
 *Exeunt.*
 
-# ACT IV
+## INTERMISSION
+
+## ACT IV
 
 ### SCENE I. Athens. A room in the prison.
 
@@ -3818,7 +3819,7 @@ Tack about!
 *\[Sings.]*  
 "When Cynthia with her borrowed light," etc.
 
-Exeunt.
+*Exeunt.*
 
 
 ### SCENE II. A room in the palace.
@@ -3894,6 +3895,8 @@ To end the quarrel? /
 
 **Gentleman**  
 / Yes. /
+
+*Exit Gentleman*
 
 **Emilia**  
 / Would I might end first!  
@@ -4077,7 +4080,7 @@ Good friend, be royal. /
 Poor wench, go weep, for whosoever wins  
 Loses a noble cousin for thy sins.
 
-Exeunt.
+*Exeunt.*
 
 
 ### SCENE III. A room in the prison.
@@ -4203,8 +4206,9 @@ will bring forth comfort.
 
 ### SCENE I. Before the Temples of Mars, Venus, and Diana.
 
-*Three altars erected - to Mars, Venus, and Diana. Flourish. Enter Theseus, Pirithous,  
-Hippolyta, Attendants.*
+*Three altars erected - to Mars, Venus, and Diana.*
+
+*Flourish. Enter Theseus, Pirithous, Hippolyta, Attendants.*
 
 **Theseus**  
 Now let 'em enter, and before the gods  
@@ -4575,7 +4579,7 @@ I am of your mind, doctor.
 **Doctor**  
 You'll find it so. She comes. Pray humor her.
 
-Wooer retires.
+*Wooer retires.*
 
 **Jailer**  
 Come, your love Palamon stays for you, child,  
@@ -4653,7 +4657,7 @@ A miller's mare, he'll be the death of her.
 What stuff she utters!
 
 **Jailer**  
-Make curtsy, here your love comes.  /
+Make curtsy, here your love comes. /
 
 *Wooer comes forward.*
 
@@ -4821,7 +4825,7 @@ I will not, sweet. /
 **Jailer's Daughter**  
 / If you do, love, I'll cry.
 
-Exeunt.
+*Exeunt.*
 
 
 ### SCENE III. A place near the Lists.
@@ -4942,7 +4946,8 @@ Than minister to such harm! /
 
 *Cornets. A great cry and noise within, crying "A Palamon!"*
 
-*\[Enter Servant.]*  
+*Enter Servant.*
+
 / What is the chance?
 
 **Servant**  
@@ -4962,7 +4967,8 @@ Still "Palamon!"
 **Emilia**  
 Run and inquire. /
 
-*\[Exit Servant.]*  
+*Exit Servant.*
+
 / Poor servant, thou hast lost.  
 Upon my right side still I wore thy picture,  
 Palamon's on the left. Why so, I know not;  
@@ -5013,6 +5019,8 @@ Set both thine ears to th' business. /
 The combat's consummation is proclaim'd  
 By the wind instruments. /
 
+*Exit Servant*
+
 **Emilia**  
 / Half-sights saw  
 That Arcite was no babe. God's lid, his richness  
@@ -5023,7 +5031,7 @@ That drift-winds force to raging. I did think
 Good Palamon would miscarry, yet I knew not  
 Why I did think so. Our reasons are not prophets  
 When oft our fancies are. They are coming off.  
-Alas, poor Palamon! /
+Alas, poor Palamon!
 
 *Cornets.*
 
@@ -5141,7 +5149,7 @@ Gave me some sorrow. /
 
 **Jailer**  
 / Sir, she's well restor'd,  
-And to be married shortly.
+And to be married shortly. /
 
 **Palamon**  
 / By my short life,  
@@ -5206,7 +5214,7 @@ Venus I have said is false? How do things fare?
 Arise, great sir, and give the tidings ear
 
 *\[Palamon rises.]*  
-That are most dearly sweet and bitter.
+That are most dearly sweet and bitter. /
 
 **Palamon**  
 / What  
