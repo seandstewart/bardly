@@ -105,18 +105,18 @@ What, must our mouths be cold?
 
 **GONZALO**  
 The king and prince at prayers! let's assist them,  
-For our case is as theirs.
+For our case is as theirs. /
 
 **SEBASTIAN**  
-I'm out of patience.
+/ I'm out of patience.
 
 **ANTONIO**  
 We are merely cheated of our lives by drunkards:  
-This wide-chapp'd rascal-would thou mightst lie drowning  
-The washing of ten tides!
+This wide-chapp'd rascal--would thou mightst lie drowning  
+The washing of ten tides! /
 
 **GONZALO**  
-He'll be hang'd yet,  
+/ He'll be hang'd yet,  
 Though every drop of water swear against it  
 And gape at widest to glut him.
 
@@ -260,8 +260,8 @@ To think o'the teen that I have turn'd you to,
 Which is from my remembrance! Please you, father.
 
 **PROSPERO**  
-My brother and thy uncle, call'd Antonio--  
-I pray thee, mark me--that a brother should  
+My brother and thy uncle, call'd Antonio  
+(I pray thee, mark me) that a brother should  
 Be so perfidious!--he whom next thyself  
 Of all the world I loved and to him put  
 The manage of my state; as at that time  
@@ -271,7 +271,7 @@ In dignity, and for the liberal arts
 Without a parallel; those being all my study,  
 The government I cast upon my brother  
 And to my state grew stranger, being transported  
-And rapt in secret studies. Thy false uncle-  
+And rapt in secret studies. Thy false uncle--  
 Dost thou attend me? /
 
 **MIRANDA**  
@@ -301,7 +301,7 @@ Made such a sinner of his memory,
 To credit his own lie, he did believe  
 He was indeed the duke; out o'the substitution  
 And executing the outward face of royalty,  
-With all prerogative: hence his ambition growing-  
+With all prerogative: hence his ambition growing--  
 Dost thou hear? /
 
 **MIRANDA**  
@@ -312,11 +312,11 @@ To have no screen between this part he play'd
 And him he play'd it for, he needs will be  
 Absolute Milan. Me, poor man, my library  
 Was dukedom large enough: of temporal royalties  
-He thinks me now incapable; confederates--  
-So dry he was for sway--wi' the King of Naples  
+He thinks me now incapable; confederates  
+(So dry he was for sway) wi' the King of Naples  
 To give him annual tribute, do him homage,  
 Subject his coronet to his crown and bend  
-The dukedom yet unbow'd--alas, poor Milan!--  
+The dukedom yet unbow'd (alas, poor Milan!)  
 To most ignoble stooping. /
 
 **MIRANDA**  
@@ -471,7 +471,7 @@ But felt a fever of the mad and play'd
 Some tricks of desperation. All but mariners  
 Plunged in the foaming brine and quit the vessel,  
 Then all afire with me: the king's son, Ferdinand,  
-With hair up-staring,--then like reeds, not hair,--  
+With hair up-staring, (then like reeds, not hair,)  
 Was the first man that leap'd; cried, 'Hell is empty  
 And all the devils are here.' /
 
@@ -602,9 +602,9 @@ Into a cloven pine; within which rift
 Imprison'd thou didst painfully remain  
 A dozen years; within which space she died  
 And left thee there; where thou didst vent thy groans  
-As fast as mill-wheels strike. Then was this island--  
-Save for the son that she did litter here,  
-A freckled whelp hag-born--not honour'd with  
+As fast as mill-wheels strike. Then was this island  
+(Save for the son that she did litter here,  
+A freckled whelp hag-born) not honour'd with  
 A human shape. /
 
 **ARIEL**  
@@ -1163,8 +1163,8 @@ He misses not much.
 No; he doth but mistake the truth totally.
 
 **GONZALO**  
-But the rarity of it is,--which is indeed almost  
-beyond credit,--
+But the rarity of it is, (which is indeed almost  
+beyond credit,)
 
 **SEBASTIAN**  
 As many vouched rarities are.
@@ -1471,7 +1471,7 @@ Myself disposed to sleep.
 Nor I; my spirits are nimble.  
 They fell together all, as by consent;  
 They dropp'd, as by a thunder-stroke. What might,  
-Worthy Sebastian? O, what might?--No more:--  
+Worthy Sebastian? O, what might? --No more:  
 And yet me thinks I see it in thy face,  
 What thou shouldst be: the occasion speaks thee, and  
 My strong imagination sees a crown  
@@ -1493,7 +1493,7 @@ And yet so fast asleep. /
 
 **ANTONIO**  
 / Noble Sebastian,  
-Thou let'st thy fortune sleep--die, rather; wink'st  
+Thou let'st thy fortune sleep (die, rather); wink'st  
 Whiles thou art waking. /
 
 **SEBASTIAN**  
@@ -1533,9 +1533,9 @@ Which throes thee much to yield. /
 / Thus, sir:  
 Although this lord of weak remembrance, this,  
 Who shall be of as little memory  
-When he is earth'd, hath here almost persuade,--  
-For he's a spirit of persuasion, only  
-Professes to persuade,--the king his son's alive,  
+When he is earth'd, hath here almost persuade,  
+(For he's a spirit of persuasion, only  
+Professes to persuade,) the king his son's alive,  
 'Tis as impossible that he's undrown'd  
 And he that sleeps here swims. /
 
@@ -1564,8 +1564,8 @@ Who's the next heir of Naples? /
 **ANTONIO**  
 She that is queen of Tunis; she that dwells  
 Ten leagues beyond man's life; she that from Naples  
-Can have no note, unless the sun were post--  
-The man i' the moon's too slow--till new-born chins  
+Can have no note, unless the sun were post  
+(The man i' the moon's too slow) till new-born chins  
 Be rough and razorable; she that--from whom?  
 We all were sea-swallow'd, though some cast again,  
 And by that destiny to perform an act  
@@ -1647,8 +1647,8 @@ To fall it on Gonzalo. /
 
 **ARIEL**  
 My master through his art foresees the danger  
-That you, his friend, are in; and sends me forth--  
-For else his project dies--to keep them living.
+That you, his friend, are in; and sends me forth  
+(For else his project dies) to keep them living.
 
 *\[Sings in GONZALO's ear]*  
 While you here do snoring lie,  
@@ -1864,7 +1864,7 @@ long spoon.
 
 **TRINCULO**  
 Stephano! If thou beest Stephano, touch me and  
-speak to me: for I am Trinculo--be not afeard--thy  
+speak to me: for I am Trinculo (be not afeard) thy  
 good friend Trinculo.
 
 **STEPHANO**  
@@ -2083,8 +2083,8 @@ This visitation shows it. /
 
 **FERDINAND**  
 No, noble mistress; 'tis fresh morning with me  
-When you are by at night. I do beseech you--  
-Chiefly that I might set it in my prayers--  
+When you are by at night. I do beseech you  
+(Chiefly that I might set it in my prayers)  
 What is your name? /
 
 **MIRANDA**  
@@ -2122,7 +2122,7 @@ The flesh-fly blow my mouth. Hear my soul speak:
 The very instant that I saw you, did  
 My heart fly to your service; there resides,  
 To make me slave to it; and for your sake  
-Am I this patient log--man. /
+Am I this patient log-man. /
 
 **MIRANDA**  
 Do you love me?
@@ -2369,7 +2369,7 @@ First to possess his books; for without them
 He's but a sot, as I am, nor hath not  
 One spirit to command: they all do hate him  
 As rootedly as I. Burn but his books.  
-He has brave utensils,--for so he calls them--  
+He has brave utensils, (for so he calls them)  
 Which when he has a house, he'll deck withal  
 And that most deeply to consider is  
 The beauty of his daughter; he himself  
@@ -2377,7 +2377,7 @@ Calls her a nonpareil.
 
 **STEPHANO**  
 Monster, I will kill this man: his daughter and I  
-will be king and queen--save our graces!--and  
+will be king and queen (save our graces!) and  
 Trinculo and thyself shall be viceroys. Dost thou  
 like the plot, Trinculo?
 
@@ -2545,8 +2545,8 @@ Though fools at home condemn 'em. /
 **GONZALO**  
 / If in Naples  
 I should report this now, would they believe me?  
-If I should say, I saw such islanders--  
-For, certes, these are people of the island--  
+If I should say, I saw such islanders  
+(For, certes, these are people of the island)  
 Who, though they are of monstrous shape, yet, note,  
 Their manners are more gentle-kind than of  
 Our human generation you shall find  
@@ -2619,8 +2619,8 @@ Kill the still-closing waters, as diminish
 One dowle that's in my plume: my fellow-ministers  
 Are like invulnerable. If you could hurt,  
 Your swords are now too massy for your strengths  
-And will not be uplifted. But remember--  
-For that's my business to you--that you three  
+And will not be uplifted. But remember  
+(For that's my business to you) that you three  
 From Milan did supplant good Prospero;  
 Exposed unto the sea, which hath requit it,  
 Him and his innocent child: for which foul deed  
@@ -2630,9 +2630,9 @@ Against your peace. Thee of thy son, Alonso,
 They have bereft; and do pronounce by me:  
 Lingering perdition, worse than any death  
 Can be at once, shall step by step attend  
-You and your ways; whose wraths to guard you from--  
-Which here, in this most desolate isle, else falls  
-Upon your heads--is nothing but heart-sorrow  
+You and your ways; whose wraths to guard you from  
+(Which here, in this most desolate isle, else falls  
+Upon your heads) is nothing but heart-sorrow  
 And a clear life ensuing.
 
 *He vanishes in thunder; then, to soft music enter the Shapes again, and
@@ -3217,9 +3217,8 @@ I'll drown my book.
 
 *Solemn music*
 
-*Re-enter ARIEL before:  
-then ALONSO, with a frantic gesture, attended by GONZALO;  
-SEBASTIA and ANTONIO in like manner. *
+*Re-enter ARIEL before: then ALONSO, with a frantic gesture, attended by GONZALO;  
+SEBASTIA and ANTONIO in like manner.*
 
 *They all enter the circle which PROSPERO had made, and there stand charmed;  
 which PROSPERO observing, speaks:*
@@ -3335,8 +3334,8 @@ Thou must restore. /
 / If thou be'st Prospero,  
 Give us particulars of thy preservation;  
 How thou hast met us here, who three hours since  
-Were wreck'd upon this shore; where I have lost--  
-How sharp the point of this remembrance is!--  
+Were wreck'd upon this shore; where I have lost  
+(How sharp the point of this remembrance is!)  
 My dear son Ferdinand. /
 
 **PROSPERO**  
@@ -3493,8 +3492,8 @@ Hast thou no mouth by land? What is the news?
 
 **ARIEL**  
 The best news is, that we have safely found  
-Our king and company; the next, our ship--  
-Which, but three glasses since, we gave out split--  
+Our king and company; the next, our ship  
+(Which, but three glasses since, we gave out split)  
 Is tight and yare and bravely rigg'd as when  
 We first put out to sea. /
 
@@ -3513,7 +3512,7 @@ From strange to stranger. Say, how came you hither?
 **ARIEL**  
 If I did think, sir, I were well awake,  
 I'ld strive to tell you. We were dead of sleep,  
-And--how we know not--all clapp'd under hatches;  
+And (how we know not) all clapp'd under hatches;  
 Where but even now with strange and several noises  
 Of roaring, shrieking, howling, jingling chains,  
 And more diversity of sounds, all horrible,  
@@ -3588,8 +3587,8 @@ Then say if they be true. This mis-shapen knave,
 His mother was a witch, and one so strong  
 That could control the moon, make flows and ebbs,  
 And deal in her command without her power.  
-These three have robb'd me; and this demi-devil--  
-For he's a bastard one--had plotted with them  
+These three have robb'd me; and this demi-devil  
+(For he's a bastard one) had plotted with them  
 To take my life. Two of these fellows you  
 Must know and own; this thing of darkness!  
 Acknowledge mine. /
