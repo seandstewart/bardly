@@ -11,8 +11,20 @@ theme:
   name: "material"
   custom_dir: overrides
   palette:
+  - media: "(prefers-color-scheme: light)"
+    scheme: default
     primary: "teal"
     accent: "amber"
+    toggle:
+      icon: material/toggle-switch-off-outline
+      name: Switch to dark mode
+  - media: "(prefers-color-scheme: dark)"
+    scheme: slate
+    primary: "purple"
+    accent: "amber"
+    toggle:
+      icon: material/toggle-switch
+      name: Switch to light mode
   font:
     text: "IBM Plex Serif"
     code: "IBM Plex Mono"
