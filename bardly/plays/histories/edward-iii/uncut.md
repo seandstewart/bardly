@@ -186,7 +186,7 @@ How stands the league between the Scot and us?
 **MOUNTAGUE**  
 Cracked and dissevered, my renowned Lord.  
 The treacherous King no sooner was informed  
-Of your with drawing of your army back,  
+Of your withdrawing of your army back,  
 But straight, forgetting of his former oath,  
 He made invasion on the bordering Towns:  
 Barwick is won, Newcastle spoiled and lost,  
@@ -256,7 +256,7 @@ Thou do'st not tell him, what a grief it is
 To be the scornful captive of a Scot,  
 Either to be wooed with broad untuned oaths,  
 Or forced by rough insulting barbarism;  
-Thou doest not tell him, if he here prevail,  
+Thou do'st not tell him, if he here prevail,  
 How much they will deride us in the north,  
 And, in their wild, uncivil, skipping gigs,  
 Bray forth their conquest and our overthrow  
@@ -366,7 +366,7 @@ Excuse it that your bonny horse is lame.
 
 **KING DAVID**  
 She heard that too; intolerable grief!  
-Woman, farewell! Although I do not stay /
+Woman, farewell! Although I do not stay
 
 *Exeunt Scots.*
 
@@ -600,7 +600,7 @@ And hath a lusty and persuasive spirit;
 I will acquaint him with my passion,  
 Which he shall shadow with a veil of lawn,  
 Through which the queen of beauty's queen shall see  
-Her self the ground of my infirmity.
+Herself the ground of my infirmity.
 
 *Enter Lodowick.*
 
@@ -726,11 +726,11 @@ And, being unmasked, outshine the golden sun.
 What is the other fault, my sovereign Lord?
 
 **KING EDWARD**  
-Read o'er the line again.
+Read o'er the line again. /
 
 **LODOWICK**  
 *\[Reads.]*  
-More fair and chaste--
+/ More fair and chaste--
 
 **KING EDWARD**  
 I did not bid thee talk of chastity,  
@@ -796,6 +796,7 @@ Let my intrusion here be called my duty,
 That comes to see my sovereign how he fares.
 
 **KING EDWARD**  
+*\[To LODOWICK]*  
 Go, draw the same, I tell thee in what form.
 
 **LODOWICK**  
@@ -875,7 +876,7 @@ Take one and both; for, like an humble shadow,
 It haunts the sunshine of my summer's life.
 
 **KING EDWARD**  
-But thou mayst lend it me to sport with all.
+But thou may'st lend it me to sport withal.
 
 **COUNTESS**  
 As easy may my intellectual soul  
@@ -914,7 +915,7 @@ Forgetting your allegiance and your oath?
 In violating marriage sacred law,  
 You break a greater honor than yourself:  
 To be a King is of a younger house  
-Than to be married; your progenitour,  
+Than to be married; your progenitor,  
 Sole reigning Adam on the universe,  
 By God was honored for a married man,  
 But not by him anointed for a King.  
@@ -961,7 +962,7 @@ And that my old endeavor will remove it,
 It shall not cumber long your majesty.
 
 **KING EDWARD**  
-A kind and voluntary gift thou proferest,  
+A kind and voluntary gift thou profferest,  
 That I was forward to have begged of thee.  
 But, O thou world, great nurse of flattery,  
 Why dost thou tip men's tongues with golden words,  
@@ -1261,7 +1262,7 @@ Derby, I'll look upon the Countess' mind anon.
 The Countess' mind, my liege?
 
 **KING EDWARD**  
-I mean the Emperour--leave me alone.
+I mean the Emperor--leave me alone.
 
 **AUDLEY**  
 What is his mind? /
@@ -1457,9 +1458,9 @@ Unless you do make good what you have sworn.
 No more; thy husband and the Queen shall die.  
 Fairer thou art by far than Hero was,  
 Beardless Leander not so strong as I:  
-He swom an easy current for his love,  
+He swam an easy current for his love,  
 But I will through a Hellespont of blood,  
-To arrive at Sestos where my Hero lies.
+To arrive at Cestus where my Hero lies.
 
 **COUNTESS**  
 Nay, you'll do more; you'll make the river to  
@@ -1513,7 +1514,7 @@ I never mean to part my lips again
 In any words that tends to such a suit.  
 Arise, true English Lady, whom our isle  
 May better boast of than ever Roman might  
-Of her, whose ransacked treasury hath taskt  
+Of her, whose ransacked treasury hath task'd  
 The vain endeavor of so many pens:  
 Arise, and be my fault thy honor's fame,  
 Which after ages shall enrich thee with.  
@@ -1722,7 +1723,7 @@ The earth, with giddy trembling when it shakes,
 Or when the exhalations of the air  
 Breaks in extremity of lightning flash,  
 Affrights not more than kings, when they dispose  
-To shew the rancor of their high swollen hearts.
+To show the rancor of their high swollen hearts.
 
 *Retreat.*
 
@@ -2092,7 +2093,7 @@ When whirl wind quickly turns up younger trees.
 **DERBY**  
 Was ever any of thy father's house  
 King but thyself, before this present time?  
-Edward's great linage, by the mother's side,  
+Edward's great lineage, by the mother's side,  
 Five hundred years hath held the sceptre up:  
 Judge then, conspirators, by this descent,  
 Which is the true borne sovereign, this or that.
@@ -2262,7 +2263,7 @@ If we can counsel some of them to stay.
 
 **KING EDWARD**  
 Lord Audley, whiles our son is in the chase,  
-With draw our powers unto this little hill,  
+Withdraw our powers unto this little hill,  
 And here a season let us breath ourselves.
 
 **AUDLEY**  
@@ -2300,7 +2301,7 @@ And he is laboring for a knighthood, man.
 
 **DERBY**  
 The Prince, my Lord, the Prince! Oh, succor him!  
-He's close incompast with a world of odds!
+He's close encompassed with a world of odds!
 
 **KING EDWARD**  
 Then will he win a world of honor too,  
@@ -2316,7 +2317,7 @@ To lead my soldiers where I may relieve
 Your Grace's son, in danger to be slain.  
 The snares of French, like emmets on a bank,  
 Muster about him; whil'st he, lion-like,  
-Intangled in the net of their assaults,  
+Entangled in the net of their assaults,  
 Franticly wrends, and bites the woven toil;  
 But all in vain, he cannot free himself.
 
@@ -2824,7 +2825,7 @@ His party stronger battled than our whole:
 His son, the braving Duke of Normandy,  
 Hath trimmed the mountain on our right hand up  
 In shining plate, that now the aspiring hill  
-Shews like a silver quarry or an orb,  
+Shows like a silver quarry or an orb,  
 Aloft the which the banners, bannarets,  
 And new replenished pendants cuff the air  
 And beat the winds, that for their gaudiness  
@@ -2969,7 +2970,7 @@ I go.
 How confident their strength and number makes them!--  
 Now, Audley, sound those silver wings of thine,  
 And let those milk white messengers of time  
-Shew thy times learning in this dangerous time.  
+Show thy times learning in this dangerous time.  
 Thyself art bruis'd and bit with many broils,  
 And stratagems forepast with iron pens  
 Are texted in thine honorable face;  
@@ -3597,7 +3598,7 @@ So must my voice be tragical again,
 And I must sing of doleful accidents.
 
 **KING EDWARD**  
-What, have our men the overthrow at Poictiers?  
+What, have our men the overthrow at Poitiers?  
 Or is our son beset with too much odds?
 
 **SALISBURY**  
@@ -3742,7 +3743,7 @@ But did misconster what the prophet told.
 Now, father, this petition Edward makes  
 To thee, whose grace hath been his strongest shield,  
 That, as thy pleasure chose me for the man  
-To be the instrument to shew thy power,  
+To be the instrument to show thy power,  
 So thou wilt grant that many princes more,  
 Bred and brought up within that little Isle,  
 May still be famous for like victories!  

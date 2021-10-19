@@ -100,7 +100,7 @@ And he himself will repossess the place.
 **KING EDWARD**  
 See, how occasion laughs me in the face!  
 No sooner minded to prepare for France,  
-But straight I am invited — nay, with threats,  
+But straight I am invited--nay, with threats,  
 Upon a penalty, enjoined to come.  
 Lorraine, return this answer to thy Lord:  
 I mean to visit him as he requests;  
@@ -169,8 +169,8 @@ But straight, forgetting of his former oath,
 He made invasion on the bordering Towns:  
 Barwick is won, Newcastle spoiled and lost,  
 And now the tyrant hath begirt with siege  
-The Castle of Rocksborough, where enclos'd  
-The Count Salisbury is like to perish.
+The castle of Rocksborough, where enclos'd  
+The Countess Salisbury is like to perish.
 
 **KING EDWARD**  
 That is thy daughter, Warwick, is it not?  
@@ -184,7 +184,7 @@ It is, my Lord.
 Ignoble David! hast thou none to grieve  
 But silly Ladies with thy threatening arms?  
 But I will make you shrink your snaily horns!  
-First, therefore, Audley, this shall be they charge:
+First, therefore, Audley, this shall be thy charge:
 Go levy footmen for our wars in France;  
 And, Ned, take muster of our men at arms.  
 Myself, with forces that I have at hand,  
@@ -339,7 +339,7 @@ Woman, farewell! Although I do not stay
 *Exit Scottish Messenger.*
 
 **COUNTESS**  
-'Tis not for fear, and yet you run away.—  
+'Tis not for fear, and yet you run away.--  
 O happy comfort, welcome to our house!  
 The confident and boisterous boasting Scot,  
 That swore before my walls they would not back  
@@ -408,7 +408,7 @@ And gallop home toward Scotland with their hate.
 
 **KING EDWARD**  
 Least, yielding here, I pine in shameful love,  
-Come, we'll pursue the Scots;—Artois, away!
+Come, we'll pursue the Scots;--Artois, away!
 
 **COUNTESS**  
 A little while, my gracious sovereign, stay,  
@@ -463,7 +463,7 @@ Intreat thyself to stay a while with me.
 
 **KING EDWARD**  
 As wise, as fair; what fond fit can be heard,  
-When wisdom keeps the gate as beauty's guard?—  
+When wisdom keeps the gate as beauty's guard?--  
 It shall attend, while I attend on thee:  
 Come on, my lords; here will I host tonight.
 
@@ -513,7 +513,7 @@ Nor frosty winter but in her disdain.
 I cannot blame the Scots that did besiege her,  
 For she is all the treasure of our land;  
 But call them cowards, that they ran away,  
-Having so rich and fair a cause to stay.—  
+Having so rich and fair a cause to stay.--  
 Art thou there, Lodowick? Give me ink and paper.
 
 **LODOWICK**  
@@ -588,8 +588,8 @@ Of such estate, that hers is as a throne,
 And my estate the footstool where she treads:  
 Then mayst thou judge what her condition is  
 By the proportion of her mightiness.  
-Write on, while I peruse her in my thoughts.—  
-Her voice to music or the nightingale—  
+Write on, while I peruse her in my thoughts.--  
+Her voice to music or the nightingale--  
 To music every summer leaping swain  
 Compares his sunburnt lover when she speaks;  
 And why should I speak of the nightingale?  
@@ -599,13 +599,13 @@ For sin, though sin, would not be so esteemed,
 But, rather, virtue sin, sin virtue deemed.  
 Her hair, far softer than the silk worm's twist,  
 Like to a flattering glass, doth make more fair  
-The yellow Amber: — like a flattering glass  
+The yellow Amber:--like a flattering glass  
 Comes in too soon; for, writing of her eyes,  
 I'll say that like a glass they catch the sun,  
 And thence the hot reflection doth rebound  
 Against the breast, and burns my heart within.  
 Ah, what a world of descant makes my soul  
-Upon this voluntary ground of love!—  
+Upon this voluntary ground of love!--  
 Come, Lodowick, hast thou turned thy ink to gold?  
 If not, write but in letters capital  
 My mistress' name, and it will gild thy paper:  
@@ -631,7 +631,7 @@ Read, let us hear.
 
 **LODOWICK**  
 *\[Reads.]*  
-More fair and chaste than is the queen of shades,—
+More fair and chaste than is the queen of shades,--
 
 **KING EDWARD**  
 That line hath two faults, gross and palpable:  
@@ -650,7 +650,7 @@ Read o'er the line again. /
 
 **LODOWICK**  
 *\[Reads.]*  
-/ More fair and chaste—
+/ More fair and chaste--
 
 **KING EDWARD**  
 I did not bid thee talk of chastity,  
@@ -669,7 +669,7 @@ Let's see what follows that same moonlight line.
 **LODOWICK**  
 *\[Reads.]*  
 More fair and chaste than is the queen of shades,  
-More bold in constance— /
+More bold in constance-- /
 
 **KING EDWARD**  
 / In constance! Than who?
@@ -698,7 +698,7 @@ Give me the pen and paper, I will write.
 
 *Enter Countess.*
 
-But soft, here comes the treasurer of my spirit.—  
+But soft, here comes the treasurer of my spirit.--  
 Lodowick, thou know'st not how to draw a battle;  
 These wings, these flankers, and these squadrons  
 Argue in thee defective discipline:  
@@ -725,7 +725,7 @@ Thy gloomy consort, sollemn melancholy?
 
 **KING EDWARD**  
 Ah, Lady, I am blunt and cannot straw  
-The flowers of solace in a ground of shame:—  
+The flowers of solace in a ground of shame:--  
 Since I came hither, Countess, I am wronged.
 
 **COUNTESS**  
@@ -809,8 +809,8 @@ Didst thou not swear to give me what I would?
 I did, my liege, so what you would I could.
 
 **KING EDWARD**  
-I wish no more of thee than thou mayst give:—  
-Nor beg I do not, but I rather buy—  
+I wish no more of thee than thou mayst give:--  
+Nor beg I do not, but I rather buy--  
 That is, thy love; and for that love of thine  
 In rich exchange I tender to thee mine.
 
@@ -1150,8 +1150,8 @@ Thou liest, she hath not; but I would she had.
 All love and duty to my Lord the King!
 
 **KING EDWARD**  
-*\[Aside.]*
-Well, all but one is none.—What news with you?
+*\[Aside.]*  
+Well, all but one is none.--What news with you?
 
 **AUDLEY**  
 I have, my liege, levied those horse and foot  
@@ -1159,14 +1159,14 @@ According to your charge, and brought them hither.
 
 **KING EDWARD**  
 Then let those foot trudge hence upon those horse  
-According to our discharge, and be gone.—  
+According to our discharge, and be gone.--  
 Derby, I'll look upon the Countess' mind anon.
 
 **DERBY**  
 The Countess' mind, my liege?
 
 **KING EDWARD**  
-I mean the Emperor — leave me alone.
+I mean the Emperor--leave me alone.
 
 **AUDLEY**  
 What is his mind? /
@@ -1212,7 +1212,7 @@ Ah, but, alas, she wins the sun of me,
 For that is she herself, and thence it comes  
 That poets term the wanton warrior blind;  
 But love hath eyes as judgement to his steps,  
-Till too much loved glory dazzles them.—
+Till too much loved glory dazzles them.--
 
 *Enter Lodowick.*
 
@@ -1230,7 +1230,7 @@ Modeled in his, corrects my strayed desire,
 And rates my heart, and chides my thievish eye,  
 Who, being rich enough in seeing her,  
 Yet seeks elsewhere: and basest theft is that  
-Which cannot cloak itself on poverty.—  
+Which cannot cloak itself on poverty.--  
 Now, boy, what news?
 
 **PRINCE EDWARD**  
@@ -1247,7 +1247,7 @@ Who, looking wistely on me, make me blush:
 For faults against themselves give evidence  
 Away, loose silks of wavering vanity!  
 Shall the large limit of fair Britain be  
-By me o'erthrown— /
+By me o'erthrown-- /
 
 *\[To Prince Edward]*  
 / Come, boy, forward, advance!  
@@ -1262,13 +1262,13 @@ Desires access unto your Majesty.
 **KING EDWARD**  
 Why, there it goes! That very smile of hers  
 Hath ransomed captive France, and set the King,  
-The Dauphin, and the peers at liberty.—  
+The Dauphin, and the peers at liberty.--  
 Go, leave me, Ned, and revel with thy friends.
 
 *Exit Prince Edward.*
 
 Thy mother is but black, and thou, like her,  
-Do'st put it in my mind how foul she is—  
+Do'st put it in my mind how foul she is--  
 Go, fetch the Countess hither in thy hand,  
 And let her chase away these winter clouds,  
 For she gives beauty both to heaven and earth.
@@ -1287,7 +1287,7 @@ To speak the more than heavenly word of "yea"
 To my objection in thy beauteous love?
 
 **COUNTESS**  
-My father on his blessing hath commanded—
+My father on his blessing hath commanded--
 
 **KING EDWARD**  
 That thou shalt yield to me?
@@ -1300,12 +1300,12 @@ And that, my dearest love, can be no less
 Than right for right and tender love for love.
 
 **COUNTESS**  
-Then wrong for wrong and endless hate for hate—  
-But — sith I see your majesty so bent,  
+Then wrong for wrong and endless hate for hate--  
+But--sith I see your majesty so bent,  
 That my unwillingness, my husband's love,  
 Your high estate, nor no respect respected  
 Can be my help, but that your mightiness  
-Will overbear and awe these dear regards—  
+Will overbear and awe these dear regards--  
 I bind my discontent to my content,  
 And what I would not I'll compel I will,  
 Provided that yourself remove those lets  
@@ -1368,7 +1368,7 @@ What says my fair love? Is she resolute?
 **COUNTESS**  
 Resolute to be dissolute; and, therefore, this:  
 Keep but thy word, great King, and I am thine.  
-Stand where thou do'st, I'll part a little from thee,  
+Stand where thou dost, I'll part a little from thee,  
 And see how I will yield me to thy hands.
 
 *\[Turning suddenly upon him, and showing two daggers.]*  
@@ -1401,13 +1401,13 @@ Of her, whose ransacked treasury hath task'd
 The vain endeavor of so many pens:  
 Arise, and be my fault thy honor's fame,  
 Which after ages shall enrich thee with.  
-I am awakened from this idle dream.—  
+I am awakened from this idle dream.--  
 Warwick, my son, Derby, Artois, and Audley!  
 Brave warriors all, where are you all this while?
 
 *Enter all.*
 
-Warwick, I make thee Warden of the North:—  
+Warwick, I make thee Warden of the North:--  
 Thou, Prince of Wales, and Audley, straight to sea;  
 Scour to Newhaven; some there stay for me:  
 Myself, Artois, and Derby will through Flanders,  
@@ -1428,7 +1428,7 @@ Normandy, and Philip, and the Duke of Lorraine.*
 **KING JOHN**  
 Here, till our navy of a thousand sail  
 Have made a breakfast to our foe by sea,  
-Let us encamp, to wait their happy speed.—  
+Let us encamp, to wait their happy speed.--  
 Lorraine, what readiness is Edward in?  
 How hast thou heard that he provided is  
 Of martial furniture for this exploit?
@@ -1515,7 +1515,7 @@ They plough the ocean hitherward amain.
 Dare he already crop the Fleur de Luce?  
 I hope, the honey being gathered thence,  
 He, with the spider, afterward approached,  
-Shall suck forth deadly venom from the leaves.—  
+Shall suck forth deadly venom from the leaves.--  
 But where's our navy? How are they prepared  
 To wing themselves against this flight of ravens?
 
@@ -1599,7 +1599,7 @@ Our men may vanquish, and the other fly!
 
 *Enter Mariner.*
 
-My heart misgives:—say, mirror of pale death,  
+My heart misgives:--say, mirror of pale death,  
 To whom belongs the honor of this day?  
 Relate, I pray thee, if thy breath will serve,  
 The sad discourse of this discomfiture.
@@ -1647,7 +1647,7 @@ A bonnier vessel never yet spread sail.
 But all in vain; both sun, the wind and tide,  
 Revolted all unto our foe men's side,  
 That we perforce were fain to give them way,  
-And they are landed.—Thus my tale is done:  
+And they are landed.--Thus my tale is done:  
 We have untimely lost, and they have won.
 
 **KING JOHN**  
@@ -1747,7 +1747,7 @@ Or, luckless, curst, receive eternal shame!
 
 **KING EDWARD**  
 That needs no further question; and I know,  
-His conscience witnesseth, it is my right.—  
+His conscience witnesseth, it is my right.--  
 Therefore, Valois, say, wilt thou yet resign,  
 Before the sickles thrust into the corn,  
 Or that inkindled fury turn to flame?
@@ -1819,13 +1819,13 @@ And rather bind ye them in captive bands.
 Vive le Roy! God save King John of France!
 
 **KING JOHN**  
-Now on this plain of Cressy spread yourselves,—  
+Now on this plain of Cressy spread yourselves,--  
 And, Edward, when thou darest, begin the fight.
 
 *Exeunt King John, Charles, Philip, and Lorrain*
 
 **KING EDWARD**  
-We presently will meet thee, John of France:—  
+We presently will meet thee, John of France:--  
 And, English lords, let us resolve this day,  
 Either to clear us of that scandalous crime,  
 Or be intombed in our innocence.  
@@ -2144,7 +2144,7 @@ Now, if I knew but safely how to pass,
 I would at Calais gladly meet his Grace,  
 Whether I am by letters certified  
 That he intends to have his host removed.  
-It shall be so, this policy will serve:—  
+It shall be so, this policy will serve:--  
 Ho, who's within? Bring Villiers to me.
 
 *Enter Villiers.*
@@ -2182,7 +2182,7 @@ And will unfainedly perform the same.
 *Exit.*
 
 **SALISBURY**  
-Farewell, Villiers.—  
+Farewell, Villiers.--  
 Thus once I mean to try a Frenchman's faith.
 
 *Exit.*
@@ -2400,7 +2400,7 @@ And send this passport first unto the Earl,
 And then I will attend your highness pleasure.
 
 **CHARLES**  
-Do so, Villiers — and Charles, when he hath need,  
+Do so, Villiers--and Charles, when he hath need,  
 Be such his soldiers, howsoever he speed!
 
 *Exit Villiers.*
@@ -2472,7 +2472,7 @@ His party stronger battled than our whole:
 His son, the braving Duke of Normandy,  
 Hath trimmed the mountain on our right hand up  
 In shining plate, that now the aspiring hill  
-shows like a silver quarry or an orb,  
+Shows like a silver quarry or an orb,  
 Aloft the which the banners, bannarets,  
 And new replenished pendants cuff the air  
 And beat the winds, that for their gaudiness  
@@ -2593,7 +2593,7 @@ All full of charity and christian love,
 Commends this book, full fraught with prayers,  
 To thy fair hand and for thy hour of life  
 Intreats thee that thou meditate therein,  
-And arm thy soul for her long journey towards—  
+And arm thy soul for her long journey towards--  
 Thus have I done his bidding, and return.
 
 **PRINCE EDWARD**  
@@ -2601,8 +2601,8 @@ Herald of Philip, greet thy Lord from me:
 All good that he can send, I can receive;  
 But thinkst thou not, the unadvised boy  
 Hath wronged himself in thus far tendering me?  
-Happily he cannot pray without the book—  
-I think him no divine extemporall—,  
+Happily he cannot pray without the book--  
+I think him no divine extemporall--,  
 Then render back this common place of prayer,  
 To do himself good in adversity;  
 Beside he knows not my sins' quality,  
@@ -2617,10 +2617,10 @@ I go.
 *Exit.*
 
 **PRINCE EDWARD**  
-How confident their strength and number makes them!—  
+How confident their strength and number makes them!--  
 Now, Audley, sound those silver wings of thine,  
 And let those milk white messengers of time  
-show thy times learning in this dangerous time.  
+Show thy times learning in this dangerous time.  
 Thyself art bruis'd and bit with many broils,  
 And stratagems forepast with iron pens  
 Are texted in thine honorable face;  
@@ -2715,7 +2715,7 @@ Bloodless and pale, one gazing on another.
 
 **KING JOHN**  
 Aye, now I call to mind the prophecy,  
-But I must give no entrance to a fear.—  
+But I must give no entrance to a fear.--  
 Return, and hearten up these yielding souls:  
 Tell them, the ravens, seeing them in arms,  
 So many fair against a famished few,  
@@ -2834,7 +2834,7 @@ And stepped aside for breath and fresher air.
 Breath, then, and to it again: the amazed French  
 Are quite distract with gazing on the crows;  
 And, were our quivers full of shafts again,  
-Your grace should see a glorious day of this:—  
+Your grace should see a glorious day of this:--  
 O, for more arrows, Lord; that's our want.
 
 **PRINCE EDWARD**  
@@ -2952,8 +2952,8 @@ The never dying honor of this day
 Share wholly, Audley, to thyself, and live.
 
 **AUDLEY**  
-Victorious Prince — that thou art so, behold  
-A Caesar's fame in King's captivity—  
+Victorious Prince--that thou art so, behold  
+A Caesar's fame in King's captivity--  
 If I could hold him death but at a bay,  
 Till I did see my liege thy royal father,  
 My soul should yield this castle of my flesh,  
@@ -3104,9 +3104,9 @@ There twice as many pikes in quadrant wise,
 Here crossbows, and deadly wounding darts:  
 And in the midst, like to a slender point  
 Within the compass of the horizon,  
-As twere a rising bubble in the sea,  
+--As twere a rising bubble in the sea,  
 A hazel wand amidst a wood of pines,  
-Or as a bear fast chained unto a stake—,  
+Or as a bear fast chained unto a stake--,  
 Stood famous Edward, still expecting when  
 Those dogs of France would fasten on his flesh.  
 Anon the death procuring knell begins:  
@@ -3130,7 +3130,7 @@ Had been prevented of this mortal grief!
 
 **KING EDWARD**  
 Comfort thyself, as I do, gentle Queen,  
-With hope of sharp, unheard of, dire revenge.—  
+With hope of sharp, unheard of, dire revenge.--  
 He bids me to provide his funeral,  
 And so I will; but all the peers in France  
 Shall mourners be, and weep out bloody tears,  
@@ -3156,7 +3156,7 @@ In captive bonds; whose diadem he brings
 To crown thee with, and to proclaim thee King.
 
 **KING EDWARD**  
-Away with mourning, Philip, wipe thine eyes;—  
+Away with mourning, Philip, wipe thine eyes;--  
 Sound, trumpets, welcome in Plantagenet!
 
 *Enter Prince Edward, King John, Philip, Artois.*
