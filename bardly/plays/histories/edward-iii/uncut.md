@@ -10,7 +10,7 @@ Artois.*
 **KING EDWARD**  
 Robert of Artois, banished though thou be  
 From France, thy native Country, yet with us  
-Thou shalt retain as great a Seigniorie:  
+Thou shalt retain as great a Seigniory:  
 For we create thee Earl of Richmond here.  
 And now go forwards with our pedigree:  
 Who next succeeded Philip le Bew?
@@ -3210,7 +3210,7 @@ Will choke our foes, though bullets hit them not.
 
 *Exit.*
 
-### SCENE IV. The same. A part of the field of battle.
+### SCENE VI. The same. A part of the field of battle.
 
 *Alarum. Enter Prince Edward and Artois.*
 
