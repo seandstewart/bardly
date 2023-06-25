@@ -25,16 +25,19 @@ theme:
     toggle:
       icon: material/toggle-switch
       name: Switch to light mode
+  features:
+    - search.share
+    - search.highlight
+    - navigation.instant
+    - navigation.tracking
+    - toc.follow
   font:
     text: "IBM Plex Serif"
     code: "IBM Plex Mono"
   icon:
     logo: flaticon/storytelling-black
-  features:
-    - tabs
 plugins:
-  - search:
-      prebuild_index: true
+  - search
   - awesome-pages
   - bardly
 markdown_extensions:
@@ -52,7 +55,8 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons
-  - pymdownx.tabbed
+  - pymdownx.tabbed:
+      alternate_style: true
   - attr_list
 extra:
   social:

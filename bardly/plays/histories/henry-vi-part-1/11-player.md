@@ -209,7 +209,7 @@ The Earl of Salisbury craveth supply,
 And hardly keeps his men from mutiny,  
 Since they, so few, watch such a multitude.
 
-**BISHOP**  
+**BISHOP OF WINCHESTER**  
 Remember, lords, your oaths to Henry sworn,  
 Either to quell the Dauphin utterly,  
 Or bring him in obedience to your yoke.
@@ -322,11 +322,11 @@ Speak, shall I call her in? Believe my words,
 For they are certain and unfallible.
 
 **CHARLES**  
-Go, call her in.
+Go, call her in. /
 
 *Exit BASTARD OF ORLEANS*
 
-But first, to try her skill,  
+/ But first, to try her skill,  
 Reignier, stand thou as Dauphin in my place:  
 Question her proudly; let thy looks be stern:  
 By this means shall we sound what skill she hath.
@@ -536,9 +536,6 @@ For aught I see, this city must be famish'd,
 Or with light skirmishes enfeebled.
 
 *Here they shoot. SALISBURY and GARGRAVE fall*
-
-**SALISBURY**  
-O Lord, have mercy on us, wretched sinners!
 
 **TALBOT**  
 What chance is this that suddenly hath cross'd us?  
