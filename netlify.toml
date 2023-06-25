@@ -1,5 +1,5 @@
 [build]
 publish = "site"
 command = """
-mkdocs build -d site
+pip install -U pip && pip install . && mkdocs build -d site
 """
