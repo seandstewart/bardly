@@ -36,6 +36,5 @@ Temporary Items
 .idea
 
 # Builds
-/site/*
 *.egg-info/
 /dev/site/
